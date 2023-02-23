@@ -1,1 +1,4171 @@
-([[This file was protected with MoonSec V3 by Federal#9999]]):gsub('.+', (function(a) _FYVrdLBh_mye = a; end)); return(function(l,...)local t;local a;local b;local d;local e;local o;local j=24915;local n=0;local r={};while n<170 do n=n+1;while n<0x198 and j%0x141a<0xa0d do n=n+1 j=(j+572)%31733 local f=n+j if(j%0x4118)>0x208c then j=(j+0x60)%0x6b7f while n<0x21a and j%0x24ae<0x1257 do n=n+1 j=(j-856)%11011 local e=n+j if(j%0x47d2)>=0x23e9 then j=(j-0x168)%0x44b4 local j=35950 if not r[j]then r[j]=0x1 a=tonumber;end elseif j%2~=0 then j=(j+0x27c)%0x37ad local j=47747 if not r[j]then r[j]=0x1 t="\4\8\116\111\110\117\109\98\101\114\83\118\116\83\111\88\90\84\0\6\115\116\114\105\110\103\4\99\104\97\114\76\89\111\90\82\89\76\70\0\6\115\116\114\105\110\103\3\115\117\98\65\86\110\122\83\118\114\114\0\6\115\116\114\105\110\103\4\98\121\116\101\87\116\116\74\100\110\103\70\0\5\116\97\98\108\101\6\99\111\110\99\97\116\120\95\114\77\111\103\69\88\0\5\116\97\98\108\101\6\105\110\115\101\114\116\100\82\77\90\109\84\115\81\5";end else j=(j*0x357)%0x3ee6 n=n+1 local j=99285 if not r[j]then r[j]=0x1 o=(not o)and _ENV or o;end end end elseif j%2~=0 then j=(j+0x77)%0x70e while n<0xe4 and j%0x3f4c<0x1fa6 do n=n+1 j=(j-658)%8733 local t=n+j if(j%0x1832)>0xc19 then j=(j-0x35f)%0x8d4e local j=14104 if not r[j]then r[j]=0x1 e=function(r)local j=0x01 local function n(n)j=j+n return r:sub(j-n,j-0x01)end while true do local r=n(0x01)if(r=="\5")then break end local j=d.byte(n(0x01))local j=n(j)if r=="\2"then j=b.SvtSoXZT(j)elseif r=="\3"then j=j~="\0"elseif r=="\6"then o[j]=function(j,n)return l(8,nil,l,n,j)end elseif r=="\4"then j=o[j]elseif r=="\0"then j=o[j][n(d.byte(n(0x01)))];end local n=n(0x08)b[n]=j end end end elseif j%2~=0 then j=(j-0x2be)%0x4ac local j=73685 if not r[j]then r[j]=0x1 d=string;end else j=(j*0xd7)%0xc16e n=n+1 local j=45893 if not r[j]then r[j]=0x1 o=getfenv and getfenv();end end end else j=(j-0x2f1)%0xa483 n=n+1 while n<0x69 and j%0x1140<0x8a0 do n=n+1 j=(j*300)%10094 local o=n+j if(j%0x26a2)<=0x1351 then j=(j+0x224)%0x75bf local j=94911 if not r[j]then r[j]=0x1 end elseif j%2~=0 then j=(j*0xf7)%0x13bb local j=43959 if not r[j]then r[j]=0x1 end else j=(j*0x1e6)%0x3a08 n=n+1 local j=82004 if not r[j]then r[j]=0x1 b={};end end end end end j=(j-281)%31678 end e(t);local n={};for j=0x0,0xff do local r=b.LYoZRYLF(j);n[j]=r;n[r]=j;end local function f(j)return n[j];end local h=(function(l,d)local t,r=0x01,0x10 local n={{},{},{}}local o=-0x01 local j=0x01 local e=l while true do n[0x03][b.AVnzSvrr(d,j,(function()j=t+j return j-0x01 end)())]=(function()o=o+0x01 return o end)()if o==(0x0f)then o=""r=0x000 break end end local o=#d while j<o+0x01 do n[0x02][r]=b.AVnzSvrr(d,j,(function()j=t+j return j-0x01 end)())r=r+0x01 if r%0x02==0x00 then r=0x00 b.dRMZmTsQ(n[0x01],(f((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+e)%0x100)));e=l+e;end end return b.x_rMogEX(n[0x01])end);e(h(200,"xc{^0&Tda7!+J>4-^>"));e(h(75,"*%EN-+pdHy;:s)/J:+d1yE-HJ:;dp%bJp%dpNs/y;%-u/%sHd%NN:+d:-EyE-HpH%qsNHNNHJy;;Np/+;:d/%EsBE;/N,N:;ppE ):y--:)+H:pEJ/)N+%s-dJ;%+dW;:pd,%/d%H/NdJJ;N+)J::-H;NJJN;+-_)/+Er:Ey)Ey;-Ny+:%+/%-)sHyN+JdHE+:/H;)HNb:d;Nd+NJ;:/ps%y))dJ-d/yyJ+/Vs;%+)NN:)dE+p/-sNLHsMs-HHN:S%:%py)J)EH:Nd/yysN<%ps+()sE/;Hy-pxp;DpyJE:%p;%HJ+HNJ%;+yEH+N:s:d/-s/::dd::;dNy---J):Npp%Essd;%+ssd-+EfEsE+HJ/d2E;-/Jr;pp+%NpyH)N:JEyH-JUs:+ps%+sEH:-N)):yKE:y))H:-E/HyJ+s%%;;p%E/)sdU-s/)+EAHEH)JH:-+MQ;E+;%:;%H)NN/;yJ/);-spp)Ey)dH;+h):;:NJE+)Hp:N;JdNyJE%1:yH%E;dsyE-)=+:;dE%-sJyE-s)%yH+y//pE"));local j=(-612+(function()local e,j=0,1;(function(o,n,j,r)r(r(n,r,r,j and j),j(r,o and n,n and j,j),r(j,n,j,n),j(o,o and o,n,o and j))end)(function(d,o,r,n)if e>369 then return o end e=e+1 j=(j*845)%29399 if(j%946)<=473 then j=(j+803)%26460 return n else return d(r(r and d,o,r and r,n),r(o,d,d and d,n),r(o,n and n,o and n,o),n(o,n,d,o))end return r(n(o,r,r,r),r(r,d,n,d),o(n and o,n,n,n),r(r and d,d,n,r))end,function(n,d,o,r)if e>350 then return n end e=e+1 j=(j*104)%9014 if(j%1492)<=746 then j=(j-1001)%20554 return r(r(o,n,r,o),d(o,d,n,n),r(d,d and n,o and n,o),r(n and n,n,o,r))else return n end return d end,function(r,n,d,o)if e>465 then return n end e=e+1 j=(j*931)%31011 if(j%620)<310 then j=(j+338)%2327 return o else return o(d(d and n,o,r,n and r),n(o and o,d,n,o),d(r,d,n,r)and n(o,d,n,r),r(o,o,n,n)and d(n,n,r,r))end return o(o(o,r,o,r and r),d(r,o,r,d and r),n(n,d,r,n),o(n,n,d,r))end,function(n,d,o,r)if e>345 then return d end e=e+1 j=(j-377)%29105 if(j%680)>=340 then return o else return r(r(d,d,r,o),d(r,n,r,n),n(r and r,n and d,n,o and r),o(o,o,n,n))end return d(d(o,d,o,o),n(r,d,r,o),d(n,o,o,r),n(n and d,n,r,n))end)return j;end)())local oj=(getfenv)or(function()return _ENV end);local f=b.kOQibAhT or b._aUMadIp;local t=4;local g=1;local o=2;local e=3;local function rj(u,...)local s=h(j,"94G^<oOq:rxnj{1R4Gxj:Go:G14G{xn>:OnOqnqO<G4rUGxGrnq<<^G1Rq{^xj441OnjrGO:^14<R1H,rOq4<G4:114o;R{onn:4RG{^r1q<<xq<on<<4Ojnn^rOqV^rpr14oGG1R1{<xxj^j:r4O^<j4^:<Or^CcO{jR<1rj4rRq4oGGo&4{&rjo4o^GORR{:^j4n1:n1r<n1xo:1OtYogq{xn^:jRb{WrjqG<:Ooor^1R^{nn1r:O4^4TrqxorGORj{G1j1qjO:RO^<x4nR<{4G14K{xn}:OxRrqOnoG4{Rrj1qrqn<1GqedO<<x4!1Onj1q{nx^:O^^G12O14nOOno^^O4D{rxr:4RGj{r1q<<xq<O{^4,q1O<1GRRx{/xOj:j4:noR<cRx1jnqxoOq<xx1:Oox^#!O^4Rn::O^^<cx1P#<Rn{Ox4q<1<jorKOO^jOOoqG1ROjnnGoronG1gq1Y<<G-R}jOrjj=nqrGo{^J4rqO:^GGR:j1R:1Gnrrr4j^:441xnr<xqq^q4RxGj:xSq^<14o1r{UrqOjR1GnR^{<r1GjGRGqR{{G:{qo<r{j1:rno1qOO^1p{j{4xOq{O_GoDOr^qRooGn;4r1qn<xG(RO4<4O1jn1OnoR<<xO:IoGG:R1GGbn1{nnGjm:{:x1:<x^x^<:o4GoL4o1^n(x1HnORG{<xqqn^OV4{GOO<Q4G1:n1{r{:no:^1jj:r:O1<<ono^Gr*41pnj41RxjxxTqOrj:^Ox^^4G11o,G{Rj{Gx:j4j^rjOo4{G41no:^O <{xnijrjnxoqo<^G:R^j^^O4o1Gn::1nqr{:G<nG4cfxRn^q{1nj*rOOj<G4:11j<rxq0<14jRGj:R4{rn1r<oR^xar1n<1^-Rx{AxOjRnn:jO^^OlnRGrrrnO1<qG&:<O4^IPO{jRO1{{4x:qj<RGR:jqn^:D11< qRR{oxxOo<{G4R^n{n<::oo^aRR14:j:^o<GxV417:rrGO:^jx-q{<jGGR:G4T{{jnj:ROx^rx::1o<GxAyG^c{RxxOr{q:<^4O{r{;r^On<r4{R:jq^O441Gn::1n:xGqoo^G4roO:^R4<1xjJrOOjGG:qG1j<xGqg<O4j^rG{4Gj4nrroOr^4xG:^<1G<Rx4^4o1xjL:{O4<:4^1Rj<rR.G{1x1:<oxq^qo<:G4Rxr4^ogx1enO:jOG^:^GG<njrbqG^j4G1:4GfnjRxo:<^RGqTx1<x{q{oojqrjqG<:41R<jx{<nO<jG{R:j1x<jGj<rxOjGo>{R=jxr^O^^nxj:ro:G1v<Gx4j1q{orqqxo4n<rqOf^Opj<4R11qnxxjq<^GR1Rxjqxn:{<RjarjOj<G4:GRGq=1{rnj:4RG{Gr1q<<x:jOoG{dO1njGrOO^^1w{qjoRG:R1{<Rq14j1qxq4<j4q1xxOrrq<<4Go::Oq^<lx1fRqRDjO:RqqoG41RR{{^{4G1:n1r<Ox<}<<GjjG1RO1<<4xo:^x421Gnno:G^Rr4G{qj^ogoR^q4:1Gjo::q4<oF{RbnqrrO1<x44R?jjojOq<r4{noxRrxOr<GG^/4n^rrq1<nG:aG{qO1OGoo41R1{qnO<^^x4G1oj0:qon<Gbr{1njrno{G4^oRR{{n:<R<G^o=<1xxRrOq^RRRnjo:=r<q^^oxx{1oOGjbG<?GGR:jxx^<CLn14RxnRxn^:<q4RvZjxx{qPorG{Ro{:rR:4oO^GRr{:n<<<<R^4=or{rq:Go4GxJn1rrn:4OO^^431xnRoO<x^{HO1OnRr1GnGGRxj{x:OR<^GxR4jOx<:^<o_r4{1qjoxX^qGx4{1j{Grqq1on1q{Gx{:jooGr4314nxrq<GoO^oRqOj<O4:11j<U4{4n^:4RG{or1q<<xq^o1G{+O1qjoqqo{<G2R1jjOrnR1{1xx:uoOORq4<O4<1{j4:LOqo>4x::Oo^<6x1WRrRn{Xr1qq<nG{rkqg^j4G1:4Q*r{:r^qno1^:m4{4xrj<RHjOrjqG4o41R<jxx4qO<jGG,xjqx<qxoT<qRj{Gx:rD{^Gx0L{O{j:Go:G1GxG1n}:Ooj^:U:{Rn<rjOV^x{R1Gn::1Ox^x441Onj1vOr^14<1nj#rOOj<GqO1Rj<rxqI<O4RRGj:Rjqo<nG_ROjjx:q:OEx^Rx{GxOxooGG:R1R<4j:3o:Gj_<{:j<:<OjO<Uq{RnGxoo1^<KxRGjq:jOO^:^<1<nxr#q:<x4G1{n1n4Ox<z4O1j{1r:qf<<4RR5j:rj:GoO41Rojxn:qO<1GGdx{{x<qjo=<RRj{Gx:r1O_Gx#G{Ox1:GO1G14O%1n4:rojoR.:{1n<rjO^^O481G1o:1O<^xGG1rnjrqO:On4<1xjErOq^<G4x11jrrxqG<OGjgrj:rRq<oxG,R:jjn<qx<1GORxRrxOqjoG<:?j{<xj:wo:Gj4:{:jan:on^^FO44nG::o1<O4A1;nx:jrq^:_11<jjr<OO<44G4{n1r<Ox<eGx1jj<r:q^<<4jRe{OxGqG<r414^jxxGqOo1^OR:{ x<x^o8GORjRGnrq1oOGxBG{OjG:GOxOGho{{n3nkoj^GC:Rbjj:xO<^O^O1Gn::1qO<^4+1nnjnjO:^14<1xjnrOO1<G4{11jOrx:!oR4jR^j:x<q<<jG?U:1rxGqx<1<{Rx{FxOrjorG:wP{<xj:BOjGj4<SjxR:qoxo{_O{jnGrxoR^<711?1^:jOG^:G.R4nxroOOOr4G1:n1r<qO<m4:1jjqr:qg<<Gx84jOr{qGoG41ROjxnG:O<jG<R:Rqx<qxo.<O?:{Gxxq1oOGx4O{On1G:o:^4A<eInf:Ooj<<x1{1n::x:O^OPj1Gjx^<O<^R4//jnjrGO:^1xl1xjGrOq4<G4x11{<d<q.<q4jRrj:xSq<ox:xROjjxGrj<1GoRx{A)<q{o^G:R1{<x{:MoO:xt^{xx1:<ox^ScO1j4j::oR^<^n1Vn::jOGrOKR1OnxrLOO^j4GR:G:r<On<i4r1jj<r:r1:^4xR4jOn4qGO{41 <^<x/qO<j^4R:jRx<qxx1GqR{{Gx:q1oqGx^-4oxj:^o:O:0<gonXnOrn^GQr{11q:xOG^O^jG4n::RO<o{4u1:njxG{G^14<1x{1rOO{<GGxO{j<rnqZq14jRGj:n1rO<xG4ROj{xG:=<1^OxD{dxrqj:4G:R1{<xx{<oqG{sG{nx1:Oox<G4{{jn<::rO^<Ax1K{OrxOG^x*11Onxr:OO<1Gq1:jGr<qo<P4O1jjGxnO1<O4xR<jOr1qGoxGqR<j{xgx1<jGGR:11njqxo^GORR{Gn#q1OO^xVv{nxjn1o:G1)<{xn::OoR^GJ{{1nO:xqG<q8j1On:jOO<^x4;*O{1rGOj^14:1xj:rOq11:4:R<j<jOqm<O4jRG4jrRq:<xGOROj1xG:x<RG<RR{S{1qjoGG:41{Oxx:ooO^4vG13x1rOOD^DY{{jnO::o1^<Hx1xnOr4OG^RA11OnxxGqr^j4:1:ROr<Ox<a^ORqjGr1O1<x4xR:jOx1q1<:GOR<R:xSqO<jGGg<j1xxqxo:GOR1{Gnxr^o<^4huW1xj:Go:<1GO{xnq:OO^^G43{1jO^COw^R2jRjn::1O<^xrj1Oj^rGq4^14O1x1cJ:Oj<x4:1Rj<xqq8OO^1RG{4r1qj<x<qROjjjoq:oqG<Rj{Ax:qjoG:ORR{1xx:MoOG1=G1xG{:<Oo^W^:{jnG::qSn^=x1jnOj<OG^:)1u<{jrfqG^j411:{4r<qj1O4ORxjGj1O1<<4xR&4Or{q1<:GjR<jxx3qO:RGGb^j1x<qxoGGORjx^x::ro<Gnf&{:xjrGjGG1(1{xn1:OOq^G4xo{n<roOSO:fj1Gn:x01^^x4j1OR<rGO:^1^<(jj!xGOj<14: 4j<xj4O<OGxRGRRr1q<<xGk<Oj{x1q:ojG<Rx{sxOnRoG^^R1{<xx:GoOGj{^{:nr:<on^h0:{jjGRGo1^1+x1rnOrqOG^:q^1ojorgOO^j4<1:n1xOOx<j4O1jjGr:O1o<GGRz{4rjrx<:GxR<jxxjqOo:GGR:j1xoqxop^1Rj{Rx:q1o<GxT61Onx:GO<G14R{xn{:OOj^{X:1rn<rOOv<Gdj1G:o:1q ^x4C1OnjrG::np4<Rqjux;Oj<n4:A1^Orxq{<OGrRGj{r1q<x:G4_<jjxGq:<RG<RxG1xq:noGGrR1{<xxrGRjGj4G{:1r:<ox^Y5OnnnGrqo1<<&x14nOrjjj^:4j1<R^rkqo^j4G4RnRx4Ox<G4O11jGn:q1<<G:R-jOrjr*<:^1ZnjxxRqOorGG^^j1n<:ook^<Rj6jx::{o<^)2q{qnx:Go:G1Lo{xnG:OojrO%:{1n<:1O8^OQj1G4j:1O<^x4n1OnjrG::^{4<RrjWxAOjoQ4:)1{orxqR<OGnRGj{r1:O<{GALOjjn1q:<1G<Rx1{xO:{oGG:R1{Oxxn,O^Gj4^{:jG:<r^^(4:onnGrxo1<n_x1QnOxj{<^:G21<jjr Oq^j^Goxn1xOOxoG4O/1jGx:{:<<GnRujqrj:<<:41:QjxxRqOo{GGRxj1xx:4o4^ORj{^x:qRo<Gnw2{O4k:Go:G14^{xn3:OOjrjH:{1n<xxOi<OLj1:nR:Rq<^x4^1On{rGO1^14<<1j2rOOj<G4:11j<rx{<<O4jRG{Gr1q<<xGtoxjjxGq:o^G<Rx{_xO1XoGG:R11Gxx:woOGjOO{:x1:<Oo^tAO{jnG1jo1^<5x1RnO:jOG<:q:1<nxrtqq^jGG1:j<rnOnoD4O11jGrrO1<R4xRiGxrjqG<:41R<jxxSqOnhGGR:j1x1qxoDGORj^Ox:q1o<^%y0{Oxj:GnjG1l<{xnn:Ooj^GI:<Gn<:xOk^r6j1Gn::1j:^x4(1OjxrGO:^14<<1j_rOOjo44:11j<rx{<<O4jRGjxr1q<<xG}oxjjxGq:oxG<Rx{/xO15oGG:R1{{xx:VoOGjOO{:x1:<oR^?0O{jjGRGo1^<dx4<nOrjOG<:q:1<jrr!qR^j4r1:n1OOOx<H4O11jGr:O1<<O:R4jOrjq^<:41R<jxx<qO<jGGkjj1x<qxo}GORj{Gx:q1o{GxSg{O,,Rrn{r^qGG^411jjn^GW{{1n<:x{^xOO{orGO:1Or^x4)1Ok{Bq{4xj::1xj^rOOj<G:Oo^^nrxq<<O4jRG^jRR1qnoG4ROjjxGq:<1G<fG4TxO:GoGG:R1<q41RGnRrxOr{:n^:<ox^(qx^{4<R<j^^<4o1lnO:jxqrr:4<{G:Rqnrn>:no<G^r<O1</4O1j4Gc<jRn{4nR-jOrjqG<:41k<(xx4qO<jGGR:j1x<Ox:RGO7G{Gx:q1rqrjOo^qG.1qo:^^T<{xnp{x{^rqO{<jn<rdO,^O(j<nGO54jrxj:<1qnjrGO:^14<1xjI{OOj<:4:11j<_11rnO:4O4G1r1q:<xG5RO444=1{nnG<(G{XxOqjrorqq4<4mRR<nR:RGR{:x1:<ox:1zq{{nG::o1^< x1KOj:jO<^:i11<nxr3OOx:4^1rn1r<Ox<44OR1<4r:q/<<GjRXjOrjrGnx41Rqjxx4qOo{GGR:R4x<qjo G:Rj{<x:x<{jGxQG{Ono:GorG1Hj{xn<oroj^GE:1qn<:nO8^x{R1Gn::1q^^x441Oj144O:<A4<R^jerOOjOGoo1RjOrxqG<OGjRGj:xOq<<{G=RqjjxGq:OW^ORx{<xO:{oGG:R11Ox1:eonGj6^{:x1:<ox^G#O{1nG:{o1^oIx1f4r:jO<^:U11<nxrQ:Oo14G1xn1rOOx<14O;j^<r:qG<<4nR0{^rj:<jq41RrjxxGqO<jGG4:<yx<qRovGnRj{qx:r1jOGxbO{Ox{:GoRG14Oornv:{oj<oZ:{1n<xx{G^O4^1GnR:1O1^x^Eo:njrrO:<o4<11jArOR:<G4{11jnrxqG<O^jO<j:x<q<<nGi(GjjxGA<<1GORx{OxOq1oG<:q({<x{:/oqGj4^{:{<Njox^^pO2OnG:ro1<:Tx1<:r:jOG^:^:1<nnr,OOrR4G1nn1roOx<54OCj1rrrq4<<4{R_{orjrGor41Rqjxx^qOO-GG4:1:x<q1okGqRj{Rx:q1o1Gx>^{OnZ:GoxG14O1onU:roj^:#:{1n<xxOn^O&R1Gnn:1Oq^x4O1{n{rOO:^14<1nj}rrOj<Gqj11j<rxq4<O4jRGj:n^q<<xGuRqjjxGq:<1::Rx{exOq1oGG:R1{<1::=orGjA<{:xR:<qxoGJO{RnG:xo1^Rux1-R<:jOo^:4U1<nnrdOO:x4^1:n1roOx<X4O1jj^r:O1<<G+RtjOrjqGo/41R<jx1^1onR:Ro{<G}{{{o%GxRj{Gx:Ronor^q<{OnL:Go:G1q:^nG^R4oj^q3:{1n<{1{qrnq4oSnr:1O<^x4T1Onjrxx:<_Gq1xj*rOq1j44:11j<r{q3<O4j4G^xr1q<<xGsROj1xGq:n4G<Rn{ExOqjoGG:41<Oxx:4oOG{?G{{x1:<r:^etO{jn<::oR^<#x<^nO:jOG^rW11<nxn?{:^j4G1:n1r<O1<*^Oo1jGr:O1<<4xR4jOrj{o<:4RR<jjxMqO<jGG1jj1x<qxoZGOR{{Gx1^^o<GxM21^xj:^o:GRN<{1:^:Ooj^G4o{1no:xO<!rlj1Gn:xdO<^n4K1O4RrGO:^14o1xjarO:jn<4:11j<rxqF<x4j4G^xr1q<<xGyROj{xGq:n4G<Rn{zx:qjoGG:414Gxn:soOG{LG{1x1:<x:^45O{jn^::o1^<,x1YnO:jOG^xT11<nxrSO{^j4G1:-GRr{{n<::on^nr:q<<<4xRP4OR{1<x{:jO:{Gx#qO<jGGonj1xoqxo0GORj{Gj:Reo<Gn)T{qxj:<o:^<qq{nn4:OO^^G_r{1n<:xO<Er3j1Gn:roO<^n4,1O4RrGOr^14<1xj6rO:jO<4:1Rj<rnqJ<q4jRG!Or1qo<xGGROj{xGq:rjGoRx{5xqqjoGG:RR{<xx:KoOxw-G{:x1:<OG^7!O{j(O1{{Ox:o{<r^zR4OG^1}11<nxRO{ox1qR<r^GroOx<F4O1jjGx:1{:<4xc-jOrjqG:xqRoq^o,q1:nnrqOO^G1q1rnjroO1tox::<o<Gxh6^uRoRInjr^qj{xn<:Ooj^Go<<qGqR1O,^{tj1Gn:{1jor1q<<RGxRrO:<<4<1xj2Rq{Rnoq{Ol^:rnqN<O4jRGj:r1n::xGNR{jjxGq:n<rOOr^{R:j^r<G:*{{<xx:_r::{Oo<^4oROjrxoq<<zRoRqjxx^qj1cnj:jOG^:<R<qG1Rr{jx44^1:n1r<Ox<=rOG{PGr:q1<<4xRvPrZ:{nn:r4^:GR4^{rn4rDojGR4G11j^GrRj{^x:q1o<Gxh {Orjj4o:^<.<{xn7j1jnr1Oj<^GO:xOq^Obj1G4jR^jxrn:ooG^BrGO{^14<1x4<R1{4xRq{11jqrxq+<OOqoq<4rRq<<xGFROjjxGq:S1G<b<{BxOqjxO:{qO<:1{1RjGrnq<hnx1:xox^_aOGR4qRjxrrr:^1Xnr:jOG^:<R<:41rbOx^j4G1:-xR{{:xo4ORIjGr:O1:r::Oo^^rjqj<:41R<4^811Oj4rO^x^^Wn{nn1GO?:{Gx:q1xqr^O<^n=11^jxq4q^<O4RR:o{^G(:{1n<:xGWnG<j1^n::1O<^x4;1O{l{GO:<G4<1xjT1x{4nx:j11j:rxqP<OOxo^^oU^qo<xGEROjjxGq::jO<Rx{OxOqjoGqjO{<<lj14j:G{)G{:x1:<ox^f<^4jn^::o1^<Qx1*nO:jxG^:4o1<nxrgxjxoq1o<GqwG{4<44O1jjGr:O1<<G1n7jOx^qG<:41<xGRw^1xnnr<Gxj1xnqxodGO^R<44O1jnr:{q<{Ono:Go:G1oq<rGGRxxnx<Oj<^GO:xO<^Omj1GGOR^{jx14URonjrGO::Z:^ojG<Rn{1ro:4O:Gr1x{rn1:4o1j:xzq<<xG2<n4ox^q:<1G<Rx{CxOx04GG:2:{<xx:Mrr:{qP<1ARRqx{rr:_<4nG:1o1^<WxG^G:R4j^xjq^1<jkr=OO^jOG<r^QRr{:n<4OunjGr:O1Or:{4JR^njx1x1:{OG^1j8{rnn:1Oq<u14x4qorrG^4gj{R4rdorOO<o4xROrOGR8<{xni:Ooj{G:Or1n<:1Oy^O)j^qRjRq{4^x4O1OnjrGnRxq:G<1GR;{Oj<q4:11j<1Rn<xR:rG<jrr1q<<xGUROjj1W^:<1^4Rx{QxOjrn^r^O^4:4j14n{r^O^^x4x1rox^nfO{jnGjnj{xGq:<o4r/bjnxqqjoqnxrxOO^j4G^nG^/3jRx^:x<{G<d<{^<o4xRkjOrjqG<:GO^<jxxOqO<jGG^r^4Pq{Rn1rxRj{rx:q1o<q{Or^x441<nrxQz<1Onp:Ooj:<q4<o4jR1x^xoqxoOGxR{{E^x411OnjrGnnx{:rojG^RnnRx^:OO4&O;r{jxx4jRoj:r1q<n::oO{jjxnq:<1G<<{^o4xn{no:nO^<G41:/o{GjvG{:T<1{j{rrO:<:4q::Oo^<5x1HL4R4{nqnq{<:4Rr7Oj^j4G1:^4F:{jxr:<o^jGx<O1<<4x<o;R1:{nnnrG<.Gn4r1oj4rORnjRx<q1o3GORjGOG411nrGx8o{Oxj:Gjjrqq:<O4o:qoj^Gb:{1n<:xx<ROYj1jn::1O<qjq4<rGqRr{xx{:ro:G<rOO{<G4:111Rrxqr<O4jRG4ji^1jn1OjoqG1pq1<<1GRRx{BxO{Hj4r:OZ^o4jj^jor:q4<xx1rGox^akOGR4oRxj{x/qO<rG<R^x:xxORo44RrPq4^j4G1:4GRr1Gn<O{o1G^A:{1xrq1Rpj1rjqG<:qGO^4DuR1:nr:^OjjRx<qxoBGORj{G{jn1o<^^y%{Oxj{On{xOq:4{4RRGjnx<,:1^n<:xO):xqooOG<R^Oo^x4I1OnjrGO:OGo<1xjorOOj<G:<o{^nRR1G<OG1RGj:r1jqx{rGOo^:e1nxxRrO<1^:bR{Rn{rOO^<q4{:/ojGjQG{:R>R^jjr<On<1nG:{o1^<#xGOG:1{jRr{*111nxraOO:R:4o{^NRqjRr^qqox^orrO1<<4xR(jOrjx:::41RjjxxWqOr1:non^OR:{Rj:rxRj{:x:q1o<r1qr<O44R4n1GR%<{xn>:Ooj^GG}r1n<:1O%^Ozj^oG4l:jr^n4C1OnjrGO:^1<GGxjCrrOj<G4:orGr4^q4<O4jRGj:r11jjx1/RO{^xGq:<1q:Or^qI{1:nq:jR1{oxx:!oO<j0G{1x1:<oxq4Ox<=)O1rj_^ox<qr<RGoRn{4jqG^nnr;OO^j4G1:n1j:Gx<44O1jjGr:O1<<RxGRjOx4qG<:41O:^Gvo1^n4GGW^j1x<qxrj:qqo<44{RGx^rjO<^n41:GojG1W<{xl<1qn1xo x{1nR:xOl^O<{oA4nRO{^xjOgooGo7b{j^14{1xj&rOnon!qjoqGqRn1<no:1RGj{r1q<<xO^Oo^:441x<RG<Rx{ZxOqjoGG:R1{<nG:_oOGjoG<qG41{j1rrqo<xnGr1o1^<0xGG4q1Rj{rR:Jo^GRR1jxr;:<<rGj8q{xx4::o4^(Rn1q<<GgRVjOrjnonq:xO^^j{^qOoGGGR:j1R:1rnq:{O:^qx:xmo<Gxv.G<4nxGjqr1q:<^4RR<jRoGOj^RG:1n:erqqRooG4Ro{GrRq<zO^304::roq{o:G<bo1^<G4j11j<rxnOno:xOOq{xbq<<x^GGoj{x<q:oOG<Rx{,xO:noGGnR1{oxx:FoO^16R{:nG:<j{^.JO{jnGxGo1^O}x1<nO:{OG^:4s1<njrZOO^j4:1:{1rnOx<^4O1{jG{RO1O<GqREjrrjqo<:G1R<{j1oqqoFGGoxj1x<qxqzG1Rj{qx:qRo<q4VMROn1:Go{G1,r{x{<:Ooj<<E:14n<:{O*^n2jRG{^:1OO^x^71OnRrGr:oG4<1jjI{jOjqO4:11j1rxq^<O4jRGj:r1:<<{GkR:jj2nq:o4G<Rx{GxOqRoGG:R1{Oxx:+4rGj0O{:x1:<ox^A4O1jnG:no1^xax1<nOnjOj^:441<4nr,qo^jGGRon1rOOxqj4O1RjGn:qx<<4{R5jqrj{4<:G<44jxx^qOOOGGRrj1xoqxo<RrRj{Gx:r:o<GnU71:Gn:GonG141{xnV:Oqjx<i:14n<:{OAq:-j_GGx:1Oq^x4^1ORrrGq:x:4<1jjQxxOj<o4:k1^Orxq^<O4{RG{xr1rxr1GBRrjjj4q:<RG<Br{ixx<RoGG:R1R^xx:4oO^8{o{:x1:<qx^gbq{jnGOxo1^qVx1gnO:jOG^:{n1<n{r>Oq^j4G1:j1R1Ox<G4O<{jGrnO1O<:jR0jrrjq^<::oR<RBG:qO<RGG41j1xoqxnxGOQKxox:q1o<oks.{qxj:OGnG1J<{xRO:Oo{^G4xo{n<:{OyOclj1Gn:x1{O^x4<1On{rGjR^14<4xjFrnOj<q4:11j<r1<^<O4jRGUjr1qo<x^Gqojjxxq:q:G<Rx{XxO{RoG^4R1{<xx:DoO<jq<{:nq:<O^^=4r{jnGn:o1^1(x1xnO:jOG^j141<nxrJx:^j4^1:{!4^Ox<{4OGRjGr:O1O<:jRQ{^rjqR<:qGR<jx1OqqoxGGR1j1x<qxo_<rRj{Rx::%o<Gj F1:Gn:GOOG1<q{xnp:Oqjx<k:1jn<r:Oc:x*j1GR1:Rq^^x4n1OnjrGO:O44<R:jmr:Oj<<4:R<Onrxq{<OoORGjrr1:G<xG<jrjjxGq:::G<Rn{;xx<RoGG:R14Oxx:4oO^1:4{:nn:<no^VwO{jnGj1oR<G!x1qnO:jOG^:^41<jqrBO:^j4<1:1<4jOx<{4OG1jGrrO1no4xR<rrrjqG<:OaR<jnxsqOxRGGVoj1x<qxo>GO4j<<x::no<^q_m1rxj:Gk7G144{xnn:OO^^G?1<On<rGOmOopj1^n:rVO<^11^1OnjrGrq^14o1xjOR1Oj<o4:4:j<rnqk<:4jROrnr1q<<x<xROj{xGq:n4G<R{{5xqqjoGG:41{^xx:^oOGRAGg<x1x<OR^E(r{jno:::{^<4j1GnOr}OG:R=11<nxrkqh^j4q1:jNr<OR<(<ORrjGr{O1O<4xG<jOjjrG<:G^R<^xxc:O<j^<0Rj1xxqx:oGORj{Gj::Go<^.5y{jxjj4o:<uBq{xnq:Ojx^Gw:{1jOrxO(^1&jRRn::1O<<j4<1OjorG{O^14<1x{Gx4Oj<j4:R4j<rxqc<OdORGj1r1q1<xGGRO{jnGq:o^G<oq{pxjqjO<^nR1{xxxnooOGj-GR:jG:<OB^mij{jR4::qX^r3x1qnOrjOG^:A1RO{^rbO1^j<<1:n1r<qjo<4ORojGx:O1<<4xJGOjrjqj<:q1R<jxx0qO{:GGR1j1x1qxoGGOsj^jx::^o<rrst{jxjxGjxG1Hx{xn4:OO1^GG1OOn<r)Oprq*j1^n:r{O<^11^1OnjrGjr^14o1xjYq:Oj<:4:11j<rxq6<O1rRGj1r1qo<xGARO{jjnq:o^G<^n{)xjqjoG<^R1{xxx:4oOGjAGR:nj:<O=^Euj{j{1::q1^r#x1OnOrGOGOqF1ROjGrMO{^jOr1:n1r<Ox<R4OR<jGrrO1<q4xG8{:rjqx<:^1R<1jx=qOxRGGE4j1x<qxoMGO4j<<x::qo<^^z51rxjxGjxG1H{{xnr:Ox:^G4:4^n<rGOy^xKj1nn:xBqj^x4r1OR4rGO:^1^<RnjDrROj<n4:G{j<xjqr<OGORG{:r1q<<x^GR:jjx{q:njG<Rx{pn::{oG^<R1<Gxx:7oO^141{:nn:<O^^U&O{jnG^Oo1^{ x1{nO:1OG<:G^1<jGrVj^^j4n1:n1rjOx<r4O1{jGr:O1O<^+R2jRrjqn<:<xR<1xxxqOooGGZ4j1{^qxOG<GRj{jx:{oo<Gx)}{On<:GO^G1#<{xno:O:jq4c:1rn<xxOfonBj1G4n:1qb^x4f1OnjrG::n(4<ROj,xGOjoo4:21^Orxqj<OG:RG4<r1:<xjG4_4jjxOq:oxG<Gx1:xO:qoGo^R1<GxxrGO1GjU1{:1^:<ox^}GO{{nGr<o1<dNx4RnOr1Oq^:4n1<G:rDOO^jG<1rn1xGOxx14O1jjGxx:G<<GrRDGjrjqG<:^,7jjxn qOnxGGR:j1x<r^oN^GRj1Gx::Vo<^xl:{Onq:GjqG14-{xjG::oj^1_:4^n<:xOKoO4:1Gj<:1qm^x<R1Oj1xrO:<n4<Rxj(rOOjo<G:11{Grx{1<O4jRG{x<<q<orG=ojjjxGq:O!jxRx1QxO1xoGG:R1{<^O:*OGGj4G{:n.:<Oxrx-O1qnG1oo1<i#x18<G:jOn^:4r1<njrYOOoo4^RGn1roOx<C4ONjj{r:q:<<G<RdRGrjrG<n41R1jxxxqOqnGGzx1xx<:ooFq4Rj{Gx:q1OjGxVj{Oxj:GO^G1^<{jn_rGojoG?:^in<rjO{^O4r1G{R:1O<^x^io:njrRO:<n4<Grj8x:4G<GGO11GxrxqE<OG1r:j:x{q<n7G/ROjjxG4O<1^4Rx{RxOq1oG^:4O{<nO:.j4GjZR{:{1:oox^jtO<jnGr:o1<OGq1hj^:jrq^:M11<{xrOOO<r4GRon1{^OxoG^G1j{Ur:{<<<4xRQ{:rRqGoq41OGjxxyqOo1j:R:{1x<1 oYGORj1<j,q1OoGxO1{Oxj:Go:<rl<1qnZrqoj^<(:11nR:xOj^Oqn1Gjo:1qO<44KR^njjqO:^14<2x{GrOqr<GGo11w^rx:G<{4j%Pj:x1q<<xGta:{RxG:q<1:rRx{mxO:1RRG:_1{<4::moOGj4<{xx1roox:rwO{jnG::O:^<4q1Hjq:jO<^:41RqnxrjOOrr4GRon1xOqq<0G^1j{jr:O1<<^xGtjqxrqGoo41O:jxjv::<jGRR:{nx<{Gop^O4^{Gn<q1j:Gx_{{On1:1o:^nT<4{nV:OojoG4r{1j4:xO{^OS11Gjxr1O<<:4.4qnjrGO:o1:O1xjRrOO{<GoR111<zjq!oo4j>4j:x1q<<xoRRq{jxGqr<1G<RxRln<qjOGG:Z1{<{O:5qOG{PG1:x1r<oxr{MORjnr::O1^<4x1)bo:jOGob31Ronxr5OO^j4Gl:{nr<qn<yGq1j{or::1<q4x74jOx{qG:^41R<1{xz:O<jG<R:{#x<rxjGGO.{{Gxrq1rnGxGP<:xjr^o:^RF<R1n}:O1:^G4o{1jo:xOG^O4j<jn:rxO<or4+R^njjGxq^1Gt1x4xrOn4<G4:Oqj<xqqy<O4jRGj:n1q1<xG{RO{rxG:n<1<<Y<{gn^qjoRG:<R{<nx:xoO^:&G11x1r4oxO&_r{jn1::oR^<O^1K1OxqOG<<J1^Gnx{oOO^j4n1:j:r<qO<34O1jjGrxO1<j4xR-jOr{qGoxr{R<{^xpxr<jGGR:11n^qnorGOdo{G1qq1OO^{uF1-xjR7o:G1(<1jjr:OOq^GGO{1n<:xOB<j-j1nn:rrO<^x401OjqrGO1^14<1xjGrOOjxo4:Roj<rnq?<O4j4Gnnr1qn<xGqROR:xGr:o1G<L4{,x{qj:4G:4>1Rxx::oO:^lG{:x1:<O^^eWR{jn<::OG^<^x14nOroOGo:L1G{nxr_:4^j4j1:n1r<Ox<8^O11jGxGO1<14xm^jOnj1<<:G:R<{<xE:4<j^GG{j1x{qxo<GO;O{Gnx:qo<^<&5unxj:Go:<1G&{xnx:OOO^G<q{1jOrGOM<4#joen::1O<<j4R1Oj:rG:r^14<1x{Gr:Oj<R4:ojj<rxq)o:^)RG{Or1q{<xG0ROjj:jq:o:G<u:{0x:qjOG<_R1{{xx1RoO^O}G1xjO:<O<^!^n{jnG::q1^x5x1xnOrOOGqq-1RO{orBq4^jGG1:n1r<qj<n4OR:jGj1O1<<4x*G{nrjqR<:G1R<jxx3::RGGG!Oj11jqxoWGORj:Cx:::o<^:Pz{:xjrGorG1S{{xV{:OOO^Ga:1jn<r<O2^q/j1Gn:x1Or^x4x1OjOrGr<^1^<11j>xPOj<j4:4{j<xjq{<OGqRG4Rr1q<<xG%sqjjx1q:<1G<R1{b{OnnoG^<R1R<xxxooOGjOo{:nn:<ox^LMO{j{GRxo1<4dx1{nOrROGo::w1<jqr!q^^j4{1:j1ROOn<j4OR!jGxoO1q<^^Ri{Grjr{<::jR<{jx<qOorGGG{j1x<qxq}^1Rj{Rx::no<OrL&1:j::GOOG14<{xn#:OO1<jc:1{n<R:Ol^OCjR<j{:1q<^xq11OnjrGqxoo4oRnjYn<Oj<G4:111=rxq{<OG{RGjxr1:<o4GEIGjjRRq:onG<Rx{1xO:OoG^<R1{Oxx:mOoGjh{{:xR:<ox^QGOjRnGr^o1^RWxBjnOxjq:^:4r1<jorIro^jG<e<n1xgOxrq4O1jjGr:qO<<GqR(jOrjqO<:<1(Rjxx{qOOjGG4{j1x<:qo2^<Rj{Gx:q1o<<x4{{Onx:GOOG14q{x{7R:oj<Bk:1jn<roOF<OO11^jo:1O:^x411O1jroO:<n4<4ojHh<Ojo<G111{Grxxo<O4jRG1:x1q<o:GvS<jj14q:OF^<Rx{RxO1xoGG:R11Oj<:tOOGjGs{:x1:<Oj^rDO1{nGr:o1^<PxRGj{:{q<^:qj1<nxrtOOor4GROn1xOOx<G4ORj{Or:qn<<qqRN{<rjqGoo41RRjxx{qO<1GGR:1qx<:OoWGqRj{Gx:r1<qGxgj{On::G:<G1G<RGnUrGoj^1C:F{n<rjOx^O4r1G,R:1O<^x4LR<njx0O:^14<11jWjOq<<GGO111<rx{r<O4j6oj:x{q<<nG;ROjjjG::<1^^Rx{RxOx:oG<:wG{<nr:3OoGjOR{:j1rxox^R/O1nnGx o1^<LR1#jO:jOG^:b11<{xxGOO<j4GR:n1xqOxO*G41j{Gr:q1<<GoRT{:n4qGor41OojxxeqOOj^xR:{Rx<:noN^%Rj1<<1q1OOGxo1{Oxj:GOxG1V<1{nW1<oj^Gw:Rgn::xq<^OOx1Gn::1O<<<4=RqnjxOO:^14<1x{^rOqn<G4:11jOrx:vo44j8Cj:xGq<orG*f:1<xG:q<1orRx{;xOrjo<G:7{{<nr:_roGj4<1xxRr<oxr1&O{jnGrxO1^<4n1uRg:jOG^:G51{nxxGOOxx4G1:n1xOq:<FGr1jRjr:O1<<4xRnjOxnqGon41ROjxnV:n<j^(R:^{x<:roL^:Dq{Gnqq1:rGxtz{Ojj11o:^{%<1rnFjooj<<G^{1j<:xqX^Obj1Gjxx4O<<n4k<GnjrGO:oA4j1x{GrOqj<G4:11{Or1qMor4j<1j:r1q<<x^jRO{nxG:n<1GORx1FnOqjOMG:on{<nr:UoO:R/G1qx1:oox^hUORjxo::O{^<4r1M1G:j:G<jV1R^nxrROOOn4GRxj1r<qx<VO{1jjGr:O1<14xa4jOrjqG<j41G<{<xW:q<j<GR:{Rx<qxO^GO71{Gxrq1o<GxG){xxjr<o:<5?<eOn_xOO+^G4x{1jO:xj{^OGj1{n:xwO<<j4)R1njrG:^^1Gq1xj_rOOj<G^:Roj<x{qYor4j_oj:n1:q<x^^RO{RxG:^<1^O4G{dnxqjj^G:R1{<jxrxoO<7dG1jx1:1ox<Gxj{jjq::qj^<&x1Ij::jOG<1d1MGnxr?OO<14O1:{or<::<T4O1jjGr1O1o:4xdqjOrjqG<:^<R<{jxFqO<jG<R:{1njqxO4GOEb{Gnxq1OO^qW;1:xjnqo:G1#<Rxn^:OO1^G4x{1R^:xqG<:&{Ron:RjO<^x4cR:{orGqj^1G<1xj}rOq1<o4:0^j<K:q8<O4jP<{rr1:x<x^aROjjxGq:oOG<dj{5njqjo<G:Y1{jxxr4oOrn}G1xx1rOoR^S4:{j1q::o1^<Gx<jnOr1OG<xw1G^nxxG:%^jGo1:j1r<Ox<=G:RnjGxjO1or4xRwjOx1qR<:^^R<{xx)qO<j^<R{j1nxqxOoGORj{Gx::qo<^jp_1jxj:<o:^14^{xj4:Onr^G4x{1jO,rOB<:hj4on::1O<ox441qj1rGqx^1o^1x{Gn^Ojoo4:ojj<rxqmo:GoRG{jr1rG<xG.ROjjn:q:ODG<,1{&xOqjoG^jR11^xx:doOGjXG{:nj:<O:^b_O{jn^::q?n^)x1RnOnROG^:z1P<nnr4qo^jG41:R{r<qjoG4ORjjG,OO1<<4xYGjrrj:^<:^jR<jxxvqOOoGGiqj1noqxoDGORj1^x::xo<Gx,L{Oxj:Gq4G1E{{xn):Oo{^G4xo{n<r<O&Ortj1Gn:x1q^^n4x1OjOrGxq^1GOR^jcx4OjnL4:11j<xj::<OG:RG1Or1q<<xG_a{jjxjq:oxG<Rx{KxOr:oGGRR1{<xx:GoOGjOo{:nO:<on^lfO{j{Gqno1^j,x1:nOn:OGo:4^1<jGrwO1^j<41:{wxxOx<r4O<^jGr:O1<<^<RJ{5rjqq<:G^R<Rxx{qOoOGG4:j11.qxoe^xRj{{x:q1o<GxM3ROjo:GO^G1CR{xj^:Oqjx<B:1rn<roO_oGijRG1{:1O1^x4<1OjqrGqxoG4<Roj+jnOj<G4:%1{orxqn<OGqRGdqr1:OOqG-VGjj4Pq:<1G<2j{GxO:roGrOR1{<xxrGo:Gj4t{:4j:<ox^ 4:1nnGrqo1^{ux1/nO:j<j^:4r1<jrrJO:^jGGR{n1r1OxxR4ORqjGxx:q<<GoRyRnrjqG<:^1T^jxxnqOoqGG^qj1nOqjoZ^GRj<dx:q1o<^jHn{Onr:GqrG1z<{xjG:Roj<=K:11n<:xOI<:<j1Gjq:1xj^x4_1Onjr<O:<r4<Rrjkr:OjoG^411j1rxj{<OGqRGR:n^q<o<GQRnjjjOq:<1GqRx{nxOq{oGG:R1R<r{:TO4GjW{{:{x:<qx<qWO1qnGr^o1O^5xRGj1:jO1^:Oo1<nxr-OO<x4GRon1r<Ox<<4O4jj<r:qn<<^xR>1nrjqGo^41_Gjxx!qO<jGG4:1xx<::ow^<Rj1ox:r1jOGxZ1{Onx:Gq<G14<^jn4r^oj^Om:1jn<nxO1^O4r1G1^:1{G^xGG1qnjxFO:q^4<1xjhnOqj<GGO11{GrxxR<OG1)qj:x{q<oxGCROjjn<:j<1^<Rx^1xOqjoG^x34{<nn:pj<GjeG{:j,rnon<G.ORxnG::o1^<4j1sj<:jq<^:4 1<jxrxOO<r4G<on1xGOx<*^^1jj{r:qn<<4jRLjOr{qGo<41RojxxPqOOj4oR:{xx<:OoEoGRjRGxRq1OIGxzj{O{n:GOx^n)<1qnl{{oj^GM:{1jj:xO1^O*j1Gn{:1r<<n4FR<njnGO:O^4<1xjorOqn<G4:11j<rxr-o:4jY4j:x{q<o{Gg4O^1xG:q<1^^Rx1jxO:jn<Gr8j{<x1:,OoGj^G1rx1rGoxongO<xnGrxqx^<4r161n:jOG^:G11jnxrROO<n4GGqn1xOqG<sGO1j{Gr:O1<<Gj6ojOx{qGO141R<jxnG:{<j^<R:^jx<qxoE^:4<{Gnnq1jGGxJ6{Oxj:Oo:^{6<1{n5::oj<G_r{1jG:xjR^O4n1GjxrjO<<r4B4nnjrGO:o14j1xjRrOqn<Goq11{Oxxq/oO4jOcj:r1q<oj^qRO{{xGrO<1G<Rx1G<jqjO<G:v1{<xx:}O:<^f^1nx1RGox^wYO{jn1::O{^<4{1Ln::jqG<n*1RGnx1{OO<n4G1:jrr<qO<HG<1jj<r:O1o:4xR{jOr{qG<:414<n{xU:^<jGRR:Rxx<rxorGOYr{Gnoq1:^Gx4G1RxjrHo::o#<{xn}:OoR^G4q{1n<:xOq^O^jR:n:r{O<ox4}^jnjrGq<^1G<1xjIrOOj<G^:RRj<xxq0oO4jvoj:n11O<x^QRO{jxG:^<1^<oj{4noqjoOG:Q1{<{x:GoO^n.Gk^x1RGox<G-1{jjG::r^^<*x1V{OrqOG<:k1R<nxjROO<1G11:jRr<qx<F4O1j{<rnO1oO4xo1jOrjqGox^<R<{{xb1<<jGGR:1T<xqxO<GOOx{Gx:q1o<j:Tb1OxjrOo:^!X<1xnG:OOn^Gqq{1j<:xr2oG-jR4n:jqO<qR4bR:{OrGq:^1<r1xj rO:jor4:R1j<xxqs:o4j%<{^r1:o<x:1ROjjxG:xO<G<0j{!j<qjoGG:4p4Oxnr^oO^jWG{:x1rOOx^&4x{jGZ::o1^<?xRonOrjOG<jy11OnxxKOn^jG41:4nr<qx<Z<OS4jGxqO1<r4x4<jOrjq:<:GnR<{rx5q:<jGGM1j1nGqxo4GORj{Gj:q4o<^:cs1<xjx1o:<14<{xn1:OOx^G^q{1jOr4O_<owj^rn::1O<^x4n1OjjrGO:^14r1xRIx:OjoG4:01j<n^qA<OGoRG{rr1qo<xG-RO1jx{q:oRG<-n{y{GqjqGGjR11oxxr4oOrrYGR:n1:<On^e4q{jjx::o1^j8xRGnO:jOG^:N1#<j}r3q:^jG<1:{4r<:xox4OR1jGxxO1OH4xPG{jrj:o<::RR<jxx_rOoFGGQnj1nqqxoxGOC1q:x:rGo<q{!({Oxjr<R1G14r{x7^:Ooj^G4x:<n<xdO#:r7j1Gn::1R1^xG^1O{GrGO:^14<Roj3xqOj<G4:R?j<xxqG<OGjRGjjr1:o<xo=RjjjnGq:qrG<O:{mn::1oG^rR1Vrxx:EoO<j4{{:nR:<On^v<o{jj<xGo1<Oyx<1nO:jOG<x<G1oj{r+:<^j4G1:{*xoOxo<4OoxjGr:O1oOG<R;{nrjro<:41R<jxxoqOo{GGB{j1xOqxO*<GRj1Gx:1{o<^neS1:nn:GOrG1^r{xn?:Oqj<<s:1Rn<rnOMqo#jR<(::1qO^xGg1OnjrGqx<^4<R{jPj^Oj<G4:68{:rx:<<O:xRGj:r1:OO<GctnjjjOq:<1G<Rx1:xO:{oG^{R1{Oxxr.qGGj4G{:Cn:<On^wdORonGrOo1<<Qx1GnO:jjG^r4{1<nnr?OO^j^GRNn1x^Ox<R4O4:jGn:qn<<GrR&{orjx4<:^)W1jxnSqOrrGGR:j1x<q1o?^qRj{Gx::qo<ox4x{On{:Gq:G1Ex{x1fxDoj<^!:1xn<jROfOOV11Gjr:1{<^xGL1O1j{4O:<R4<4oj3V<OjqG^:11{orxq1<OO4RG{xxjq<ojGfGnjjxGq:O1^^Rx1GxO:1oGOqR11On::5OrGjq2{:x1:<Oj^4JORbnGxOo1^<vxRGnx:jqq^:qj1<nxrwq:<)4GR1n1x4Ox<H4O1jxjr::B<<^+R5j:rj:G<n41JojxIRqOo1GGNx{jx<:jo3onRj{Gx:r1onGx4G{On1:GrqG14OROnIrroj<GP:{1n<rjOn^OGg1G1o:1O<^xGG 4njxqO:<14<1xjwx::<<GG111djrxqp<O4jt:j:nHq<OdGCR:jjnG:4<1^oRxG{xO:1oG^x4q{<nj:h:nGjPG{:j1rGox<GkO11nGjqo1<O4q1Qjr:j{D^:a11<jjr:OOoU4GoOn1r<OxoGRq1j{qr:{j<<4xRB{:xoqGo141OGjxxSqO<j^RR:18x<r!o3G:Rj1Gn:q1OoGxG1{On1:G::GRm<1nnS{nojo,s:{1jj:xqG^O?{1Gn::1:<xj4)R:njx<O:Ox4<Nx^GrOq1<GGx11R^rx:G1j4j*oj:1Gq<<xG&ROGxx^:j<1G<Rx{GxO:1^RG:4^{<j<:-oOGjGG11x1rrox<o_O&onGx:q:^<4R1ijn:jjx^:41Rxnxx<OOOo4GR{n1xO:^<fGn1jRor:O1<<^x5jjOn4qGo{41^^jxnGq{<j^:R:^jx<qxoF^:G4{GnRq1qGGx ={Oxj:<o:<^-<R4n;::oj<G4o{1j::xOq^OG41Gn:r4O<<j48RxnjrGO:^1Gr1x{4rOOj<G4r11j<GOqNoo4j_^j:xvq<<x:^RO{jxGqr<1G<RxRcxoqjOGG:d1{<{O:iqO^?6G1:x1r<oxoR&O11jj::OR^<oo18nO:jOG<x.1ROnxr?OO<<4G4:nRr<qj<U^O1jG1r:r1O<4x-GjOWjqGo:41tO{^x :r<joqR:j1x<rxOxGOUR{Gnnq1r^Gx4G1GxjrOo:^1s<{xn_r:Oq^G4{{11x:xOQ^O41R1n:x<O<x:4_1Onjx<:^^1Gn1xG1rOOj<G4:{:j<x{qbo{4jR<j:x1r%<x^GRO^nxG:n<1^O4^{Tnrqj:qG:R1{<jxrGoO^RkG1nx1j^ox<Gzn{jjO::jj^<fx1*j:rxOG<{N1!onxrlOO<1Gr1:{<r<{:<+4O1j{<^1O1on4x44jOrjqG<:xxR<{{x.:{<jG<R:{1ROqnOGGOor{Gnnq1OO^4B_1rxjrjo:G1Z<Rxn<:OOR^G4n{1G::x:,^rUjRon:x4O<q:4VROj^rGqx^1::1x{^rOrjo^4:.)j<nrq r%4jRG{xr1:q<xG%ROjjxGr:j5G<_{{QnrqjOoG:41<Oxxr^oO^RXGGrx1r<j<^T4:{jj:::q4^<^x4RnOr1OG^r01^<nxrQnO^{GG1:{Sr<Ox<e4Oo:j^xGO1<<4xR4jOx1R4<:GrR<R{xNqO<j<GRrjRxRqxonGO^n{Gnx:no<^O)L<<xj:Go:<F41{xn{:Oqx^G*:{1n<xGO5<4=j1Rn::1O<^x4j1Oj<rGO:^14<1xjIxGOj<q4:11j<rnqu<Ox:RGjnr1qr<xGGRO{jwjq:ovG<o4{?xrqjo:GRRR{qxx:<oOG{,G{xx1:<n1^KpO{jn<::o1^<BxRonO:jOG^xK11<nxrOO{^{4O1:n1r<On<24:1jjGx{O1<<4xRGjOrjqG<::GR<jxx0q:<jGGR:{Xx{qnooGO#4{Gx:q1O<r<H_{:xjR<o:^^D<{jnr:qO4^G01{1n<:xqmxP>j1<n:xoO<^R4Z1jj^r^O{^14q1xj4rOq4<G4:U^j<rxqB<O4jRGj:r1{:<xGvROj1xGq:<1G<o1{ZxOqjo^G:R1{<xxrooOGjCG{rx1:<ox^g4n{jnG::O4^<=x1knjr^O^^1511nnxr4OO^R4G1:{^r<Ox<64r1jjGr:O1or4xRWjOx(qG<:41R<G1xUqO<jGqR:j1x<:xnxGOR1{G1:q1oxGxVO{{x{::o:^*T<{nn3::oj^GOj{1n<:xOG^O8j1Gn:x^O<^x4l1nnjrGO:o1:O1xjqrOO{<Gqq11jxl{q4<{4jq4jxrRq<<xG,RxrRxGq:<1x^Rj{4xO:}GoG:R1{<Gx:GoqGjGG<xx1:nox^G;ORQnGr:j:^<.j1pjx:jOr^:t1<qnxrqOO^R4G1:n1n<{j<,4{1jjrr:xO<<4x<1jqx<qG<:41R<jxx>41<jGrR:{Fx<:GoKGOoR{GxRq1ooGxF}{OjjR<o:^o_<14nNnGojoGqx{1nn:xOq^O<^1G{:T O<<G4w1:nj1rO:o1:O1xjrrOO1<GOR111<ajqf<R4jRnj:jcq<ojjORO{OxG{j<1G<Rx{UInqjorG:,:{<xn:AqOr1/G{Rx1:OoxOjYORjG<::OO^<*j1;y{:j:Gxx,11jnxr:OOq:4GR:G:r<q4<sO{1jjxr::1nO4xRqjOr1qGrR41R<G{xsq1<jG:R:j1x<:xnxGO?^{G{:q1ojGxVH^rxj:ro:^oN<{xn,xOj1^GVR{1nn:xqn^OGjY<n:roO<<44w*1njr:OR^R4{1xj4rOO{<G4x11j<R1qs<O4jR<j:r1q<<x^oROjjxG:I<1G<Rx{HRGq{orG:)q{<xn:}qO^1SG{Rx1:OoxOj,ORjn^::Oo^<441UT{:j:G^x>11nnxrqOOoq4G%:jnr<q4<>4{1j1xr:q<<n4nRrjOxoqG<r41Rqjxx_:n<jGGR:{qx<qxoPGOOT{Gx:q1oOGx2&{Oxj1Oo:G1t<1!ng:Ooj^GO{{1nn:xOr^O {1Gn1roOo<44&11njr^O:<n4<1x{orOOj<G4r11j<rxqAon4jRGj:r1q<<xGhRO^dxGq:<1GORx{ixOqjOqG:R1{<xR:loOGjyG^jx1:<ox^O?O{jnG::q^^<3x1TnR:jOG^:_1RrnxruOO<<4G1:n1r<qR<Y4O1jjrr:O1<<4xiojOrjqG<j41R<jxx :n<jGGR:{:x<qxoWGO44{Gx:q1oqGx+}{Oxj1Oo:G1=<{{n#:Ooj^GOj{1n<:xO<^OKj1Gj:R:O<^j4M<rnjrrO:^11O1xjGrOO1<G4:11j<1:q4<O4jR^j:r1q<<jGxROjjxGqr<1G<Rx{3xnqjoGG:O1^qLn1jjG^^vG{:x1rO{r^_uq{jn^::o1^<4w1qnq:1OG^:B11onxr^OO^jGq1:n1r<Ox<u4O1jjGRjO1<<4xRKjOrjqG<:^^R<jxxMqq<jGGR:j11Gqxo4GOR1{Gxrq1o<q:=4{Oxj:^o:G1*<{nn4:Ooj^GG<{1n<:xOL^x-j1Gn:{^{GxRq{1OjGrGO:^1O:orGqR{{:xq4:Roj<rxqzrO:ooo^^F^1On{G?R1jjxGq:x4:ro{<<QR1nj(rnR1{:xx:_oOqGO1^r4o:<O<^QPO{j#oR{j+:qOR<^GxRo{4xOE11jnxrzOOx1qq<rGGRx{^xjqn1jjrr:O1<<Ojo4GRYx{<nqroR<{4xAqO<jO{o{<q1q1rn<:nRj{rx:q1o<q{Oj^R431qjxx4h<{1n*:Oojq1q4o4G::xOO^Ocj1GInRxj{r1qoo:njrqO:^14<GjGr7<{Dno4x11{4rxq_<Oq#O4GRao13xRqGoq^o43{xn{rnRx{4xOqjoGORR1{1xx:5oOqOooGqRjj:nRr^qo<_4q::O^^<#x1yRjR:j^rR:41<n1rzOO^jo<o4GjR:Ox<^4O1jjG1n{^n:4xRojOrjqG:n:{OH^r4GqOoBGGR:j1R:{nnGrrRj{:x:q1o<qxOr^r4q1qjxG1e:{xn8:Oxxr^qo<^n<:1Op^Ouj^O^4R1jr^x4<1OnjrG{Ox^:jo1jUrqOj<G4:<8j<rnq&<O4j^<Oor1q<<xGzorjjxGq:<1G<Rx{HjOr1oGG:R1{<xxr4oO^1:4{:nD:<O4^DYO{jnG1no1^q=x14nO:jOG^:^R1<njrVOr^j4G1:n1{qOx<74O1jjGrxO1<xjRRtjOrjqn<:4RR<jnxsqx4RGGR:j1x{qxo4GO(Kxox:q1o<jOEE{qxjr<{qG1ao{xjx:Ooj^GS:<4n<:jOC^:Tj1Gn:x1{O^x4G1On1rGq1^14<4xjvrrOj<o4:11j<r1<^<O4jRGOGr1qo<x^Gqojjx:q:O:G<Rx{&jO11oGGRR1{rxx:<oOGj^G{:nO:<OG^BKO{jnOono1^<Fxq:nO:{OG<x:{1<jor%:Y^j4G1:{1_OOx<j4OROjGx^O1<<<xRX{^rjqR<:41R<j1q^qO<jGG:1j1xoqxqcr:Rj1Gx::{o<GRL={jO4:GO:G141{xn4:Oo{^G6jn4n<:xOTohBj1^n:x1{O^xG+1OjnrG:3^1^<ojjyxqOj<G4:v=j<rxO<<OG{RG{rr1:<<x<Oq1jjn^q:O{G<Rn{pn<qjoORnR1{<xxrRoOG{bG{j:4:<ox^;^G{jn^::q1xO?xR4nOrnOGo4X1cx<Gr&qq^j^:1:nRr<Oj<t4xnRjGr:O1Ox4xR4jOx14:<:GRR<{1xgqO<jG:OnjRnoqxqOGOR{{Gx:q1o:R{(L{Oxjx:o:GRJ<{1:^:Ooj^GGR{1no:xqG{j?jR^n:rwO<^x4a1OnwrGqr^1G^1x{4rOOj::4r&;j<xrq/<O4j4G^xr1:q<xGeRO{1xGq:<GG<D{{lnrqjOGG:R1^rxxr4oO^RcG{rx1x<jj^F4q{jj4::qq^<^s^<nOr{OGO:k11onxx^OO<m1o1:n1r<rx<d4q1jjOOnO1<<4xG:jOr{qGO:<?R<{nxV:o<j^OR:1dG^qxO^GOR{{Gx:q1q<rjTa1rxjroo:^qD<RxGG:Oqy^GE:{1j4:xOMGx&jROn:xGO<<x4>1OnTrGqn^1Gq1x{<rOOjxq4:RRj<x{qC<q4jROrnr1q<<xnOROj{xGr:j?G<Qn{KnoqjOnG:G<G:xxr4oOO:0G{rx1raox^<{r{jnG::rx^<cn1znxoROG^:>1Gonxr4OOoj^<1:jRr<qr<FGx1j1G,xO1oq4xR5jOxOqG<:4GR<{{xc:r<j^GR:j1krqxO4GOdR{Gxrq1o:R{ 3{Oxj4:o:GRW<RxGG:OO{^G4q{1j{:x:On1TjR^n:1WO<^n4.R{njrO^n^14<1x4GrOO{<G^:OLj<xnqQ<O4jRoj:r1O:<x^4RO{{xG::<1<<4j{Dn:qjO4G:4G{<jxxjoO<J6G1rx1rroxohux{jjO::qG^<Go1.{Ox<OG<{-1RonxxoOOojGn1:{^r<qR<WGO1j1GxOO1ox4x 4jOn4qGO:G4R<13xb:j<j^1R:j1nxqxOGGO4G{Gxrq1q<<jU)1:xjr4o:^{/<RxGG:Oq(^G4r{1nj:xOFrn jR<n:xGO<^n4*1x:RrGO:^1xx1xj4rO:jn<4:RRj<xrq6oR4j4:4jr1:o<xqOROj{xGq1<1G:j{{vxOqjx:G:RR{<x1o^oOGjuGO1x1:oox<G:o{jj^::q:^<Nx1k{OR1OG<xw1R^nxrnOO^j<G1:{4r<q{<74O1jjOOnO1<<4x:<jOr{qGO:raR<1uxQ:n<jGqR:{<orqxOOGOox{Gxrq1ooGxs<xrxj:Go::jb<{nnJxOj1^G41{1jr:xq:^OGjo<n:xoO<^x4PR:njrGoj^1Gn1x{qrO:G<G^1<Gj<n4qynO4jR^j:xjq<<1R^ROjjxG1:<1GoRxRv4:qjOrG:4^{<j^:/qj:;>G1Rx11xox^46O{1nG:j^4^<ix1b4j:jO^^:4Gnqnxr6OOxO4G1rn1xO4u<;G{1j{Or:O1<<G2O^jqn^qGnG41Rojxx,qOo!RoR:j1x<1<oTGqRj{Oqnq1o<GxOn{Ox{:GOx{<i<R4nl::oj^G=:{1x::xqq^OG41GjR:1O<:Y44R1njxqO:^14<Kx^GrO:o<G4:11{Orxq-^x4junj:nqq<OkG*RO^4xG:R<1^{Rx{4xOrjj<G:4o{<nR:zORGjG:Gjx1rnoxx<,O{{nGrno1^:{{1ynO:j{O^:=R1<n1O^OO^j4GO<n1roOxO&^:1j{rr::^<<G1RI{:4nqGO441RojxxeqOOjr<R:1qx<r^oXGRRjRG4xq1O1GxP-{Onr:Go:GGz<R<nPx0oj<:=:{1x::xqr^OGo1G{G:1O<rR4ZR{njxnO:^R4<11r^rOOj<Gxj11jorxr#n:4j_rj:n^q<O^GM4jo<xG:R<1x:Rx{4xO::oGGj{4{<xx:s{xGj0^{:j1xOox<q_OR4nGrjo1o<qj1pjR:jOG^:4:1<nx:<OOoo4Gt4n1xxOx<cqn1j{rr::q<<4nR_jxORqG<:41::jxx4qOOjr<R:1ox<:Ro ^RRjR:^iq1OnGxr<{Ox{:GORG1Y:x{n}:OojjO2:{Rn<xx{G^OG^1Gn::1Oq^x4A{xnjxrO:oo4<;tj#nO:1<G^C11{rrx:<<O^j41j:n:q<O4G;}njjjGqx<1^1Rx1xxOrqoG<:4n{<jo:zO{Gj4q{:j1xDox<nDORqnGr:o1o<4^15{G:jqr^:G^1<{xrrOOo:4Gc<n1nJOx<84:1j{xr::x<<4nRE1On1qGO.41urjxxRqOOjr<R:1:x<r4obG1Rj{Gk{q1OjGx4x{Ox{:Go1rOK<1nn/1ioj^^_:1ln<:1^^^Ouj1G4G:1Oo^x4O<1njr{O:o<4<1njtr:Oj<O1n11j<rx:O<O4{RGj1)Oq<o(G &:jjx^q:osG<R1x^xOqjoG^xR1{oxx:On1GjV^{:nj:<on^_I:{jnOono1^<dx11nO:{OG^:oj1onxrcOq^j4G1:n1r<Ox<b4OR8jGr:O1<<GpRCjOrjjOnq:oon^O2oqOo^GGR:j1R:1rnq:{O:^qQjq1oqGxt_{ORq1q{4G1,n{xnQ:Oxqrq:4G4G^11jo<qVj1Gn:r<4r^x441OjjrGOr^14o1xj<OrOj<G4:R1j<rnq5OO:1RGjxr1q<<xG<ROjj}oq:o4G<Rx{#xOqjqGrxR1{qxx:^oOGR(G{1jn:<oj^(4O{jn^::O4^<h1n^nO:jOG<:Q11onxrkjr^j4<1:nRr<Ox<E4jx4jGrxO1o<4xR4jOr{qG<jR4R<jxxe:O<jG^R:j1#qqxoGGORj{Gx:q1q<!1Lt{:xj:<o:GR7<{xn4:OOz^G%:{1n<:x:d<Gmj1On:rGO<^j4A1O{orGOj^14:1xj5rOOjon4:R/j<r1q8<q4jRG4OrRq<<xG4ROjjxGqx<1G<Rx{DnnqjoGG:RR{<xx:7oOGj<G^:11:oox^uFO{jnG::rjq<Lx1onO:jOG:{oG<{GqjGOO<^4G1:n11:{rxqq{o:GqRjO1<:4xRWjO1:{nnnrGR<{4x5qO<jqoO4^Gyr{jn4r:Rj1:x:q1o<OjO4^r4q1rjxr{qr<:4<{xj1r^qOo4G<1n{Grnqx<o^4:1Oj^x4h1O%1I4{jrR::o^GR&<Oj<O4:11j<1{{rj#:4RGjnr1q<<x:1on<^xGqj<1G<Rx<<7q1Rn{GrR1{<xx:;oOxj<:4:x1::ox^IEO<x4qcf{G^o=x1knO:jOG^:11G^nxroOO^j4GG1^TRo{qxo4ORGjGr:O1:O:RO<^xcn1B<r41R<jxxLqO<jOOn:j1x{qxo>GO<o<7bj1qnq:nq<<o41:^o:G1T<{xnS:Ooj^G%:1^n<:xOAxrqj<^GRRjOo^x4h1OnjrGO:G1o^^xj(rOOj<Gqn11jorxqc<O4jRG1:4!q<<nGCRqjjx:q:o1:1Rx{4xO:BoGG:R11OGr:*oqGj/{{:x1:<qxxGmO{{nG:ro1<:,x1On{:{O<^:B11<nnr;O:^j4G<jn1r<Ox<34O1jjGr::^<<4xRvjOrjqG<:41^Gjxx4qO<1GGRrj1x<{{ouGqRj{^x:q1o<GxO^{Ox1:Go:G1g<{x{/R:oj^</:1.n<rdO&oOq11Gnx:1OO^x4R1Oj1^:O:<44<R:j.rOOj<GqO1Rj:rxq_<O4{RG{x4{q<<RGtRrjjxGq:O1rORx{oxO:4oG^GR11Oo!:PojGj4o{:x1:<O5x^Fq{jnGrRo1^ocx1BnOr_^o^:C11<{4r Oq^jG<:1n1rnOx<44O1jjGr1G^<<G4R_{1rjq^<:4RR<j1q^qO<jGG4Hj1xoqxOGjjRj{rx::wo<Gx?k1:oG:GO)G14r{xn!:OO1RjT:1qn<rnOY^OIj1Gjx:1Or^x4r1On1rGq:<{4<11jgrROj<q4:11jjrxq4<OG!RGjrr1q<obGCRqjjx^q:<1G<Rx1uxOq1oGG:R1{<xxx%OrGj(<{:nH:<OZ^XGO<1nG:xo1^OPx1RnOxj{<^:4(1<njrsq:^jG<:1n1rqOx<14O1jjGr:jj<o41R.jOrjq^<:G<xrjxxpqOq^GGRrj1xoqxo<RrRj{Gx:xoo<Gn0u{xqR:Go:G1GR{xn4:OO1{:Z:1^n<rOOz^OIj1:Gn:ROr^x^n1On{rGO:^14:n{jNrOOjO{4:1Rj<r1<^<O4jRGR<r1qo<x^Grjjjxqq:O4G<Rx{gnO1OoGGjR1{jxx:ooOGjOq{:xR:<o1^3;q{jj<iqo1^o/x1{nO:jOG^:q41<njr5OO^j4G1:{1KOOx<G4O11jGr1O1O<:jRDj:rjq<<:G^R<jx{,qO<RGGRnj1x<qxo<RrRj{Gx:jno<Gnp={OvR:Go1G1Io{xnA:Oqjx<m:1on<:ROm<o=j*GGx:1On^x4q1OjjrGqx1<4<RGj&x<Oj<G4:11GGrnqr<O4jRGjrr1qxn{G4ROjj1Lq:<RG<Rx{txx<RoGG:R14Gxx:4oO^1x:{:n::<O{^80O{jn:^{o1^1Lx4RnO:{OG^r511::{rfOO^jo41:nRr<qj1O4OROjGx{O1<<4xyH^krjqn<:GoR<{<xBqOn4GGR1j1x{qxo4GORj^ox::<o<Gntw{OxjxGjxG1,n{xno:OOn^G4x:<n<rGO%<<0j1Gn::1jG^n4r1OnjrGOr^14xo{j4rOOj:j4:1Rj<rxq_<x1RRGj:r1n1<xG4RO{1<:q:o:G<m{{UxOqjo:{{R1{1xxjnoOG{vG{rx1::G{^_aO{jR{::oR^<4j:OnOrOOG<{;11<nxxV{Y^j4n1:jor<q<<C4Oo4jGr1O1<{4xR4jOxG{x<:4RR<R1xUqq<jG<R:{Gqqqxo/GO^v{Gxrq1o<q:/4{Oxj:^o:G1Z<{nn4:Ooj^G4a{1n<:xO?^nJj1Gn:{<{Ornq{<nn{rGO:^14<1xj;qOxn<G4R11j<rxjOxR:RonGxFx{r<nGyROjjxGq:<1G<Rx{3xxqjoGG:qo^o4^R<oO^GIG{:x1jOjrxGOx<4G<::OG^<ex1JGx1{{ox^*11nnxr,OO:Rqn<jG^ROjnnGG:1jjGr::vj^4xRsjOx^qG<:414<^jx6qO<jGGR:{^x<qxn^GOR{{Gx:q1o<Gx?O<rx{:^o:^qm<{nnM:Ooj^O{n{1n<:xOr^OA{1Gjx^<O<^n4V1xnjrGO:<<:q1nj4rOqo<G4r11j<rxq<4r4jRGj:xqq<<nG RxrRxGq:<1G1Rx{4xO:1R:G:RR{<xj:moOGjJG4Ox1:<ox^G7O{{nG::j4^<lx1ynq:jOG^:G1oOnxrTOO^j4GRFn1n<{j<=4O1jjGr:OR<<^xOGjOrjqG<:41RxjxxD{r<jG^R:j1x<qxoY^OOO{Gx:q1oqGx/4{Oxj{?orG1A<{nnb:Ooj^GQ:{1n<:x:x^ODj1Gn:x{O<^x4 lnGRnGroo1o=oNGR}<1vOGqno{^/(r1G:^<^4q^njonGORr^^GRnc:1qnjr:^:{Xx{qjoGG:ob^o4^11n:rnqr{:n1:<ox^m<:^{4oR^joxOqrooG<R#xoxqqxo^Gjj^OO<G4G1:n1Rx{rnG:^<{^OrnOR<<41R8jOrjn1n4r4O:jxxoqO<jGG<j<owr{Rn1GORR{Gx:q1ro:1O<{On4:Go:G1<q<r4jRoj1^G?{{1n<:xxOxGO{<rGn:1O:^x4t1OZxR^{ox^4<R:j>rOOj:rq{OGp:RR1^xr:4OUGjRR1Gn1r^RO{GxGq:<1rqO1<G+R1xnrGrR1{<xx:EoOGj_G4:x1::ox^UXO<x4qJ8{G^<471hnO:jnox<qq<:4R?GOO<^4G1:n1Rx{jxR:^^1#r{xO1<:4xRBjO1G{1xr:oR<jjxyqO<jqq<4j1xrqxoQGO<j<4441jj:GxPO{Oxj:Grn:RqG^{4oRGoj^q!:{1n<{1j:rnqr<qn:rOO<^x4;^xGn{:{qn8:4<n^<rOq<<G4:112q_r1^n^:4OO^4g4q<o-GKROjj1o1qnxr^Oj6^xO:GoGG:R14op{1^nnrxqO{:nG:<ox^#ox^{4<RnoR^<Px1vnO:jOGG:<{1onxr7OO^j4G1:Sq{<Ox<:4O1jjG1n{^xq:1or^o x1o<:G^R<jxxEjxnorOO<^^x<qRopGORj4:4x{Rj4:Rek1&xj:Go::4qr^jt^1nnRxOq4<{GG:xO<^Okj1GdjR^{jx14/1rnjrGO:r4:r<jj_rjOj<G4:^O^^!O{<xn:1RGj{r1q<<xr<oR<w*1{{<1GxRx{YxO{Mj4r:O+^o4j:No{GjAG{:R{RxnRxGqG^{Gn::OG^< x1uRjRoj1x<J11qnxr}OOq1q^oxn1r:Ox<I4O<l^n*:{^4<4xR}jOrj{o<:4RR<jxxCqO<j<GOxj1xoqxo4GO4G{Gn:1:o<GndMR5xj:Go:G1Oq{xn4:Oo{^G?:{1{<RjO0^qXj1^n:x1O<ox:G1On{rGOr^1^x1x1!P:Oj<^4:1Rj<nrqIo:rnRGjxr1:4<xG3RO1j4<q:ouG<Rj{MxxqjO<j1R1{qxx:4oOGjZG{:44:<o1^!/:{jnG::q1xOkx1<nOr OGo{L1+<GjrZOx^j4O1:{xr<Oxx^4OR4jGrnO1<<4x4Z^:rjqq<:G^R<{{xPrOn1GGR{j1xrqxorGO4j<<x::^o<GRy&1{xj:Gr1GR!x{xn8:Ooj^GT:U4n<:ROK^:_j1<n::1jq^x4O1On1rGO:^1^<ojj}rjOj<:4:4^j<nx1G<OGGRGj1r1:G<xGc:Gjjx<q:o<G<Rj{*nO1OoGGrR1ROxx:GoO^1n<{:xR:<Or^I.O{jnGroo1^OFx14nO:jOGo:G:1<njr+O:^jG{1:n1r1Ox<^4O1RjGr:O1<:G{R jOrj^R<:4RR<{j4RqOoGGG?qj1x<qxqUr:Rj{rx::^o<<:t.{O{j:GOkG1?j{xnJ:OO*boE:{1n<ooO_^qNjR<^q:1OR^x4R1OnjrG::nI4<ROjMxeOj<:4:11R<rxq{<OGrRGj:r1q:4{GdROjjOnq:<RG<4x<GxO:joG^qR11Oxx:O2nGj4G{:{q:<on^&Hq{jnOono1^<gx rnO:{OGo::#1<jxrlqo^j4{1:{1sOOxo44OR4jGxGO1<<;1R+{qrj:^<:G1R<ReR<qOo{GGGrj1xoqxooGO)(xox:q1o<ony&{qxjxGjxG14o{xnR:Oo1^GG1^Gn<rnOhOqUj1^n:r^O<^11^1OnjrGrr^14o1xj<OrOj<G4:<<j<rnq0<O<jRG{rr1:o<xG+RO{1O:q:OsG<Ir{BxOqjqG^GR11qxx:RoO<jfGR:jo:<O{^E4r{jn1::o1^rfxR^nO:1OG<j=11:n1r_OO^j<11:nRr<:xnG4O0^jGx1O1<R4x4O<1rj:r<:oxR<jnx!r{<jGOjnj1x<qx:jGOR{{Gx:j<oo^n(h1jxj:Go:^G{q{xnl:Orx^Glr{1nxRGOA<:Yj4rn::RO<^j4u1x:RrGO:^1<n1xj4rOqGno4rRRj<R2qK<q4jRGj:xG<q<xG ROGGxGqr<1G<o{{(n:qjoOG:R1{<jxRGoO^1fG1xx1:noxo=q:{jj<::q,^<GG1UnO:AOG<xN1ROnxx4OO<G:o1r{7r<n^<k4q1jjGr:qG4q4xRZjO1oqG<r414<1jxI:r<j^<R:1^x<qx:1GOhR{Gxxq1ooGxU.)Oxjr<o:<&v<{xnK:OnR^G4n{1nq:xOt^OGjo<n:x4O<<{4;RrnjnG{x^1Gq1x{^rOqo<G^:Oyj<x{qpor4jRxj:r1nx<n^<ROjjxGq:<1^Ox{{pnnqjOnG:R1{<jxrooO<4HG1{x1roox<G4o{jj:::qn^<yx1Kj:r1OG<R#1X4nxrlOO<1Gr1:{Or<:q<N4O1jjGx^O1or4xX:jOrjqG<:G<R<{{xkqO<jG<R:{1>1qxO4GORR{Gnnq1q<rj2.1qxjr4o:o:2<XM/<:OO{^GOG{1no:xq/^O4Dnon::1O<r<4+1qnjrO^n^14<1x^GrOO{<G^:OLj<xnqQoo4j4Gj:n1xj<x^4RO{{xGrj<1<<fS{%nqqjO^G:f1{<jxr^oO^{mG1rx1x{oxo(4{{jj^::OR^<^G18nOrrOG<xC11qnxr-OOojGn1:{Jr<qj<=Gr1j1Gn<O1oO4xZGjOxoqGO:^nR<{jx7::<j<oR:j1nrqxO^GORj{Gx:q1OO{{a(1xxjrno:G1><Rxn::OqN^G4j{1jo:xqG<R6jRqn:xnO<^x4_R:n1rGq1^1^41xjKrOq1o:4:;oj<nqqg<O4jRGjxr1::<x^qROjjxGq:o<G<sj{YxOqjo<G: 1^1xxr4oOGR/G1xx1x<jj^u4q{jj4::q1^<GxoGnOr{OG<rX1_:nxnz{:^jG^1:jRr<qx<W^Oo1jGxrO1oo4xm<jOxj{j<:GRR<j{xNqO<jGOjnj1x<qx4rGOR{{Gj:R&o<^ndH1oxjxjo:o<:j{xj4:OGo^G?r{1{o:xO<Vrgj1Gn:oqO<^n4QR:^nrGqr^1G^1xjSrO:jn<4: vj<xrqQ<j4jRGR:r1:q<x^^ROjjxGqjG4G<Rx{uO{qjo^G:41<OxxrOoO<4cG1xx1:x.R^z4j{jGR::oR^<*n1_nxoROG^:e1O4nxr4OOoj:<1:{<r<qR<LG41j1G*xO1on4xRojOxOqG<:4GR<14x;:{<j^:R:R<GjqxOqGOq1{Gxrq1orGxW<xrxj:Go:n2a<{nnc:xGR^Gf:{1^x:xO4^OGjo<n:xoO<<R4F1:njn:nj^1Gn1x<OrOO{<G4{11j:O{qC<O4jq:j:rRq<<1R^ROjjxGG<<1GoRx{Y{OqjOrG:4o{<xx:#O:RGHGRtx1r^ox^U#ORjjs::qq^<4R12{O:j:G<{f1R{nxxrOO<:4G1:j<r<:^<l4:1j{jr:qGo{4xR2jOG{qG<r414<^jx/r^<j^1R:{rx<xI{:GO4r{G^rq1ooGxGq{On>ooo:G1 <Onn}:qoj^G<1{Rjn:xqj^O*j1GnjO4O<^x4dqrnjr^O:<<qj1x{:rOR:<G4r11jOrxq<4r4jRGj:Gxq<<nGCRj:4xG:R<1nxRx{4xOq{oGGj{4{<xx:_1jGj)^{:nGoqox^!=O::nG:ro1^<O{1lj1:jOO^:*11<{xIGOOo<4G_mn1rnOxOg::1j{xr::O<<^GRgjOrWqGOQ41NjjxnqqOoGroRr1Ox<4ro?GqRj{Gx::GGqGxt6{O<n:GorG1G<Rjn&rRoj<xg:R^n<:xr1^OGo1Gnx:1Oo^x4M4OnjxxO:oO4<1xjErOjR<G^411jqrxqV<O^jO<j:nqq<O^GaXrjjjG1x<1^{Rx1rxO:ooG<:qV{<j^:8ORGjNx{:x1jxon<xEO{jnG::o1<On{13{4:jqn^:E11<{xr1OOoq4Ge^n1xoOxoG4j1j{1r::n<<4xRW{:xGqGOo4144jxx6qOo1^1R:1jx<rqoAGORj{Gnjq1ORGx41{Oxj:Go:^4M<R^n(:Ooj^<M:1141:xqq^O7R1G{4:1:<xj4vR{njxqO:O:4<4g4<rO:^<Gj:11jorx:;<OGljoj:r1q<RxG}RqjjxO<n<1G<RxrqxOq{oG<:q+{<j4:0OnGjGG{:j1njox<q&OR^nGxjo1o<4n1Xj{:jqr^:411<{xxOOOo^4GRRn1n{OxOeGR1j{rr::o<<<GR?jOxRqGO&41Rqjxx>qOOj^1R:1Ox<rGow^rRjRGn4q1OjGx4:{Ono:Gq:<<X<RGnDr1ojooh:{1{4:xqr^Opj1Gn::1qO1{4JepnjxnO:^14<exjOrO:O<G^G11{orx:GoG4jp{j:nnq<<xG6B:1^xGr<<1<4Rx{,xO:1orG:4n{<jq:toOGj)G{rx1r1ox<{vO{jnG::qO^<GG1&nO:jO<^:41<1nxxqOO^R4G;#n1n<{j<TG{1j{qr::1<<^xOGjOn^qGoR414:jxj 1:<j^rR:1ox<:xoY<OO1{GnRq1OnGx4<{Onj1jo:<o0<{{n_:Ooj^:ql{1jo:x{r^O!{1Gnx:1O:J{4Z1Onj_nO:^R4<RUG:rOqq<G^{11jorxqG<OGDjoj:r1q<ORGNRqjjx:1g<1GxRxR4xOq{oGGxR1{:q{:PoOGjG^{:xR:<O0r:%O{{nGxoo1^oIx1GnOrb^o^:L11<{qrdOq^j4G^OnRr<Ox<44O1jjGrrO1<<4xRSjqrjqG<:41Rrjxx*qOnj:oor^x4k:4o5GORj1<Gqq1ooGx#4{Oxj:Go1^oKo{jn>:Ooj^^X:14n<:xqo^Oij1Gn::1O<^x4Y<xnjrGO:^14<1xj=rO:4<G4:11jorxqy<O4j^/j:rRq<<jGbRqjjxGjO<RG<Rx{4xOqjoGGrRR{<xx:>OxGjVG{:x1::ox^X=OGG411rjo^<2R1YnO:jxoxqqxo^Gjr0Ox^j4G1:PzR{{:x<4ORVjGr:O1r:qnoG^rrjqO<:41R<414r1On4GGZbj1x<qxx^:noR<O441{jGr{TI{nxj:Go::<Oo<OGo1noj^Oe:{1n<{:j4x^q41GnR:1O<^xO6<R4RR{j{n_:q1xjOrOOj<GOnoxG{R1{on:4jROj:r1q<n::oO1<ExGq1<1G<RxGUXR{Rn{:{q){<n4:woOGjoo<<4q1:nRxGqr{jnj::o1^<o{oo4:{Rjqrn:G<{GrR1OO<44G1:n1{x{Ox4q{oRjGx4O1<<4xOq^:ko1Ox{:<o{^O,oqOo4GGR:j11O1^n1:xOR{GnGq1o<Gx<xGrRn{&r{rjOq<r4<1noj^rN:{1n<{jj4rRqx<<Gq/oO<^14*1Onj{1{4n4::OYjErOOj<GqO1Rj<rxqA<OGERGj:Rjqo<nG-ROjjxGq:o1:1Rx{-xO:noGGrR1{<H::4oqGjvG{:x1:<OxrxtO{jnGrro1^oXx1c4<:{O^^:611<nxrdqOxO4G1:n1x4Ox<44O1jG8rrOR<<4xRFjOrj:GnG41R<jxxrqO<{GGFx:Ex<qnoH^4Rj{Gx:q1O{Gx8G{Oxj:Go:G1G<R^nU::oj^<L:1Gn<:xO:^OwR1Gnn:1O<^x4<RGnjrGO:xx4<1njDx:1n<G4111jRrxqE<O^jO<j:xoq<<RGBiojjxGx:<1GjRx{:xOqjoGGj{4{<xx:KOxGj)^{:j1ROox^nTO{jnGrqo1^<nG1Bj4:jOn^:4:1<j6R:OO<G4GRxn1roOx<G4ORcror:O1<<GjRXjqrj:<jq41RxjxxnqO<jGG4:<wx<:4o5GnRj{:x:q1:<Gx*:{On<:Go:G15:x{np:OojrjI:{Rn<rj{R^O4q1Gj^:1O<^x^Ho:njr1O:<:4<R1j#rOrj<GGo11{4rxq+<OG#joj:r1q<nGGhRqjjjG1x<1^<Rx{RxOq{oGG1q4{onx:7q:GjW^{:x1:<o1v^!O{jnGxxo1^oJx1<:r:jOG^:^41<nnrC:Ox14GR:n1x^Ox<:4OJj^<r:qR<<GrRhjnrjr:rj41AojxjqqO<{GGRnj1x:<{ovGORjRrx:qRo<G1{^{Oxj:G:<G1mo{x{cR:oj<^=:{1n<rnOioOq11Gjx:1q^^x4^1O{j!<O:oM4<Rjjvr1Oj<GjM11{orx:}<OG1RGjjq4q<<xGUo1jjx^q:O1rORx14xO:noGG{R1RxR1:DOqGj^G{:xR:<O<^0TxxRnG::o1O<ix14nOr3^o^:B11<11rKOq^j^Goxn1xoOx<k4ORrjGn:16<<GjRJ{orjqr<:41rjjxn4qOojGGJxj1x:<{o?GORj^xx:qRo<<xqG{On{:GOqG1ir{x{O{xoj<^v:4On<:nOv<Gdj1O:n:1O<^x<:1On{rGOj444<1xj({OOj<^4:+1^Orx:4<O4jRG{4r1q<RrGa&:jjxGq:otG<4x{RxO:RoG^qR1{Oxxr(O?Gj4<{:ns:<O{^?GOROnGrno1<^MxR^nOrjO1^:G31<j{r_qr^j4G1xn1xoOxoY4OR1jGrj<4<<4xR%G1rjq^<:^1OOjxn4qOonGGR{j1jxpGok^qRj^xx:qRo<^:_Y{xqR:Go:G1Oj{xn4:OO1n4V:1Rn<roO7^O,jiGGx:1qO^x4R1O{_rGO:O14<R{j=xrOj<G4:RGrqrxqt<O:GRGjrr1r<njGaujjjnqq:<RG<6/<^xqrGoGq^R1{oxx:XoO^y{o{:x1:<xo^L)q{jnOono1^<IxGjnO:{OGo::*1<{SrWqn^j4x1:{1eOOxoq4Oc4jGr{O1OxxGR+{{rjjO<:4RR<j{xfqx4RGGR:j1R:qxo4GO4j<<x:roo<GxtT1qxjxGjxG14j{xjo:OoR^GG:ozn<xGOX<1Cj1xn::1%j^xGq1O{GrG:s^14:n{jvrOOjx:4:1Rj<nx1G<O^^RG{{r1qr<x<Oq1jjnrq:xrG<Rn{zn-qjoORnR1{<xx{noOG{?GR:GN:<q4^daO{jnR::q1xOXxR:nOx4OG^R511<OGrYq{^jG:1:{Or<O14^4O1jjGR1O1<o4x4C^:rj:r<:^^R<jRx)rjxCGGBRj1P^qxo4GO8:{Gxjo4o<GxHJ^oxj:^o:^G{q{xn3:OjG^G;r{1{<RjO-<{Aj1Gn:rqO<^xnR1O{<rGO:^14O1x1(xqOjon4:?^j<rjqeoO^<RG1*r1qO<x^rRO1jxoq:OqG</R{(nrqjOG^^R11jxxr^oO<o?G{:n<:<q4^Q4j{jjx::O<rjkxR4nO{^OG^rI11Onxr<^r^j4G1:Jor<On<-4jo<jGx^O1OG4xR4jOr1qG<jR4R<jxx_r<<jG^R:{<IjqxoOGO4O{Gxrq1oOGx!<xrxj:Go:<:E<{nn(:jj<^GFr{1jG:xO4^Ou11GnjO4O<^x4fR<njr^O:oJr^1xj4rOqj<G4:11j<R{q.<:4jR^j:r1q<<x:^ROjRxGqx<1G<RxRUj:qjooG:P4{<nj:woOqGS^{{x1:<ox^CvO{j+G:rO4^<wR1ZnO:jOGO/W11onxr?OO^{4G1:LjroOx<t4q1jjGr:O1<<4xRAjOrRqG<:41R<jRx&qO<jO:OxGR44{RoUG{Rj{Gx:{Gj^r4Oq<G441Oo:^oI<{xn*{jjoxoq4<CGh1RO<^Ouj1Gj:R:O<^x4a1:njr^O:o1:O1xjGrOOj<G4r11{<+<q,<:4jRoj:rRq<<xO1RqjjxGqr<1G<Rx{GxOqjoGG:RR{<xx:0oOGRcG{:x1jRnRxrt:{jnG::O1r1_x1UnO:{OG^r/11<Z:r4OO^j4^1:n1r<Oj<64O1jjGx^O1<<4xR_jnrjqG<::xO^<4do1:<jG:R:j1x<1{j<r:Oo<Z&Rq1oRGxki{O1RR4jOrjOr^{G<1RjnxQqn1Xn<r4Oe^O=jGoGqRj{GrRq^oxnjrRO:^14<<4Gr_<{Un4:R<;Go;^{1x::nOrj:x<q<<xGZ^r^n(11qj2oqRx{xxOqjoGOjOq<q8{1Rj<rxOq^nGG:<ON^b-O{jGOM4j1rrqr<OnOr^OG^:s1oO4nRr{<r1:4oRn1r{Ox<p4O^<GqRr1vn:qjooGq4Xrn<:41R<jxC^qO<1GGR:j1x<qxq0r:Rj{<x::Xo<G{myRO41:GoxG1 O{xnO:O:G:O&:1Bn<r<OX^q_j1On:rG^q^x4;1OjOrGOr^14<<{j0r:Oj<G4:11j<nx1G<O41RGjxr1qq<x<gO:jjx<q:oaG<P2{ejOr1oGGxR1{Oxx::oOGj<a{:nD:<oj^a;q{jj<3qo1^O_x1rnO:jOG^:o<1on{rzOq^j4G1:n1nqOx<G4O11jGrxO1OxxGRNj:rjr4<:4RR<jjxmqx4RGGR:j1j^qxo4GOe1o4x::go<Gjiy{OxjxGjxG1;O{xnG:Oo{^GT:G<no:{OY^qSj1Gn::1:q^x4G1On1rGOx^1^xqGjKr:OjO44:1Rj<x<qm<x1RRGj:r1r^<xG4ROjj oq:o?G<Rx{MxOqjqGrxR1{Oxx:GoOGR?G{:44:<o{^Vaq{jnG::q1xOcx1^nO:ROG<^+1)<{jr2Or^j4o1:j^r<q=<q4qR4jGr:O1<o4xR4jOrj:q<:41R<jjxmqO<jGG:<j1xqqxooGOR1{Gn:1:o<Gj-_{jxj:oo:^G{q{xnS:O:<^G;r{1jOZrO3^:Cj1nn::1O<^xoO1qnRrGOr^14<1xjZnrOj<<4:Rsj<rjqzOjqBRGjxr1rr<xG4RO{^xGqjG4G<Rx{%jnqjo^G:_Gxqxx:HoOo<PG{rx1:<n{^I-:{jn<::o1^<HxGOnq:ROG^rH11<nxrVx<^j4<1:j%r<On<w4O^xj^r:O1<o4xR2jOr1q^<:41R<jRxQqO<jGGRjj1x<qxj<:RoR^{xrq1o<GxA){OxjrOr:G1Xx{xnB:OrRx4q<<{GOn{ON^{,j1Gn:R<{Oxrq{G1IR1:Or^14<1xjBrOOj^GoqRxj<rxqK<OqRRGj:r1q<<xG?RO{1G4q:<RG<R{{mxOqjqGrxR1{oxx:4oO^zFG1xG{:<oj^ /q{jnG::o1Wo>x1GnO:{OG^x}18<1nr4O:^j4<1:jBr<:x{q4O11jGrxO1<O4x6GOjrjqo<:G^R<jxx#::RGGGRjj1xrqxo_GORjGGxrqRo<G1e({Oxj:G:=G1-<{xnd:Oo{^GU:Gjno:xOp^qSj1Gn::1O<^x4+1O)rrGO:^14<R<jprOOjrOq{OO^:{{{RnG:nO<Rnr1q:<xGbRO444%1{nnG<RR{QxOqjrorqOx<^4j:,ojGj#G{:RcRrj1x<qo<xnG:no1^<)x^<4q11OG<G011<nx{{{on4:o<{f^tG{1xo::1j{:r:O1<<ojo4Griq{rnx:{Or^:u<jxn1:^OO<44<{njG:nOx^oG4q1oOGx}*{O?4jno:^:y<{xn_{xj4xxqjG-GrR1{<xoqx1Gj4:1O<^xoq<n^2{xj{xqqnoG^<rOq^<G4:11Gxvj{Rn^O1^rzxr1qx<xGNRO;{Ko1jnqrxoR{4xOqjoGG:R1{<{Oj_oO^x=G{:x1{qn{xGqo<:41R4jjrno7oG4qRrjq^rl11<nxrlOO^jcGGqn1rjOx<t4O^RGqA<{^xq:1ooGxrjqj<:41R<4{PR1nn1:oo{G4bo1:j^GOZn{Gx:q1rorRq<<o11RqjjxGq^<:R^Roj:x4qx{1nR:xO3^Oo:<^^4R{{rx1oRo:G0Rq{x^1411xj;rOxRx^:OO<Go;{j^xRrOoqjrr1q<<xG+ROjjxG^:<RG<Rx{=xOqjoGG:R1{<n4:5oOGjoG^r4G1:j^r1O{{{nG::o1^<Cx1?1<jjOG<<.11<nx{^j1xoq1<j4CRr{qxR:jo4GOr:qq<<4xR>4r n1<njO{OOG1Jo1:<{GGR:j1x<qxozOO^j{Gn4q1o<Gxo<^nG<ROrnr{qU<rGG:OO^^G_:{1!xR^{^rRO1<14{:1Ox^x4I1ORR_<j{rR::<RjVr{Oj<G4:^4^^/:{1xnqROOj:x1q<<xG-^:G{8o1^norOOr<o4<17rorqOx<^4jn^oO<gZG{:x1{qn{xGqo<:41jxnRxOo^<{4qR^jqqnq{o/Gr#Grr^j4r1:n1r<j1xoqj<{^q <1G<<GFRBjOrjjGxrrHor^:4<qOo4GGR:j1Rrn1nrr^G1{Gxjq1o<Gxo^^RGO1qonG1f<{1nM:Ooj:tOr<n4r:xO^^O?j1GGOR^{n^x4<1OnjrGnjrRqOo{j*rxOj<G4:^OG{R1{o<OGnRGj:r1nOxn:^O4^^4<1qj^rGo14^4o1:j4rxR1{jxx:foOqROq^nGG1{jrr1qr{jnO::o1^<o{<:GoP^OG^jd11<nx{O{oxx:O1:jOr<Ox<5OOon^oh41Gx{:ro1jOx:qG<:41<r^xF<{qjk:q<}^^8{14n:rxRj{jx:q1o<OnO<^x1RR4jOr<O{<4G^:OOq^GV:{1-:1R{:xxO^o<4rR1{<rRq<1Oj_rGO:^1OrG1GrE^OR<^4:Rxj<rxq_rnOo^1^4441:rO:4OR^n4q1j<1GqRx{0xOn{nO:jR1{1xx:PoOO{OO^j.41rn{x<OR<nGk::OG^<ex1-}xR4{xxjL11nnxrkOO:Rqn<jG^ROjnnG4OR4jGr:O1r::Goo^^g4qGo<41R<jx14{:nRr4O<<^4:{Rx^:RqO^qx:r_o<Gx!QGr;RR<jqrxqQ4j44R:n?rxq4<44RR:joxrqR1GjG:1O<^xo{oo^4)oj{:xqr<n^ORnOj<14:11j<1{{rxx:4o<Gr4inqnr:jOo^1xG:4<1G<Rx44?rR(nnr1oR<:PR1<oOG{ G{:x1{{ox^xSO{jnGjnjOr{qO<<RqRZjOr{qG1<jrrFOO^jo<oq^zR:jRnGOroo^jR{n1x{rGoo^Grjq:<:41R<4G-R1Gnu:qOxjRx<qxoyGORj{G,On1o<^#6F{Oxjjojqrxq^<j1^:OO4^GM:{1RxRjj4x^q41Gnj:1O<^xoj<RGRVOO:<G4<1xj51x1onGq{11j1rxqa<Oo1o^GnIr{nnj:ROn^x0Oq:o^G<Rx{=1j1:n^:Rq4{oxx:;oOGj!G{:{G<<on^d3O{jnG::o1<:<x1zn1:jOG^:OG<r^GP<nrxo:j<{1qroOx<i4jx4jGrxO1<:4xR4jOr{qG<jR4R<jxxhqx<jG^R:j1KGqno^GORj{Gx:q1o<qb(4{:xj:oo:G1N<{xt1:qoR^GA:{1nr:xqbjx2j1on:noO<^n4}4O{orGOn^1oj1xjorOOjo{4:RGj<rxqc<O4jVG{^r1qq<x<jRO{/xGq:o:G<R1{0xOqjoGG:!1Rvxx:^oOqOfG{jx1:<q4^zVx{jnG::Oi^<4x<xnOrBOGoRz11onxjvrR^j4O1:j1r<rE<bGOu<jGrnO1<:4xR<jOrj:j<:GGR<jxx-qO<j<G){j1x:qxo<GO!<{Gj::{o<G1_F{xxjxao:<7yx{xno:OOx^GX:{1n<rGOC^j&j1Gn:rqO<Ox<R1OjGrG:R^14r1xRt{oOj<:4:Rxj<j1qkqOonRGj1r1qn<xGRRORjjGq:o<G<^j{>njqjO<^^R1{nxxx<oOGj,GR:n::<O4^cC{{j{x::qt<r;x1:nOxGOG^:(1ROjorlOR^jo11:n1r<qjoq4OROjGx1O1<<4x=G{Orjq{<:OxR<jxxhqO^OGGRRj1xRqxoGGOQj11x::<o<or0M{{xjr<O1G1Vn{x{<:Ooj^GG:Rzn<r4OP^{#juxn:x>q1^x4:1OjnrGO:^1GOR4jUrROj:{4:11j<xjqj<OGORG{qr1q<<x^GoJjjx{q:rrG<Rx{gxOrqoGGRR1{Rxx:GoO^j+O{:n<:<qR^Za{{jnGr{o1^ncx12nO:jOGo:411<j4rSO{^j4x1:{1roOx<q4OR^jGrnO1O<^GRCj{rjqr<:o<R<jxn<qqo<GGRrj1x<qxqbG:Rj{xx::Oo<O<8FROjO:GOtG1wj{x{n:OO1<_k:1qn<jROv^OVjlGnr:1O{^x4r1OjqrGqx<j4<R<jYx1Oj<G4:J,jxrxqn<O^<RGj:r1:OR3GAvGjjnxq:<1G<RxGMxq:ooG^<R1{<xx:=rrGjCr{:x1:<oj^!4O<OnG:1o1ooVx1qnOnjx4^:4<1<ROr_nG^j<GGqn1rxOxo{4O4GjGr:{4<<G4RIjOrjqG<:^1OOjxxqqOo^GG=Vj1j<1joNG{Rj{rx:rjo<^jxO{On<:G:{G1N<{xnp1<o{^nM:{1n<:jOv<:Rr1GjG:1OO^x4&1O{jxGO:<:4<R<j.nhOjOG4n11j1rxqx<OGRRG{:nrq<o^GH4Ijjxjq:Ot^4Rx{xxOxRoGG:R1R<nR:(O-GjAj{:{O:<Oj<q>O1qnGr1o1^<wxRG{n:jO1^:ox1<nxrtOOo<4GRGn1xgOx<G4ORjjOr:qq<<^4R.{PrjqGo441RnjxxrqO<jGGR:jRx<:>oFGORj{^x:q11lGxu<{OnG:GoxG14<{:nd:rojq:S:1Gn<xxOq^O4P1Gnn:1O:^x4mRGnjrqO:^14<1xj)nOq <G4{11jrrxq:<O^jCrj:x^q<<RGA4<jjn<r^<1GxRx4OxOqjoGG:_U{<n4:WoOGj3O{:n1roox^q2OX^nG:ro1^<<r14n1:jOG^:z11<{xrOOO<<4GREn1rjOxOLGa1jjxr:qO<<4{RW1OnrqGoF41Rjjx{OqO<jGrR:{qx<qnoUGORjRGnxq1o{GxJr{O1O:Gq:<x)<1^ng:RojqMC:RKOq:xOx^Oo41Gn::1:<oq4URJnjrjO:<r4<Rjj^rOqq<G^b11j<rx:G<R4jR1j:nOq<<xG?e:{nxG:o<1^jRx{IxOqjooG:3:{<nq:ToOGj!G1:x1:jox^aFO{1nGr:jW^o441H{O:jOx^:^1R{nxrqOO<^4GRqn1xOqR<)411j1Or:O1<<^xRojOx<qGoK414jjxnGqj<jGnR:1<x<qxo8^:Ex{GnGq1r:Gxp}{On1:{o:^r8<RLn>:Ooj<<x1{1jJ:xqn^O;j1Gn:^jO<<G4ZRGnjr<O:<14r1xjqrOr4<GGu11j<x:qC<14jRGj:r1q<Ox^rRO{<xG:M<1GjRxR!nnqjoxG:+O{<j::hO:<qBG14x1:{ox^iIO{jj^::O:^<ix17j4:jrGqqb111nxnqOO<?4G4:R{r<q<<sG:1j1:r:O1:^4nRnjOrjqG<:414<1<xH:4<jG{R:{Ox<rxOrGO;q{Gn^q1oqGxGl1<xj:{o:^rF<4wn>:OO1^G4<{1no:xO}^OGjR{n:rxO<<O4=G_njnGOr^1G>1xjjrOxx<GGxx4j<xqqT:n4jRGj:n1:^<xG{RO{rxG:^<1^OWR{5n<qjr1G:R1{<njr/oO^nFGG<x1:<ox<G4{{jjG::xx^<2x1JnOrnOG<o01R<nxrmOO^j4<1:jrr<Ox<w4:1j{GRxOR<14x4,jOxqqGq:^:R<{<x)q{<j^4R:1cnoqxonGOGN{Gx:q1q<<4 714xj:{o:oO*<1jjn:OO:^G41{1n<:xqG<jkj1Rn:r{O<^x47R:j1rGqO^1Gx1xjCrOq1ox4:R{j<xrqY<O4jRG{Rr1qR<xGRROj1xG::O?G<B<{}{oqjo{G:4v1:xx:noOowaG{:x1x<qo^b44{jn{:::O^<4jRjnOr:OG<qE11<nxxGqR^j4R1:{^r<Ox<3G:rGjGxOO1o^4xR_jOx14:<:G{R<{RxaqO<jGG<^jRxRqxoRGOR1{Gn::{o<^<#+Rnxj:{o:<av{{xnn:Oo1^Gi:{1{<r<O_<4Aj1{n:njO<ox441OjqrGq^^1Go1x{UxCOj<j4:4jj<xoq7oOG;RG{Gr1xj<xG4ROjjZoq:orG<Rn{zxOqjqG:xR1{Rxx:noOOOMGR:j4:<Oo^C44{jj1::O1<rLx1xnO:{OG<^D14<jjr3q5^joR1:jnr<rx<^4OROjGjxO1q:4xBG{orjq{<:o4R<jxx%rOO^GG7^j1xRqxq:GOP1q:x::xo<<N_y{Oxjr<R1G144{xRj:Ooj^GY:G1noroOU<^Mj1Gn::1qn^x4:1OnjrGO:^14<oOj4r{Oj<G4:1Rj<xj1R<OG<RGRnr1q<<x<iq4jjxxq:oOG<GG{Dn::4oG^4R11xxx:coO^1m1{:n::<xO^C#O{jnGrjo1^jDx1xnO:jOG^:4x1<nRrmOO^j4<1:j1xqOx<<4O^GjGr{O1<xG4R4jxrjq:<:4RR<jRxXqOO4GGR:j1xOqxo*GORj1qx:q1o<G{3Z{Oxj:GO{G1A<{xn0:Ooj^Gb:R^n<:xO!^q6j1Gn::1qr^x4D1OjXrGO:^1G<o<jUrrOjOR4:RGj<rjqr<qG&RGjxr1q<<x^%OQjjxoq:q:G<R1{ x::oo^GjR1{rxx:5oO^jOj{:n4:<O<^K)x{jn::RoR^:fx1<nO:{OG^rZ11<41rZOO^j4o1:n1r<qxxq4O1RjGj:O1<:4xR3{qrjqO<:GWR<jxxyrOO4GGRjj1x:qxqrGORj1{x::^o<Gj!I{OxjxGqoG1Lr{xno:O:o^GC:1qn<:ROh^nBj1Gn:x1OO^x4o1Oj4rGqq^14<rGj&rxOj<q4:R4j<rx{^<OG7RGjxr1q<<x<tO:jjxOq:oGG<^^{>jO11oGGjR1{:xxjqoOGjOo{:n^:<oj^y2O{j{GRxo1^r6x1onOjoOGo::i1<nRr6On^jor1:n1^rOx<o4OR4jGr:O1O<q:Rtjnrjqq<:G{R<1x4GqOoGGGRnj1x:qxo>j1Rj{Ox::^o<^VF(RO41:GojG10q{xRO:Oojro#:1^n<:jOQ^OpjvGGx:1Or^x4o1OcGrG::ne4<1Rj7rnOj:n4:a1^Orxqo<OG4RGR4r1r<njG+Rnjjxqq:r4G<2x^xxO:=oG<nR1{rxxxZj:GjUO{:n4:<x=^J4:onnG:{o1o:_x1wnOxj{<^:4^1<nRr(:1^jG<:1n1rxOxoO4O1jjGxxR<<<G4R}{jrjqG<:^=Q<jxx:qOOGGGR:j1j<q1oVGRRj{ox:j<o<<x=:{Ono:GO4G1^R{x{h:1oj^n;:1qn<jxO oOv11Gj4:1O{^x4R1OnjrnO:<^4<R^j%r:OjoG^o11j:rx:<<OG4RG1:n^q<<1GtRrjjxOq:O1^{Rx{<xO:BoGO1R1{<.{:IonGjS<{:x1:<qxxGyO14nG:{o1qx)x7aG::jOq^:4^1<R^rs:Ox14G1{n1rrOx:q4ORjGjr:qG<<^{R}jnrjrGnx41R:jxx^qOrGGG4:<Hx<q1o_GxRj4^x:r1qOGx+<{Onb:GqqG1#x14n4:joj^Gs:{Rn<:nOQ^OqS1Gn::1Oq^x4z1OnjRqO:<G4<RJjfrqOjOG:x11j:rxq^<OOGRG1:4)q<<1G=Rxjjnnq:O1<ORx{<xO:CoG<qR1{xn4:4ojGj;^{:xR:<on^ZfO<HnG::o1^q.x1mnO:jG1^:4G1<jcr%Oq^j^GRan1r:Ox<^4ORujGn:q^<<41R7jxrjn:<:^16<jxx<qOomGGRjj1j<:1o3GxRj{Ox::<o<<xz^{On2:GojG1G^{xnO:{o{^:Y:1On<:nOH^x(j1G4j:1O<^x4^1OnjrGO:o^4<1xj}rrOj<G4:11{rrxqb<O4jRGj:r1q<oRGtROjjx^q:<1G<RxrjxO:ZoGG1R1{oxxxsOqGj#O{:n4:<o1^.GO1^nG:jo1^:DxGOnOxjO1^:4G1<n1rWOx^j^GRqn1r:Ox<<4OGrjGn:qn<<41R2jxrjr4<:G<RnjnxOqOooGGRrj1x:qxog:xRj{Gx::4o<Gx_={Oj4:Go:G1wq{xn):Ooj<qZ:{1n<:xOJ^OFj1Gj{:1O<^x441OnjrGO:Jx4<11jbrjOj<^4:}1{Rrxq<<O4RRGjjr1r<<{GDRxjjxOq:r<G<4x{oxO:+oGGjR1{:xxxEq^GjAO{:nG:<rr^sGOR4nG:jo1^:_xRRnOrGOr^r4<1<j<r#Oq^j4^1:n1R:Ox<b4O1RjGr:O1<<qRRfjxrjq:<:4RR<1x4GqOoaGGRxj1jOqxqOqxRj{Ox:r7ooGn_2>xxj:OGnG1d<{xjG:qo{^G=jn4n<:xO <x,{1^n:x1:O^x4<1OnRrGro^14<G:jZrxOj<<4:1Rj<x0qq<qG/RGjRr1qo<xGnROjjnqq:<1G<Rx{>xOqjoG^{R1{<xx:4oOGj!G{:j^:<ox^6ar{jnG::o1r:hx1.nO:ROG^:J11<jRrEOO^j4<1:n1r<Oxoo4O1jjGr{O1<<4xR&{nrjqG<:G<R<jxxYqOO4GGR:j1xnqxo}GORj1qx:q1o<^Gi}{Oxj:GO{G1c<{xnr:Ooj^GS:R^n<:xOM<2 j1Gn:r1j1^x4^1OR^rGOj^14xR4j4rxOj<o4:1Rj<r1q6<O^4RGj:r1qo<xG2ROjjnqq:<1G<ko{txOqjoG^{R1{<xx:_oOGjuG{:j^:<ox^t4G{jnG::O1r1)x1^nOn{OG^ju11<:jrHOr^j4<1:n1r<Ox:14q1jjGrrO1<<4xR^{4rjqG<:G4R<jxx%qOo4GGR:j11x1jn4r^O4{Gn4q1o<Gx<^<GJ{RojnqjOo<q4o:OO:^GA:{1#rRxj<rq:b<qwCR^j{x4q:oxj^rGO:^1^<ojj2rqOj<G4:Rbj<jaR:<O4{RGj1r1qo<xG4RO{6qoq:<1G<}m{>xqqjoG:nR1{oxx:IoOGj=GR:{u:<on^Jeq{jno::o1qGAx14nO:1OG^rN11<t:r4OO^j4^1:n1r<On<;4O1jjGrnO1<<4xR,jRrjqG<:O4OFGn4^1rrx:^Oo^^x<:Oo;GORjGq4:1Gnor1Oo41441nnRrOq:{xno:Ooj^G<1oD4oRqjo^1&j1Gn:x1{O^x441OnjrGOr^1^x^1j2rqOj<O4:1Rj<r{q*<x1RRGj:r1q:<xG4RO{uqoq:<1G<W4{&xqqjoG:nR1{oxx:;oOGjCGR:{f:<on^= q{jn<::o1qG(x14nO:1OG^r&11<B:r4OO^j4^1:n1r<On<D4O1jjGrnO1<<4xRvjnrjqG<:O<OOGnM{{n<RGGR:{ox<qxo>qjOo<o441ujX:Rd^{Oxj:Gq:xV-<{nn :Ooj^^A:_1R^:xO4^OHR1Gnx:1O<::441Onjr^O:^14<1nj_rOOj<GGx11j<rxqC<n4jRGj:441<xnrqO<jjxRq:<1G<^1^o4G14jO:{414q4r11njroOr{:nn:<ox^Hor<4411{j4x:GxG^GoRxj:x4qo1<jXrvOO^jo^<jGG{O{rn:4ORqjGr:O1rm:ro4Gxnjnonq:jox^^KqqOo:GGR:j1RO{RnOr:O4<o4_r1x r^q^<xxj:Oo:G1U<G{44Rjj4^G4^{1n<:xx4rxqtGOGxR{{<r1qRo{GxrGqG^14<1xC4Rx{wroq{o4^:W^{Rn<4jRrj:r1q<:{:RO<^Gsn{Rj4G<R1{kxOqjr1rqoR^:xx:qoOGj0GGn4^R:xOrrqroinGr^o1^<Mx^^4qzGjqo:o4o^G:ROjRx^4GRon1r<Ox:4qxo>4ow{{%rqqRo^^xfo14nO41R:jxx3qOjW:^On^rx<:GocGORj4oar1xje:jO4^r4q:GO^G1y<{xR^Rojxr:q4<o{<{:j4x^q41Gj4:1O<^xo4<xG}{<{{nG::orG1jROj<G4:H11Orxq4<O4jRG{4r1:ORNGgRrjjxjq:<1G<RxojxOq{oGGnR1{Oxxxeq:Gj0<{:xR:<O:^M4::GnG:jo1^nkx1XnO:j11^:4T1<n1rfO:^j^G(xn1rqOx<G4ORDjGxx4<<<4RR*{qrjqG<:41oGjnxOqO<jGGR:j1xO:^o4G{Rj{ox:q1o<Gx:j{OxR:GoRG1DO{x{dx:oj^O5:1hn<rjO <:nG1Gn1:1q4^x4Y1OjGrrOr<o4<R_j(rqOj<o4:11G:rxq*<O4RRGj:r1q<oRGQROjjxGq:<1G<Rx1oxOqjoGGrR1{<xx:ZGRGj!O{:no:<on^_GORonG:jo1^odx11nOr1qq^:4<1<jorAOO^j4G1nn1r:Ox<O4O11jGn:q4<<4RR.jxrjqx<:^5k?jxxqqO<RGGR:j1x<:no)G1Rj{Gx:q1o<Gx4x{Ono:Go:G1F<{xnG:Ro{^jS:{Rn<:xO,^Or:1Gn{:1O1^x4G1O{jn<O:<<4<11j_x:Ojo<n111jjrxqO<O4jRGj1xoqoo^GdROjjx^q:o4G<Rx^<xOqjoGG{R1{<xx:sOnGjLG{:x1:<ox^&JOR4nG::o1^Odx16nO:j11^:4<1<j^rwO:^j^GJxn1rnOx<o4OR:jGn:1-<<G^RNjjrj:G<:41R:jnxrqO<{GGR:j1x<xGo!G{Rj{Gx:qRo<<xGG{On^:GojG14O{xjGGjoj^nv:18n<:xOz^j4^1^jG:1OO^x441On1rGO:xG4<1xjBrnOj<G4:11{rrxqd<O4jRGj:r1q<xRG7R{jjxjq:<RG<4xRGxO:^oGGjR11OxxrGRjGjVn{:n^:<ox^sZj1^n^rGo1^:bx14nO:ROG^:G^1<nxrtOr^j4G1:n1xrOx<T4O1jjGr:O1<<q1RAjOrjqq<:41R<jxNoqOo^GGQGj1xoqxOGxoRj{rx::{o<Gx38RO41:GoRG1?n{xn4:OOG^rcr1On<:RO;^qaj1^n::1j:^x4i1OjGrGO:^14<G:j.r{Oj<<4:1Rj<rxn1<q4jRGjrr1q<<xG4R{jjxGq:oxG<Rx{MxOqRoGG:R14o.11<oO^o7G{:x1j:j^xGOn^RGORq{sx{ZxR<nO:jOGqRq^o:z:R4{^x4o:oxG{K4x1xr::o4Gokj{{nOr^R j1rjqG<:q4or^14<{Rnx:rOnj1x1qxoDGO^R<44O1<n{r4o=^qGS1xo:^<.<{xn}Rr{6x<q4<j4n:nOF^OIj1Gn::1o<qr4#1xnjrGO:x<q{o:G<rOq4<G4:11RGV<1^no:xRG{4r1q<<xO^OG^4h^1xrx:{O{<<xO:ooGG:R1<#4^R^jxrGOn<<4^Rqox^<yO{jnGROj^xjq17GnO:jOG^:q41<nxriOO^j4G1:{1nOOx<)4O1jjGxGO1<<o:R-jOrjq<<:4RR<jxR1qq<jGGR:j1x<qxOGxoRj{^x::xo<Gx201:Gn:GoxG1&R{xnH:OojroM:14n<:nOT^OijtGGx:1Oq^x4^1OjZrG::n?4<1{jprrOj<q4:111:rxqG<O41RGjnr1q:4{G&ROjjj5q:<RG<,j<RxO:GoGG1R1{<xxxwj:Gjt:{:n<:<OG^t=OGGn^:Ro1^r+x1wnOr1T:^:4O1<j^rtOO^j4Gq<n1rxOx<:4O11jGr114<oG3Ri1<rjq^<:41R<j1q^qO<jGG4Oj1xoqxo=:rRj{:x::6o<GxC>RO41:Go1G13x{xnG:Oqjx<H:1<n<r_O}^rYj1GR1:ROn^x4o1OnjrGO:O44<R?jar:Oj<<4:11Orrxqq<O4jRGj:r1r<x:GLR{jjxrq:ooG<Rxq:xOqjoGGRR1{xxx:TnrGjTr{:x1:<ox^_GOR1nG:Ro1^nEx14nO:jx:^r4q1<jEr/OO^j4G<{n1rnOx<r4O1{jGr1{O<<4nRs{4rjq^<:GcR<j1q^qO<jGGb^j1xoqxoNR:Rj{Gx::_o<GxNt{ORx:^o:G1&o{xn0:Ooj^Gk:{1n<:xOW^O?j1^n::1O<^xo11qnjrGOr^14<1xjTrOOj<G4:Rqj<rxq*<OG;RGj:r11:xRr:Oxjjj^q:<1G<^n<GAnrjjnrqq^R<4{Roj:r4GGo44{RrqxxqOR<R4xx:{Gx^Gx<<4nR:jqxjq^M<14rCOq^j4G1:1{r<q&<h4O1j4w6q1Gx{:_OrjOxOqG<:41^q^rs1{jno:r<:GR4:1GocG1Rj{Gx:{4nrrOOo^rGz1qnjG1V<{xnA:Ooj^xN:{1n<{{joxx:M<nGORo{q^x4G1OnjrG:Rq{Gj1xj rOOjxo4:11j<rxqv<O4j4G^xr1q<<xGNRO{GxGr1{OG<Rx{Zxnqjo^G:)o{<x1o^oOGjNG{{x1:oox^<{r{jnG::qo^<(n1ynO1ROG^rp11onxr.OOojR{1:nRr<On</411j1GrRO1<o4xR4jOx4qGox^4R<jjxhqr<jGGR:j1jJqxo^GORj{Gx:q1o<<oCP{qxj:^o:^4_<{xjx:Oo1^Gsr{1n<:x:W<^Kj1<n:r)O<^14?1Oj<rGOj^14<1xj4rOq1<o4:R^j<rjqk<O4jRG{xr1qx<xGZROjjxG:xR<G<i4{MxRqjoGG:R1{qxx:ooO^4kG{Rx1r<j<^U7x{jn^::O^^<4b1qnqr4OG^:H11onxr4OO^jqO1:n1r<On<34O1jjGR{O1<O4xRojOr{qG<:GnR<jnxKqO<jGGR:j1RGqno8GOR{{Gx:q1o<Gnah{Oxj:^o:G16<{xnq:Ooj^GOj<^G5R(jrxGq41rn::1O<<6jo1OnjrGOn^14o1xj4rOqd4o4:11j<r{q%<q4jROrnr1q<<xGOROj{xG:xj{G<Rn{HxqqjoGG:R1^qxx:GoOGjYG{:x1:<r:^=Eq{jn<::oR^<-xG1nq:jOG^rJ11<nxr4OO^j4G1:n1r<Ox<k4q1jjGr:O1rG4nR&jOr{qG<:41R<jxxAqO<jGOR:j1x<qxoxGORj{G1n1{jGr2Or^{Rj1^jjrOg<1Gn8:Ooj:oO{oGG:R^j1r{qR1Gnr:1O<^x^R1Oj<rGO:^1Oq<RGjRnjRnOq{oGj1rxq=<O4jooj:r1q<<xG,ROjjxG{n<1GoRx{4xOqjoG<:q+{<xn:_oqGjL<{:j1ROox^4#O{{nG:ro1<OnA1hn::jOo^:!11<nxR^OO^R4G1xn1r<OxO%::1jjor:q4<<41RCjOrRqG<r41Rojxx^qO<jO}R:j1x<qjodGqRj{GROqRo<Gxt4{Oxj:Go:G1k<{xnW:xoj^GT:{1n::xOB^O:^<^G4IGO<^14v1OnjhOjrn4qR1xj:rOOj<Gon<R^6iO{GxqqRo{jrr1q<<xG+ROjjqGnqoqG<Rx{%xO{RoGG:R1{<xx:+oO<jq<{:x1:<ox^(Nr{jnG<Ro1^<gx14nO:{OG<x:{1<nxrdO:^j4G1:{1!OOx<K4O1jjGrrO1oOj%RTjqrjqO<:41R<jx{1qO<jGGRxj1xoqxo<RrRj{Gx:q1o<Gngv{ORx:^o:G1Uo{xnv:Ooj^GH:{1n<rrO*^OYj1Gnj:1O<^x:<<n^<5OO:<<4<1xj2RR{Rx::4oxGrrxqO<O4jRG^n4G1On^:1o{j{xGq:<1G<Rx{+nOnjoGG{R1{<xxx1j&rRq4<Ox1:xox^>tOGxG4Rjjqrx:^1?ja:jOG^:o4o^G:ROjRx^OG<r^GRjOxoR4O1jjGnRrxO<q1oR1O4o14n{^1On^^4^{1OjrOOq114^R/nor:q^<<44RGnr<xOr<x1n:GonG1v<{xG^Rnn1^G>:{1n<:xOHoq}j1Gn:1q{^xR^=<qG:&<j{rRq:O^1%R1j{n:q{ 1Gonx{^no:xo:^4.or<n::4O^^4?Or:qoG<8G{#xOqjxo:{qG<:4^11n{rR;G{rx1:<oxoRUO13nG::o1::ORo:Gx:jOo^:e11<RjRR{1qr4G1:n1r<j{<t4O1jjGr:O1<<^xOGjOrjqG<:41=^jxj*1:<jGGR:j1x<::o-<j:<{Gx:q1oxGx>4{OnO:Goj84t<{xnD:joj^^*:1G:q:xOi^O<:1Gnr:1O<r{431OnjrGO:^14<Wx^GrOOj<G4:11{^rxr;n:4jRGj:r1q<o:G)Z:<nxGqr<1GqRx{8xOrjo^G:RR{<xn:QoRGjYG1qx1:Oox^>(O{jnGx:q4^<,j1_n::jq4^:G11xnxrGOO^14GROn1r<OR<S4r1jjGr:O1<<^xOGjOrRqG<n41Y^jxjD1:<jGoR:{4x<::oUGOx4{Gxnq1oqGxW/{Ojj<qo:^4&<{{nJ:xoj^GOn{1n::xO7^OHj1G{:?BO<^14/1xnjx4O:o1:O1xj<rOqs<GGO11j<^Rq)<x4jROj:r1q<<xxjROj{xGqj<1GORxROG1qjo^G:4r{<xn:TonGj_Oxnx1:<ox<nfO{{nG:j^4^</x1,{<:jO^^:G0:xnxr4OO<44G1:n1rx4R<V4q1j14r:OR<<4nR!jxORqG<:414^jxx4qOo1j:R:jRx<:<obGORj{Gxnq1o<Gx2w{Ox{:Go:r4e<{nn0:qoj^GK:R1GO:xO4^OJ{1Gj<:1:<xj4J1qnjr^O:<o4<RjOOrOO1<GGo11j<rxql:j4{Roj:r1q<<xGyROjRxGqr<1GoRx{^xO:1{4G:ff{<xj:YoOGjaG41xR:qox^4UO{jnG:::4^<Nj1cn::jO<^:4<oqnnrGOOq<4G1rn1r<Ox<<1r1jjGr:xO<<4nR&jORRqG<x41RojxxbqOOj<<R:{wx<qjoPGjRj{GVOqRo:Gxs3{Ox{:GOx{<c<{Rnfr4oj^G,:{1Rx:nOO^ODj1Gn::1qO1V421{njrxO:^14<1xj^rOq4<G4{11jnrx:0n_4jROj:rRq<<RG#Rj{^x^q{<1G<Rx{4xOq1oGG:4^{<xx:Mo:GjlG{:x11:ox^YsO{{nG::o1^<OR1Bn::jOq^:%R1<nx{1Oq^j4G1rn1r<Ox<0qr1jj<r:qH<<4xR2jO1Gq^<n41RojxxJqO<jOKR:{Jx<qjo3GqRj{Gnoq1o<GxQe{Oxj:Go:qjWo{xnD:qoj^GI:{1no:xOu^OCj1Gn::1Ox^x4F1OjGfoOr^14<1RjNrqOj<G4:RGrqrxq_<OG4RGjrr1q<x{G6RqjjxGq:<1G<Rx^^xOq1oGGrR1{<xx:%r<Gj!^{:nF:<on^,-OGxn^::o1^opx1ynO:{OG^:W11<jcr?OO^j4GR4n1r<Ox:qqnO82xR{{qxn:GO<jqrjqG<:41R<jxxQqO<jGqR:j1x<jRr<:ROrC<x:::o<Gx0v4rH{RIj1:RqqG{4rt%j4^GLn{1n<:xj1rn:^1Gn{:1O<^xoOo:4{RRj{<n4<1xjarOjR<G4r11j<rxq_<O^jO<j:rRq<<nG)Rjjjn<Rq<1GORx{^xOqjoG<::G{<xj:uo:Gj7q{:jJ:jox^^)O{1nG::o1<OGo1lnx:jO<^:b11<jjx:OO<44G1xn1r<Ox<Y4R1jj:r:O1<<4xRK1Or{qG<141Rxjxx4qO<j^{R:{<x<:4o_GORj{G1nq1oOGxh}{Ox1:GO:r:3<{nnY:xoj^<S:{1tG:nOc^Ob{1Gn::1Oo^x4t1OnjrqO:^14<1njNrOOj<G4:11{:{xqV<14jRGj:R4{rx{r<oR^n431n<RG<Rx{mxOqjoGG:R1{<x1:poOGjq)^{GOR:ox^ruO{jnGjRj^x:oG<o4RR^jxxjGo1<nxrsq:1G4G1rn1rqOx<04OR1<4r:q%<<41RHjOrjrGnx41Rqjxx.qO<1GGR:R1x<q1oFGxRj{Gx::GGqGxI-{OnR:GorG1G<Rjn?:{oj^:&:1^n<:x:^^O4^1Gnx:1OO^x4&ROnjrrO:^R4<R4jCnO{1<GGz11j<rxqG<O4jrqj:xOq<oGGpROjjx:OO<1GrRx{{xOq{oG^;R1{:q{:soOGjDR{:xR:<o1a^yO{jnGrro1^o?xRGoj:jOx^:;R1<nxr}OjxR4^R,n1xoOx<44O1jjGrj<4<<4xRc{qrjq^<:GGjqjxx&qOo1GGRrj1nOGWomG1Rj{ox:q1o<Gx4A{Ox{:GoRG1lj{xnO11oj^<&:1^n<:nO&^:*j1O:n:1O<^x4o1On{rGO:4M4<1njBr:Oj<G4:114Grnq#<O4{RGj:r1qo<xGvROjjnoq:<1G<Rx{qxOqjoG:1qV<^4q{Gr{O1,^qG<q4{R^jrrRroR4::OO^<%x1BErR4j1r{q4o:4RR<OO<y4G1:n11:jnxG:r1jjor:O1<<ono<Gxrjq:<:41R<Mj4o1xj/r4OOjRx<qxovGORj{Gnjn1o<^xN5{Oxjj<nrr4OR<4GGRo{4x>OjG4G^ROjRx:^R1Gn1:1O<^xo^ooG:_4{xq44<ROjbrOOjro:4oGGrRj{4n:oRO4^<U{1O<xGoROjjxGn1j7:oOq^oxqqjoGG:R1{<GxjOrOGj3O{:x1:<j:roq1o8n^::o1^<ix1Q^Oj{xG^r311<nxrYOO^j<!G:n1rOOx<J4O<4inr:q^<<4xR-Br>n{1nqr0R<jRx*qO<jqOO>^^44{RoXG{Rj{Gx:{<n{r{Or^:4:1qn1G1d<{xjG^:oj^^Z:1nn<:xOZ^OG:1Gnx:1O<^x4A1O{jxJO:<U4<1jjzrxOj<GGG11jqrxq^<O4jRGjjxxq<<xG(oOjjx^q:o<<4Rx{oxO:<oGGrR1{<xx:<GrGjpG{:nO:<on^u;xxRnG::o1^{wx14nO:j<<^:4<1<nxrbOO^j4Gnon1rxOx<44O1jjGn:RR<<G4RTjnrjq{<:G1RRjxxqqOoRGGR1j1j<:jo*G{Rj{qx::<o<^x4q{On^:GonG1)x{xncr:oj^rM:{Rn<:xO=oO4:1GjZ:1Or^x4O1O{jx<O:<O4<RGjPx4OjOG^o11jjrxq:<OGGRG{xnGq<o^GJR:jjxGq:<1^4Rx{xxOqjoGGrR1{xoR:zojGj4r{:xR:<on^llxxRnG::o1<nhx14nOrP^o^:H11<14rUOq^j4G<nn1rROx<G4O1jjGn:11<<GoR+{4rj:G<:^1RjjxxnqOoqGG&rj1j<:^oY^4Rj{{x::^o<Gx4O{On::GonG1!<{x{W:1oj^1V:1xn<rjOwoO!{1Gj<:1q=^x4x1Oj1x^O:<n4<R^jHrOOjOG:x11{4rxq{<O4{RG{xG1q<o:GF+<jjxGq:OvGORx{RxO:xoGG:R11OjO:pOOGj4_{:x1:<ox^RIO1rnGr:o1^<Cx1u{!:jO{^:;11<njr)Ojor4GR^n1jrOx<44O1{jGrj<4<<4xRARnrjq^<:41oqjxxnqO<1GGR:j1j<Rxos^4Rj{{x::1o<<x5G{Onq:GO^G14o{x{zrooj^{y:1rn<:RO?^OG^1Gj<:1Oq^x4s1O{jx{O:<x4<ROjEx:OjOGGr11{Wrxqj<OGORG{xn<q<oqGsRRjjxGq:O1G;Rx{{xO:roGGrR11Ono:+O<Gjbr{:x1:<Oj^4TO1nnG:Ro1^<bxRG{^:jqG^:4o1<nxrKOO<r4GRon1x<Ox<b4O1j{{r:qr<<4xR.j:rj:GnG41R1jxx:qOoqGGR:^^x<:4o+^%Rj{^x:q1nqGx8q{Ox{:Go:G1G<<jnI:1oj^qu:1<n<xx{G^O4<1Gjd:1OR^xGG:jnjrnO:<=4<1xjtrOjx<^GG11j<rxq4<OGGxqj:x<q<:rGvRqjjx^q:oGRqRx{YxOnnoGGrR1{:q{:?oOGjoG{:xR:<oxr^FO1qnG:xo1^<6x!F^O:jO{^:4r1<jxrZ:Oo:4GR^n1rROxo44Oujjnr:qr<<GoRLjnrjqGoO41WTjxx^qO<jGG4:{1x<:Oog^GRj1<x:r1oOGx#j{On::GOGG14O1jn/r^oj^nz:{1n<xxoj^O4r1Gjo:1Oo^xGG1nnjxYO:<x4<1xjfx:q1<GGq11{Srxq <OG1R<j:x1q<oOG ROjjxG:1<1^4Rx1+xOqjoGG:4r{<no:LoOGj.<{:n<Rqon^nsOGjnG:ro1^<lx1<:r:jOG^:o11<nnr;OxlR4G1:n1RGOx<44O1jGor:qr<<4jR!jOrjrGj:41RRjxxnqOojGG4:{jx<:ooe^4Rj1^x:r1ooGxtn{Onq:Go{G1%<RGnUrGoj^o0:{1n<xxqO^O4:1Gj<:1qO^x^QR^njr1O:<x4<R<j=x:qq<GGo11j{rxqB<O^j11j:xnq<oqG)Rqjjn<qR<1^GRx{RxOqjoG^xkj{<nr:kOoGjlG{:j?:1ox<f_O1nnG::o1^<Ge1#j^:jqG^:N11<nxr<OO<q4G1:n1rOOxo=:;1jjjr:qO<<GoR+jO24qG<R41R1jxx4qOoG:xR:jRx<qRo}GqRj{<x::GGqGxB={On4:GorG1t<^{nD:qoj^O.:{1n<:xG{^O%11Gn::1O<^x4fG<njr^O:<=4<1nj%rOnx<^4:11jorxqb<O4{RGj:r1q<r{G-ROjjx^q:<1G<Rx{3xOrmrGGrR1{<xx:ZoOGjRG4qx1:xox^,gOG<4q1rjGrrqj1Kj.:jOG^:O4o^GRCGjrx4Oo<rGjAqOx<O4O1jjG{n{{n3:rOGRrrjqn<:41R<bn&<{xxfr4oR^o4P{RoC^4Rj{Gx:j1no:1O<^R4x1rx<r^Ox<1n(r4oj^Gb:Gx4oK^jRxn:t^4GxRGjrxj4k1nnjrGO::4:^oOGR :Oj<^4:11j<joqwoh4jRGj:14{jn^:jox8{ZO{jn^::Rn{_xOqjoGG:R1R:1x:/OOGj}G{:R}1on{rnO{<1G4R{jjr:<{<RGGRn{<OnD11:nxrbOOrYqqO)^Gr<qx<=4O1jhoI<{qn<:{^<GnPR{ox{:jo:Gn,11xnRG^R:j1x<qxoYGORj4Gx::Go<Gxz2G<e{1Rn{G1W{{xn_:OxRx4qxoGa^Rjj<rnq11Gn1:1O<^xO6<qG1Rq{OnG4<11j-rOOjrqojoq^4rxqr<O4jRG8raG{:r{:joR^.}q1x<1G:Rx{cxOj:nnrOO^{<n^:XoOGj<r^{GGjjnRrrO{<<GO::OO^<yx1*RqR>jO:<OR<O4RRjOq^j4G1:n1r<Ox:<{O1jjnr:O1<<O^o1Gxyo{oxrrGO^^jxJqR<jGGR:vRm:{1x_:RoR^{5{R?o<^:3B{Oxj{On{xOq:^GR4RGjorrqO<n4rR:{<^O4O1Gn::1x{x::}on^.{<j{xoqoo:jExGOj<G4:^1GoR1{<xR:xor4xfq{nnGr<RO{oxGq:<1Ooo1^<1:R4jOrjO{<Gxx::oOGjuGGn4^1qj1rrqo<xGo::Or^<cx1Q6xR4{xxjOooO4n(p{Ox4qO1:jxr<Ox<_oqoNGO{j1^xo:O^jGqR1{qn<41RnjxxbqOnGr<Oq^nROj4rGGO%x{Gx:q1xqrrqo<:HR1qxn:RqG<{RGRoj:rO :1<n<:xO_qrq4oAGjR^{O^x4{1OnjrGxrxGq:^{^oR:nRxqqnOGG{.r{1<OGORGj:r1j<xn:<ox^o4B{RxGr^Ox{2n(qjoGG:oG^rGGR<rrrnO1<qGNnqox^j,O{jnG{{xq:sq^o^Gx{:j^n4q{orG1r4OO^j4G1:n1r<x::c4O11jGr:O1rrO^R,{GrjqG<:q^O<G1Z41xn4Oxo{^q7n1Gj<GOA^{Gx:q1xq:RO^<x4oR4jOG14^{xn;:Or1x4qx<G4rRjn^rR:O<qm:Rq{jrRqj1qnjrGO:^14<1x1<oOOj<R4:11j<1x{4xx:mon^OponOnrr<Ox^nQRq:o4G<Rx{w1q1UnOG:)G{<xx:yxGr4O:<jx1:xox^ZLO4RG<1{nRx:OR1dnx:jOG^:OGo{GxRoOO<^4G1:n11:{rxqq{o:GqRjO1<n4xR(jO{R14nO:jorG{4<qOo4GGR:j1R:1Gnor^O4{Gxjq1o<Gx<j^R4RROo:^<.<{xn2jqjgrO<x<{Gj:nO%^O!j1Gn::1r:qx4&1RnjrGO:r^o{^xG4Rx{mxn:Oooj<r1q <O4j^:^qYj1:<xG<ROjjxGn{njrrOq{&x1qjoGG:oG^rGGR<xrroqj^{xR:<ox^bCO{jnGjjr1^<4418nO:jjOr{q<<oGRRj{x^jGo1:n1r<nGxR::oo^jgq{jn:qnojYq,:{nxR:jO4GR(11x<{GGR:j1x<qxobGORj{Gxnq1o<GxO1^nG^:GO<G1%<{x;^1nnRxOq4<{GGj{jRxGqno<nr:1O<^x4k1Onj{kG:^14j1xjIrOnjn4:noq^:a^{Rn<4jRrj:r1q<rx:4ox^imn1OnoG<R1{YxOqjxor4q:^rxn:JoOGj*G{:x1nUrx^zun{jnG::n^q:q^<{1::jO{^:!11<RnR<jx: :<oqG1R:{rnq:<1{jGr:O1<<4xR!1O{jqG<{41R<jx1O1:x{:Ro{j1nxqxo>GO^1^^5n1rnnrjOR<n4x1OxjxFOo<:G^ROn{x<O{<j4qk^O)^RMj1Gn:1GjrnG:<GrGnR1{qnA4q1njJr{Oj<G4:GRG:R1nGxR:xoOj:xRq<<xGS^q^2JOnnnx:{Ox^G4o{{j<:j<x^osj1ojGGj_n{:x1:<x1roq1o0R11rj_rrqO<Onq:jOG^1:41onjrzOr^j4^1:n1r<O14^4O1jjGrnO1<o4xR<rrrjqG<:G^R<jnxfqOxxG^Rnj1x<qxo?GORj4:xr:so<G{A?{Oxj:GnOGRHq{xn>:OOA^G4:<:n<:{Ob<qvj1^n:n1x^^x4^1OR)rGro^1^<ojjwrxOj<<4:G1j<j R:<OGURG{<r1qo<xqpRO{}qoq:<1G<wO{LxqqjoORnR1{<xx:{oOG{KG{:r}:<o1^fyO{jnG::o1>4dx1<nO:{OG^:A1R<G<rBOr^j<q1:jGr<OxGr4OR*jGr:O1<<4xsX18rjqo<:oOR<j1xDqOOrGGRjj1x<qxoJGO4j1jx::Go<G12t64xjxGojG1T:{xn<:O:R^G4xRxn<:ROY:^mj1Gn::1qn^x4O1OnRrGOj^1<<Grj0rjOjo^4:4nj<rx{^<OG^RGjrr1q<<x<QO:jjxrq:ooG<^4{ejO11oGGRR1{nxxj<oO^jO<{rn<:<Oq^.={{j1Grno1^xIx1RnO{jOG<xGo1<j4r_nP^j4G1:{1rROx<q4OR^jG{nO1oOGxRHj1rjq<<:41R<{jx1qOooGGGqj1x<qxOG^1Rj{jx:jto<Gx)X1:oG:GO^G1<^{xnp:Ooj1bI:1on<roO,^:6jRGn1:1Ox^xo:1Oj^rGO:o^4<R4jerOOj<G4:&1{<rxqq<OG^RGR^r1r<OqG2R{jjxrq::4G< j{oxO:<oGqoR1{<xx:5OrGjCn{:x1:<oR^C^O4nnGr4o1<o;xROnO:jx4^r4:1<nxrdOO^j^G1jn1r1Ox<x4O4qjGn:q4<<G<R+{arjqn<:^17njxxxqOoOGGGrj1x<rOo=^4Rj{^x:q1o<<xQx{Onq:GO^G1^n{x{!x4oj^{Y:1rn<j1O_<:nR1Gj<:1Or^x4P1O{jr:O:<x4<ROjtnrOjo<^o11{4rxqj<O4jRG{xnnq<o:G&aGjjxGq:OsGjRx{RxO::oGG:R1{<j4:UOGGj44{:x1:<ox^<EO1OnG::o1^OwxRt4::{On^:4n1<j<r!rO<R4GR4n1jGOx:G4OR1jRr:q:<<O<RYjOrjrG<r41R1jxxxqO:RGG x{rx<:oo*O:Rj{Gx:rkOoGx6j{Ox{:Go:G14O1<n6r^ojq<6:{1n<rjq:^O4x1G1G:1O<^x4.RnnjrjO:<j4<1jjCxOqj<GG411Txrxqx<OG1m4j:x:q<r<G,ROjjjGr^<1G1Rx{xxOnRoG^x4O{<no:?o:GjUG{:j;:1ox^jDO_nnG::o1<OnF1Ej^:jx<^:N11<jjxqOq<x4GR:n1r<Ox<?4x1jjjr:qj<<4jR7{OxxqGo441^jjxxxqO<jGRR:{ox<:^oiG:Rj{GxRq1ojGxU_{Oxj:Gq:G{c<1Gnu:1ojo{+:R1j<:xO:^O4<1G1n:1qO<14(1Rnj1oO:^14<1xjxrOqO<G4:11j1rxxcoR4jRjj:xRq<<{GSGO1jxG:G<1qGRx{GxO:1O<G:*r{<R<:#oOGjGG14x1:Rox^n}O4RnGrxqo^<4O1pR::jOG^:G;1onxr{OO^{4G1:n1xO:O<mG<1jH<r:O1<<GjROjOxnqGr<41R<jxxhO2<jG{R:{{x<qjo&^OTG{GnGq1rxGxwn{On1r{o:^r2<G<nv:OojoG4R{1nR:xOn^O<R1GjxrKO<<O4W1:njrGO:oz4x1xj{rO:o<G4:11{Ox^qco<4j^<j:r1q<ojjORO{nxGj4<1G<Rx{MR4q{o{G:?{{<xj:=OO<<NG1Gx1jjox^nYO11no::Or^<<q12nO:j:G<1m11RnxrnOOq:4G(:jrr<qo<TG41jjOr:q1<o4xRxjO{:qGo^41v<{1x_:*<j^aR:jRx<qxn^GOeq{Gxrq1o<GxGz^:xj:{o:^r)<44nPxOq4^G4^{1nR:xxR^O4j1:n:r:O<OG45R4njjGq<^1411xR1rOno<G<:)Oj<x<qfOq4j<Gj:n0:j<xGnROprxGq:<1<<i:{zn4qjo{G:4x{<jxx4oq^qQG1^x1nOox<}4x{jnj::qx^<4o1snOxqOG<;u111nxrGOO^jG11:jqr<Ox<e4O1j1Gn<O1<{4xRrjOjqqGO:GGR<{^xcqR<jooR:1>xrqxoxGO<r{Gx:q1o<GR=E14xj:^o:^^w<Sxn{:OOq^G4r{11j:xr!opIj1{n:{jO<^j4*4O{jrGq^^1G^1x4(rOq1o^4:Rxj<1<qy<O4j4G1Gr1:.<xGjROpRxG:xo^G<Kq{t1:qjoGG:4I{oxx:1oOG{zG{:x1rOOO^&4o{jR<::o1^<4jR{nOrjOGqqi11<nxr=oI^j411:j1r<Oj<DGOR^jGx^O1:x4xRjjOx1:1<:GxR<4<x5qO<j<GzGj1nKqxojGO^R{GnxrFo<^qJa{:xj:Go:<J_1{xn1:O:n^GQ:{1jOrjOV<oaj1<n::1O<<jnO1OjjrG:4^14<1xj0<<Oj<14:R1j<rjq&oOGRRG{^r1nj<xGjROjjnRq:oxG<Rx{5xOqjqGG{R11-xx:joOoq2GR:nq:<OO^?4G{j1o::q8<rsx1{nOnoOG^:F11<njr.q<^j4G1:j4r<qjnR4ORnjG{oO1<<4x4Y^:rj:4<:G{R<{jx=rOn1GGgqj1n^qxo:GO;j^jx::jo<^j/f1oxjr<<oG14^{x1{:Ooj^GG:ROn<rrOE<o;jG^n:x1qp^x4R1OjnrG:{^1G<R<j;x<Oj:^4:R{j<xj:G<OGnRG{jr1q<<x<f_4jjn4q:o{G<^{{vn::<oG^:R14Oxx:&oO^1R^{:nR:<on^wSO{jnGxGo1<^2xR4nO:1OG<:4x1<j:rlx{^jG41:n1xqOx<j4ORxjGrxO1<<GjR*{^rjqG<:41R<1xxnqOorGG>oj1jRqxqu^<Rj{Rx::no<o{EP1:j::GOOG1^R{xnX:Ooj^ni:1{n<:xO_^x7jR<jq:1q<^xG<1OnjrG::nA4<RxjsxOOj:o4:58Oxrx:4<Oo1RGj:r1:OOGGH}:jjx<q:<1G<Rx1qxO:joG^xR1{OxxrXonGj44{:{1:<Ox^A4:RqnGr:o1<:Ix1fnOxjOq^:411<jxrSxr^jG<Rrn1xoOx:G4O1jjGxx:O<<GjR_j:rjqG<:41qojxn5qOo1GGRxj1n<reo?^oRj{rx::1o<^j4n{Onj:GOjG1l<{x{Brroj<G5:11n<j{Oy<:4:1Gjr:1xO^x4T1Oj1xxO:og4<1jj%rOOj<G^^11{<rx:G<O41RG{:nxq<orGE4<jjnGq:OMGxRx1-xOrWoGG:R1R<nr:XOOGj4G{:R4:<Oj<G%O1{nGjxo1^<2xRGnj:jq<^:4v1<nxrZOOj:4GR:n1xOOx<G4ORjGjr:q{<<<4R&{OrjqGr:4R74jxxRqO<jGGR:^xxo:ooiGORj{^x:q11/GxBr{Onq:GoxG1t<^{n*rMoj^G.:{1n<xxoR^O4O1GjG:1:R^x^_i4njrjO:<:4<4{jZx::q<GG^114qrxqc<O4jRRj:xxq<<xGER1jj{GrG<1^PRx14xOrOoGo:41{<nO:=x<Gj/<{:jTrnox^{kOGOnG::o1o<G41(j^:jOR^:o41<jjx<OO<x4G1xn1r<OxoG4{1j{4r:n^<<4xRS{:x:qGo:41^Ojxx3qOo1G1R:{Rx<njodGORj{GrGq1O4Gx44{Ox1:GO:<<(<1On(jjoj^R-:Rvnr:xO{^OoO1Gn::1:<^n4lR^njrRO::44<RjjjrOqx<Gox11j<rx:GOG4jy4j:j:q<<xGd_:{SxG::<1OORx{exO:1R:G:CR{<{<:&oOGjXGO<x1r4ox<4_O{1nGr:na^o4O15R1:jOR^:G71Onxr{OOqr4G1:n1n<O{<%G^1jjRr:xx<<^xR<jOxrqGoo414:jxnc:{<jG1R:lxx<:qo_oO4<{Gn<q1OGGx7x{Oxjrxo:^ny<{nn8:OojoGqx{1j4:xO{^O<^1G{:dQO<<q4FR^nj14O:<1q11xjjrOr<<GGo11R<{rq)oG4j^cj:{:q<<xq/Rq{OxG:<<1G<Rx{J4Gq{o:G:R1{<xn:2O:xn+G{Rx1r:ox^/vORjG{::Oo^<441;Rr:jq<o</11jnx{GOO^j4GRx{nr<q^<&4q1jjGr:O1o44xRqjOxoqG<:41R<{nxNqx<jGGR:{Fx<:xO4GORR{GRoq1o:GxBO{{x{:Oo:^<_<{nnS:roj^GOj{1n<:xO^^OPj1Gn:x^O<^x4B1:njrGO:^1Gr1xjXrOOR<G4:11jxx4q4<n4jR{j:rRq<<nG=RO^;xGq:<1GqRx{PxO:jnjG:Q4{<j4:tonGj3:{RxR:rox^{fO{{nG:xo1^<O11)nO:jOo^:F11<nxxoOO^j4G1nn1r<Oxo!q{1jjor:rx<<4RRBjOx<qG<{41Rqjxx%qOOj^:R:{^x<qRo6<ORj{Gj4q1oxGx(^{Oxj:Gq:<nD<1TnK:jojoG&:{1n::xOO^O4G1Gn::1:<<^4S1jnjr:O:<Z4<1xO:rOq4<G4111jqrxr3n:4jRqj:x4q<rqG)ROGRxGq1<1GqRx{KxOrjj<G:z<{<nh:sx^Gj4G<Gx1:rox<^8O1GnGx:{+^<JR1=nr:jxR^:G1oOnxroOO<44GGIn1n<{j<V4n1jjqr:qr<<^x4GjOx4qG<{41GxjxxOq{<{GrR:{ox<qnoWGqRj{GCjq1o<GxJ^{Oxj:Go:r^D<{Rnc:{oj^^.:R1GO:xOo^OVR1GPo:1:<xj4+1nnjrqO:on4<>x1GrOq4<G4{11RxrxqO<{4{Rrj:xqq<<nGhRxjjxG{j<1G<Rx{^xOqjoGG:4^{<xx:SoxGjaG{:x1rrox^2_O14nG::o1^<O11_nO:jOO^: 11<nxRoOO<44G1Rn1roOx<O4{1{jqr:q{<<4nRhjxrjqGo{41R<jxxvqO<jGGR:1^x<qxo/GqRj{Gx:q1OrGx}6{Ox1:Go:G1S<^1n0:Ooj^oU:{1n<rxjx^OiR1G{q:1Or^x4O1{n{rqO:<y4<1nj=rnOj<GG{11j<rxq.<O4jRGj:n^q<<xGPRqjjxGq:<1^rRx{sxOqRoGG:R1{<nR:MoOGjd<{:x1:<oxr<2O{jnG:no1^<mxRWGd:jOo^:4<1<nRr Oj<^4^1{n1rjOx<44O1RjGr::^<<4xRwjOrjqG<:41FrjxxeqO<{GGR:j1x<{1owGORj{ox:q1o<^xOx{OxR:Gq=G1wr{xnO:{o{^qS:1xn<:nO#^r0j1Gj{:1O<^x4k1OnjrGO:o^4<1xjFrqOj<G4:11G:rxqk<O4RRGj:r1:<n<G+Rrjjj<q:o^G<aL{qxq:4oG^OR1{oxx:^oOGj4q{:x1:<ox^B!O{jnGr{o1^<vx14nO:jOG^:qG1<nxr5Or^j4G1:j1R1Ox<^4O^1jGr{O1<xG4R4jnrjqj<:4RR<j1xJqOO4GGR:j1x<qxoeGORj1qx:q1o<Gny/{Oxj:GO{G1(<{xnG:Ooj^GH:<Gn<:xOd^rXj1Gn:r1j1^x4^1ORorGO{^14xR4j4rnOj<O4:1Rj<x^qJ<O^4RGj:r1q<<xGzROjjnqq:<1G<Rn{sxOqjoG^{R1{<xx:OoOGjCG{:j^:<ox^zS{{jnG::o1<r x1enOr<OG^:%11<jRrBOO^j4n1:n1r<Oxoo4O1jjGrnO1<<4xR&{nrjqG<:GlR<jxxPqOnEGGR:j1xqqxoJGOuj^jx::4o<qn>d{nxj::oRGR_r{xn4:Oo{^G_1{1n<rRO ^Olj1Gn::1O<^xGo1OnjrGOr^14<1xjAxnOj<G4:Rfj<rxq2<O^4RGj:r1qq<xGvROjj!Oq:<1G<R{{-xOqjoG^{R1{<xx:ooOGj.G1:4::<o{^+4n{jnq::O<^nan1onOr4OG^rH11xnxrDqn^j4G1:n1r<Ox<U4O64jGr:O1<o4xRAjOrj{O<:41R<j{x_qO<jGGF{j1x<qxoGGORj{Gx:r^o<GxgX{rxj:Go:G14r{xn%:OO4^Gi:{1j<R<O_^r jG{n:r^O<<,4q1qj4rGO:^14o1xjrrOOjoq4:11j<rnqy<O4jRG{{r1q<<xGHROjjxGq:O^G<Rx{ex:qjoGG:R1^:xx:DoOGR G{:x1:<OR^-JO{jno::o1^<(xRonO:jOG<GH11<nxrXqn^j4G1:jOr<Ox<c4OM4jGr:O1<{4xR3jOrj:q<:41R<jRxXqO<j^GOGj1xqqxOnGO,4{Gx1:oooGR=w{rxj:^o:^xi<{xjo:Ooj^G2:{1n<:xOm<nhj1Gn::RO<^x4Z1O{4rGO:^14O1xj2rOOjxO4:11j<r{qv<O4jRG{{r1q<<xG^ROjjxGq:O^G<Rx{>xjqjoGG:R11rxx:YoO^^bG{:x1:<OR^38O{jnx::o1^<.xRonO:jOG<4(11<nxrIqn^j4G1:j^r<Ox<Z4Oa4jGr:O1<14xR-jOrj:q<:41R<j1x&qO<j^GOGj1xqqxqOGOX4{Gx:oao<G{,-{:xj:Go:G1oG{nn+:Oo{^G?:{1nqrxO3^O(jO1n::1O<^x4<1OnjrGnox{:x<Rj4rOOj<G4:11<<Ron?<OG^RGj:r1jOxn:rO<G1441R<1G{Rx{*xOj<jq:{o4<B4^1<nnr1#G{{x1:<ox:<O1<44R1{oR^<dx1%nO:jOGO1<11<jBr OO^jOOoqGoRn{Oxo4OR4jGr:O1:x:jo4^^M4q^<:41R<jxxAqOq_OGRrj1x<qxoKGORj4OO:q1o{GxJ+{ORoRXnjrqOq^nG<Roj1^G4q{1n<:xnJxGO{<o4{RO{^xOq<<nG11Oj{nO::1xjOrOOj<GOn<R^:RL{4nG4{RGj:r1q<<xxP<j?jxGqn<1G<RxGG1{n1o^G:R1{<xx:SoOOx<G{:n4:<ox^(<1o44q:ro1^<=x18nOOj{4q:?11xnxr+OOqR:4o<G{uOr{<k4:1jjGr:j^:{4x/ojOrjqG:n:{Ok^r4Gjrn4r^O{^^4G{{noq4O4<n4:1{n{r:q<{qxj:Go:G1t<ox4O<Ooj^nZ:{1n<{LjRrr:4ooS<R{{qx14p1nnjrGO:rG:^^G4^1jOj<o4:11j<1{1ox:4jRoj:r1q<rj:ooxj{xGq:<1G<Rx4A3onjoG^GR1{<xxjrj<rjqq<jR^RGn1roOx{{nG::o1^<+x1TRxjjOG^1+11<nx{:{ox:qO<{^ar<On<d4O1j4<r:qo<<4xR(4j+4{onj:{OORjx4qO<jGGR:j1G<j4r0GqRj{Gx:q1o<GxGj4Oxj:oo:G1S<4n4<1xoj^ov:{1n<jjjRx1fj1On::1O<:{qrO_G4rGqG^14<1x4<Rn1<nOono{^VEr1Gqr4jRnj:r1q<r1:oO1<m11{rnf:rOO{ x{qjoGG:<1^o4O1ojxxTOq{rx1:<ox^0-O{jnG<:o1^x&x1.nO1OxnxOqG<r^GruOq^j4G1:eor<q4<F4O1jG:_x{{n4Oj^q%:rjqO<:41R<414r1On4GGFGj1x<qxx^roq4<<;n1^xq:nO1<rxj:ro:G1l<<>GGRojrqxon^<n<:1Oc^OyjG<G<S^jr^x4:1OnjrGnnx^:%<RG^6x{4xO4r11j<rxq?<O4j^qE:r1r1<xGzRO^<4O1jn1o1GrRR4{R^jroOq0<^8j1jjox<^7^n4{R4:rr4qr<R4qRj:{q^q^<<R^j^rxOx<o4r1xj<rrOR<q1:j1r<Ox<yoro:GnW:14::qRO^Gr*41vxjqROG^14^qOoqGGR:j1R:{Rj:rxo^<<tr11j<:RO<{q&no<q+{nxq:<rxjooj^rb:{1n<{x{Grn:G<n4{LoO<^{4y1Onj{<jrnp4o1xj?rOOj<G4:gG/<rxqO<O4jRG4:dq{qno:oO:jjxOq:<1G<<1^o41RCo^G:R1{<xx:!oOOW<G{:nj:<ox^3ox<4GxRjnOqoqO<r4{RxjRr{qjo:n{r4OO<:4G1:n11:{jx4:<oR^GRr1lxr::o^^Rrj::<:41R<4:4o1^x1:qOxG43r1njo:nOx^om{jrnrx^qE<o4oR>jjG1Mr{xn6:Ox^x<O{<^GG:xO1^OXj1GzOK^{4rjqoo:DRRq{rn^qro:G^RnOj<R4:11j<11{Rx{:^o1G{Rw{on^:1o:^n4rq:o{G<Rx{01:1nj<:jO^<OR{1r{&r4oG<4GO1rjO^M44{jnG::rRxGO{<:GoR1nGxqqqoGG1r4OO^j4G1:n1r<r::/4ORrjGr:O1:q:roj^o+1jox{:ROrGRk1{rn4GGl4j1x<qxrq:nq?4x;{1qnnrGq<{On/:Go:G1oZ<^G^Rxo{RNxj%Rt1{4noEn<n1Gnr:1O<^xoG1rnjr^O:^14<1xjvrOj,:G4r11j<rxq&<O4jGR::r1qj<xG8RO4j441nnqr:O^^R4<qjoqG:R1{<RRj<nRrr^<{rx1:<ox^V#OojRr<:o1<<,x1*nO15jqn+:G^qG1 G{oxqqqGnG{,X{rnG<r1jjOr:O1<<OOor^<64qG<{41R<jx1r1<nx:qOxjRx<qxoyGORjrGR{n1o<^nT){Oxjjnjo:ROn^R><R:n{x3qn<14oRjjox<ORonn:r4O<^x4po<G4>rO:<:4<1xjJ{R{rx^qRo^40Rn{Gxn::RGjjr1q<<xOjon^G4Oq:O<G<Rx{L1:{{nor^Oo<O4rRoj<rEoO<xJRRGj{xVOq<14qROj4x{5x1:nO:jOGqnORoQGORGjqrRq{1:j:r<Ox<EOn^oNrXxjRx::^oo^<4&q^<:41R<jxxsqO:oOGRrj1x<qxo_GORjROO:qRo<GxBK{Oxj:GqEO1}<1pn3:Oojq^On<44rR:{<^q}j1Gn::1O<RxOGGOnjrGO:^14<1njVrOOj<G4:11j<{xq5<x4jRGj:1^1GnR:{RO{4xGq:<1:qOr^j4o11oGG1R1{<xx{%nqr1Oq<OGG:<OG^fFO{jVO1{{Ox:o{<r^(R4OG^jb11<nx{1jqxrqq1rn1r<Ox<%4O1jRG{:O1<n4xR+jO1n1:x{r!O.Gn4rqOo^GGR:j1R:{Rj:rx^1<4GIq1orGx(,{ORo1RnrroOr{xjd:Ooj^G<x^R4qRojqx:qnoqGORGxqxrqjooG1joO:<:4<1xjB{R{xnG:{OGtORR{qxq:xRGj1r1q<<xO4or<g}n11n^G<44{PxOqjj<:xqO^o4{R^nnxXOn^j1:n^:rOr^:471onnr^O:^{4^1r:{orjx{<<j{q1oGnqn4GR<n1r<Oxr^qn<R^Ov4{{nGo{oR^Gun1<<rnRG4n4RG{Gx4vq^qjRx<qxovGORj{Gj<n1o<G{I#{Oxj{on{xGE<{{n3:Ooj:Oqq<1no:xO)^Oyj1Gn:j:x<^n431OnjrGO:^14<1xj-r{Oj<G4:^4^^,:{1xnqROOj:x^q<<xG?<GG{u<{{nxG<,o{0xOqjrorqOx<^4j{knR:RO{^{G2:oox^X>O{jnG:::jR<*n1=nO:jOG^:/1j<Rrr*O1^j4G1:4_g^{1x4:xoo^4!OO1<r4xR%jO{R14n<:{OOjxnOqO<jGG<j^^4j11x^rxO1<44^1^x:rjO4<<4RRGnrx.Or<:4^RRo{^Ge:{1n<:xOWGO<n1Gnj:1O<^xoOooGx2OO:<^4<1xj,1O{nxn:OOGj<xTqw<O4j^o^xk^{on1:oRqjjxGq:<1G<RxGr1OqjonG:R1{<R11oj1xz<o<q4xR^jj^4vO{jnG::o1^<41xYnOr^OG^:b1G:G^?^{Ox:q^O4nRr<Ox<}4O1j<G&YG1<<41R>jOrjjq:j:qO4jnx0qO<jGGR:j1j<nxoJG{Rj{Gx:{Gj^r4Oq<G441O{<^^L<{xnu1<o{^Og:{1n<:ROB<OqO1Gnj:1jj^x441O1j{4O:<G4<4qjU{ OjqGoq11j:rxRj<OO:RGR:{{q<<1GyRrjj11q:o1:1Rx{<xO{qoGGnR1R<4j:YonGja<{:4^:<OH1oYO14nGr<o1^o+x14nOrV^o^:V11<jOrgOq^j4G<nn1rrOx<*4O1jjGn:12<<4RRZjnrjqq<:^1OOjxxoqOo4GGo:j1j<rjo=GnRj{qx:rOo<GxG<{On4:GoxG1 n{xna1<o{^x6:{1n<:{O!<OqO1GjB:1:^^x4o1OjjRjO:<O4<4oj-rjOjoG:G11jjrxnn<OG^RG{:jqq<<1GDqojjxxq:<1^oRx{:xOq{oGG:R1R<n4:do1Gjpx{:jG:<qx^O O1<nGr6o1n:vxRGj<:jOn^:4O1<nxr.OO<^4GRGn1r<Ox<<4O4jj:r:q:<<:GR_<4rjqG:q4RRRjxx4qO<jGG4:1<x<:oo_^4Rj1Ox:r1oRGxhn{Onq:G{qG1G<RqnZr4oj^{N:Y4n<:xqo^O4:1Gn::1O<^x^.Rqnjr1O:<x4<1Rj2nO::<GG<11{(rx1G<OG1xoj:xnq<o{G;ROjjjG:{<1^4Rx{{xOx:oG^x&r{<n::VrjGj_G{:jS:rox^R&OGGnG::o1<O4{1NjO:jx:^:I11<nxr{OO<r4GR:n1r<Ox<0G{1jj{r:O1<<4jR+{OR1q^oG41O4jxxnqOqj^RR:{:x<x1o(O<Rj1<j^q1oRGxo7{Oxj:Gq:^10<1onhr4oj:rY:RWj::xOj^O:{1Gn::1qO<R4FR^njRoO:^14<Rj{{rOqx<Gr/11j<rx:G1j4j*4j:{_q<<xG.ROqxxG:^<1^^Rx{GxO:jOUG:h:{<jR:pO4GjPGR^x1:Rox^45O{jnGx:oR^<4o1.j4:jqO^:G11xnxrnOO<q4GOjn1xOqR<EGG1jjxr:O1<<4xXxjOxrqG<r41Rrjx{pno<jGRR:^Ox<r:oDGO^n{^nOq1ooGxB){Ojjrxo:^ju<1:ncrxojoG4r{1jG:xO1^O:n1G{:rfO<<:48R<njnoO:^1G{1xjRrOOj<G4:111<xoq(oo4js4j:x^q<Ox^oRO{nxG:q<1rORx1GorqjOGG:44{<xx:&qO<ODG1:x1r<oxoj_O11n:::OR^<<^1 nO:jq<^Rs1ROnxjrOO^j4GRx{Gr<q{<J<R1jjGr:O1oG4x_MjOxRqG<:41R<14xI:<<jGGR:{&x<:xnGGqlr{G4oq1OGGx^tR4xj:Ro:OGX<4:n5r:q4^G4O{1s<:xO-^OGj1On:rjO<<:4K^{njx<:H^1G^1x^:rOOj<GGxRnj<xxqIjq4jRGj:nb:j<x^4RO<<xGq:<1^O4G{Hn:qj{^G:R1{<xxrooO^x)G1xx1:Oox<f4o{jnR::x{^<4:1)j:x^OG<O/1^<nxrpOOoj4x1:jjr<q:<yO{1j{<xGO1o^4xq4jOrjqGox^OR<{xxgrR<jGGR:1=<xqxO4GOq{{Gx:q1OO{*pz1:xjxno:G1?<{xo1:OOx^G4x{1nO:xqK<wtj1Rn:n^O<<:4k1O{<rGqO^14o1xjUrO:joR4:Rjj<x:q.ox4j4G{{r1:G<xG1ROoVxG:xO4G<Zr{cx1qjoGG:R1{nxxrUoOGRXG{nx1n<rr^E4O{j4x::{<^<^x6>nOrjOGrGZ1OonxxGqJ^jG^1:s1r<Ox</^OROjGxrO1oo4x<qjOx1qx<:^MR<<nxAqO<j^<U{j1nqqxj:GORj{Gnx:Go<^1!.<1xj:Go:<z-:{xjo:Oqr^Gi:{1n<^:Ow<qQjRqn:rZO<<xGo1OjjrG:{^1Go1xj_nSOjo^4:1Rj<rxqSOOG^RG{rr1:o<x^<RO1jn{q:oRG<*n{QGxqjO<^4R11OxxxqoOGjeG{:jx:<O{^.uO{jnj:::1q^CxR^nOR<OGnG514<{xrAqr^jOj1:^Rr<qjo:4O(?jG1:O1<<4x4ljjrj:O<:^GR<G4xm::O^GGZ{j14jqxoWGO!11{x:r<o<O^gK{Oxjr<oRG14n{xG::Ooj^G4x1Rn<xGOMj4Hj1Gn::1<1^xG<1O{<rGOx^1G<8GjPxrOjr44:MGj<xj::<O^dRG4:r1q<<x<+yOjjnOq:OGG<o4{(n::{oG^{R1o4xx:coO^14j{:j<:<{O^s)O{jj<r4o1<ndxo:nO:jOG<xn<1<{Gr0::^j4G1:n1{ROno<4OI<jGrxO1o<G-R5{rrjrq<:^GR<{jnJqOOVGGojj1x<qxq/GqRj1Ox:rGo<xjBmROn^:GOjG14:{x{1:OOj<oC:R4n<+jO8<x&jRGjG:1qq^x<n1On{rGO:x44<R1j_rOOj<G4:H1GOrx:<<O^DRGj{r1r<oqGNUxjjnOq:{<G<Ex{jxO:RoG<1R11:xxn_OnGj4o{:4o:<qj^_^O1onGrno1Or}x41nOr1qR^:GG1<41raOO^j^GL<n1x:Oxo<4OGrjGn:1w<<G1Rp{xrjjn<:G1o1jxn^qO:rGGwjj1x<vOo/^qRj1ox::co<Gx4r{qn1:GorG1a<{x{+:Roj<<%:RHn<r1O?oOGo1Gjx:1qO^xr<1Oj1x1O:o44<RGj_rOOj<GG<11{:rxq4<OG4RGR:xLq<o1GDo1jj{^q:O-GoRx1oxOrjoGG:R1R<4j:8OnGj4q{:To:<Oj{O=ORGnGcro1^<*xRG4z:jqr^::O1<nxrQOO^14GR{n1xnOx<G4ORjj<r::G<<oRR}{nrjqGoO41Frjxx4qO<jGG4:{kx<:RoD^nRj1Ox:r1qtGx4o{Oj4:G{qG1G<1on_rnoj<q_:,4n<:xq<^qGG1Gn::1O<^x^WR{njx:O:o<4<1Rj8nO:4<GG111{xrx1G<OG1ixj:noq<o{GmROjjjGr><1^nRx1qxOx:oG^xc4{<jG:HrjGjUG{:j-rOox<r5OGGnG::o1<OvR14{ :jx:^:a11<nxxrOOo^4GgGn1r<Ox< ^^1j{qr:O1<<4jR({OxoqGoj41O4jxnoqOo1^RR:1^x<jxo6GORjRGnGq1OrGx4o{Ow^:GOx^qS<RcnT2qoj^GD:RW1::nqq^Oox1Gn::1qO<r4iR1njMxO:^14<Rjj1rO:o<Gqn11j<rxqsO44jHqj:nqq<<jGekO{oxG:j<1q^Rx1oxO:1O:G:4^{<Rx:poOGjGG{rx1rrox<oTO^^nGrx^O^<G*1/G1:jOG^:GtR{nxxqOOj44G1:n1xOOR<XG11j^xr:O1<<GjRRjOnoqGnR41R<jxxHre<j^qR:1qx<qjoX^OH4{Gnjq1qrGx4o{Oxj:^o:<^J<{nn;:OojoGn^{1jr:xqo^OG;1G{:r4O<<R4sRnnj4OO:oHG:1x{OrOq<<G4:11j<x4qzo{4jRGj:xGq<qxGGRO1^xG17<1onRx1GnnqjOxG:44{<xx:CqOG1DGRWx1rjoxoRLORjj2::qq^<d11K^o:j:G<Jm1R{nxxrOOon4GL:jnr<:<<+4x1j<4r::1nO4xlxjOnOqGq^414<^jxkr4<jGOR:<{x<rxjGGO4q{Gj^q1rRGx5 jcxjrxo:<rC<{jn=rOo1^G4R{1G4:xq:^O41R1n:xOO<:x4}1OnjnGq4^1Gj1x{:rOj^<GGxROj<n^qwn14jRGj:nL:j<x^xRO<{xGq:<1^O4G{ej4qjjxG:R1{<njr:oO<:vGorx1:<ox^d4:{jjx::qx^<.j1UjOxOOG<R51^^nxx:OO<14r1:{Or<nx</4O1j1Gx<O1oj4xY:jOR^qGox^oR<1^x5Rq<jGGR:1sj4qxOxGOGo{Gx:q1OO{_=ZR4xjX^o:G1;<1jj::Oq:^G^4{1n<:xO_<OMjRxn:xxO<^j4uRO{rrGqR^1^r1x{:rOq1<<4:yOj<G<qm<O4j4G{Rr1:j<x^:ROG^xG:xO4G<4^{f41qjoGG:4+1:xxrxoOOoeG{:x1:<xx^441{jjj::o1^<&xG^nOx4OG^:#11OnxrEqR^{G:1:nRr<Ox<P^ORJjGx1O1ox4xC<jOnjq:<:^<R<1zxYRx<j^<C4j1nnqxqqGORj{Gx:rro<<GkD{Oxj:{o:o14J{xj::Oj<^Grk{1jOr1Oe<RFjFGn::1O<ox:G1O{orG:4^1On1x{G^jOjoj4:OOj<rxqho:jGRG1^r1R4<xG_ROjj<8q:OqG<4o{zx:qjOGG1R11jxxjooO<okG}:jx:<qG^vOS{j^^::qW<:2xRrnO{jOG^:A1><njrBqR^jGn1:4or<qj<14O+OjG4_O1<<4xhGjxrj:{<:rOR<jxxv::RGGG4<j1G4qxokGOP11xx:rno<xG25{Oxj:GOjG14{{xj{:Oo1^G4:{Rn<xGOH:ofjRnn:x/Or^xGr1O?jrGO:^1^<Rrj=xROjon4:<oj<xj:l<O^ORG<rr1q<<x^GZ1jjn{q:jOG<Rx{5n:GGoG<<R1<jxx:woO^1x:{:jn:<j^^+SO{jnG4<o1<{yxR{nO:1OG<:OA1o{Gr}:n^jGn1:{VrjOxor4OoijGr:O1O<GxRT{Rrj:n<:x}R<1xxRqOOoGG44j1{GqxO*^{Rj1xx:F(o<<^7K3Oj4:GqmG1^R{x4G:Ooj^R+:Rqn<:xO*^OPjvGGx:1q{^xGr1Oj4rG::ni4<0^jXxROjj:4:R1G1rx::<O<GRG14r1x<:rGHL1jjNrq:nqG<RxYRxqrooGGrR1{<xxxdorGj4n{:jq:<O1^SGORGnGx4o1<{mxoRnOxjOr^:Gq1<{^rN:r^j4GROn1x1Ox<?4O1jjGn:qj<<^<RH1arjqq<:^1RojxnxqOOOGGOxj1nOG{of<4Rj1ox:q1o<<x4^{Ojq:Gq^G1^0{xjGr4oj<1&:1qn<:xO6<:GO1G{o:1O{^x4=1Oj1rOO:oj4<R^j6rOOj<G4111{Rrx:1<O4jRGj:xRq<O^G5ROjjx<q:o1:1Rx1:xOj1oG<4R1}<1r:aO1Gj:G{:Gn:<ox:SYqRGnGxho1^<Ux1?GG:{qO^:+11<nnrvq:nn4GR{n141Ox<74Ozj{4rr:^<<GRRe4{rj:<ox41Nxjx4:qO<jGG#x{qx<r4o+oRRj{Gx:q1OnGx4o{Oj^:Go:G1.<RAnwr:oj^Gk:1ln<:xqr^q4R1Gnr:1O<^x^*1jnjxoO:o44<R1j=nOqG<GGn11{qrxR<<OG1J{j:nGq<xGGpROjjxG:j<1^rRx{)xO:GoGo:f4{<nR:%n1Gjf{{:j3rqox<ODORjnG::o1o<qj1Mjj:jq:^:Oo1<jj^OOOo^4GOrn1r<OxoGnj1j{xr:1O<<4xR3jO^xqGo141EjjxxGqOoj^xR:1^x<nRoa^jRjdGn:q1OrGxox{OG{:GOx^oN<R3n8{Ooj^Gf:R1j{:xqO^OGG1GkR:1qO^j4MR{nj4^O:^14<RjjxrO:<<GrR11j<rx:G1j4jKnj:4Oq<<xGhs:1<xGrG<1o{Rx{bxOqjOqG:4<{<j<:Ao:Gj4G1:x1rroxqR_ORGnGrxOo^<Gm1L5O:jOG^:G1p4nxxOOOoG4G^Rn1xO:G<,G{1j^xr:O1<<GjZ_jOn<qG:<41R<jxnGn:<{^nR:<Ox<qxoy^:46{GjGq1r%GxWZ{Oxjr;o:<<B<R<nI::oj<GG^{1jr:x:o^OGG1G1:rGO<<R4?oGnj%GO:^14o1x{^rO:4<G4x11j<xoqmox4jR^j:r1q<Ox4^RO1dxG:j<1^:RxRNnjqjOOG:4G{<G1:QO:^GCG1{x1:jox^6}O{jj<::q<^<Lx1)nn:jrG<o 1RxnxR:OO:R4G1:jqr<:4<P4q1jjGr::1<j4xbqjOn^qGoj414<j1xZ:{<j^rR:<{x<rxooGO4^{GnRq1qqGxh){:xjrxo:G1k<{xnWxOOO^GGQ{1jj:xOo^OGjRRn:xOO<oG4+o:njx<O{^1G{1x{^rOOj<G^:Rnj<n^q;oR4j41j:nQ4x<x^xRO4GxGq:<1^Ox!{Ej4qjr:G:R1{<njGOoO<:FG41x1:<ox^yxl{jjn::qx^<}x1XnOr1OG<RI11<nxrGOO<jGx1:{<r<{q<sG{1jRGx{O1ox4x^<jO4<qGoxGJR<14xhjO<jGGR:11nRqxOqGO4^{GRRq1OOG{&U11xjRxo:G1#<1j1<:qqo^G<4{1n<:xqG<O7jRjn:#OO<^x4UR:j:rG:^^1G<1xj?rOOj<R4:Toj<noqy<:4jNGjjr1:x<xORRO1^xG:xonG<44{eROqjoGG:41{:xxrqoO<^ZGGRx1rOm%^Y41{j^^::o1^<4j:OnOxoOGrOJ11<nxxGFj^jGj1:^Or<Ox<QG:44jGn^O1xq4xRFjOrjqO<:^oR<1oxsq:<j^G4^j1nxqxqoGO4^{Gx:::o<^1_!1jxj:Go:G14q{xjm:Ooj^GZr{1n<4OO_<<tjRGn:rgO<^xqT1qjnrGOr^14<1x1uxrOjo44:R{j<x1qfOO^^RG{qr1:^<xx<RO{1n:q:o1G<2G{JxOqjoG^rR11oxx:^oO^GYGf:nR:<On^DO1{j{y:::1<qaxR4nORnOGqO!14<njraqq^jOj1:^Rr<rxO>4OR{jG{jO1nj4xVG1crj:<<:O1R<jxx)rOOrGGMxj1nOqxxqGOZ11^x:r4o<xG&p{Oxjr<OOG14:{xG::Ooj^G4x1xn<rRObx1+j1Gn:xbq{^xGO1O{rrGO:^14<{<j7x:Ojo:4:R8j<xxqn<OG{RG4qr1:O<x^G_jjjn<q:r1G<Rx{gjO:^oG^xR11Oxx{qoO^1Lr{:j4:<{n^37O{jj<rjo1<:sxo:nO:jOG<xGk1<jRr%1q^j4G1:{k^xOxoO4OROjGr:O1<<j:Rs{:rj::<:GfR<{xn{qOo{GG4{j1nOqxo-<VRj1<x:qRo<GxDuROj<:GOxG14O{xj<:Oqj^qw:Rln<rjOsnxhjR<nx:1qq^x4:1OnjrGO:o^4<R1j(r:Oj<q4:417^rx:<<O:<RGRXr1x<:rGZQxjjRjq:jRG<GxR#xOrBoGOjR1<jxxrGq4Gj4q{:R1:<ox^ GO1qnGr{o1<r6x^qnOr1qr^:G<1<^Gr.OO^jG<ROn1xnOxqr4O1jjGxxOR<<^GR*^1rjqG<:^BRrjxnrqO:oGGR:j1x<O<o&^nRj1nx::po<^x>O{Oj(:GxqG14r{xjG:{oj<ql:G1n<:xO!oOG41Gj{:1qr^xOq1Oj1xOO:o<4<OnjJrOOjo<^G11{nrxRr<O4jRG{xxqq<OGG7O1jjxGq:O0jxRx1rxOq1oGG:R1{<o::JOnGj4n{:nK:<Ox^R_ORmnGx{o1<r6x1,nn:jqq^:3R1<nxr5:O<r4GR{n1xrOxo<4OZj{jr::^<<GRR7<xrj:<o141yxjxx:qO<jGGR:{1x<r4oUGORj{:x:x1r^Gx4q{O4<:G{nG14Oorntr1ojoGg:{1n<xx{G^OG<1G{0:1nn^xGG:jnjxnO:nn4<1xj8x:jO<G^G11<4rxqX<O4jRjj:nOq<O<GeR:jjnG:4<1^nRx4oxOr<oGG:4^{<jG:eoqGjQG{:j1rjox<:aOR<nGrjo1o<G<1yj1:jqx^::{1<{xr1OOo<4G)cn1x{Ox<AGx1{{nr:O1<<4xRU1OxoqGO441B{jxxoqOOj^1R:1qx<r^o_r:Rj1<j4q1O1Gx4^{Oxj:Gq:<+,<R<nbxBojo1k:Rkjq:xqn^O<o1Gn::1qO<s4F}GnjjnO:^14<Rjjorq:r<Go411j<rxqg<j4jzjj:nnq<<xG,RO{CxGr.<1G<Rx{GxO:jOYG:4o{<4q:-O1Gj4<1?x1rjox:lVO{jnGx:q^^<GG1>j1:jnr^:G>1:nxxrOOn{4G1:n1xOr1<4^_1j^xr:O1<<GjRGjOnqqGjD41R<jxnG:q<j^1R:<Ox<qxoXGOWq{GjBq1qMGxmG{Onj:1o:<oN<GrnQr1oj<<+1{1jj:xnS^Odj1G{:xoO<oG4zR1nj1rO:od4x1n{rrO1<<G4:11{Ox{qVOM4jOOj:r1q<ojG1RO1qxGRI<1G<Rx1GnxqjO1G:qG{<xx:goO^j#GR,x1xTox^GiO1jjj::qo^<GR1mj1:jrG^x&1RnnxnxOOrR4G1:{qro:G<u4q1jjGr::1o44x!:jOn<qGoj414<1Oxv:1<j^xR:oGx<:jo{GO4o{GnMq1o<Gx,S1Oxjrjo:G1Q<{Rn/nOO:^GGG{14j:xn<^O41ROn:xrO<<{4?1OnjnG{x^1GR1x{nrOr:<GGxGGjonOq%o:4jRGj:n5:q<x^{RO{1xGq:<1^O4q{Qj<qjO<G:R1{<xxr4oO<q?GROx1:Oox<f4q{jjj::jn^<Go1Jj:xOOGo^L1^<nxr}OOojGx1:{rr<:o<_O{1j{<xxOROK4xO:jOrjqGoxGxR<1qxPRq<jGGR:1?xqqxO1GOq<{Gx:q1OOGnBzRoxjB^o:G1%<{xj<:Oqq^GGq{1nO:xqu<jgjRjn:{{O<oo4,R:j^rG:^^1O<1xj!rO:jx14:;rj<noqPr{4jJ<{jr1rp<xx4ROjjxG:xo<G<4q{)jRqjoGG:4g{rxxr1oOx{>G{:x1rOO{^bGo{j{n::o1^<Vx1{nOxqOGoq_11Onxx&OR^jGj1:1^r<:o<b<OGnjGnGO1O14xo^jOx1R4<:^rR<o<x&qO<j<GRrjRnRqxOnGOo^{Gnxrxo<<OHJoqxj:Go:<hf{{xj{:O{<^G;:{1n<r{Oko4_jRRn::1O<^x4<1O{<rGO:^14<1xjEx:Ojor4:11j<rnq6o:rnRG1Fr1R1<xGCRO1jn4qrOOG<4G{*R{qjO<GRR11{xx64oOGjPG1xjn:<q<^Eq1{jnG::o1<GVxR:nOxOOG^:#11<jRr&qn^j4G1:jvr<Oxor4qTGjGrrO1<<4x45{4rj::<:^<R<{1x+rOojGGd1j1nxqx{<GOL1{jx:roo<^Gp*{Oxj:GoRG14j{xn0:OOS^G^:Rnn<xGOtr1hjR^n:xyqO^xGr1OjRrGO:^1^<ojj?xROjon4:4xj<xj4O<O^ORG{xr1q<<x^Grjjjn{q:OeG<Rx{>n:GGoG<<R11Oxx:toOGjx&{:jq:<qO^TK:{jjG:Ro1<jpx<{nOxoOGO:411<{Gr3xx^j:x1:{gx1Oxor4O^jjGr:O1O<GoRc{Rrj:n<:qoR<{jnxqOOOGGqrj1x<qxOG<}Rj1{x:ROo<Gx>*1:oG:Gq<G1:o{xna:OO1{:%:Rnn<+GOK^ONj1GOO:1q{^xG{1On1rGq:ox4<!Gj#nnOjon4:11{<rx:r<O4{RGj:r1r<o1GY#Rjjnnq:OGG<4x1<xOrooG<4R1o:xxrGqGGj4j{:?x:<ox^%fO1:nGx^o1^<?x14nOr1n^^:Gx1<74r7OO^j^G11n1nlOxoj4O<^jGr:q^<<^qRejqrjqG<:^d4(jxn1qOO4GGR:j1j<qjoE<<RjR}x:{oo<^j+^{qjn:G{eG1v<{xjG:1ojoGX:R4n<:xOkoOG^1G{::1:<^x^j1Oj1xrO:oR4<RjjWrOOjo<4j111Orx:G<O4jRG{xx4q<O{GAa:jjxGq:<1^RRxRpxOrRoGG:R1{<1{:_q<Gj=G{:nv:<OjxRZORnnGr{o1^<*xegG::j:4^:G{1<44r7q:1G4GT:n14oOx<P4OR1<4r::R<<G{RkjOrjrGnx414ojxj4qOqnGG4:<sx<rjopGxRjo4x:r1jOGxGG{Oj1:GqqG1G<<jnpxroj^Ov:o{n<xx{G^OGR1G{n:1:R^x^Ko:njnOO:<G4<OrjMnO{1<G^j111:rxnn<O4j<GjrnRq<O1GTROjjxG:R<1<^Rx{wxOqjoGG:Ox{ojq:)oOGje^{:x1xqox<j5O{1nG:xo1<<q<18{4:j14^:Gx1<nx1LOqoo4G;^n1r<Ox<H:G1{{xr:O1<<4nRC{:4nqGO441q1jxxWqOOj^4Rr1qx<r^o*q{Rj1<n<q1O1Gxq:{Oxj:GOx^1I<RoncnRoj^Gz:{1{t:xqr^OGq1Gn::1O<<R4?RjnjrGO:<04<1x{rrq:^<G4r11j<rxr>o}4jerj:noq<o1Gi4O{OxG:R<1^nRxo<xO:1O,G:4O{<nG:,oOGj5GR<x1r{ox^)zO14nGn:O4^<G^1l41:jOR^:GZRGnxxxOO<R4G1:n1n<{j<F^>1j{jr:rx<<GjrOjOnqqGox41R<jxnG4j<j^1R:10x<qxow^:xG{Gjoq1OOGxK,{OxjGPo:<:I<Rqn6::oj<GBn{1j{:xj{^OGO1G1:x:O<o^4!Gxnj=xO:oX4O1x{xrOnj<G4:111<r{qcOU4j)jj:Roq<oj^rRO1qxGRr<1G<Rx1GxqqjO1G:qO{<xx:pO:,{uGRox1*oox^uUO11jj::qj^<:G1inO:jOG<{E1R1nxx1OO^14GR:j^r<:^<Z^n1j{jr:r1oG4xSrjOjOqGxn41R<1oxfry<jG^R:j1x<rxjGGO4O{GjGq1O:GxG-<:xjrjo:<:6<o1nlr:%G^GG^{14s:xOv^O j<_nrxxO<^x4Q1rnjx<nr^1^41x%qrOOj<G^:Rjj<nqq,O^4j<rj:r1qr<x^1ROj{xGq:<1^Obq{(joqjOqG:R1{<jx:joO<nVGRqx1{nox<GBr{{{G::{O^<cx1ij:x<OGor61RqnxrIOOojGn1:{Rr<:n<=<G1j{<x4O1OO4xPGjOrjqGox^<R<1{xe::<jGGR:1_n:qxq<GO-1{Gx:q1o<^<yaRqxjxOo:G1U<{xR^:Oqn^Gw:{1nO:xqGno!jSGn:x^O<^x4P#OG1rG::^1^<1x4qrOq1<o4rMRj<4nqv<O4jA<{4r1rO<x^^ROjjxGr:O4G<4j{ j:qjq1G:4U1rxxx^oOx<;G{:x1rOOR^FGx{jGx::o1^<4j11nOn4OGndv11<nxr!qq^j^<1:1^r<Ox<T4OW^jGn:O1<<4xR0jOrj{1<r^jR<jxx/qq<jGG4nj1j4qxoGGOR1{Gn:1:o<<O7PooxjrRo:o1<^{xjj:O{x^G4O{1jO{nO%o^=jG<n::1O<oxG:1O{rrG:o^1On1xjhrxOjOF4:1Rj<rxqeo:^qRG1qr1n<<xGERO1jnrq:O{G<4r{VR{qjO<j1R1R<xxR:oOGj+G1xo<:<qn^l:q{jnG::o1jcZxRRnOx{OG^x;1RO^rr*:O^joG1:n1r<:x:R4O*jjGn:O1rn4x;G{nrjr^<:rRR<jxx/::ojGG4xj14jqxosGORj13x:r1o<<jCU{Oxj:GOqG1GG{xn6:Oo{^GB:-4n<xqOl^:Lj1<n:r1j1^xGj1ORnrG:o^14<^xj4npOjo14:11j<rx{j<q^oRGj:r1qo<x^Gqojjnjq:{:G<Rx{PjOq{o^<GR111xx{qoO^14r{:jr:<{G^?BO{jj<:Ro1oY_x4rnO:jOG^:4G1<{<rv:G^j4G1:n1rqOxoq4O1jjGr:O1<<^ORh{xrjqG<:4RR<jxGjqOo1GG,jj1xOqxoz^RR{1ox:qRo<Gx*vROjO:GOnG14q{xj<:Oqj^o>:R4n<r{O/nxsjR<{^:1q:^x4:1OnjrGO:<q4<RRjBrqOj<q4:41{=rx:o<O:<RGjjr1:Oo4G&ejjjnoq:<1G<4x<GxOrGoG^1R1vDxxrGRjGj4r{:jQ:<ox^U4::GnGx%o1<OXx1enOr1,:^:Gq1<jjryOO^j4G:On1xxOxor4O11jGx:q4<<GRRA^^rj::<:<1T^jxnoqOrwGGq;j1nO:jo3^jRjGGx:q1o<<x4:{OjG:GO1G1on{xjGx4oj<r5:oOn<:xO#<:4{1G{#:1r{^x4>1Oj1^:O:oq4<OGj7rOOjo<^!11{1rx:n<O4jRGj:xnq<OUGd4!jjx<q:o1^^Rx1oxOjnoG^1R11Oxn:>OjGjoG{:x1:<qx^{DORGnGr1o1:n7xRGj{:jqr^::R1<nxrYq:ob4Ghvn1RGOx<&4OR1O:r::q<<rGRkjOrj:<1141*1jx{jqO<jGGR:qjx<r!o=<#Rj{<x::1O:Gx4o{O{4:GO1G1/<1{n2rjoj^^,:{1n<xxqO^OGG1Gj1:1q:^x^3R<njx:O:o<4<O1jcx:qj<GGR11G*rxqp<O4jZjj:nOq<<xGJRqjjn<jr<1^{Rx4qxOqjoG<:lx{<j^:#ORGjor{:x1r{ox<xzO1GnG::o1<O-R1-{4:jqq^:m11<{xr<OOoq4G!^n11nOxoG4r1{{1r:1O<<4xR+{:nOqGOo413qjxxCqOOj^:R:1nx<rqo6oGRj1<j<q1qGGx4G{Oxj:GOx^G(<RrnYR1oj^G*:RNn{:x:i^O:<1Gn::1O<^14!?^njnGO:^14<1x&^rO:q<G4:11jOrx:Gjo4j(1j:n^q<<xGk4O^1xGr<<1<kRxGqxO:1ooGr4n{<4n:hoOGj4<RGx1xGox<^pO{jnGx:OR^<G:1t{<:j:1^:GeR1nxxROO<14G1:n1xOqx<*^O1j{<r:O1<<GjRGjOn{qGj,41R<jxx3q1<j<WR:1Rx<qxoDGO^R{Gj<q1o<Gx7G{On1t4o:<nQ<1Rnb:OojoGqx{1{4:xq{^OO^1Gjxr4Ooo:4y^tnjrGO:oPG:1x{RrOqR<G4:111<n^qbOo4j44j:jxq<oj^qRO1jxGR;<1G<Rx1Gxnqjq^G:43{<xx:YO:^4=GRxx1Rjox^8%O{jnO::q{^<Gj18nO:jOGqnv1t4nxrfOO^14GRx^{r<::<_Gn1jjGr::1nO4xD1jOnxqGrR41uOj{x4ro<jrRR:j1x<:jOOGO4j{Gnnq1o<GxGW1{xjxGo:<1&<zOn r:Oq^GGr{1Gj:xON^O411Rn:ntO<<j4!1Onjx<qr^1^q1x{GrOOj<G4:!:j<nxqIOr4jRGj:r1nq<x^1ROjjxGqx<1^Oqr{%joqjOqG:R1{<jxRGoO<n_GRqx1{nox<GZr{{{G::{4^<7x1 j:rqOGorN1Rqnxr6OOoj4R1:{Rr<:n<J<G1j{<x1O1OO4xO:jOrjqGoxG1R<1{xJ11<jGGR:13x{qxq<GOf1{Gx:q1o<<4b/RqxjxOo:G1%<{xR^:Oqn^G+:{1nO:xqGnobjtGn:x^O<^x4W3OG1rG::^1^<1x4qrOq1<o4r+Rj<{+qM<O4ji<{:r1rO<x^^ROjjxGr:ojG<4j{)j:qjq1G:4W1<xxx^oO^1BG{:x1rOqG^cGx{jGx::o1^<4jRrnOn4OG<x711<nxrmq^^j^<1:1^r<Ox<U4OGRjGn:O1<<4xRGjOx1R4<:^RR<{Rx0qO<j<GOxj1joqxq4GOo^{Gnx:4oo<j?Aoqxj:Go:<L4O{x{^:OOR^Gf:{1{<rrO?orhj0on:nxO<<j4j1O1&rGqx^14<1x{GxoOjOq4:OOj<rxqWo:^qRG11r11j<xGsROjjnOq:q4G<GA{_xOqjoG^RR1Roxx:(oOGjaG{:4x:oq<^&SO{jn^::o1oq0xRrnO:1OG^xF1R<G<rZq1^jr41:{qr<Oxjj4OHGjGn_O1<O4xRM{Rr{:r<:4RR<jxx;rOOOGGMRj1nnqxO<GO4j1<x:roo<<47Hoxxjr<OGG14j{xn::Ooj^G&:1xn<x^OV^Oaj1qn:n1qj^xGr1OG<rGxv^1GOR;jyn7OjOG4:11j<nx1G<O^ORG1Gr1jn<x^Grjjjn{q:jnG<Rx{2n:{OoG<<R1o4xx:KoOGj+{{:j::<qO^aK:{jjGr:o1<{2xGonOxOOG^:411<{<rtOq^j4G1:{1x4Oxox4OtOjGxjO1O<^<RA1Xrj:j<:r{R<1xxnqOOOGG4Gj1n{qxoI^xR{1{x:q1o<Gxu;ROj<:Gq^G14R{xno:Oqj^{v:Rrn<xoOKx:ZjR<nR:1:8^xG^1OnjrG::<O4<zOjKnGOjO14:!}1srx:{<OooRGj:r1:Oo3GZ4<jj{nq:<1G<&j{oxqrnoGO4R1{<xx:iOiGj41{:j{:<ox^TcORrnGxGo1^<Ix1GnOrjOn^:Gq1<Gqr5:a^jG<R{n1x1OxrY4O1jjGn:qO<<^<RC1/rjjr<:^%2GjxnnqOjrGGR:j1nOx1o4<GRj<xx:q1o<^jsj{Ojr:G{IG1J<{xjGxPojoEw:oOn<:xO7^O4n1G{G:1:G^x4G1Ojjx{O:oq4<^rjLnHOjo<4r11{1rxj8<O4jRG1:xrq<O<Gl4djjRrq:O5RjRx1nxOR<oGG:R11Ox1:kqGGjO4{:x1:<Oj^n2ORrnGUro1^<WxRGjn:j:u^:O{1<nxr?OO<P4GtGn1nGOx<G4ORj{Or::q<<^RRL1crjqGO<41=1jxx4qO<jGG4:<Mx<r<o&<eRj1Ox:r1orGx4x{OjO:G{jG14ORonDx4oj^xu:{1n<:xO^^OG:1Gn::1O:^x<Mc4njx1O:xO4<^1jHx:qn<G^o11{qrxq?<O^jR^j:nnq<OqGSGGjjn<qx<1<GRx1GxOqjoG^xx<{<jr:/O:Gj=G{:j;rjoxofPO11nG::o1^<4^1i{^:j:G^:4.1<jxr<OOo:4Goon1n4OxoGGq1j{Rr:n1<<4xRw1On4qGOo4144jxRqqOo1^gR:1jx<RGo8GORj1<n:q1q^Gx:4{Oxj:GOx{<;<RxnuR1oj^Gs:Rfjj:x:4^O:{1Gn::1O<<^42=^njn^O:<34<Rx{^rO::<GOq1114rx:G<x4jIRj:11q<<xG64O{OxGro<1<4RxGqxO:1O1G:4j{<Gn:soOGj4<1{x1x^oxor*O{jnGrx&<^<Gx1t^q:jOG^:GNRjnxn4OOOo4G1:n1r<Oj<&^^1j1^r:qZ<<Gx;^jOn:qGO{4144jxnG:G<j^RR:o:x<qxoP<Ovn{Gjoq1q4Gxoq{On1r<o:<j)<oGn!:Ooj<<4G{1{^:xrr^OVj1Gn:{1Oooq4JYonjrGO:^1Gn1x{xrOOj<G4:11j<WOq4oR4jRGj:rRq<ojrRRO1OxGiG<1G<RxRIxqq{OjG:4:{<y4:BO:^RFGR^x1Rjox^J2O11no::qx^<<^1gnO:jOG<rg1R1nxxjOO^j4G1:{nr<:4<_4O1jjGr:O1<n4xJojOrjqG<r41LO<rx_:j<jxjR:j1x<rx:xGq4G{Gn1q1xnGx4G1nxjrro:xOF<{xnar:O1^GGV{11{:xO=^OIj1:n:x<O<oG4T1OnjrGOr^1Gq1xjMrOO1<G4:2^j<x1qM<q4jRGj:n1qR<x^<RO1sxG:j<1<<I:{_nxqjOOG::G{<njrOoO<4pG1Ux1:<ox^+4{{jj:::OW^<v11z1OjnOG<1Z1<jnxrROOOj^G1:{<r<j<<=rq1j{<rRO1on4x<=jOrjqGO:G)R<14xm:{<jqrR:1*nnqxO:GOq{{Gx:q1OO^R/L1Rxjr:o:G1!<1jnO:OqO^G:_{1n<:xqG^{JjR{n:jqO<^x4*1OxOrGqR^1GR1xjGrOqj<x4:(<j<1rqgo{4je<{Gr1:n<xqeROjjxGr:OoG<44{>n{qjxrG:431Gxxr:oOx<uG{:x1rOO:^*4R{j4^::o1^<4j1RnOxOOGniw11<nxxG?j^jG{1:jQr<Ox<I4OrxjGxRO1oR4xRGjOxj:i<:^<R<1RxV:{<jGGRRj1nnqxo4GORj{Gj::xo<<4/b1{xjrOo:<17x{xjq:Oq^^G:j{1jOxqOf<1)j1xn::1O<^x411O{orGO:^14q1xR*{oOjon4:oOj<n<qHqO^jRG14r1j1<xx4RO{1xxq:O:G<<x{#xOqjqG^{R111xxrxoO:^CG1xnn:<qo^0:q{jnG::q_<1>xRjnO%<OG^:51ROj1r;:^^j:x1:n1r<qjoG4ONxjGx:O1<<4xR=q<rj:j<:^jR<jjxI:OoGGG44j1jrqxOxGORj1Gx:r:o<Gn/U{OxjxGOrG141{xjx:Oqk^GG:1{n<x<O!o7KjOOn:x?O:^xGn1OGqrGO:^14<R<jhnGOj<G4:Rqj<jxxR<O^:RG^Yr1r:<xGt^oj{nRq:<RG<Rx{KjO:joG<oR1R4xxr<oO<j41{:jn:<qq^w:o{j{Gx^o1o4UxR{nOxROG^:441<{:rvOO^j4G1:{1n4Oxo14OpxjGr{O1O<GqRk1<rjr0<:rtR<{jo^qOOnGGBnj1x<qxqSGRRjR4x:r{o<oON01:nG:Gq:G1d{{xnc:OO1<{U:RRn<r^Oe^OkjR<nr:1:O^x4r1OnjrGO:<^4<8rjQn:Oj<G4:11{{rx:{<O4jRGjxr1:<qRG=4GjjlRq:OnG<Ej{:xOrroGq:R1{<xxx-q4Gj4R{:jn:<n4^#4:11nGxOo1noBx1_nOr1qG^:G{1<^GrTOO^jG<R6n1n<Oxj44O1jjGxxqs<<^nRH^1rjqG<:414rjnn{qOO{GGRxj1n<qjoK<GRjRqx:rno<^j4{{Ojr:GnjG1A<{x{TrOoj<RW:Rnn<QjOHoO4:1G{o:1:4^x^11Ojjr<O:ox4<OjjHn^OjqGGr111brxqj<O^nRGR:x!q<OOGH^4jjn<q:<1<4Rx1{xOqjoGG:R1R<3j:)q^Gj4R{:n^:<qx<G0ORrnGxoo1nxgxR%{/:jq1^:^<1<{qrprO^{4G*<n1RnOxxr4O4j{^r::x<<<RRd.<rj:<on4144jxGxqO<jGG4:1ox<rqoa<^RjGrx:rCRxGx41{OG<:Go:G14O:=nAxoojOn>:{1n<:xnw^qGr1G{q:1O<^x4kR{njxjO:^14<1xjJrO{:<^^411j<rxq4<OG1q4j:n:q<{<GBROjjjGnG<R^1Rx1xxO{^oG^xU4{<jo:%j1Gj.G{:j=:nox<jeO4onG::o1^<4718{F:jq1^:-11<nxroOOo^4G1:n1rOOx<>GG1j{xr:OR<<4xR#1OnoqGOD41=jjxn<qOOjGoR:1Ox<rGocxxRj1<nOq1O{Gx=:{Oxj:Go:^O/<R<nb:Ooj^OW:X1R^:xqx^Oq<1GRr:1r<ox4t-Jnj1jO:nR4<Rj{OrO:q<GO:11j<rxrH<14j%{j:nrq<x4Gcg:{OxGr<<1rjRx{-xO:1oqG:4n{<GG:!oOGj4<1nx1xGoxx:)O{jnGrxqx^<Gr1U{^:jOG^:s1j1nxxnOOon4G1xn1x<q^<z^01j44r::r<<GjRrjOnqqGr:41R<jxjNqj<j^{R:1rx<{4od^:+{{Gj<q1{oGx8;{On1:xo:<n*<oGni:Ooj<<4j{1{G:x{:^ONj1Gjx^<O<or4hROnjrGO:^1jG1x{nrO:n<G4x11{<n4qaO,4j4qj:nrq<<xG{RO1qxGqr<1G<RxRvnjqjO{G:4r{<n1:mqO<<YGR^x1rRoxn<aO11n1::qx^<qo1 nO:jOG<G/1D4nxrNOO<o4G4:R{r<:q<Sq11j1Or:O1:^4nW1jOr{qG<:414<1Ox&r<<j<>R:1Gx<rxoGGO4x{GjOq1{^GxGh{1xjxuo:<jL<R{n_:OoR^GGq{1n<:xOp^OGjRxn:x{O<or4c1nnjnGOR^1^^1x{RrO{1<GGxx4j<nxq?or4jRGj:n1:R<x<WRO1jxGx<<1^OX<{AjqqjonG:R1{<nj:{oO<1DG14x1:<ox<Gu{{j{o::Oq^<5x18nOx4OGo:M1mqnxrLOO^jGY1:{jr<Ox<T4:1j{Gj{O1O44xo{jOnxqGox^:R<1:xXjO<jGGR:11nnqxO1GO4x{GRRq1OO^okDRoxjT^o:G1,<1jnO:Oqj^G:/{1n<:xqG<F+j2^n:*RO<^x4SR:{qrG:x^1:j1xj_rOOjOq4rSjj<njq*<:4jvGjxr1r4<x<oRO1xxG:xo1G<4:{K>xqjoGG:41{Oxxr1oO<xIGoxx1x<q4^2G<{j{;:::j^<4x1OnOxrOGnxv1LGnxj*:z^jGR1:jxr<ro<!<ORojGnoO1qR4xO:jOrjqO<:^jR<jxx&qO<j<Goxj1jGqxO1GOd4{Gj:r^o<<:g}R<xjw:o:^1po{xj{:O:G^GGO{11<rGOio^yj<rn:RqO<OxGG1O{rrGr{^1oG1x{Gn^OjO,4:q:j<rxquOO^GRG1Or1rG<xqqRO{1<:q:O{G<qG{_xOqjO<j1R1R<xxnroOGjCG{:R1:oq:^_GO{jnG::o1<nHxRnnO:jOG^:511<GOr4:Z^j4G1:nRr<qjnR4ODqjGGGO1<<4x4MK3r{:{<:^rR<G4x-::<1GG4<j14jqxo;GOd1{xx:rno<O^MF{Oxj:GonG14R{xj{:Ooj^G+:1rn<xGO}^OPj1<n::1q4^xGr1On{rGO:^1^<RRjUxROjon4:8Gj<nx:x<O^oRG14r1R:<x^GRnjjnjq:oOG<Rx{exO:zoG<^R1{<xx:<oOoj<4{:jr:<jG^g^O{j1Gx:o1<RBx^xnOu{OG<x4^1<{OrJnO^j4G1:{1rnOxoj4Oz:jG1RO1oOG=R#1^rj1x<:41R<{jxrqOOxGGqNj1x<qxOG^oRjR4x:ROo<GxWD1:jG:Gq:G1o4{xnX:Ooj4j_:Rxn<xxOZ^:_jRGnr:1qR^xoR1O{:rGqx<O4<lOj#1OOj<G4:;1j1rx:j<O^:RG4Rr1:OoOGb4^jjG^q:<1G<%j{xxOrxoGx/R1{<xxrGOrGjG4{:GO:<ox^b4::GnGx:o1<<sx1_nO:j4(^:Gx1<{xr O:^jGGHGn1xROxOo4Oc:jGr::n<<^ORcjqrjqG<:^1s{jxnjqOO:GGNjj1j<rGoB<GRj11x:-Go<^j4^{Ojr:Gj^G13<{xnQ:{ojoW3:{1n<r^OQOO<n1G{O:1jj^x^<1Onj{4Oro{4<1njKrOOjOG4x111^rx:R<O^aRG1:xRq<OrG_4ojjG4q:O1^^Rx1RxOrnoG<nR1{<n::%qOGj)G{:x1:<qx^jXORjnGx:o1^rsxvHjq:j:G^:G11<Gjr7q:1R4GNrn1xqOx<H4O j{xr::R<<^nRLRGrj:<on414OjxxrqO<jGGwx{Gx<r{oaGRRj{Gx:rzoOGxG<{Ono:Go:G1.<{jn,xqojoO(:{1n<:xOR^OGn1Gn::1OO^xGc4nnjnJO:xn4<+rjLx:q4<G^q114<rxqS<O^jRqj:n{q<OrGW<{jjn<:1<1<<Rxo4xOqjoG^x4x{<jn:Mj1Gj}G{:j!rnoxoGNOo{nG::o1<Ohn1U{r:j{x^:i11<nxnoOqon4GJnn1rOOxoY^41j15r:r^<<^rR5{:xqqGOq41o:jxx2qOOjGRR:1{x<rroJx:RjRGnOq1q^Gx4R{O{x:GO:^4C<R:nFI:ojo4T:U1j1:xq1^O4:1GC^:1r<<:4%a<njj{O:nO4<1x{4rO:n<G4:11j<rxrix:4j44j:n{q<<RGF4O{rxGrq<1<^RxoOxO:jORG:4j{<{F:_qoGj^GRGx1xGoxrqTO<onGn:q^^<G:1T1n:jxk^:G5;4nxxROOjO4G1:n1n<O{<H^o1j14r:jo<<GjrOjOnjqGjk41R<jxnG4j<j<^R:pqx<qxoTGO<j{^jqq1qoGx#Q{Oxjrro:<xS<{xn_:Ooj^Gq<{RjR:xO=^Oh{1Gjxm{O<oO4Yq6njrGO:o14o1n{jrO::<GOR11{Ox6qfO^4jOxj:r1q<ojG1RO1xxGn4<1G<Rx{sj^qjO1G:4j{<xx:EoO<^aGR4x1:<ox^g_O{jj:::q<^<wx1snq:jOGj<_1R:nxxOOO^14G1:{qroqR</4q1jjGr::1oo4xwojOn4qGoj414<1Kxc:n<j^qR:oGx<:jOOGO4G{Gnpq1o<Gx,&R4xjrro:GR3<{Rn.nOq:^G4R{14j:xO^^O41Rxn:xOO<ox4I1OnjnG{x^1Gj1x{:rOj^<GGxr<j<n^qIjq4jRGj:nL4x<x^xRO<<xGq:<1G<r:{)n1qjOjG:)w{<nx:joO<^?G4{x1rjoxOi-n{jjr::n:^<:n1Dj:r<OGoZW1^<nxrWOOoj4{1:{Or<:G<=O{1j{<n4O1o{4xq4jOrjqGox^rR<1<xeR{<jGGR:1L<xqxOnGOq<{Gx:q1OO<GaTRGxj{qo:G12<{xjo:Oq<^GG<{1nO:xqe^1;jRrn:{{O<oG4iR:{OrG:-^1O<1xjgrO:j<^4:vOj<nGqmr{4jz<{nr1:{<xr:ROjjxG:xOQG<4<{6n<qjoGG:4WqxxxrnoOx<*G{:x1rO5l^TGG{jGr::o1^<;x:1nOx<OGo<D11OnxxHO:^jGr1:1^r<:G<T4OUajGnDO1<o4xR6jOnj:r<:^OR<1Gx;:x<j<GKOj1njqxO:GO:B{Gnx::o<<^YWR{xj:Go:G14j{xjx:Ooj^G4^{11<<^OfoW(j<xn:*:O<<j4x1O{qrG::^14<1x1JnGOjo{4:+rj<R4q}o:G<RG1<r11j<xG,RO{1xoq:OnG<qq{axOqjoGjOR11Rxxr{oOG1AG1:n::<q<^f<n{jj{:::1<:IxRxnO1OOGnrY1ROj<r%:4^jOG1:n1r<:x<x4OvqjGn^O1rn4xwG1Irj:1<:rOR<jxxN::OqGG4oj1joqxoFGOl1q:x:rjo<xq,-{Oxjr<qJG1G^{xG::Ooj^G,:1nn<xoO-oo,j1<n:r1Oj^xGx1O_nrG:^^1GOHGj}n4OjrG4:11j<nxqo<O^qRG1^r1jn<x^G44jjn1q:jRG<Rx{ln::1oG<oR1Goxx:voO^1x:{:jj:<{G^F*O{jj<G1o1o^;x6GnO:jOG^:rx1<{or :o^j4<1:j11OOnox4O44jGn^O1oO4RRh14rj{O<:41R<1xn^qOOqGG4^j1GOqxqKG:Rj1{x:rro<o:vs1Oj^:GqGG1:O{xjn:O:j^:s:R:n<joOU^rVj1Gj^:1qR^x4;1OnjrG::xs4<.oj0n4Oj<q4:K1j{rx:n<O^qRG<1r1:<oqGk4,jjj:q:OrG<Gx{xxOrOoG:RR1ROxxnPojGj4j{:1^:<r:^)4:1GnGx^o1r:wx1gnOxjOo^:Gr1<{orTx^^j^Goxn1xROxon4O<ojGx:{:<<^<Rm_^rj:{<:41:_jxn:qOOOGGRxj1x<{{o2^RRj{^x:q1o<<xR^{Ojo:Gq4G14:{x{FxGoj<n5:Rqn<b1O5<:4<1G{G:1Oj^x481Onjx^O:or4<1xjgrrOjqG4j11{Rrx{:<OGqRGj:xNq<OOGSRqjjxGq:O1^<Rx1jxOr:oG^jR1R<x1:UqGGj41{:G{:<qx<:_OR:nGx<o1oqbx1_{G:jqR^:,11<nxrc:O<x4Gdon1n4Ox<o4O#j{{r::n<<^qRP^:rj:<O<414Gjxn^qO<jGG4:{xx<r:ol<<RjR1x:rFRxGx4R{ORG:Go:G14O{xnVxOojq:#:{1n<rjO1^OG{1GR1:1O<^x4,RjnjnpO:oR4<1xjzrOOR<G^<11j<rxqG<OGjR^j:nrq<nqG.4Gjjn<qj<1<MRxGKxOqjoG<:Yx{<jO:CqGGjor{:jJojox<{BOo<nG::o1<O4{1e{<:jqR^:m11<jjr4OOon4GOLn1r<OxoG4R1j1Gr:1o<<4xR%jOn:qGO<414<jxxGqOojGjR:1rx<rRoh<GRj{Gnqq1q>GxE4{Oxj:Gq:G4D<ROn?xGoj<OA:R1n1:xqj^OG:1G^j:1qO^R4bJ^nj1xO:^14<1xj<rO:x<G4:11jxrxx/o14j4_j:8Oq<n<GKROj{xGrq<1GoRx{PxOrjo^G:4{{<jr:)OxGjGG{jx1x^ox<RzOonnGx:qG^<Gr1>{o:j:o^:i1R:nxnsOO^j4G1:n1n<O{<p^O1j1Gr:q^<<^xRjjOnjqGO:41OOjxnGr4<j<^R:14x<qxo8<O4A{Gjrq1qoGxGj{On1G:o:o_3<^qn8:Ooj<<m:{1{q:xn{^O_j1Gjxr^O<o14h<^njrGO:^14:1x14rOr><G4:11j<nGq>Oo4jRGj:x3q<ox^qRO1xxG1o<1<^Rx1Gjhqjq4G:<1{<xx:PqOG1UGRqx1x^ox:qFO11j<:rq1^<:G13nO:jq<<^ 17onxR^OO^j4GRxj:r<:j<Z:11jjGr::(<O4x4^jORRqG<:41R<1Gx6ro<j<oR:{Fx<:xO<GO4x{GRqq1q^Gx4G{Rxjx4o:q1E<{xnmxOj:^GGq{1{^:xnq^O41R1n:x1O<nG4U1Onjx<qx^1^o1xjOrOOj<GGx_oj<njqin14jRGj:n3:o<x<^RO{GxGq:<1G<Z{{zjoqjqoG:SP{<nx:joO<x)GR{x1x^oxOi<o{j{W::jx^<^{1u1OjnOGoOm1^xnx44OO<1r41:{{r<R<<*4O1j1GrrORO^4xzRjOR^qGox^qR<1xxp11<jGGR:12n:qxq4GO^o{Gx:q1o<<obERoxjx^o:G1A<{xjj:Oq:^G+:{1n<:xOX^{SjR{n::1O<^n46R:^nrG:<^1r11xj>rO:j<^4r&xj<nOqcr{4j_<{Rr1r4<xr:ROjjxG:xOGG<4:{H{RqjoGG:R11rxxrjoO<xIG{:x1:<o1^t4R{jnG::o1^<Jx1{nOx^OG^:p11onxrInO^{Gq1:{or<Ox<D4Oo:j^xrO1<<4xR4jOrjjG<rG{R<{nxkqO<jGGO<jRn4qxolGOR{{GnxR{o<^:BZOAxj:Go:<1co{nn1:OOx^GoR{1jOrGOH<oWjoxn::1O<<j4R1OjjrGx4^14<1xjar{Ojo64:R1j<rxqQ<OGnRG{^r1q<<xGVROjjxoq:o:G<Rx{8xqqjO<xqR1{Rxx+xoOGjTGR:Gr:<Oo^/44{jMr::qto/Zx1jnO)<OG^:f1ROjnreq^^j<n1:n1r<Ox<44ORqjGxoO1<<4xRwjrrjqx<:41R<jjx(:OooGGRjj1xjqxo:GORjrRx::Oo<Gx ?{Oxj:GGoG1>{{xnv:Ooj^G511onor<O-^R;j1^n::RO<^xq<1OnjrGOj^14<1x{*z8Oj<O4:^Oj<x<q <jG^R^{Gr1qO<xG4RO{cxGq:nGG<Rx{?xxqjoGG:R11rxx:(oOG1fG{:x1:<OR^kkO{jno::o1^<sxRonO:jOG^j 11<nxxJ{e^j4O1:jor<q<<g4jR^j^xGO1<14xR4jOxGqG<::GR<jxxwqx<jGGR:j1nrqxoeGOR1{Gx:q1o<^RVT{Oxj:^o:G1W<{xjo:Ooj^Gm:{1n<:xO_<n?j1Gn:r^O<^x4,1O{4rGO:^14x1xj7rOqjxj4:RGj<{{qDo/4jR:jRrRq1<xGOROj{xGqn<1G<o1{ZxOqjoOG:R1{<xxrooOGjAG{Rx1:<ox^A4n{jnG::O5^<fx1pjOR^OG^jW1ornxrxOO^jGq1:j:r<O{<%4O1j1GrjO1<14xRxjO1oqG<:GoR<{ox+qr<jGGR:11xOqxonGOVq{GR4q1o<<oYI14xj:{o:G1,<Rxja:OOq^G4^{1^o:xOH{1Qj1jn:rrO<^14A;OO:rGqG^14:1xj:rOOjo44:Rrj<r{qt<O4j4Gjxr1qR<xGnRO{<xGr:orG<Fo{Nn4qjrnG:!11^xx:xoOrGXG1^x1x<O(^N4Z{jnO::OO^<GxRxnOrOOG<GU1oGnxnA::^j4j1:j:r<1^<34jR^j^x<O1<r4xR4jOr1qG<:^^R<jxxDq1<jGGR:j1t:qxo#GO!>{Gx:q1o<jolV1Zxj:1o:GRi<Rxj<:OOO^G2j{1nj:x:/^{tj1jn:r:O<o:4vIOjxrGqG^1411x{1rO:j<n4:R:j<x<qT<x4j4G1Br1q1<xGxRO^xxGr:OGG<i<{In8qjjnG:)<{nxn:joOG{UG{rx1:oox^tOx{jnG::OO^<;x1.nOGqOG<G21Rwnxr4OOojG11:j:r<O1<_411j1Gn4O1<14xRxjOnxqGO:4RR<{<x,:&<j<vR:11nrqxoxGOCO{Gxjq1q<^^_/1?xj:jo:<xi<Rxjo:OOO^G4G{1G{:xOO^{K{11n:roO<^n4J1qnjrGjj^14<1xj:rOOj<G4::rj<x<q?oG4jR^j:n1:G<xGxRO{2xG:w<1<<-G{%nEqjojG:4j{<jx::oO^O,G1Gx1xGoxoz4j{jnj::O:^<^G1T{OxvOG<Gf111nxR1OOojGG1:j:r<q<<p:R1jj:rRORot4xR<jOr{qG<r41R<G1xLqO<jGnR:j1x<qx1nGOtO{Gn<q1ooGxGb{{xj:jo:^G+<1GnDxOO1^G4G{1n1:xq1^OGjRYn:r:O<<<4u;<njnGO1^1411xjxrOr<<G^:R:j<x<q?o)4jc1j:n1:q<xGxRO{OxGR4<1GxM4{4nGqjoGG:RR{<xn:)oOr(mG{:x1:{ox^7zO{j4q::O:^<4O1Anq:jOGrns111nxr:OO^j4G}:^yr<q<<YGY1jj^r::1OO4xRxjOxOqGj441Rx{4x4:G<jGRR:jRx<q1o GOO.{Gx:q1ojGxNM{Oxj1Oo:G12<{1nZ:Ooj^G4{{1n<:xO:^OSj1Gn:RGO<^x4!1RnjrGO:^1jn1xjxrOq:<G4r111<nqqSo%4jROj:xOq<OxGORO{OxG:G<1<GRxRCn<qjojG:=:{<j::LqO<rvG1Gx1:1ox^R3ORjnR::O:^<4<1u{?:j:G<ob111nxrxOOOH4G0:jGr<q<<iG+1j{rr::1Oi4xRxjOxOqGj441Rx{4x4:G<jGxR:jRx<qno>GOOA{Gx:q1o:GxDh{Oxj^ro:^:w<1On?:qojoG;n{1n1:xO<^O4<1G{:r{O<<<4dR njn5O:o14o1xjxrOqO<G^O111<x:qNom4jRjj:x{q<OxGGRO{OxG:G<1OoRxR/n4qjojG:-:{<j1:?qO<GyG1Gx1:1ox<qvORjnq::O:^<4<1tGR:jO:^R7RR!nxr^OO^{4G1rn1r<j1<>4O1jjOr:O1<<4xxqjOxOqGo<41Rojxjpqr<jGjR:{Gx<:Go;<OR{{GnGq1o1Gx41{Ojj:no:^:_<1<n?x<ojoGG<{1n1:xOx^O4n1G{:rRO<<<4dRTnjjGO:o14j1xjxrOqO<G^j111<xRqFoH4jRjj:noq<OxGORO{OxG:G<1r{Rx{Ox{q{o1G:Sr{<xn:YoqGjdG^jx1:<ox^<hO{jnG::Rr^<4<1%jG:jO^^:G11OnxrxOO<!4GRwn1n<:4<TGm1jjjr::j<<^xRrjOxOqGoG414GjxjIr^<jGjR:{:x<q{o0<OZG{GnGq1o1GxO1{OjjrRo:^:P<1<nCRRoj^:&R{Rj(:xOj^O;{1Gnr:1O<r14k1OnjrOO:^14<1xGorOqO<GG<11jorxrdO:4jRjj:xGq<nRG 4OR:xG:<<1G:Rx<RxOrjooG:kx{<nO:lqoGjGG14x1r4ox^<_OonnGx:q:^<4q18j^:j:{^:G1Rqnxr1OO<24GOqn1n<qg<!G<1j{Zr:nr<<4x_^jOxOqGoO41RojxxL<:<jGOR:{(x<qxoaGO<x{^x:q1ooGxW?{OnWrSo:G1W<{{nt:Ooj^G4o{1n<:xnoxrq4o<34Rj{<xR:<^x^otGj{^14:1xjZrOn4n_:{onj<xOq;<O4j^R^q4^1qxROGOn<V4O1qnjoo6^{exOqjqG1<R1{oxx:ToOG{JG1xj4:<oj^i5:{jnG::q1^R!x1GnO:1OG^r51u<n{rFO:^j4<1:j4r<qz<n4O1{jGxQO1<o4xRGjOxS<o<:41R<{Gxiqq<jGGjoj1xoqxokGORj{Gx:ono<GnJ {Oxj:Go:G1oG{nnI:Oo{^G_:{1no:xO_^OCj1on::1O<^x4j1OnjrGnox{:ro{Go{:14nO:jo{^GjnqM<x4jRGj:1^1GnR:{RO{rxGq:<1qrO{^o4:jojlr:q^<:R1RrjOr4!n{:x1:<qx1jgO{{nG::o1^qpxRGn1:jO<^:4W1<nxr):O<j4G1xn1rOOx<^4Opj{rr:qy<<4jRbjqrjq:oO41Rojxx:qO<{GGRxj1x:<{oLGORj{xx:qRo<Gxj{{Ox{:GorG1h<{xnpO^oj^^2:{1n<:xO*^Oox1^n::1Oo^x4/1On{rGO:^14<RnjkrOOj<G4111j<rxn:no::oOG{4Yq<oGGVROjjR<1qjG:oO1^r4o1xo^G:R1{<xx:+oO4j<4{rx1:<ox^+tO{jrGjqoR^<=x1EnO:jOG^:<11<nRr2OO^jo:ox4R04jR<h4{1jjGr:jGn^:4oq^G#4{O<:GqR<jxxPnRnx:OO4^4yo11nRr:R{{Gx:q1o<Gx:yGj1j:Go{G1 <{xwojxjorR^x{1nq:xO0^OOvo4G::1O{^x4}1ON^Rq{j:Oqro^GqR11d<^4:11j<rxq <O4jRGj:xGq<<xGC<r^o4j{{<1GqRx{}xO1xnqrRRR{<xx:_oOGj2GRjO1:<O<^p(O{jRo1rjjxxOno^yrRo{jr{o^1<nxrQOORq4G1xn1r<Ox<y4ORjj1r:qz<<G4R?jqrjqGoR41ROjxx4qO<jGGR:1^x<q{o%GORj{Gx:r1O4Gx3^{OxR:Go1G14O1xn5:xoj^Ow:{1n<:xOR^O441Gn::1Oo^xGGOonjr:O:<:4<1xj-nORF<G4111jxrxqR<OG1Roj:xoq<<{GbROjjn<:^<1GjRx{oxOqjoG^xc1{<n^:hO^GjpG{:x1r<ox^xiO{jnG::o1o<4x1#jM:jOj^:4x1<nxrqOO<O4GR^n1r<Ox< or1jj:r:O1<<4jRk{OnqqG<{41LGjxxOqO<jG^R:{ex<qRopGqRj{Gn1q1oOGxV4{Oxj:Go:<q;<{{nw:Ooj^G>:R1n::xO^^OYR1Gn1:1:<oO421rnjroO:^R4<=x{GrOOR<G4n11jRrxr}n:4jRoj:x4q<oGGeC:qGxGqj<1G:Rx{AxOqjn_GrA^{<xx:7oqGjS::{x1:oox<{+O{{nG:ro1^:{{1bnO:jqR^:wR1<n1O^OO^j4G.rn1roOxoGnj1jj:r:qq<<4xR0jjeRq^<1414ojxx4qO<jGGRjx4x<qxo&<qRj{^x::GGqGxHb{Oj1:GorG14O:5n/:joj^RU:{1n<rxjx^O441Gnx:1Ox^x4 <yn{r<O:<^4<1nj2rO:^<G4x11jorxq,<O4jarj:x4q<<jG3ROjjjG:4<1GqRx{^xO:GoG^xl:{<x1:PoxGjcG{:x1xZox^o)O{jnG:ro1<OGq1Dnj:jOj^:311<{x4<OO<G4G11n1x^OxoG4r1jjrr:q4<<4xRg{:nqqGo;41Y<jxxMqOo1^xR:{qx<:qo_GORj{GnOq1o1GxmG{Oxj:Gq:<4D<1<nwrzoj^1>:{1jx:xOx^O4q1Gn::1O<q{4Z1jnjrGO:<w4<RxGxrOq4<GGO11jxrxqFxe4{R<j:x^q<<nG6RO{:xGqx<1GoRx{-xOqjOrG:T4{<x{:!oOGjGG1qx1:qox^^-O1GnGrxOn^<C11Hnx:jOG^:=1RRnxroOO^j4G1rn1xOqR<!4j1jjjr:O1<<^xq<jOxGqG<141w^jxnG:o<jGrR:{nx<qxoB^:4<{Gnsq1O4Gx(W{On1r1o:^qD<1qng:Ooj^GGo{1n1:xO^^Oyj1G{:rJO<<<4KR}njr1O:^1Go1xjxrOqq<G4:11j<{{q!<j4jRGj:xyq<ox:xRO{4xG:r<1GxRx{c)nqjo<G:X^{<xn:BoOqxk^{:x1:oox^bBO{1nG::o1^<Gl1QnO:jO^^:_11<nxr!OO^j4G1:j^r<Ox<}o{o1GqR{{j<<4RRtjOrj{on<qRO4^xxAqn<jGGR:GG4^jGx^qjRj{rx:q1o<r}qG<o4rjxxn:<_<{nn,:Oojqr>:14n<:xOI:rq4oOnr:1O<^x4W1OnjqGxq^14x1xjkrOn<n4:<oGGrcjq3<x4jRGj:RG{rjGr<ROjRxGq:<1OOOr<:xqqjoGG:R1{<:x1RrOGjE^{:x1:<xj^Hin{jnG::x4x^qO<RG::jOo^:K11<G:Ro{{^j4q1:n1r<{6xj:oon^<r:q4<<4xR&4:1^n<<:GOR<jxx81xnnrSO{^nCO{RjGGOm#{Gx:q1j4:nq<^1xj:qo:G1J<GAGG1qjrrqw:{Rn<:xOlq:Tj1:n::1O<q{qRoGGnp<rnqx4<1xjix:Hj<G4:11{Orxq_<O4jRjj:rRq<<xG(ROjjjGq1<1GoRx{4xOrHoG<:#<{<xn:foqGj;n{:j1r^ox^4vO{{nGr4o1o<4:1dnq:jO^^:4R1<{xr{OO^{4G1rn1rOOxOF^^1jj^r:OR<<GoRS1OnOqG<r41RojxxxqO<j^RR:j1x<qjoTG:Rj1<Gqq1ooGx4O{Oxj:Gq:GRc<{nn>:qoj^q0:{1nq:xOG^O/j1Gn::1:<^{4l1:njr<O:<j4<ex{{rOO1<G4x11{4rxq5o^4jRoj:r1q<<xG)4O^1xGqn<1GqRx{1xOrjj<G:A4{<x{:WojGjsG^nx1::ox^f8O{jnGx:{J^<k116nx:jqs^:G1oOnxr<OO<!4GR{n1r<RO<!4q1jjOr:qP<<GsO^jqrjqGqo41RojxxkqOoVRoR:j1x<xqoZGqRj{Glnq1oOGx-X{Oxj:Gq:O<}<{jnJ::oj^rM:RKjq:xO<^OGG1Gn::1:<oq4K1xnjrOO:<{4< xjOrOq4<G4r11{4rx:GOk4jR:j:n4q<<xG34O1^xGq1<1GxRx{^xO:1oxG:;o{<n{:JoOGjGG14x1:nox^q/O1jnG::qo^<4G1}nO:jOG^:81RonxrqOO^14G1xn1xOqn<Q411jj^r:O1<<GjR4jOxoqGo<41R<jxxvr^<jG:R:{qx<qjoF<OtR{Gx1q1oxGxEj{OjjR<o:^oH<{nnYrnoj^Gr<{1n::xOq^OQ11G{:n5O<^14}1xnjrOO:^1<o1xj<rOq4<G4:11j<jGq6<:4jRGj:rRq<<1R^ROjjxGn^<1GoRx{K(rqjo<G:R1{<xx:8qO:Gt^{xx1:Oox<<eORjnO::Of^<Qj1SnR:j:G<1c11OnxrGOO<o4GP:j1r<Oj<t4:1j{^r::1<{4xRGjOr1qG<x414<{4xsq:<jG<R:{rx<:joxGORR{Gnnq1o<GxG}1Oxj:oo:^4*<1xn+xOnj^Gdj{1no:xqo^OGj1^n:rGO<^14-RGnjnGq:^14:1xj<rOq<<G4:Pnj<r{qh<:4jR<j:x1:R<xGGRO{OxGqn<1G<<:{4xOqjo^G:R1{<xx:JoOGjIG{nx1:<ox^=4G{jnG::xnx^qRo^4nj1{qxj:Go^G:j4OO<V4G1:n1{r{:no:^1jjRr:O1<<ORO^Gnw1nnnO:1Or^1R<1Rnj:q>4j1x<qxqC1GRj{^x:q1o<G{Jl1:jG:GoxG1CO{xnE:Oqj^rg:1=n<:jOZ^rCj0G{^:1OO^x4G1On{rGO1oq4<1njMr1Oj<^4:R}j<r1<^<O4jRG{7r1qo<xG#j^jjx^q:<RG<Rx{MxOoroGGrR1{<xx:yoOGjol{rx1:<on^FAO{jn^::o1^<gx1rnO:jOG^:4^1<nxr6xjx1q^ooG^roOx<V4O1jjGr:xj:<4xR4jOrjqGx441R:jxxhqOr4rCO{^nx<:doDGORjGO4q1onnrOOo{On^:Go:G1o:<r4q1{j:rqOj{1j*:xO/^Ooro4G{m4jrqj:oox^DV4{OOR4<RqjurOOjrq:no^^O1^{1nOr4OO4j4q1<xRG;lOjjxGq::R:OO{^R4GR4jO:{<1<^4{1rjxroq4<Ojo:<ox^UGOr:nG:ro1^<_x1:nOr1Oq^:4i1<n1r.OO^j^G1xn1rOOx<G4OR<jGn:q}<<4jRhj:rjqr<:G<Rrjxx4qOOGGGRrj1xOqxo<RrRj{Gx:r<o<GnsV{OgR:GorG1-<{xn6:Oqjx<m:{Rn<:nO&^rDj1G4n:1OO^x441OnjrG::nK4<1jjmr:Oj<^4:f1^OrxqG<O41RG{4r1r<njGdR:jjx<q:o4G<RxnRxOq{oGGrR1{OxxxOo1Gj5^{:n1:<on^_-:{jnOono1^<;xRsnO:{OG^j141<nxrHqj^j4^1:n1RqOx<44O1{jGr:O1O<R1Rbjqrjq^<:G^R<jxx:qO<RGGRrj1x<qxq=G{Rj{ox::4o<^v3g{OjO:GonG16q{xnc:Ooj<4J:{Rn<:{O#^q-j1GYO:RO<^x441OnjrGOr^14<1xj;j{Oj<G4:11jrrxq,<O:Go1^qf{1O<xGoROjjxG1nn1:oq4^1xO:<oGG:R14qVn1jjG:1O^^n4r:<o{^b,O{jGQ1{{o^<W{1vnO:jn<qRoD1onxr}OO%jrxxnn1{OOx<:4O1jjG1:{{nq:^O<GRzn1s<:G:R<jxx rnnz<14:R^m:xOqw<nOe{Gxnq1o<Gx<G<oG<:Go{G1z<{xITRojoxXqj{1no:xOD^Oo11Gn{:1O<^xoOo:4{RRj{^14n1xj5rOjGxqqnOG^^*jxG<OGgRGj:r1nOnOroonjjxoq:<1G<^j^44:qjOGG:R1{<1j14nrrqOr<x4{Rrj:r<<r<n41Rq{EOqpn1HnO:jOG^:J1{<RrrYq4^j4G1:#oRr{1r<qnO<^O1n{qn1qRR4jOrjqG<:41R<e<1JqOoEGGR:j11x1rn1rxRj{Ox:q1o<q1Oo<1G :GOoG1Z<{xR^Roj:x4qx^44rRn{ornqx<o4{:RR1{^xrqRooGnG4q{4<1RjNrOOj:r:xo^Gr}:qI<q4jRGj:1oq<<1GDROjj>R{rjG:jRn{,xOqjoGG:{1<^1x:UonGj7G{:3^j:j^r{^:{jnr::o1^<<1<rGrRjj1rr:q1onxr!OO^j4G1:n1r<Ox<^4O1jjG1g1^xr4xRojOrjqG:n:{O!^r4Gqq<jGGR:j1x<qx:<OORj{ox:q1o<qjOo^xxj:Oo:G1.<4R41Rnjr^G44{1n<:xx:xnq4^oG<Rqj:rR:G1Oj<rGO:^1Oq<RGjRnjRnOq{oGj<r1qE<O4j<o^44:{r<xGOROjjxGj/n{rHo1^o4:qjorG:R1{<4,RGjorr<xGnH<:<Oc^NAO{jRoRqjxx^qj4^nq:jOG^:I11<nxqMxo^j4r1:n1r<nxnGqnOGGnR{1o<<G,RkjOrj{:nqr/O4Gn4<qOoOGGR:j1Rrj^rqr:o{^O441^jGr15U{nxj:Go:x=q^<R411xoj^:p:{1n<R{{<x:qoo!4R:1Oo^x4D1O4<r^O:^14<1xjzrOrj:G4:R^j<rxq+nOqRo^^<Wxq<<{GkROjjRO1qn1G<=<{}xOqjxorqq^<OP{1oxr:{qV<nx1:oox^e;O41nG:jo1^<=xo<4qRRj{^:4o1<nxrLnOr{q1<{^Gi:jRYO4O1jjGr:{4<<41RSjOrjqG<:^1OOjxx<qOowGG4:j1x<{{oCGnRj{Gx:q1o<<xqG{On4:Go{G1G<{xnm1roj^:y:{1n<:xO oOq11Gn1:1Ox^x^81Onj{:Or<o4<1njarOOj<Go11RjjrxqG<O4jRG{:0:q<okGpGnjjxoq:o1:1Rx{oxOrooG^KR11<4<:voxGjt{{:no:<OjxR#O10nGn4o1^<kx=0G::jOO^:4G1<1GrVOO:G4^1{n1roOx<T4O1jp:rrq<<<4jR2jOrjqG:14RRnjxx^qO<jGGR:oxx<q1oSG{Rj{<x:q1rxGxMo{Oxj:Go:G1G<R^n6:noj^q6:1xn<xxOG^O441Gn{:1:n^x^V1jnjrqO:<^4<44jFnO:G<G4{11jrrxxq<O^jX:j:x^q<<RGZ4ojjjGqR<1GrRx{oxOxroG^xlj{<n&:%OjGjkG{:j1r<ox^O.O1GnG:jo1<O:r1/n{:j:n^:I11<{x3+OO<^4G1Rn1r:OxoGG<1jjxr:qR<<4xRI{:r1qGo4410ojxx!qOo1GoR:{:x<:nopGORj{GnGq1onGx2x{Ox1:GOxxOz<1GnHxRoj^Gb:R1jo:xO:^O4<1G1!:1O<<q4e1Rnjr^O:^14<Rj{nrOqO<GGr11j<rx:G<n4jR{j:xRq<<xG!RO14xG:0<1GRRx{LxOqjO<G:L<{<xx:2o:Gj4G<Gx1:roxoQ8O1GnG::j4^<6R1VnO:jOG^:G1oOnxroOO<44GR<n1n<{j<84n1jjqr:ro<<^xOGjOx4qG<{41Gqjxj#1:<jGqR:{^x<rRoE<OO1{Gx{q1orGxGn{Onj1jo:^^?<1xnm:xoj^GOn{1nr:xOS^O j1G{:_DO<^R4}1nnjr1O:o1:O1xjorOq4<G^R111<,jqp<n4jRqj:{4q<OxrGRO{4xGq{<1<rRxR?4:qjoqG:/^{<jq:hO:xniG{1x1n^ox^EYORjG<::O<^<4(1F1G:jq<{1m11nnxr:OO^j4GRx^{r<qG<L^M1jjGr::1nO4xR:jOx<qG<r414<^jx#qR<jGOR:{rx<rx1oGOYo{Gn4q1ORGxG-^<xj:no:^qZ<M<ns:OqR^G4+{1nO:xOG^O41O4n:rqO<o<4(1OnjnG{x^14{1xjrrOO{<G^:O_j<x<q!<x4j(nj:n1.r<xGxRO{OxGr^<1<<o:{)n6qjojG:G:{<xxx^oO^ofG{xx1:Oox<G:o{jnj::q:^<mx1S{OR1OG<G3111nxr4OOoj:<1:jrr<O1<A<n1j1GG{O1<R4xRnjOnqqGO::{R<{ox;:4<j<jR:j1xqqxoxGOYq{Gx:q1o<<q%#{jxj:Go:^0p<1xjf:OO4^G4{{1nx:xOz<^Sj1qn::1O<^x4.fOjPrGO{^14r1xjjrO:j<{4:R^j<rRqsO{4j4G^xr1qr<xGoRORRxGr:jDG<RR{kxnqjqqG:4Lo^xx:OoO<:sG{:x1x<jj^P;j{jn:::OG^<4j:OnOr^OGoOd11<nxxG1o^j4x1:{:r<Ox<T^Oo1jGx(O1<j4x41jOrj{o<:GqR<jnx8qO<j<G4xj1x{qxorGOw1{Gx:14o<^oY#{Oxj:Go:<1qO{xnn:OOq^G4<{1{<RjO_<4Wj1{n:noO<ox:G1OjqrGq^^1<q1x1eu:Oj<{4:Rrj<nRq6OO:1RG{^r1qR<x^{RO1j4<q:orG<ho{KnnqjO<j1R11%xxn4oOGjJG1xG{:<Oq^gGr{jnG::q1xOtx1{nOrrOG<jK1-<GjrEq^^j4R1:RGr<qjnR4ORxjGxoO1<<4x4Y^:rj:,<:GjR<j1xu::nrG^_qj1xxqxoAGORj1qx::jo<^rgK{Oxj:GO<G1b{{xnZ:Oo1^GG:Rrn<r^OH^R,j4Gn:x1qn^x4r1OjorGrG^14<-4jAr1Oj<<4:R!j<nx::<OG<RG{ur1ro<x^Gy4jjxnq:OjG<Rx{bn:{OoG^GR11qxx:BoOGj4n{:n<:<O<^I7:{jjG:Ro1^rcx=OnOrGOG^:4p1<nRrTOO^j4G1:{1r:Ox<o4OR4jGx<O1O<^oR-jnrjqq<:<oR<1xnxqOo4GGR{j1jnqxq2r:Rj{qx::^o<GR;LRO41:Go{G15r{x{G:Oqjx<,:1^n<:ROm^R%jR<^q:1Ox^xGx1OnjrG::nZ4<RHj)rjOj<^4:I1G<rxqq<OGCRG{^r1r<OOGkR{jjxrq:OrG<4x{xxO:^oGGRR1R1xx:PqpGjW:{:nP:<oj^&4O14nG:{o1<rDx1OnO:jx:^:4^1<nxrpOO^j^GRjn1rrOx<o4OR:jGn:qj<<4RRpjnrjrr<:^1ZRjxxoqOo4GG4Rj1j<:ro%GnRj{qx::^o<<x4x{On4:Go{G14j{x{Arnoj^qm:1^n<r^O*<:G41Gn1:1q1^x4Y1O{jrjO:<<4<R3j&rqOjOGq:11jnrxq<<O^oRG1:nqq<o4G8R{jjn{q:O1^SRx{qxO:^oGoGR1{<jO:+ojGj?<{:n :<Ox^rDO14nGr{o1^xdx10Rj:jOq^:z11<nxrC:O<o4G1{n1rrOx<j4Oij{xr:q^<<4RRp1{rjrG<R41RrjxxoqOq^GG4:1xx<qRofGnRj{qx:r1o:Gx6o{On4:GOOG1G<14n#:noj^qN:1qn<rjq:^O4G1G{G:1O<^x^P1:njr:O:<<4<1njynOjj<G4R11j:rxxo<O^jpnj:xoq<o4Gd44jjjG:{<1GnRx{qxOxOoGG:4:{<nB:)o:Gj6<{:n1rGox^oZOR4nG:1o1^<^j1hnn:jO<^:N11<nxx^OO<G4G1:n1r<OxOQGq1jj:r:q<<<GORl1On4qG<141RxjxjqqOOjG<R:{<x<:}oV<{RjRGn:q1oxGx7O{O{#:Gq:<?(<1Yng:joj<4M:R#k{:xOq^OG^1Gn::1O<<{4}11njrGO:^R4<RjjorOqo<G^<11j<rxr#o:4jRnj:xqq<<1GQRO14xG:G<1GoRx{ixO:1o:G:tr{<j::WoOGj4<1jx1r oxox#O{jnGrxG:^<4q1H{<:jOG^:=1RnnxrrOO<r4G1xn1x<O1<#411jjrr:qq<<4x-:jOx4qGo!41Rojxxfr!<jGqR:{wx<qxofGOK<{Gx1q1o<GxyP{Ojj:ro:^<s<1in7rGojoG^j{1nx:xOO^O^^1G{:rqO<<w4C1jnjnrO:o1Gx1xjOrOqG<G<R111<n^qD<j4jR:j:x:q<oj^GRO{^xG:R<1G<Rx{gx1qjoxG:R1{<xn:YO:^nTG14x1xAox^B;ORjj4::Oq^<4^1Dnx:jOG^R#111nxrGOO^j4GRxj^r<qo<d^<1jjGr:q1bG4xRjjOx{qG<n41sOqVx#:^<j<kR:j1x<qx{jGOho{Gnoq1oOGx4+<=xj:xo:^ov<1^n;:Oj4^G&{{1nj:xO4^O41O4n:r^O<Oj4z1Onjx<1q^14x1xROrOOj<G^:OVj<x qM<j4jR<j:r1{q<xGqROjjxGq:<1<<Oj{px{qjorG:_4{<xxjOoq^<FG{jx1:<ox^TOn{jnq::OO^<>n1?nO{xO^^:=11onxrdOO<J4G1:n1r<O{<F4O1jjGx<O1<<4x^{^o441ox{OyOr^14<1onxo^R:{nx<qxoHqnOR^q4xjqjGrxqo<xP.Rnj:r^i<{1n>:OojqqqOo^G4r<Oa^O)j GRx:1Oo^x4Q1On1rGqx<o4<1jj(rrOj<G4:S1jRrxqG<O41RGjxr1r<OGGSR:jjx<q:<RG<#g{1xOq{oGGRR1{oxx:GoO^J{o{:x1:<O4^c_q{jnOono1^<tx1rnO:{OG^:{n1<nnr=OO^j4G1:n1q4Ox<44O1jjGr:O1<<O:R4jOrjq^<:41R<jnxgqO<jGGD1j1x<qxoUGqRj{Gx:joo<^4?E{Oxj1:jxr{q4GG.^{jo{^GE:{1n<:xOt^O j1Gn{:1O<^xoOo:4{RRj{^14:1xjJrO{rx^:joOj<rnqL<O4j<<j:x^q<<xG2<x^n1xjnx<G<RR{exOqjnor<oR<44x:vo1Gj6G{:GGR^j:xoq^^14qRxo1^xNx1dnOjR{4x<q{oO1{r4OO^j4G1:n1q<{r:*4q1jjGr:O1<<4x{i3orjq^<:41R<IjxPqn<jGGR:444^1OnRr:Rj{:x:q1o<qGOR<G4B1qjxG1Sq{xn*:OjxrqqR{1n::xOS^OOe<q^XpGO<^{4Q1Onj{<{qnO4<1RjQrOOjx::<o{^^ejqt<r4jRGj:R4{rn1GBRrjjxGq:xzOn^j{FxrqjoGG:o7^r+1n{oOGjKG1x<1:<ox^kKR{jnG::o1<Oux14nO:jOG^:=1Y<{Gr-Oq^j4^1:jGr<:x<o4O1{jGrrO1o^4x4&1^rjq^<:4RR<{rxUrO<RGGRrj1xoqxOoGO4j{Ox:qRo<Gng_1jxjxGq4G1Ho{xn4:OO1^GG:R^n<:nOg^qTjR^n::1qo^x4H1On1rGOx^1GOOrj8rqOj<j4:11j<nxq4<O4{RGjrr1qO<xGm!{jjx<q:<1G<Rx{}jO:GoGGxR1{Oxx:1oO<j4R{:n-:<oj^)(j{jnGr1o1^q)x1&nO:jOGo:Ox1on{r.Or^jGS1:{1rrOx<^4O1RjGrrO1<<4RRyjxrjqG<:41R<1xxGqOomGGRjj1nGqxq-<YRj{Ox::Go<^q3P{Ojq:GorG1Z:{xnG:OOG^<K:{1n<x^Om^q,j1^n:rG^q^x4K1O{orGOr^14:n{jzrOOjqC4:1Rj<rx{^<O41RGj:r1q<<x<k^Oj{x<q:oMG<81{en:r4oGGjR1{1xx:-oO<j%q{:nG:<o1^X4O{jj<:jo1^rtx1onO:jOGo:4:1<nRr.On^j4x1:{DxrOx<O4OR4jGr:O1O<G^R3jjrjq:<:^4R<jxn4qOo^GGR:j1x<qxoa^:Rj{:x::Do<GjVl1:xR:GoRG1#q{xnN:OO1<Om:1On<roO?^Okj1GjR:1Or^x4:1On1rG::oo4<1RjfrnOj<{4:a1^OrxqO<O4{RGjrr1r<njGLR{jjx^q:onG<RxojxO:#oGGRR1{Oxxx2q:GjlO{:nG:<O4^b>O?{nG:jo1^r6x1SnO:j:x^:4D1<nxr5Oq^j4Onnn1r<Oxqj4O1{jGr:{4<<4jRwjOrjqG<:^1<xjnxGqO<1GGRjj1j<rqoNG:Rj{<x::{o<<xuj{Ox1:GoxG14^{x{!rooj^<N:1.n<rRO2oO4R1Gnx:1OO^xGO1O{jrjO:<z4<1jjYx:Ojo<4x11jqrxqo<O4jRG1:n^q<<{GpRrjjnoq:O1:<Rx{<xOq{oGG1R1R<xj:/oxGj=O{:nr:<qx^RyO1YnG:jo1<)Wx1Ajo:jOo^:4B1<njrDqO^{4G1xn1xoOx<^4O1j4%rrO1<<4nRwjOrjqG<:41R<jxx<qO<jGGR:{ox<qxoQqxOn^r#R1xnr:1l4{Oxj:Go:G1i<4RRw:qoj^GV:{1n<:xj:qOWR1^j^:1O<^x4N<rnjr^O:^14<1xjWnO{1<G4r11jorxq4<O<G<Oj:rRq<<RG*RqjjxOq:oGRqRx{ xO:4oGGrR1{:q{:UoOGjgx{:xR:<Oj{OUO{{nG:no1^<,x1OOn:jO^^:4q1<nnr5Oq^j4Onnn1r<Ox<r4O1{jGxx4<<<4nRuj:rjqG<:41jOjxx4qO<1GGR:j1x<j:o4GORj{^x:q1o<Gn0T{Oxj:GqqG1_<{xn}rGoj^G/:^44r1{{<rRqnowRnR{{Nxr:G1Oj^rGO:^1oqorG17<{4xo:j11jqrxq_<O:xoq^Rr1qj<xG+ROJR441nnn:rO1^rJrqjojG:R1{<111rjr:Rq4<O4j1rn{x<tO1onG::o1q{q:<<4R1Rj^xjq{oOnnrQOO^j4G1:n1{{xx<44O1jjGr:O1<<1xGRjOx4qG<:41^x^j041^n4GGR1j1x<qxr^roO:<44xn4o<^&._{Oxjj^nnr4Or<:G<:OOj^G+:{1RO1nj^x4q^o<Gq.^{Gr1o^ooG:D4{xq44<1RjSrOOj:o:qox^^sjqA<14jRGj:111^n{:rOx^o441O<1GrRx{ZxO{3nx:{On^rxj:aOqGj(G{:RqR4nnrqOn^QG<1rjjxqqx<4G:R4{}rn:q1onxr OO^j4G1:ROo<Ox<q4O1jjG1q1<xr:jojGq4oqGo^41R<jx1^1onxr_o{^44:1^nRr<OR{Gx{q1o<Gxoo4x4o1R:xGRb<{xnT:Ooj^GR:4{no:xOB^Oyj1Gn:jqx<^x4q1OnjrGnxrRq{o:GG6o1^<G4n11j<rxn4xx:pRG{4r1q<<xO:onG{4<1jnD:ron<<xqqjoGG:R1{<xx:(oOGjK:{:x1:<xGrRqG<w4qRxo1^Ogx1}nO14xn^r-11<nxruOO^j4GG:n1rnOx<d4OoG^<Lq{nrOO4^G<nrjqG<:41oqjxxGqO<jGGR:j1n<1<o;G:Rj1xx:qRo<Gx^G{Ox1:GorG1V<{xnsr^oj^o!:{1n<:xOloOGG1Gnn:1Oq^x4r1O{jxqO:<44<1{j8nGOjOGGx11jqrxq^<O^:RG1:xOq<<{GSRrjjnxq:O1^1Rx{^xOqRoGG1R1R<4j:WorGjto{:j4:<Oj{OwO1dnGr%o1^<&x1-4<:{Oq^:N11<njr.OjR44G1rn1x^Ox<44O1{jGrj<4<<4xR+{orjq^<:GGjqjxxVqOo1GGRrj1nOGuoMGjRj1{x:q1o<^Mno{OnG:GOnG1_o{xn4:OO_!ot:{1n<r{O.^qTjR<o1:1Ox^xGO1OnjrGq:x:4<1RjIxqOj<:4:R<qrrxq4<O^^RGjrr1qo<xG<jrjjxGq:OoG<Rn{cxx<RoGG:R1R<xx:4oO^1:4{:n<:<OR^m?O{j{G<ro1^xYx1OnO:ROG<x4{1<j4r+qj^j4G1:{/rROx<:4OR1jGr:O1oOGrR)jRrj:{<:41R<{jn4qOoOGG4Oj1x<qxo_^<Rj{:x:::o<GjZh{jnj:Go1G1Gn{xn4:Oo{^GVjn4n<:xOfo{)j1^n:xf1^^x4O1O{4rGO:^1^<{Rj0rjOj<:4:R4j<xj:4<OG^RG1^r1q<<x^GRrjjxxq:OjG<Rx{,n:rqoG^4R11Rxx:#oO^14x{:n::<q:^/2O{jnGr4o1^xXx1xnO:1OG<:q:1<nRrEq<^j4:1:n1{oOx<G4OR4jGrrO1<<G4Rsj:rjq^<:41R<jxxqqO<RGGR:j1x<qxqt^^Rj{ox::4o<^^l0ROn^:GonG1Dq{xjj:Oqj^x&:14n<:{OeoG>jJGjO:1Oq^x4^1O{<rG::nA4<1{jgrrOj<:4:C1^Orxq^<O4RRG{nr1:OReG7RxjjxOq:<1G<+jqOxO:4oG^bR1{<xx:)n<G{0:{:x1:<on^ 5j<Rn^:ro1qx,x14nO:jOG^j141<nxrcxj^j4^1:n1RqOx<q4O11jGr:O1O<rxRJj{rjqr<:^nR<1xn{qOo^GGRRj1n4qxq ^1Rj{rx::oo<<^*_{Ono:GOYG1=q{xn+:Oqj^n):1On<rGOc<o#j/Gj^:1Oj^x4:1OjqrGqxo44<R^j5x5Oj<G4:g1^Orxqr<OGoRG1qr1:O{xGKTpjjxrq:<1G<0j{xxO:qoGGRR1{<xxrGo{GjM1{:no:<ox^&7O1^nGr4o1<ZWx1ZnO:jO:^:4o1<nxrMO:^j4:RRn1rnOxr<4O1{jGrrO1<:1{RpjOrjjO<:4RR<jxg^qOo^GGRxj1x<qxqSxORj{rx::oo<<q7&ROnr:GoRG12n{xn{:Oqj^<S:1on<r4OY<R.j1Gj4:1Oj^x4^1OnjrG::ox4<RGjAr1Ojo44:k11wrxq:<OG<RGjrr1:OooGMRRjjxjq:<1G<4xjjxO:ooG^4R1R^xxrGOjGjcj{:jo:<ox^f4:1qnGr^o1<nux1NnOr1O<^:4x1<{4rdOO^j4GR4n1r{Ox<j4O1jjGr:::<<G4RcjOrjq<<:G1o1jxxOqOo:GGRRj1x<{Ro=G:Rj{:x:qRo<^6no{Ox{:Gn4G12o{xn4:OOK)oQ:{1n<1^O(^q;j1O:n:1O<^x:41On{rGO:x44<1jjcrxOj<G4:u1^OrxqG<O41RG{jr1q<x{GfRrjjxGq:<1G<Rxj<xOq1oGGxR1{qxx:OjrG{}<{:D1:<on^dyO{jnOono1^<fx<AnO:{OG^j141<nxrujn^j4^1:n1RqOx<G4OR+jGr:O1O<:jRHj:rjq<<:^GR<jx*^qO<RGGR:j1x<qxok:<R{{Ox:q1o<GxA8{Oo<:GoxG1Xq{xn<:Oojroa:1cn<:1OI^OBjTGGx:1OO^x4G1O{ZrGO:x44<1{jQrOOj<G4:11n:rxqG<O41RGjnr1q<x{GvRrjjxqq:<1G<4x<GxOqRoGGnR111xxx7q:Gj%o{:n4:<oj^Cuj1^n^:{o1^<?x14nO:{OG^:G^1<nxr!OO^j4G1:n1GBOx<^4OR4jGrxO1o<:<R,j:rj:x<:G4R<j1q^qO<jGGqjj1xoqxo5:rRj{<x::Go<GxgsRO41:GoxG1NO{xj<:OojroN:14n<:xOX^O)j1Gxj:1OO^x4G1OnRrGO1R^4<1jjH71Oj<^4:1Rj<r1<^<O4jRG<Vr1qo<xG<jrjjxGq:{GG<Rn{ xO{RoGGxR1{:xx:>oO<jq<{:n?:<oj^T4x{jnG1no1^qXx1UnO:jOG^:#G1<njr-O:^j4o1:{1JOOx<G4O11jGn6O1O<^jRcj:rjq<<:G^R<jx{1qO<1GGRxj1xoqxoa:rRj{<x::Go<Gx*JRO41:GoxG1_O{xj<:OojroF:14n<:xOL^OLj1Gxj:1OO^x4G1OnRrGr:q{4<1jjLx1OjoG4:114Grnq8<O4{RGj:r1qO<nG_ROjjx:q:<1G<Rx{4xOqjoGORRR{<xx:WoOGj8G1j11:<o{^D=O{j,o1{{G^<aR1WnO:jxoxqqxo^Gjr.Ox^j4G1:^GR{j{xn4O1{jGr:O1:OG:RBjOrjqGxn41R<jxxLqO<jGG4:R>x<qxoSGORj{ox:r%{^GxZG{On4:Go:G1U<xnnA::oj^^C:1tn<xxr4^qi11Gnx:1OO^x^gq{njr<O:<_4<1jjkrOjR<G4n11j<rxqZ<O^jO<j:x4q<<{GXRxjjjG1x<1GqRx{^xOq{oGG:O4{<x1:?oOGjbG{:j1ROox^<!O1(nG:jo1o<qj1tnx:jOO^:4<1<nxRoOO^j4G1jn1roOx<eO<1{jGr:OR<<4xRzjOrjqG<:413xjxx;qO<jGxR:j1x<11nRr<q4^R&x1^jOGxS<{Oxj:Grxrxqr^Rn=:noj^Gu:<4GD1nj{xOVj1on::1O<x:qoo{njr^O:^14<^4jyrnOj<G4:^4^^KO{Rn:4jRqj:r1q<r1:R^14RR:qr<1G<Rx{>xOqjoGG:R1{:xx:=oO:FOqoWGG:oox^MeO{jnG::^1q^}x14nO:jOG:xW11xnxr.OOqR:4o<G{=Or{<b4{1jjGr:{<nO:ro{c11Rj:<:G4R<jxx=n:nnrxR:{^x<qxo0OjO1^^4o1^o<G{iI{Oxj{<rRq.w<{1nA:OojrROroG4j:xOo^OFj1G41Rx{^xr:G1OjGrGO:^1ojorGjRx{4n<4:R4j<rxqDrr:4OOj:rRq<<xG/^:j{xGq:<1G<RxnH4onj:RG:R1{<njGioOGj*G{rx1:<ox^Z;q{jn^::o1^<3x1A{Or:OG^rY11onxrROOoj4n1:nRr<On<7Gr1j1Gx<O1<o4xR4jOxRqGO:GxR<jnxIqq<j^GR:11nGqxo4GOR{{Gxxq1q<^^2?{qxj:^o:^j#<RxjO:Oo{^Gmr{1n{:xO5<qkj1Gn:r3O<^j4hR:^nrGOr^1G)1xjWrO:j<^4:1Rj<rnqio^4jRG{Rr1qO<xGdROjjxGr:O^G<Rj{,x:qjo:G:41{xxx:GoOG1MG1^x1:<oj^t&r{jnG::o1^<Gx^jnq:ROG^nW11xnxnbqG^j4o1:j4r<OR<l4ORRjGrjO1<<4xRUjOnjqO<:GGR<j1x5qj<j<GRRj1x:qxo<GO44{Gx::Go<GnD>{xxj:<o:^<e1{xns:Oqo^Gmr{1no:xO<Kr8j1Gn:xqO<^n4t1x:RrGO:^1<G1xj4rOOjxo4:R-j<rxq&<O4j4G1xr1qO<xGGRO1PxG:xj{G<R1{%nGqjoGG:41<Oxx:<oO^-aG{jx1x<jj^e7n{jn^::Or^<GxoGnOrGOG^r/11rnxxG1o^j4r1:jRr<Ox<E^Oo1jGrRO1<n4xR^jOx1R4<:GOR<{nx_qO<j<G74j1xjqxo:GOb1{Gx::oo<^^?u{Oxj:Go:G1XR{xn::Oo1^Gdx{1jO:{Ok^Rij1xn::1O<<jG:1OjOrGq1^14<1xjIxnOj<r4:R:j<rjqpOOG{RGjRr1qn<x^OROjjG1q:oGG<X4{gx:qjqG<xR1{:xx:<oO^^gG{:{R:<o1^AEn{jnG::o1ojTx1GnO:jOG^r&11::{r/OO^j<11:nRr<Oxx^4O11jGr:O1<<4x474jr{q<<:GBR<{rxMrOO4GGRxj1xOqxO^GO4j{{x::>o<Gjw,1rxjxGOoG1AO{xnG:OOj^GG:Ron<:jON^:Pj1<n:x1q^^x4G1On1rGqO^1GORqj7rrOjo^4:11j<nxq{<O4RRGjnr1:O<x<QoOjjxOq:<RG<2R{MjOrOoGGjR1{:xxrOoO<j4O{:nG:<o1^S4.{jnGrxo1^qPx1GnO:1OG<:4n1<njrmOR^j4o1:n11GOn<N4O1{jGr:O1<<4xR=jOrjqq<:41R<jxx{qO<jGG<j^{+n14nj:n<1^^441jnOrrqq{Onr:Go:G1or<{4oR:xoxPq:o^G:{1{rxOq41GnR:1O<^xOG<qGo2ujxx{:n1xjjrOOj<GOoo{^rc{{o::r4OO^jZ{1GqnG>RxjjxGq:r^rGOR^{n^qjoGG:41rhxx:4oOGjHG{xx1rOOg^iU:{jnq::o1^<Gx1RnO:1OG^x_11Onxnzqn^j4<1:jdr<O1<_4j1RjGrrO1o?4xR4jOr1qG<jR4R<jxx2:G<jG^R:j1tqqxo4GORj{Gx:q1q<f1%F{qxj:^o:GR><{xn1:OoR^G%:{1n<:x:t<:&j1on:r4O<^{4Y1Oj^rGOn^14q1xjPrOOjo34:1Rj<r{qs<q4jRG4OrRq<<xG4ROjjxGqr<1G<Rx{!n:qjoGG:R1{nxx:koOq1O^<44j1Ojrxq?O1onG::o1qjqR<oSrR:jnrjq^oOnxroOO^j4GGnG{3a{rnG4q1jjGr:O1<<4x16Korjq^<:41R<bjxzqq<jGGR:Gqx<qRouGORj4:4x{Rj4:R_5{qxj:Go:qoT<{nnz:Ooj:<Zr{1n<:xOK^OMj1Gn::1Oq^x4E1O_RRq{j^1Gk1xjUrOx{x<:no{^gTR1<xnORon<G7^q<<RGlROjjHo1<xRr4Ox{hx{qjoGG:<1^o4O1ojxx2Oq{:n<:<ox^H<1<n411jj^xOux1<nO:jOGxoORo:GGrYOq^j4G1:4Or<qx<p4O1jf^Rx14n^:OOo^xP4jGnqr4o{^1.r1onx:<R:j1x<qxn^GORj{Gx:q1o<Gx_O<rx{:Go:oqd<{nnd:Ooj^O{n{1n<:x:r^O,{1Gn:R4O<^x4V1qnjrGO:o1:O1xjkrOOj<G4r11jxV{q4<O4jRxj:rRq<<xG(RxrRxGq:<1GjRx{4xO:8GoG:R1{<{^:5oqGjLG^nx1:<ox^4LO{jnGx:x^^<Ux1KnO:jO{^:Gf1nnxrGOO<j4G1:n1n<Oj<!4:1jj<r:qn<<4xRojOrRqG<x41R<jxj6q1<jGoR:{4x<:noiGO4o{Gxjq1ooGx6s{Ojj:{o:^G;<{1ns:{ojoGLR{1n::xO<^O4n1G{:rjO<^14)1xnjx4O:o1Go1xj<rOq+<G4x111<4qq(<x4jROj:nLq<OxGjRO{/xGqj<1^oRx{uxnqjooG:_4{<x1:JoO^^&G{jx1:oox^>bORjn<::OG^<*11gn{:j:G<EY11:nxr<OO<n4Gl:jnr<O1<04x1j{4r::1jR4xR<jOx/qG<x414<{xxTqx<jGOR:{xx<rxooGOc2{Gxjq1OoGxM51rxj:oo:^4+<{1nLr:q^^Gsj{1n1:xOE^O41Ron:r^O<^14m1OnjrGqq^14O1xjorOO1<G4:2Oj<r{qp<q4jRGj:n1qO<xG^ROjRxGqn<1<<l4{;xrqjooG:TO{<xx1^oO^+YG{rx1:<oxolq:{jnO::OG^<){1_{OR1OG^j=11:nxroOO^jqq1:n1r<O1<C4q1jjOOnO1<<4xo4jOr{qG<::4R<jxxmqr<jGGR:{<4qqnoKGOo{{Gxrq1o<GxM<xrxj:Go::RF<{nn8:OnR^GZ:{1no:xO0^OGjz<n::1O<^x4AR4njrGjn^14O1xj4rOOj<G^:O,j<rjq6<:4jRoj:n11O<xGGROj1xG:4<1^Oqr{IxrqjOGG:R1{<jxRGoOGRHG{nx1r4ox^,Or{jnO::OP^<ex1_{OR1OG^j511:nxx4OO^jqo1:j^r<On<04O1j1GKxO1<r4xRojOx^qGO:r?R<jRxcqn<j^4R:114OqxooGOL4{Gnqq1q<rjS?{nxj:qo:^jQ<RxG{:OO4^GU{{1jO:x:I<^;j1qn:r^O<<n4g1O{<rGOj^14:1xjorOOj<r4:R^j<rnqb<O4j4G{Or1qr<xGoRO{^xGr:OGG<RR{sxnqjO4G:41{:xx:ooO^4,G1qx1x<j^^4%n{jnq::Oj^<GxRrnOr4OG^{,1RLnxn Or^j4q1:j^r<qn<I4O11jGrjO1<:4xRojOx1:{<:G^R<{<xBqO<j^<4-j1xxqxo<GORj{Gx::Ro<G{d8{jxj:<o:<+5q{xn<:OOj^Gt:{1{<roO_^xEj1On:rnO<^xGr1Oj4rGOx^14<1x1Ud:Oj<q4:R^j<xzqI<OqRRGj1r1qo<xG%RO1j4<q:o<G<_z{#x{qjqGrxR1{xxx:OoO^n3GR:G0:<Oe^(Mj{jj4::q1xOux1OnOrGOG<OJ1v<^qrvOj^j4:1:{Sr<:xon4ORGjGr1O1<x4xR%jRrjqq<:G^R<{Kx%qOoGGGR1j1xoqxo GO4j1qx::<o<^;th{{xjxGOqG1mx{xnO:OOn^GG:RGn<reOg^jCjR4n:x1o<^x4O1OjGrGqO^1^<FOjYrjOj<:4:Rxj<nx:U<OGGRGj1r1qx<xG0,<jjxqq:o^G< l{Cn::roGG1R1{1xx:%oO^1Do{:no:<o1^DXO{jnGrOo1^:_x1qnO:1OG<:4n1<n1r#Ox^j4O1:n1r1Ox<L4OR-jGrrO1<<O:R4jOrjq^<:41R<jxxCqO<jGGoGj1x<qxo4GORj{Gx:q1o<;x^R{OnG:Go:G1oq<O4r1xj4x<M:1Gn<:xO!qjqo<1G<:1Oq^x4!1O1xjErO^R4<1xjYrOOj<GO^G1j<x^qv<O4j^n^OpG{{x{:4Ox^n4<qr<1G<Rx{CxORjrOO:RR{<xx:IoOGjaGRj11:<O^^pgO{jWO1{{Ox:oO<44:R4j1^:4o1<nxrSjxx4q:<r^^7f{1<I4x1jjGr:jGxrrGO<jOrRqG<:41^oG1H<qO<jGGR:j1x<qRoCGORjGO4(1^j4:R?i1zxj:Go:xGq^<44qRGj4r^Ox<x4r:nOM^ODj1Gn::1r{qx421RnjrGO::<:^<{^olrn:n4:nOGj<r{q*<O4j^<Gr4#qo<xG6ROjjxGq:qG1<RxRxxOqjoGrUqG<:4xnx:oonqr<RGonGjjrRO:<:G4fD:jrqqr<{1o1{{oxnq^o:1rjRjRxW<R4RROjOx4qo<OGERojnx^<<4jRPjOrjjqr441R1jxx*qOroryO:<^4:njno:{o{< x::Go<Gxw(^j4:1^nRG1an{xnK:On*rq:YoGRORr{:^O4q1Gn::1n:rR::ox4^K<jrx1:<<RG<rO:G<G4:11iORn{^n4:^O<^q4^1Gx1q<O:G{4 1nn1:oOj^o4<{RjnG:HG{<xx:Sxrroqj^{x1:rox^Y.OGjG4R4jjx:kn1)nO:jOG^:h1R:qxrJOx^j4G1:EjRo{qxo4OR^jGr:O1r^r5oo^:):{^j44RR<jxxTqO<jGG<Oy1x<:<oaGORjGo4qR^jO:{OoGr?{RWjnGR)<{xn>:Ooj^G^O41n<rVO ^OujGxGqRxj:rR:G1Oj^rGO:^1qxojGRD^n1:rox11jrrxqb<OOGo1Grco1q<xGOROjjxGjjn{:nO4^jHnq{oGG:R1{<xx:Jr OjE^{:x1:<ox^VTOGoqG::O<^<gx15)O1{{<r{qjo:nnrkOO^j4G1:n1jGGx<c411jjGr:n1n^:{or^xzo14nO4RR<jxxZqO<jGGG<L1xoqxo3GORj{Gx:O1r^Gx!^{Oxj:Gxnx^OO{nnu:Ooj^G*:r17O<xO=^rzj1Gn:14jrx1441OnjrGO:^14<1xjFrOq4<G4:11,{Kq{4x{:4RGjjr1q<<xOOOo^x4Oq:oOG<Rx{D1r{{n1r<Ow^o6{1noqGjKG{:x1:<oxOO<O{jnq::o1^<o_oG4qRrjq^:4o1<nxrixrxn:(oOG^Rq{1<44O1jjGr:O1<<O^^;jOxqqG<:41^o^:k^{1nnr<<:^{w{1:j<GOWO{Gx:q1r{r:qB<nG)jqjOrGOr^1n(:xoj^G-:G<G 1njq^O4&1Gn::1xrx::oo^njx4O:^14<^xGjRqjRxq:%o{^AR1{on:q>oq<,4Gqo<xGWROjjxGq:<11<Rx{oxOqjoGqxOq^n4GR<oO^<%G{:x1{:nRx:qxGR4nzGj^^<*R1}nO:jxoxqqxo^Gjr)OR^j4G1:4GRr1Gn<oronG1dq1L<<GxRLjOrjnon<:qO<^{1<{nnR:oo{^j2:{nn1rxOR{Gx{q1o<Gxoo4x4o1R:xG14<{xn :Or1r^On<r4nRjjRxnqx<ORnR{{Fxr:G4rnjr:O:^14<G{^GRnj{nOq{11jrrxqI<OO:o^Gx=^1H<{G4RO{bxGq:<1q_oR^O4xq{oGG:R1{<xx:poOOjCG1Ox1:<ox:<Ono<GO1QrRxbq^<qG<RrjqxO:G1<jOrwOO^jOo<{G4L:{^xR:<GR^4w<{{nO4xROjOrjqG:n:{Ov^r4Gxr<jGjR:j1x<j1nor1q}4o4q1xj^rj^^{On4:Go:G1ox^n4jRnj4^^v:{1n<:xO2^OG7GGn:roO<^x46^jG4Ro{jx{:O4jjJrxOj<G4:<G^{.x{o<OGORGj:r1n{nq:4o{^411{rn3:rOO{4xOqjoGG:R1{<{GjHoO^uzG{:x1{rr1rrq^{jno::o1^<q:<oG{:jOq^:?11<X^R1{On4:O1:j<r<Ox<.oq<RGoR{{jn:4xR<jOrjqGr<:qOq^1x4qO<jGGR:j1x<n1rv<oR1{Gx:q1xrGnHq{Oxj:Go{G14<1xnU:{ojoM8:{Rn<nxO^^O4^1GEx:1OO^xGebGnjrrO::{4<11j,nO:z<GGZ11jrrx:q<OGGRRj:xOq<oGG7RqjjxGq:oGRqRx{SxO:<oGGrR1{:q{:.oOGjJn{:xR:<oxqOAq1<nG:ro1^<axRfGk:jOr^:<r1<jGrJqO<x4G1Rn1j:Ox<O4O1jjqr:qO<<4xR0jOrjrG<n41Rjjxx:qOO4GG4:1ox<:GoIG1Rj4:x:rfO:GxEr{O1G:Go:G1Y<11nIr3oj^GJ:14n<rxqj^O4O1G{O:1Oo^x4#Gon{r{O:^14<1xjNnOO1<GG^11jRrx:o<O^jkGj:xrq<ooGX^qjjjGq{<1GRRx{nxO::oGG:7O{<nO:hoqGjaG{:j1r4ox^j)O1:nGrOo1o<*11QjG:jO1^:ox1<jj<^OO<r4G^on1r<OxOE411jjRr:qn<<^1RN{:nhqGoO414OjxxJqOo1^{R:{{x<rjomGORj1<noq1O<GxGG{Oxj:Go:<ON<1qnUrOoj^G;:{1jR:xOn^O.j1Gnx:1q<OR40RPnj{qO:<r4<Rjj1rOqq<Goj11j<rxr.O44jR{j:xrq<x=G6K:1qxG:<<1o4Rx{8xO:1oRG:.n{<R<:_oOGj4<1nx1rGoxO4sO{jnGrxqn^<4r13n{:jOG^:f1rGnxrnOO<n4G1xn1x<qn<ZGm1j{{r:qr<<4xROjOxqqG<:41R<jxjDqx<jG{R:{rx<:RoT<O4o{Gn^q1oRGx<O{On1rOo:^xd<4wn :Ooj^G41{1j4:xOG^O4 1G1:j{O<<q4bC<njnoO:^1o^1nj1rOOj<G4:111<x<qNo<4jM#j:n^q<Ox^^RO{xxG:O<1OoRxR=noqjOJG:aj{<nO:UoO^qwG1qx1:oox^F,ORjn^::O{^<4r1Uj<:j:Go<J1R^nxrROO::4GRxq4r<qx<3O^1jjGr::1o{4x3;jOxjqGOj41)O{Gxu:q<jqGR:j1x<:jo1GOw1{GR:q1o<Gx4GR4xjroo:q1 <{xnd:Oq:^G4:{1jq:xOT^OHjRxn:rjO<^x4=1:njxGr{^1G41xtorOqx<GGx&4j<x:qa:x4jRGj:n1rC<xG1RO{xxGj1<1^O4<{wnoqj:^G:R1{<nj:1oO^j8GSox1:<ox<G4O{jj^:::R^<Ix1 j:rOOG<xS144nxrvOO^jRj1:jjr<qj<&4:1j{Gx^O1o44x4njOxxqGoxGxR<{:xhnx<jGGR:11n1qxo1GO>x{GR1q1OO^ol 1oxjxRo:G1&<1jnO:OOj^G<O{1n<:xqG^xIjR^n:nnO<^x4+R:OGrGqx^1oG1xj_rOOjR74:Rjj<xjq&<:4j8G{<r1:4<x^nRO{xxGq:o:G<v:{HxOqjoGG:411oxx:1oO^xYG1{x1x<O1^T4<{jj.::x<^<4j1rnOrnOG<4-11<nxr0q{^jGG1:n1r<q<<7<OGnjGx:O1OG4x^qjOjjrG<:G1R<1<xkx^<j^<R1j1noqxr<GORj{Gj::Ro<^ny=1qxj{:o:<%45{xjG:O:{^Gh:{1jOx^OC<rbj^Gn::1O<<jGj1O{0rGrr^14<1x{GxoOjoq4:^1j<rxq;<OPORG{rr1:r<xGGRO{jnIq:o1G<Go{>nqqjO<<oR11oxxj<oOGjBGR:n{:<On^h4q{j?:::q}<{.xRGnOnrOG^:e1ROjjrpqr^j<41:n1r<qjo<4O/VjGjrO1<<4x(GOjrj:q<:<xR<jxx%qOrqG^crj1nrqxoGGOMj{jx::1o<<o.w1qxjr<OjG14o{x1j:Ooj^GG:1:n<rnOC<qCj4on:x1OR^xG41Oj{rG:r^1G<XGjSxOOjqo4:RRj<xxq{<OGjRG{^r1qo<xG;orjjn^q:<RG<Rx{KjO{1oG^rR11oxx:1oO<j4:{:nR:<On^t<:{jjG:jo1<<CxG1nOr{OGO:4^1<jxrQxO^j^11:11xROxoy4OuojG1+O1oO41Ry{qrjx1<:41R<1xneqOo{GG!rj11Rqxq!r:Rj1^x::Ro<q^Sz1O4O:GO:G1<R{xj4:Oojn1y:1jn<rxOB^:aj1G4n:1q^^x4_1OnjrG::^{4<RrjJxoOjoq4: 1{4rxqR<OGnRG+1r1:OOOG/fOjj{:q:<1G<Rx1xxO:{oGGrR1{:xxnHO{Gj4^{:jj:<oj^z^ORjnGrro1<17xT{nOr1qO^:Gv1<R1rdOO^j^GRRn1xOOxoG4O<GjGxx:J<<G{RMRqrjqG<:^vRrjxn<qOrjGGR:j1nOqRoc^nRjRRx:q1o<^j*O{OjG:G:GG1P<{xnEqJoj<<S:R<n<:jOv<O4{1Gjr:1:R^xGG1Oj1r<O:o!4<G1j&rOOjOGG:11{Orx:G<OqGRG{xrRq<o{GvG^jjxGq:O5G:Rx1<xO:RoGG:R11Onq:BOnGj^^{:x1:<Oj{O#ORGnGr7o1^<ix12O<:jq<^:G<1<njrHqOoO4GRrn1xROxoG4O1jj<r::d<<4xR/jOrjrGoR41>OjxnGqOO4GG4:{{x<:joe^:Rj4:x:rCO^Gx4^{O1G:Go:G1(<1xnurxoj^Gg:1Gn<nxrR^OGS1G{O:1qO^x4zGon{xqO:^14<1xjanO:r<GG{11{rrx:o<O^jRrj:n^q<oRGM^qjjjGrG<1^rRx1oxO::oGG:4q{<j(:IoqGjZG{:j1r1ox<OEORGnGrOo1o<G<1Wjj:jq:^:ox1<jj<^OOo^4G^on1r<OxOWGG1j{rr::o<<^1RN{:xxqGO(414Ojxx?qOo1^qR:1qx<rjotGORj1<noq1O1GxGG{Oxj:Go:<x_<R4nbx%oj^Gl:{1j^:xqo^OWj1Gnx:1q<rj44Rxnj{qO:o^4<4xjjrO:+<Gon11Sjrx:Go44jXqj:1Gq<<xGg4O1}xG:{<1^rRxGOxO:1o1G:4<{<{q:EoOGj4<1nx1rnoxO4&O{jnGrxoR^<GG101^:jOG^:G?:xnxxrOOO{4G1:n1r<4:<+Gn1j{nr:qh<<GxRojOnNqGO^417rjxxz:i<j^qR:j1x<qxo><Of<{Gn{q1OrGx4o{Ojj:1o:<^3<1Rn5jjoj<<;n{1jx:xrO^O-j1Gn::RO<o44E1OnjroO:O1o^1x{qrO:x<G4n11j<{rq4o14jRGj:r1q<OxGxRO1<xGrf<1^rRxRLnxqjOxG:4O{<1n:BqO^:IGRlx1rjoxo1(O{jj<::qq^<tn17nO:j:G<RF1R{nxxrOO<x4Gc:j1r<:^<TGR1j4xr::WRq4xQxjO1rqG<:414<1oxCr,<j^jR:RGx<:jOOGO4q{G16q1o<Gx4G{1xjr1o:OOW<{xnsr:O<^GGo{11j:xO2^OIj1on:x:O<oq4*1OnjrGqj^1Gj1xjCrOO1<GG:G^j<n4qi:n4jMxj:nZq1<x^:RO4LxGq:<1<<R{{Hn1qjOxG:o<{<nj:GoO<opG{rx1:<ox<G4:{jjj:::R^<Yx1cj:xGOGo^?144nxrhOO<1GR1:{xr<rn<J4O1jjGG<O1oj4xvjjOr1qGo:::R<14xcr4<j^xR:1eG^qxO:GOo4{Gx:q1q<GnD411xjrxo::<E<1jnn:Oqo^G^r{1n<:xqG<4kjRjn:{1O<^x4,1O{OrG:_^1G11xjCrOOjo44:l^j<rxq*<O4jRG{fr1::<xGVROj{xG:xj{G<#R{KRnqjoGG:411^xnrooO<4;GG1x1rOO{^p4j{j1^::o1^<4jRxnOx^OG::X11<nxr+:4^jGq1:{or<Ox<.4OWojGxxO1<<4xRGjOrj:n<r^4R<jxxJqO<j<GAjj1nqqxO^GO44{Gj:rno<^{c,1rxjj:o:<_4G{xj<:OrG^GN:{1n<x4Of<n.j1Gn:r^O<OxGr1O{4rG:O^1^Z1x{GrjOjo:4:^Rj<rxqhOO:1RG{1r1:x<xqORO{1<:q:OoG<Rn{AxOqjO<j1R11jxx:4oOGjpG{:^x:<q-^541{jn<::O1r1zxRonOjoOG<1=11<4{rPqj^j4^1:n1r<:xnG4O GjGx1O1oG4x46^:rj::<:^<R<GGx6:O:4GGA{j11rqxOOGOh11:x:r<o<O1Yd{OxjxGonG14x{xjO:OnG^G4x1Gn<x4OY^q.j1Gn:xDqq^xG:1O1{rGO:^1GORqj3xROj<^4:11j<xjqG<O^ORGRrr1q<<xGk1fjjn:q:O:G<Rj{NnO:RoG^{R1RRxxrOoO^1,o{:j<:<r1^stO{j{Gr<o1<x/xROnO1GOG<x4q1<{4r_rq^j4G1:{%n4Oxo:4O<AjGr:O1oO^oRH{Rrjx^<:41R<{jn:qOOOGG<jj1x<qxoKG:Rj1:x:r:o<GjN#1On<:GO{G14R{xjO:OO1<o2:R<n<{RO,^Odj6Gjn:1qx^xGO1O4GrGqx<44<&4j_jqOj<G4:le{^rx::<OOjRGj:r1q<rxG4Njjjnxq:<1G<Rx1qxO:RoGG:R1{<xx:XjGG{4^{:x1:<on^N-OO:nGrqo1<o&x1GnO:jqn^r411<nxrsOO^j^Guon1x<Oxo54OK4jGn::o<<GxR}{Orjn:<:^ehRjxn4qOO<GGR:j1x<:oo_^:Rj{Gx::xo<oxbo{On1:GqOG1on{xjGxJoj<oX:GRn<:xO}oOq11Gjn:1qq^xOO1Oj1^:O:oG4<4qj!rOOjo<n111{rrxx4<O4jRGj:Gxq<o{GgSnjjx<q:o1:1Rx1GxOnooG^nR16<1r:*O:Gj4j{:{n:<:xoTHO11nGjoo1^:bxRGj^:jqo^:oG1<nxrB:Oo:4GRnn1xqOxrO4OR1j1r::G<<<qRkjOrj:<<n41Irjxn{qO<jGG x{rx<rmouoqRj{Gx:rMORGx4q{ORj:Go:G1)<j<n8rroj<rF:16n<rxOq^O411G1^:1qq^xGGR^njxoO::G4<1xjdnOqR<GGn11{qrxjO<OG1W^j:nGq<qnGcROjjn<r<<1^rRxRLxOqjoG^xF:{<j?:7:qGjCG{:jWGxox<qUOp:nG::o1^<rO1Cjr:jqr^:4E1<jx1GOq<14GC^n1xqOxoG^G1j{or:xx<<4xRy1Or1qGon413qjx{^qOOj^{R:14x<:{oZ<qRj1Gnrq1OOGx^^{OnR:G::^:A<1jn6r4oj^R/:{1jo:xq^^Ol{1Gn::1:<rj4tRrnjxoO:<j4<KxjxrOqR<GGn11eOrx:7oR4jB<j:1jq<o{G5GO14xG:x<1O<RxRjxOxjo{G:4y{<j^:?r1Gj4<R4x1rqoxOjWO{jnGx:qo^<4{1Qjr:jx{^:G1oOnxx^OO<R4GGqn1x<{<<XG:1j/{r::4<<4x<IjqxjqGox41R<jxxv1G<{GRR:j1x<qnoL^:qn{GnOq1xrGxE!{Ojj:^or^j3<1:nc{joj<</1{1j^:xr4^O%j1GjxxoO<<x4y^OnjrGO:^1G^1xj1rOqj<G4:11j<xxq}o44jRGj:r1q<<x^IRO{OxGq:<1GoRx1GGoqjo{G:o^{<xx:DqOxq5G1^x1:Rox:OvO11jq::Ox^<^n1knO:jq<<{t1R4nx18OO^j4G1:j:r<qo<hG^1jjGr:O1O24xR:jOrjqG<x41!<jjx=q{<jo:R:{Ox<qxx1Gqt<{Gx:q1o<Gx*O{{x{:no:^4k<{nnE:roj^GOj{1n<:xOG^O-j1Gn:RGO<^x4B1rnjrGO:^1q:1xj>rOq4<G4:11jxx4q4o}4jRrj:rRq<<RG RO^6xGq:<1G{Rx{FxOqjnOG:R1{<n4:)oOGj.G^jx1:<ox^^sO{jnG::jG^<Cx1Zn::jOG^:_1RrnxrDOO^14G1:n1rxq4<4G41jjOr:OR<<4RR?jO EqG<:41R{jxx qO<j:OR:j1x<:4oZGORj{GXjq1o<GxLx{Oxj:Go:rGX<{xnM:noj^G#:{1jr:xOA^OaR1Gn::1q<x<4u1{njjGO:<r4<Ax^GrOqq<G4{11{^rxrOrx4jR{j:1jqo<nG5^1jjxO<n<1G<Rx41xqq{oGGj{4{<xx:XxjG{l^{:n<:non^nZO{jnG:ro1^xpx1zjn:jOG^:441<nxryOOxC4G1:n1rnOx<-4O1j{qr:O1<<4jR-jOrjqGo{41R<jxxyqO<jGGR:1^x<qxo)GqRj{Gx:q1n:Gx#?{On4:Go:G14<<<nw:{ojo:5:1rn<:xj^^O4q1Gnj:1O<^x^Do:njr{O:<r4<<^jLrOjR<GG<11j:rxqh<O^jO<j:xxq<oOGC<RjjxG4{<1^sRx{jxOqjoG<:oj{<nO:!OGGjGR{:x1Gjox^nEO1:nG:Ro1o<nO1yj4:jOr^:<<1<nxxoOO<:4G1jn1r<OxOdG:1jj1r:qx<<oDR#1OxRqGo<41g,jxRrqOojGoR:{rx<x^o0^GRjRGnjq1oRGxaq{O1G:Gq:<<N<1on*r4ojoo.:R1GO:xOn^O4q1Gnx:1:<xj4%R4njr{O:o<4<zx1GrOqq<GG^11RnrxqO<{4{RRj:rRq<<nG7R{jjxG{j<1G<Rx{:xOqjoGG:4^{<xx:3onGjEG{:x11:ox^HEO1^nG::o1^<O117nO:jO<^:e11<nxR<OO^j4G1nn1r<Ox<Hqx1jjGr:q^<<4xR)jO%MqG<:41R1jxx%qO<j11R:{rx<:qoKGqRjRGn<q1oRGxCq{O1G:Gq:<rv<1onwr4ojoo7:R1j1:xOn^O4q1Gnx:1:<<o4LR4njr{O:q:4<zxjGrOqq<GG^11RnrxqO<{4{RRj:xaq<<nGlRjjjxG{j<1G<Rx{:xOqjoGG:OG{<xx:6onGjvG{:x1rrox^AQO14nG::o1^<O11}nO:jOr^:N11<nxR<OO^j4G1xn1r<Ox<_qx1jjGr:q4<<4xRDjOO:qGo^41Y4jxx4qOOj^>R:{rx<:4o;ojRjRGx{q1oRGx.n{OjR:Gq:^R&<1on;r4oj:rJ:R1nj:xOn^O4q1Gjr:1:<^j47R4njr{O:qo4<RNjqrqqr<G4{11jorxq4<O4joOj:r1q<o4GhROjjxG{{<1GRRx{{xOq{oG<:ql{<no:XonGj44{:{<{:ox^n-OOon^:ro1qjax1<:r:jOG^:rq1onnrPOx-R4G1:n1x1Oj<44O1jGor:qr<<4xRyjOrjrGnx41RRjxxnqOO4GG4:{^x<:oo_^4Rj4:x:raOOGxVj{O1G:Go:G1l<ROnZr^oj^GQ:1^n<nxqr^O4r1G{O:1Ox^xGGR<njxZO::R4<1xjInO::<GGO11{GrxjO<OG1Roj:x{q<qqGwROjjn<{G<1^<RxR{xOqjoGG:42{<n::NOOGj/<{:n1rqox^{yO4onGrOo1^<GK1Qj<:jOG^:f11<{xx^OO<x4GROn1xrOxO;4x1j{Qr:qj<<onR=1OnoqGoO41?GjxxjqO<j^ORr{{x<qno(GORjRGnxq1O^Gx?R{Onx:Gq:<xB<1rn/roojq12:Rmjn:xqd^Oor1Gn::1:<<G4eROnjxGO:OG4<RjjOrOq{<G^x11j<rx:GOG4jV<j:jcq<<xG+=:{4x^:n<1<ORx{?xOqjOgG:i1{<n{:moOGjpGR4x1rGox^m)O{1nGr:O4^<4q1HRn:jqb^:GURjnxr1OO:B4G1:n1n<:.<=G<1j{dr:j<<<GjJnjOxnqGqo41R<jxnGxx<{^GR:Mjx<qxo/^:b:{Gnrq1:4Gx*#{On1rro:<Xy<4:nz:Ooj^G4o{1jG:xqG^O 11Gj:xGO<<q4X44njx_O:oi4q1xj1rOnh<G4:111<xoqwo<4jP/j:R<q<ojR:RO{nxGxr<1G<Rx1Gx:qjOGG:o:{<xx:+O:^<fG1rx1noox^)7O11jO::q*^<^41vnO:jOG<:21RGnxxGOO^14GR:j6r<qq<A^41j{Hr:O1<q4xR1jOrjqG<:414<n{xs:<<j^bR:1^x<rxoxGObx{GnOq1rxGx4G1{xjr4o::45<{xn_:Oq<^G4:{1n<:xOo^O^j1^n:r1O<o:4.?onjrGqj^1Go1xj=rOOj<G^:Rnj<xnqFoq4jaqj:n1q:<x^4RO{{xGnr<1<<a1{TnqqjO^G:)x{<xxrxoO^1lG{rx1:<oxoS4G{jj<::q#^<4:1i{OroOG<x?1ROnx{jOO<1G:1:{4r<nq<z4O1j1GxRO1oq4xp^jOjSqGoxj<R<{1xT:O<jGGR:1_x<qxOoGOCj{Gx:q1OO<<#N1jxjrGo:G12<{xn4:OOR^G41{1n<:xOp<nXjR^n::1O<^j4bROn{rGq:^1or1x{4rOq1oR4:RRj<{1q&<O4j4G{xr1:o<x^4ROGGxG:xOaGosj{b{qqjoGG:4c{xxxr^oOqO%G{:x1rOo{^,4x{j1^::o1^<4jR.nOx4OG:G}11<nxr#qj^jG^1:{^r<Oj<TGOQGjGx:O1OR4xJ4jOx1:<<:GRR<p1xLqO<j<GO<j1noqxO4GOoG{Gnx:qo<^jcEZqxj:Go:<P;j{xj^:Or4^Gu:{1jOrdO?<xWj4^n::1O<<j4^1O{4rGr{^14<1xj,xROjo^4:_^j<rjqLoO^rRG{:r1:R<x^4RORj14q:o1G<Gj{MnxqjO<xqR11oxx{ooOGjtGR:xR:oOn^24q{j>:::qH^OlxRGnOn{OG^:l1ROn{rKqr^jOG1:n1r<Ox<o4OR{jGxnO1<<4xR jRrj:t<:41R<jxxIqOooGG_oj1x<qxo4GO/1o4x::jo<qR.h{OxjxGOqGR4G{xn1:OnG^G4xR<n<rrO)OqWj1Gn:x!q{^xGl1O}jrGO:^14<VGjtx<OjoG4:11j<rxqn<OGqRGj:r1qO<xGD{Gjjx1q:o4G<Rx{djO:joG^<R11QxxxooO<jM1{:nn:<O4^V<4{j{G:{o1<Gpx1onOrOOGo1Gx1<j:rLo<^{4^1:FOr<O14^4O1jjG:OOR<o4xR<rrrjqG<:*{RojnxWqOG1GGIOj1x<qxofGORjrRx::jo<Gnf/{Oxj:G-;G14*{xn{:OOx^GG:opn<rOOc^{Bj4:n:xLxo^n4{1Op.rGO:^1^<Rjj!x^Oj<R4:<<j<xjqq<OGxRGRor1q<<x^GRqjjn4q:r:G<Rx{Bn::{oG^:R12oxx:#oO^14o{:nR:<oR^YcO{jnGrro1<4VxR4nO:1OG<:q:1<jOr!:4^j4R1:{1.OOx<j4OR^jGj1O1O<:jR){Grjq1<:<4R<1x4GqOo:GGF<j1xOqxOGOqR{{Rx:jGo<GxH!ROn<:GOoG144{xJO:OO1<{):1jn<nqOJ^O0jR<j0:1q^^x^:1OnjrGqx<o4<RxjTjqOj<G4:g6jOrx:4<OG<RGj:r1q<oGGQJ^jjn^q:oNG<Tx^xxO::oG<^R114xxx.j:GjE1{:no:<r=^0GO<1nGr<o1<F xX^nOrj4^^:4r1<1^rmqG^j^GRon1xcOx<q4OGGjGn:q^<<GORC{Grjro<:^1RRjxxjqOo:GGR1j1j<:1o3^GRj{1x:r<o<<xC4{On::GO<G1^n{xnO:{o{<f6:1<n<:nOh^:kj1G4j:1O<^x4q1OnjrGO:o^4<1xjCrrOj<G4:11Grrxqj<OGxRGjrr1r<OjGJTGjjxrq:q<G<4x<GxO:xoGG{R1{1xxxO{1Gj4N{:j<:Oon^g<1{jnOono1^<txROn::{OG^j141<nxrYq{^14^1:n1qOOx<14O1jjGr:O1<<1qR6{<rjq^<:41R<jxO{qOonGGRrj1x<qxoC:nRj{1x::{o<GnzBROj1:GO^G17n{x1.:Oqjx<-:1nn<r4Ob:otj1G4{:1OR^x4{1On{rGO:4z4<R4jPr:Oj<G4:114GrnqP<O4{RGj:r1qnoGG}ROjjj<q:<1G<Rx{oxOqjoGO1Ox^o44R^oO^</G{:x1jqnnrjqG^14^1njr^<441!nO:jj:xxq{o4mj{qx:^j4<1:n1r<nR:r4OR:jGr:O1rqqRo^^x=o14nOO4O^^O>R1:<jGqR:j1x<{un4rGq4^qx::^o<GxW-<O&R1^j<rx*<1?n>:Oojqxqq<x4:1R{G^O441Gn::1nrq1qro^11rGO1^14<1xl4RrjRxq:OOGjorxq2<O4jRGj:1qn<<nGWROjjxGq:<1ojnx{_nGqjoGG:O<^{4j1ojorxqO<q4o1njOrowq{jnG::o1^<0x{iRo:jOx^:/11<;xRR{rxo:Oo4G{%GOn<v4O1jjGr:O1<<oxRgj{rjqG<:O{OxGR4G1Gx{rnR:{Gx<qxozOjO:^^FRq1o{GxTY{ORoRsnjrqOq^nG<Roj1^G4*{1n<:xx^xoqR<R4{zGj{r{4^1OnjrqO:^14<^%^GRq{rxq4r11j<rxqD<O4jGnc:r1:o<xGERO4o}R{rno:r<1<Gyq1xjor:oR<OSR11nrxo+^{:x1:<ox^7?O{jnG::O4^<Dx1fRqR+jO^:4^1<nxrSnxx<qqooG^r<O{<?4O1j^_R{1o<o4xR#jOrjqG<:11^^jxxOqO<jGG^n^{4U1rjGorRj{qx:q1o<O{OR<G4nR<o:^^L<{xn3Rrjjr^qR<jn<rxOz^OzjG<4rR4jRx4:Goo^4B>jj:4:^oOGR2:rR<G4j11j<rx1<xq:Ro{^xr1q<<xGQ<^jjxoq:<1G<Rx{tjO:RoGGnR1{qxx:4oOGj41{:nG:<on^KmO{j{G:xo1^:?x1<nOr1OG^:G:1<n{r.Ox^j4^1:n1roOx<^4O11jGr:O1<<^GRSjxrjq^<:41R<1xxxqOo}GGRjj1nxqxqD^nRj{Ox::Go<^G,bROjr:GojG1-:{xj^:Oqjx<A:1Gn<:1OL<qMj1:O{:1OO^x411On{rGOr^14:n{jKrOOjog4:1Rj<r1<^<O4jRG{xr1qo<x^Grjjjxqq:OqG<Rx{8xj1Ro^G{R11Oxx:4oOGj7G{j:4:<ox^Q4:{jn^::OGLqSx1VnOrROG^rS1ROONrKOn^jGR1:n1r<Oxr14qRGjGr:O1<O4xRO^rr{q^<:^:R<jnx qO<jGOjnj1x<qxOxGOR{{GnxG<o<^4%_1Rxj:Go:^<qq{nnq:OqO^G r{1n<:xO<Yr*j1Gn:x:O<^n4Q1x:RrGO:^1GR1xj4rOq11:4:Roj<x:qQ<O4jKG^Gr1qx<x^:RO{^xGq10^G<Rn{6joqjo^G:RR{<x1o^oOGjmGRqx1:oox^<{r{jnG:::q^<vn1%j:;nOG^Rb11{nxriOOojZq1:jor<q4<b^G1j{<rjO1<j4xR1jOrjqGoxG1R<{^x :G<jGGR:1anOqxoxGO4o{Gx:q1OO<4,&14xjrGo:G1K<{xj<:OO^^G4^{1nO:xOOxr7{1rn:nqO<^n4h1OnjrO^n^14<1x1rrOO{<G4jj4j<rxqAqO4jR^j:nJR^<xGqRO{oxGq:<1<<1R{Lx{qjorG:4x{<njrOoO^<&GR4x1:<ox<G4R{jnn::O1^<Ix1>j:xqOG<GN1R{nxrkOO<1G:1:jrr<qx<,4O1jjGxOO1<n4xRnjOr1qGo:::R<{(x5:o<jGrR:j11oqxo^GODG{Gxrq1o<<GLI{rxj:<o:G1I<{xn^:OOk^G r{1n<:x:M^nYj1On:rGO<o_4?aO{rrGOj^14:1xj:rO:j<^4:RGj<r1qEor4j4G14r1q:<xG<RO{{xG:xR<G<RR{ynxqjoGG:W<:rxx:GoOO:3G{rx1:oox^<{r{jnG::rx^<kn1NnxoROG^:l1G^nxr4OO<1n:1:j<r<:^<24O1jj:<{O1<x4x^ jOr{qG<r41R:r{xcqO<jOGR:jRx<:jROGO#G{Gjoq1o<Gxkd^<x{:ro:G1_<{nn-:jjR^^_r{1Kq:xO4^Otj1GnjO4O<^x4N^rnjr^O:^1qq1xj:rOOR<G4:111<4xqt<14jRxj:xGq<Ox^oRO{<xG:/<1<^RxRuxjqjoxG:zO{<j<:AoO^^wG14x1::ox^*KORjj{::Oq^<4^18{4:j:G<o;11{nxrrOO<O4GRxj^r<q<<8^<1jjGr::1nO4xRxjOxOqG<n416Ooxxl:4<jG{R:j1x<:jOnGOP:{Gn^q1o<Gx4G{qxj:Ro:^ra<{xnw:OOq^G4G{1j4:xOb^OmjRnn:rOO<^x4Y1:njr::G^14j1xG4rOO{<G4r11j:O{q_<O4jo^j:rRq<<x:^RO{<xGqn<1G<RxR GOqjoxG:2O{<x1:>qOG{(G1Mx1:jox<RCORjj{::OO^<4G1s{p:jOG<1A11{nxr<OO^j4Gc:jjr<q^<f4R1j{{r::1<R4xRrjOxoqG<{41iO{1xz:u<j<AR:j1x<rx<jGOPO{GnGq1oqGx4G{jxj:{o:<of<{xn(r:On^G4<{1jn:xO/^O41Ron:rnO<o44#1OnjrGqG^1411xj{rOOj<G4:R<j<xGqz<O4jR<j:x1{1<xGqRO1{xG:i<1G<oR{wxrqjorG:RR{<xx1^oOGR5G{{x1:<oxo*q:{jno::O4^<4q1f{j4<OG^nM1<jnxr4OOo44G1jr4r<Ox<_q11jj^r:qG4q4xR;jO+{qG<r41LO<rxvqr<jGrR:j1x<:jjRGO7W{Gjxq1o<GxGM<:xj:Oo:^Gw<Rxn-:OnR^Gc{{1no:xOZ^OGjo<n:r^O<^R4,1:njrGjn^14x1xj4rOOj<G^:O/j<xNq}<j4jR:j:r1nx<nGqROj{xGq:<1G<oR{!xrqjorG:RR{<xxj1oqGj_G{rx1:<ox^^}O{jnG::O<^<!x15nOrrOG^:-1^rG{Ro{::o:(o:^^=:n1nr:Oo4jGrjO1<<4x^o^<44{R<:GGR<jxxHj^nnr:o{j1x:qxoDGOOr<4411^o<^OKQ{OxjjRjqx^qq^RRGRn{/xOqq<j1o:xOq^O}j1GRnR{{Gx:qo<r^*xqO:^14<>xTGrOO{<G4:11jorx:GO44jR<j:x>q<<xGD4O{xxGqx<1GORx{4xOrjOGG:k={<xj:(onGj#:Rox1:oox^qwO{{nG:xo1^:{{1}nO:jOr^:YR1<n1O^OO^j4GRjn1roOx<Pqr1jj^r:O1<<4xRAjORRqG<x41Rojxx#qOOjr<R:{lx<qjo=GrRjRGjxq1oOGxwG{OnG:Go1^oZo{1nd:Ooj^^b:1<n<:xqo^Ocj1Gnr:1O<^x4 RnnjrGO:<K4<1xjVrO:4<G4:11jqrxq)<O4juqj:r1q<<1G#ROjjxG:{<1G<Rx{oxOqjoGG:4^{<xx:,ojGj%G{:x14Hox^G2O1}nG:xo1<<q<1lnq:jOO^:4;1<nx{1Oq^j4G1rn1r<Ox<44q1jjGr:q{<<4xRWjqrjqG<:41R<jxxpqO<jGqR:j1x<12njroOn<<x::<o<GxhI414n11njr^qO{xno:Ooj^G<1o64oRqjo^O4G1Gn::1nqxOqr<xG4#<O:<44<1xj&1r{4nO4r11j<rxq/<O4j4O=:r1q:<xGSRO^rQ^1jnOG<Rn{lxOqjxxGnR1{oxx:#oOGjcG{:r1j^ox^x?O{jnG11jqxOOR<RG<RE{<rrqo1<nRr+OO^jqoo<4RK4{x<HGO1jjGr:xRxO:{oR^G441Ox{O1O^^{Fr1xnor4OOj1n>qxo}GO^{^<4n1{jfrRq<^nRR1n{Gr^^G{xn?:OO1n45:{1n<rGO>^O=jyGGx:1O<^x4H1OjrrGO:x44<1nj-rOOj<G4:H1^Orxq4<O4{RG{4r1q<x{GsR:jjx^q:<1G<4x<GxOq1oGGxR1{:xxxXj:GjK<{:n2:<o{^(GO<1nG:xo1^O-x1onOxj{R^:4y1<njrlq<^j^GR{n1rOOx<G4ORojGr::n<<4nRTjqrjq<<:41JjjxxGqO<{GGR:j1j<:^oiG:Rj{<x::Go<<x4O{Ox1:GoxG1Bq{x{7rooj^<Y:1.n<:RO oOoR1^nx:1OO^x4R1O{jxRO:<X4<1jj3rROj<GGr11jorxq4<O41RG{xntq<<jGgRqjjxGq:Om^nRx{^xO:qoGG:R1{<n4:VoOGjEo{:nU:<Oj^<dO{{nGr+o1^<PxEtjq:jO^^:6R1<njrCOO<<4G1xn1rOOx<g4O1jj:r:q4<<4{R,jOrjqGxn41R:jxxGqO<jGGR:n{x<q{o3GrRj{Ox:q1r:Gx8^{Oxj:GonG1D<1xnW::oj^<z:14n<xxRo^O}11Gnx:1On^x4HZrnjr^O:<a4<1jjwnO2^<G4r11jorxqq<O4jooj:x!q<<1GhROjjjG1x<1GORx{GxO::oG<1:O{<xj:iqnGjs^{:n::<o1w^>O{jnGx{o1^okx1<:r:jOG^:^:1<nnrwOOrR4G1xn1roOx<E4OXj1<r:qu<<4jRXjjrjqG:14RR:jxx4qO<jGGR:^^x<qjolGxRj{^x::GGqGx5!{O{r:GorG16<^{nm::oj^q_:{1n<:xxO^q7R1Gnr:1O<^x4bG<njr<O:<-4<1nj#rOnx<^4:11jorxqM<O4jRGj:r1q<oRG3ROjjxGq{<1G<Rx4O4:{{nR:{R114xx:voO:4qo^{Gmj{j:xSqnoatOD4j1rrZx1jnO:jOG:oq{orG{Rox:n4:OojG{6Grn<H4n1jjGr:{<nQ:roR^:rjqo<:41R<4{Mo1x<jGjR:j1x<13nrr:O4<44O1GjO:nOq{Onj:Go:G1<o^jG^Roj:xqqj<^D<Rr{^rR:p<nGqRjO<<<4z1Onj{O{4n4qqorG1p<{4xo:j11jxrxq)<OO<O4^<HG{rnjG)RxjjxGq:nnr^qc^oxOq{oGG:R1Gjxn:-oOGjUG{:x1:<ox^bvn{jnG::j4xDOn<{GO:jO1^:=11<RnRG{rxnq1o{^GRrn{xrruo4j^r:O1<<4xR}jO:jn4<:G<R<jxxhjrn::noj^^4Oqxo<GORj{G4o{Rj:rG!y{xxj:Go:q^qG<R4{::oR^^)r{1n<:xOK^Otj>OR:j<O<^x4_cOq:rGOr^14<1xjGrOq1<j4:R#j<xjq,<O4j4G{^r1qO<xGGROj1xGr:OxG<Rj{)x:qjooG:0<R4xx:4oOO48G{rx1:Oox^<{r{jnG::r^^<8n1/nO1ROG^rv11<nxrMOOoj:<1:nRr<On<PGi1j1GnxO1<o4xR4jOx<qG<:ojR<jnxQq:<jG^R:j1-qqxo4GORj{Gx:q1:<OrKz{qxj:jo:<48<{x4^:Oo{^Gmr{1n<:x:ux:*j1^n::RO<<24g_j<<rGOr^1Go1xj4rO:d<G4jj4j<rxqEoq4jR^j:xG<q<xG_RO)4xGqr<1^Oqr{/xqqjO^G:R1{<jxRGoOG{gG{rx1r4ox^-Or{jn<::OL^<Tx1f{OR1OG^xA11OnxrnOO^jqo1:j4r<O{<=4O1j1G#xO1<q4xR^jOr{qGO:rDR<j{x qr<jGnR:114Oqxo^GORR{Gn:q1q<xqz%{rxj:oo:^om<Rxn^:OoR^GHn{1nR:xO <<_j1<n:rvO<^{4 1OjRrGOn^14q1xjLrO:jo:4:R4j<r{qv<q4j4G{nr1qq<xG^RO{oxGr:oxG<R{{kxrqjOGG:41Gqxn:^oOGR(G1Ox1x<OR^?tr{jno::Or^<;xROnO:1OG^x511qnxxGq1^j4o1:jxr<Ox<NG:RRjGrjO1o^4xR8jOrjqx<:4RR<j1xpq:<j^<44j1xOqxO4GORj{Gj:r<o<GjNE{:xj:Oo:G141{xn^:OOd^Gf:{1n<r{Os^xFj1qn::1O<^xq^1Oj4rGOj^14<1xjU4{Oj<O4:RGj<rRql<OG<RGjjr1qo<xG<ROjjnjq:o4G<R{{6xxqjqG^#R1{qxx:^oO<4&G{:jn:<oj^2A:{jn<::q1^o?x1GnO:1OG<{811<{qr6Or^j4o1:n1r<:x<O4O1RjGrnO1<r4xRQ{Rrjqq<:GLR<jxxUqOogGGRnj1xrqxo4GORjG=xrq1o<Gn#T{Oxj:^o:G1l<{xno:Ooj^GIn{Rn<:ROD^OEj<:G<R{{^xj4y1{njrGO:nb:^oRG1Rx{4xO4:RGj<rxqUn^q{OO^lr1qr<xG}ROGR+1{rnnr<_j{*xOqjO<DnR1{oxx:<oOGj5GR:jG:<on^L8q{jnq::o1^1 x1GnO:jOG^:J11<{^rVOr^j4G1:n1r<Ox<G4ORsjGrrO1<<4xR61_rjq^<:GGR<jjxzqOoOGGR:j1xoqxoZGORj1qx:qRo<Gj7X{OxjxGOnG17o{xn4:OoR^GG11^n<:nOD<OJj1^n::RO<^11^1OnjrGq:^14o1x{G4oOj<^4:RGj<rxqhOO:1RGjrr1qo<xGGROjj1:qro=G<Rx{vxOqjoG<nR1{oxx:GoOG1+G{:R<:oox^ 6q{jnG::o1%OMx1tnO:1OG^:z11<):r4OO^j4^1:n1r<On<A4O1jjGxGO1<<4xRMjxrjqG<:rGoo^{-nqOo4GGR:j14q1xn4r{Ox{Gnfq1o<Gx<^^q4:11nx:ROq<on^:qoR^G*:1^n<:xO)xOOR<^G<RxO<^R4K1Onj{:{<rRqno{j2rxOj<G4:^<^*Rn{q<OG4RGj:r1jxxn:jOn^4xG:G<1G<Rx<<4o1^nrr<O^^oEj1jnnoGIG{:x1:<n{^Mi:{jnG::o1^<XxGOnq:ROG^rb11<nxrP:r^j4<1:jur<Oj<,4O^Gj^rrO1<O4xRvjOrj{o<:GLR<jnxdqO<j^GOGj1xOqxorGOR{{Gx:14o<Gj-B{:xj:Go:G1<x{nn^:Oo{^GB:{1n<j:O#^:mj1<n::RO<^xq^1On1rGOn^14<1x1tS:Oj<<4:R;j<x<q_Ojx<RGjxr1:x<xG4RO{mxGqjG4G<Rx{_njqjo^G:R1^qxx:GoO^k)G{:x1x<x^^4N:{jn<::Oo^<vxROnO:ROG^r=11<nxn5:G^j4o1:j4r<qG<_4ORrjGrxO1<O4xR^jOjGq^<:GhR<{Rxeqq<jGqR:{Gqqqxo6GO44{Gxrq1o:R{Bw{Oxjr:o:GR!<{xR1:qoj^Gtr{1n<:xqGnouj1<n:r<O<^x4eR:n1rGOn^14o1xjZrO:jo:4:R4j<r{qD<:4jRG{qr1q:<xG4ROjjxGr:oGG<R1{ZxxqjooG:R1{qxx:ooOG{?G{:x1:<qG^&/j{jnO::o1^<GxRxnOrGOG^1H11nnxr_Or^j4r1:nRr<Ox<3^OpqjGrRO1<n4xR:jOrjqx<:G<R<{vxKq{<jG:x{j1xxqxq<GOR{{Gxrq1o:R{M>{OxjxOo:GR3<{x1u:OOG^G31{1n<:xOArnPj1<n:r<O<^n4v1O>xr^O:^14o1xj0rOO1<G4:11j<x<qX<O4jRGjnr1q<<xr^OnG1xG:w<1G<Rx<<4o1xjqroOh^r4j:woxGjQG{:kG1r{Gx<lO1GnG::o1xqq1oG4RRxjr^rF11<nxr#OO^j^OG:n1rrOx<%4O^G^<Rr{nxr4xROjOrjqGrl:{O0G1,o1:<jGqR:j1x<j^n1rOq4<Oxrq1o<GxQ8{OxjqGrqG1Xq{xn7:OxRrqqjRRn<:xOW^O4r1^n::1O<^x4d1O{jrqO:^14<1xj;rjOjOG^^11j<rxqz<OG^RG1:xGq<<xGCROjjxxq:OM^{Rx{4xO:loGG:R1R<n^:JoqGji^{:xR:<ox^12O{1nG::o1^<Kx7tnx:jO<^:4X1<j/rp:O^{4G1xn1rOOx<q4OAj{or:q><<4jRKj1rjrGnx41ROjxxGqO<RGGLxqnx<q{oNGRRj{Gx:rEO:Gxc<{On4:Go:G1K<R^nU:qoj^Of:1Fn<rxO4^Oaj1Gnn:1Oo^xGG1RnjrGO:<N4<1xj;rOjR<G4r11j<rxqC<O^jO<j:rRq<<nG7RjjjjG1x<1GoRx{4xO:^oG<:qQ{<xn:JoqGj8x{:j1ROox^46O{{nG:no1^<G{1,nO:jO<^:4N1<j Q^Oq^j4G2:n1roOx<F4ORlror:O1<<^xRpjqrjqGxn41R<jxxBqO<jGG4:RPx<qxo&GORj{jx:q1nqGxyG{Oxj:Go:G1G<<jnQ::oj^<(:1<n<xx{G^Ov11Gnx:1On^x^Yo:njr<O:<D4<RGjtnO{1<G4x11jOrxq^<O4joqj:r1q<<jGQRqjjxGjO<RG<Rx{4xOqjoGG:R1{<xx: ojGj.G{:x1::ox^U=OG4GmR{jn^<4t1}nO:jnOxqqo<nGORoOO<:4G1:n114{rno:ro4=<l{1Gn::ro1RqrjqR<:41R<4R4^{nn1OnOO^14r11x<rROj^qx::^o<GxmY4j4:1^nRx4B<{1nS:Oojq:q<^R4nrjOH^O!jhGRx:1Oo^x4#1Oj.rGqx<e4<1jjIrqOj<G4:e1{qrxqG<O41RGjjr1r<oqGlR:jjx<q:o4G<y){GxOq{oGGRR1{oxx:GoO^;{o{:x1:<O4^IEq{jnOono1^<}xR4nO:{OG^:q41<nnr_OO^j4G1:{1nOOx<44O1{jGrxO1<<q{RZjrrjq^<:41R<1x4GqO<RGGRnj1xrqxop:rRj{Ox:q1o<GxLfRO41:GojG1y:{xnO:OojGO8:14n<:{Oe^xPj1Gjn:ROq^x4^1OnjrGO:)n4<11jArOOj<G4:11Grrxq4<OGfRGjrr1q<r:G4ROjjx^q:<1G<Rn{exOqjoG^1R1{<xx:Mo1Gj0G{:R1R^j{rrqx<oG4ROo1^r/x1hnO{G{<rrqn<rnxr^OO^j4GGx4R/OOn<p4O1jjGr:O14<orRAjnrjqG<::4OCGnS{1O<jGOR:j1x<jEnrrGO:{Gxnq1o<GxO1^nG^:Go{G1L<{xRrR<jjxqqj{1n::xOY^OoR<n^GR^Oo^x4V1OnjrGO:G1o^1xjOrOOj<GOnoxG{R1{on:4jROj:r1q<r1:oO1<fxGqj<1G<Rx^{&qR&nxG:Xx{<xx:_rq:1qo<q4xRrj1roor<oGj1{oR^<}x1_nO:jOG^: 11<nnr OO^jOx1:jqr<Ox<Sqjo1^4poj4xqqnojGnr{qG<:41R<jxx.:x:jG^R:j1x<qxoEGO{j44x::^o<GxYYGnRZ1njoO?8<{Rnv:Ooj:Gqq<qGGR1O_^jvj1Gn:{O{^xOq<<nG1{4O:^14<1xE:rOO{<G4:11j<rxql<q4jR<j:r1q<<xGcRO14xGqr<1GORx{GxOqjO1G:R1{<xn:SoOGjiGRsx1:oox^4(O{jnGx:OR^<fn1fnq:jO<^:G1R:nxr4OO^{4GR1n1n<:p<B4q1jj^r:qO<<GxRojOr{qGo<41R<jxx5qx<jG^R:{Ax<qxo*GO1n{Gxrq1ooGxaz{Oxj1oo:^_,<{jnM:Ooj^GOn{1nq:xO^^OHj1Gn:q{O<^j4e1:njroO:^1^41nj4rOO{<G4x11{<o:q_<q4jRjj:rRq<<x:^ROj1xGqr<1G<RxRE4:qjo<G:As{<xj:QqOr1?G{xx1:Oox<OyORjG<::O2^<_j1cj4:j:Gxxu11OnxrGOO<x4GD:^ar<Oj<)4:1j{Gr:q1{^4xRGjOxOqG<x414<oRxDq:<jG<R:1Ux<qx:GGORR{Gxjq1o<Gx3N{xxj:Oo:GRA<{xn*xOOO^G?j{1n::xOG^OGj1Rn:rGO<^14_RjnjnGqj^14:1xj<rOqq<G^:Rqj<r1qQ<x4jRoj:n1:G<xG<RO{LxGq1<1^Oo^{*xnqjoOG:R1{<xxr(oO^GHG{:x1:oox<G4q{jnr::qG^<tx1a{OrOOG^R_11nnxrqOO^j4O1:jOr<On<e4O1j{<nGO1<{4xRRjOrjqGoxGXR<{<xz:h<jGGR:1MO1qxonGO%n{Gx:q1o<G{_s{{xj:{o:^%H<1xjo:OOG^G44{1nn:xOV<1hj1on:r<O<^n4W1O{OrGOn^14:1xj_rOOj<R4:RGj<rnqK<O4j4G{1r1q:<xG<ROj1xGr:jIG<R1{axxqjO:G:41<Oxx:<oO^5_G1^x1x<jj^_(x{jnO::q^^<4j:OnOr4OG^jf11<nxr8j<^{4:1:n1r<On<CG:OnjGrRO1o:4xRQjOnj1<<:GoR<{4x :q<j^<qqj1xjqxo{GORj{Gj:R2o<^G8W{1xj:qo:G1<x{nnr:Oo{^GD:{1n<{pO4<2_j1<n::1O<<xj11OjqrGqG^14O1xj GGOj<x4:Rrj<rjqlo:<:R^{4r1:q<xGKROjjxoq:ooG<f^{7x:qjOG^oR1{xxx:4oO^^tG{:n&:<o{^?!j{jn^::o1^r}x15nO:{OG^:h11onxrPOO^jo^1:n1r<Ox<x4O1jjG14{nxo:4oo4GR{{<x{:xR<j{xaqO<jrKo{<oxoqxo GORj{Gx:n:r<Gx4W{Oxj:Grx:ROq<o4qR:jnxqqO<GRqRrjjxoq14onn:ROo^x4K1OnjrGO:q<o<1xjorOOj<GOjoOGrPq{o<OGWRGj:r1jGxn:{onj{xGq:<1G<Rx{T:Onno^G:R1{<xx:5oOGjjG{:n^:<ox^=<j<14^Roj^^<441JnO:jn4x1q^oOGOR4{R^j4:1:n1r<n1xRq{o^G1R{O1<O4xRVjOR4nn<r41R<jxx)qO<joM^:j1noqxo+GO<o^RXr1onrq1qG^q4xRoj::RqO^R411r{o^G*j{1n<:xxOxGO{<rn:rOO<^x4l^OGnbo{4nGq{orG1rOq:<G4:114qRR{^nx:oO4^O141^nO:RO:jjxOq:<1G<<1<r4O14oGGnR1{<xx{^nnxCK^{:x1:<ox^EVO{jRG::O<^< x1lRrR1jqrr:G<rnnrkOO^j4G1:n1r<Ox<#4j1jjGr:nOn^:Oo<Gn>1q^<:41R<jxxtqOO7OGR:{Gx<qxovqn<5^n4oqRo<GxE*{Oxj:G:<O1B<{1nL:Ooj:oq4o:4r:xOo^Owj1GR1Rxjox4:^1Oj rGO:^1qxoOG4R{Oj<:4:11j<{{{RnG:nO<RnrRq<<xG5ROjjxGnj:1G<RR{NxOqjrorqOx<^4j:4oOGjAG{:x1:<rxqd>q{jnG::o1^<vx{;Ro:jOn^:S11<h1Ro{1nEoooqGx3^{j<w4x1jjGr:n<n^::O<jOx_qG<:41^r^:4o1^<jGqR:j1x<jOn4::O4^1x:::o<GxMBGr4nRqjxr4OrG{44R<jR^GS{{1n<:xnoqxqo<R1x:RO<^x4;1OnjrGx4q14<11j*rOOjrOq{OO^:rxq<<O4jRG4<_q1qn1G0RjjjxGq:r1:oOj^o4<RloGoGR1{<xx1:jxxsqG4G{{n^{4xqq{DxG<RqjIxaqro:1<1R{4xo^{<oG{,^jnnP<4GqGqR:xqqq<141Rrj{r1q:<{G^Rnrjqx<:41R<41Po11jgqoO4<:>rqxoxGORj{GRj1^jjr1<^<o4:R4jxO43o{xng:Ooj^GK:Gqq<:nO*^Oyj1Gn::1:BRx43R<njrGO:rGqrOG^<11x{x1:4oo^Ghq{on<rIRGjRr1q<<x:<on^Ga^1{nxr:Rx{xxOqjoGq4Oj<<4RR<r:r4Or^r4j:<o{^0AO{jR^1jjG^<4G1 nO:jxorrqxoP4jR4jrxq4GR1n1r<Ox:Gqq<RG{RR1*n^:Ro1GxR31<xr:jOq^xk41:n4rCon<qx<qRobGORj4n4o{Rnn:R(#14xj:Go::GOroGG<{{j1r^q:<14r11O&^xXj1Gn:{xjrx8:<1Oj^rGO:^1oqorG1&<{4xo:j11jnrxq+<O:GO<^qenjOr4OGRO{oxGq:<1q:oR<:4xj:n^:xO^<txn:,oOGj;G{:x1jr4x^=PR{jnG::xqxGO1<r4r1{{Oxq:v1RnnraOO^joO1rjGr<Ox<Q4x1j{GnoO1<:4xR:jOr{qGq:GGR<j1x&:x<jGRR:11n^qxooGOR1{Gjqq1ox^OD,{nxj:ro:GRH<{xn0:xGR^GF:{1nn:xO4^O4?non::1O<<G4W1qnjrGx1^R4r1xj4rOOj<GG:o:j<r1qFoq4jRqj:x1:G<xG<RO <xGqn<1G<4q{SxnqjoGG:R1{<jxr<oO^4sG{{x1rGoxo74<{jnq::O^^<G41Sj:r1OG^1d11Rnxr!OO^j411:jor<Ox<=4r1j{GrRO1<n4xR:jOr{qG<:o{Ro{GxeqO<jGGR:11xjqxo:GOE<{GnOq1q<<o0g{1xj:xo:oAT<Rxj8:OO<^G4m{11n:xOF^:*j1nn::RO<^x4dLOj1rGq4^14{1xjqrO:j<q4:Rqj<x^qYor4jL<qnr1q1<x<fROjjxGr:OrG<N<{wnwqjrYG:4g18xx:noO^nbG{:x1rOOO^f4G{jj4::o1^<4j1GnOrrOG<qp11<nxrmq{^j4j1:jnr<Ox<74OwojGxlO1<<4xRGjOxjxq<:GoR<j1xUq1<j^<Rjj1xjqxqxGORj{Gj::1o<^G3H{1xj:<o:<Nko{xnr:O:0^Gm:{1jOr:O#<syjR:n::1O<<j4r1OjqrG:i^14<1x{GrjOj<14:44j<rxqy<OjxRG{_r1:i<xGGRO{jxxq:ooG<4q{Yx1qjoG^qR1{jxx:VoOGjUGR:jq:<OG^}w1{jjI::q1<jzx1:nOr<OG<RA1ROjor;OR^j4{1:n1r<Oxor4OROjGrrO1<:4xGP(orjqj<:GOR<1^xPqO:nG^!^j1x<qxo+GO4j{Rx::ro<^ou(1<xjxGO^G1_R{xnn:Oq1^GG:R:n<roOK<4zj4rn::1q<^x4j1On{rGO:^1^<R<j*xGOj<14:Roj<nxqn<OG:RG{<r1:q<x^GxrjjxRq:O1G<Rx{}jO:xoG^oR114xxn1oO^1KO{:nj:<q<^vSO{jj<:jo1<^sxRxnO:jOG<xG^1<jxrT:t^j4G1:n1x:Ox<{4ORjjGr:O1<<GxRc{4rjqG<:GWR<{x{oqOoOGGRjj1xRqxOG^:Rj{{x:x:o<Gx,#ROjO:GO^G1aR{xnG:OO1<nm:1xn<xGO#^O}jR<jG:1q4^x^<1OnjrGqxoS4<R:j_x1Oj<G4:I;{rrxqR<O<ZRGj:r1q<^<G-_4jjn4q:o6G<5x1^xO:OoG^xR1{RxxrGOoGj_{{:{::<ox^_GORonGr^o1^Rfx1GnOr1Oj^:4x1<{1rAOO^jG<RGn1x4Ox<x4O1jjGxxq1<<G:R+1xrjqG<:^UrxjxxRqOoOGGR:j1x<G:od^4Rj14x::Co<^x(^{OnO:GqoG1,R{xnfrnoj^{#:{1n<:xOaoOG-1Gj^:1OR^x411O{jx:O:<r4<RojAx{Ojo<4r11{VrxxR<O4jRGj:x:q<oqGvROjjxjq:q1O^Rx{{xO:<oGo;R1l<jx:2O^Gj^n{:{G:<Oj^RFO1xnGnGo1^<Lxe(jR:jq_^:4j1<njrFq:o44GRqn1xjOx<w4OR1jRr:q1<<^<RQjOrj:<O<41HojxxrqO<jGGMx{Ox<:jo2orRj{Gx:q1^1Gx51{On1:GoxG14<1OnUr^oj<<s:1jn<rjOx^O4x1G1G:1O<^x^_R1njxFO:<j4<1jjix::G<GGq111:rxqJ<OG1R<j:x1q<qjGDROjjn<:O<1^oRx1:xOqjoG^xx<{<nj:>qGGjBG{:x1jRon^1dO11nG:xo1<<411Pj^:jqR^:4j1<jjrROO<x4GWRn1r<OxOV4j1j{;r:qj<<<dR=1On_qGoO41aGjxjrqOoj^^R:{nx<xdo*^<Rj1Gnqq1O4GxGj{Ox{:Go:r4V<1:n5:qoj^GP:R14O:xO1^O4x1GnR:1:<<x4vR<njxAO:O^4<Rx{4rOqr<G<r11{GrxxT<{4jRRj:j1q<OOG!GO1<xG:o<1oRRx{oxO:1O<G:lj{<{4:voOGjGGR-x1rGox^18O4wnGx:{.^<4:1lj<:jr1^:41<1nxr{OOqU4GROn1r<RO<2G41jjRr:qy<<4xo^jOx:qG<:41R<jxj5Or<jG1R:{xx<::oP<O/x{Gn<q1OWGx4q{On1:{o:^nf<1onc:Ooj^G4j{1jG:xOs^O421G1:rrO<<:4M11nj{^O:^14o1xjRrOOj<G4:111<x{quoo4j-4j:xjq<OxG<RO{nxG:q<1<ORxRdxjqjO4G:f{{<14:JoO^:gG1:x1:oox^TtORjn{::O1^<4x1Qn{:j:G<GE1R<nxx/OO<R4GRx{^r<qn<m^O1jjGr::1o14x,4jOx{qG:O41!Oq&xm::<j^4R:j1x<:joDGO/R{Gnqq1o<Gx4G1nxjrOo:^{i<{xnm:OoR^G4r{1j::xOU^OYj1nn:r{O<^x4L1:njxG:4^1GG1xj<rOqn<GGxR^j<xrqfqN4jRGj:n1q:<xGRRO{nxGqx<1^O/j{4nOqjqOG:R1{<njr(oO^{UG4:x1:<ox<GIq{jj<::qO^<Qx1Mj:r4OG<nl1RxnxrcOO^jGG1:j{r<q{<}4:1j{Gx<O1oG4xfGjOxnqGox^nR<{rx_x#<jGGR:1148qxoRGOvn{Gxxq1OO^{=V1Oxjrxo:G1/<1jjx:OO{^GGr{1n<:xqG<R(jR<n:xOO<^x45R:j4rGqn^14q1xjlrOOjoG4:R{j<x{q%<:4j8G{:r1:G<x^{RO{nxGq:n4G<?r{2xOqjoGG:41jqxx:RoO^n3G1Ox1x<O{^B4o{jj4::qo^<4j11nOrjOG^rJ11<nxrwqj^jG^1:n1r<qX<h<OR:jGxrO1<j4xRjjOrj:q<:^_R<jxxbqO<j<GR1j1nOqxOGGO0x{Gj::Go<^jF_1:xjx<o:<1Tr{xjG:OO1^G^R{1n<x<O;<rCj1^n::1O<oxGj1OjRrGqn^14n1x1 xnOjoo4:M4j<x{qAo:G4RG{jr1r<<xG5RO1jxrq:OGG<51{I1<qjO<j1R11rxxxnoOGj#G1xx1:<qY^I^4{jnG::qY^jcxRqnOnqOG^:M11<jorCqx^jGr1:n1r<Oxo<4OR1jGr:O1<O4xZU{<rj:^<:GGR<{jx6::o<GG#xj1j1qxo_GO4j{rx:r7o<^jTY{:xjr<OxGR4q{xj::Ooj^G4x1on<r1OM<jij1Gn:x8Or^xGo1O{<rGO:^1GONOjVxjOjo:4:11j<rxq4<OG1RG{1r1qO<x^HLxjjn^q:O#G<Jj{Zn::EoG^xR1R1xx:NoO<jO1{:ju:<Oj^)v:{jj<rro1<qAxR:nO:jOG<x4o1<j1r?Oj^j4G1:{3xjOxoo4Of<jGr:O1oOGwRD{jrjq:<:41R<jxn:qOo1GGp1j1xOqxO7^nRj1^x:rno<^j+#DO1n:GOrG1^1{x{R:O:jq48:1Rn<rxO}ox.jR<^q:1qO^xGn1OnjrG::^R4oRjjXx:Oj<<4:0vj1rx:^<O^<RGj:r1:OO<GJlxjjnjq:<1G<Rx{<xO:1oG^jR1{<xx:dqGGj44{:x1:<ox^KLORonGrOo1^<vx14nOr114^:4{1<{orQOO^j^G1rnRx^Ox<R4O11jGxx:G<<GxR>{1rjqG<:^WROjxn4qOOOGGR:j1x<:qoJ^oRj1^x:q1o<Gx.j{On::Go:G1(<{xn#:noj^j2:{1n<:nOP<::n1Gj^:1qR^x4&1O{jr^Or<r4<Rojer:Ojo<Gj11{Yrx::<O4jRG{xxOq<oqGp4BjjxGq:<1GnRx{nxO:roGG:R1{<no:(o1GjzG{:x1:<ox<x_O1^nG::o1^oKxRG^o:jOx^:Gr1<nxr8:Onq4GRzn1rjOx<G4OR1jor:qq<<^GR%jOrj:<O741R1jxnxqO<jGGR:{{x<:GoU^ARj{Gx:q1O^Gx,o{Oxj:GoxG14<R*nZ:xoj^{6:1^n<ryOq^q441Gnr:1Oo^x4o1OnjxqO:^14<1jj,rOOj<Gqj11j<rxq<<O4jRGj:n^q<<xGHRrjjxGq:<1^rRx{(xOqjoGG:R1{<nR:woOGjQ^{:x1:<OxrqCO1cnGr{o1^rNx15j::jOq^:4G1<nxrg:Ooq4G1{n1rrOxO{4O1j{Or:q<<<41RgjOrjrGO<41RxjxxOqOqrGGR:{4x<:=o}GjRj{Gx:r1OnGx8O{OnG:GqjG1s<:Gn%:noj^:P:1Gn<:x^j^O441Gnx:1O<^x^YR^njrqO:<^4<z:jJnO:r<G4111j:rx:4<O^jROj:xoq<<jGkGnjjj::<<1GnRxjcxOq{oGG{R1{:q{:+oOGjRG{:xR:<o1T^iO{jnGqro1^oFx1ar::jOr^:U11<nxr/OOFr4G1Rn1roOx<54O1jOxr:q^<<GlR_j{rjrGR<41Rrjxx<qOoqGGR:1<x<:_oJGxRj{Gx:r1OOGxgO{OnG:GO^G1G<R^ns:joj^:v:/nn<rxq4^O441G1O:1Ox^x^3RGnjrqO:<G4<RojPnO:^<G4{11jrrx:r<O^jO<j:x^q<<RGZGjjjjGrx<1GrRx{oxOnroGG1/o{on4:foOGj)^{:nI:<oxr<-O{jnG:jo1^<;x1ujn:jOG^:4(1<nxrIOOx44G1{n1rnOx<44OYj1<r:q^<<41Ra{nrjrGnx41RnjxxGqO:4GG41oOx<:4oKGnR{{^x::^o<G1{^{Oxj:Go{GR>o{xn<oroj^GZ:1<no:nO%^O111GnR:1O<^x4Q1OnjoRO:<o4<1nj#rOOj<G1o11jjrxq4<O4jRGj:(^q<<RGcR1jjx^q:<1RORx{<xOq1oGG:R1{<R::4oOGj_^{:x1:<o1^G*O{jnG:1o1^<Px1ljG:jOG^:ono^GR5^jnq1:qoj^G ^{:q44OR3jGr:O1:r::Oo^^rjqo<:41R<4{Fo1x<jGRR:j1x<jRj^:nO14n4O11jrr1o<<R4j1qo:^G5<{xnPjjj:r^OR{1nr:xOy^OoG<14rRo{q<n4C1OnjnGG<^14o1xjdrOq5<GGxRRj<rjqS<:4jRGj:n1::<xGGROj1xGqj<1<<4<{Jx:qjo<G:RR{<nL:qoOG{SG1:x1:oox^GMO1N:o::o1^<4x1znq:jOGrns11onxr;OO^j4G8:1Sr<On<*4q1jjor:O1xq4xR^jOr{qG<:414<^jxcqr<jGoR:{<x<qxn^GO>}{Gx:q1o<GxGU<:xj:Oo:^G}<{RnE:Oo;^GNn{1nq:xO<^OZjRonrr4O<^{4?1OnjrG^o^14:1xjarOOj<G4:o^j<rnq5<x4jR^j:r1jG<nG&ROj{xGq:<1GoRx{IxOqjq4G:R1{<xx:qoOGj)G^1GER^jq:G<{41nG:1o1^<exG^GoR:{4xx<41<nRrcOO^jo:ox4Rz4jR<44O1jjGr:O1<<4xR&jqrjqG<:41R<jx{:^O<{GGR:j1x<qxo2oR^j{Gn4q1o<Gx<r<<4I1nnn:Rq:<rGG:OO<^Gv:{18<Rr{^rR:d<nGqRjO<^R4/1Onj{o{qxx:^ojjkrnOj<G4:<^e:2^{{q:4jRxj:r1q<:{:4OG^:F<{rn4:RRn{}xOqjoGG:R1x<1r:WonGjAG{:yG1jnRr{On{jno::o1^<<n<<4x:jOq^:V11<G{8Vjqn^:D1rn1r<Ox<S4O1jnG{qO1<n4xR_jO1n1:x{rVOSGn4rqOo4GGR:j11x1On4:{OR{Gxjq1o<Gx<O<GE{1ro:^<=<{xnkj1jnr1Oj<^GO:xO^^OYj1GGOR^{n^x4j1OnjrGnnx^qqo1Gr/o{x:o:qox^^kjq=<14jRGj:141^n{:{on<}in{n<1^<Rx{CxOn1n^:nOr^n4j1RjnrxOO4n4{R+jrxG^r{jnO::o1^<q1<4GrRqO^^:&11<nxr_OO^joG1rn1r<Ox<_4O1jSn{:O1<x4xR/jO{{{oxn:^OG^1xpq:<jGGR:G^1{qxooGORj{G4:14norOOj{On{:Go:G1<{<q441{j4:Oqx^RGGR{{wrqq1<qGOR4{{x<4l1OnjrGno^14q1xj_rOOj<G^:Rjj<r{qB<r4j6<j:r1qo<xG<ROj{xGq:<1<<4<{(xxqjoOG:44{<xx:RoOGR}G{jx1:oox^YG4{jno::OX^<(x1!nOxGOG^j+11onxrHOOoj4^1:jGr<O1<!4r1j1Gx4O1<:4xR<jOnAqGO:GtR<j1xTqx<jGrR:114Oqxo<GO5P{Gnrq1ox{R-({:xjr0o:GR <{nnd:xGR^Ge:{1jG:xO4^O4Qnon::1O<<j4f1qnjx<C1^14r1xj<rOOj<G41O4jorRq/o:4jR^j:r1q<<1R^ROjjxG:x<1GoRx{<qrqjoGG:44{<xn:dO:{G&G{{x1rLox^=mO{j4I:rO<^<Kx1/n::jO:xn}R1onxxrOO^{4G1:n1r:^{<b4O1j{nr:OR<<GjrOjOx^qG<j41R<jxxOGn<jGrR:1:x<qno3GqRj{Oqnq1o<Gx4x{Ox{:GOx{<a<14n0rOoj^Gu:1141:xOO^OGn1GnR:1Ox1R4Q1qnjnwO:^R4<1njyrx^R<G4:111Grxq4<OGZjoj:r1q<q4G}Rqjjn<Rq<1GnRx{xxOqjoG<:nR{<n4:uo{Gj4q{:jVrjox^:TO1jnG::o1<O4:1(nR:jOq^:811<jjr4OO<O4G1jn1r<OxoG^>1jj{r:::<<4xRmjOrRqG<R41RRjxxGqOoGGrR:{ox<x:owGqRj{^x::GGqGxlS{O{x:GorG14OornF:{oj^jV:{1n<xxoo^O4^1GnR:1qr^xGGRonjrxO:<G4<1xjFx:OR<GG411{1rxqf<OG1R^j:x:q<<1GXROjjn<qR<1GRRx1xxOqjoGG:4<{<n4:vO4Gj3<{:n111ox^OhO1<nG:Ro1^<<n1}nr:jO:^:iR1<nxroOO^R4G1xn1r<Ox<fGO1jjOr:OR<<4xR81Or1qG<j41R:jxx^qOOjG:R:{Gx<q1oz^xRjRGnOq1o:GxK<{On^:Gq:<NU<{1nF:xoj<^/:R)ox:xOo^OG^1Gn::1Ox1R4S1:njjjO:^R4<1njurx^R<G4:11R1rxq4<OG;joj:r1q<:qG+Rqjjn<41<1GxRx{<xOqjoGG1n^{<nv:Pr<Gjy^{:xR:<o1=^;O{jnGjOo1^oExRGoj:jO:^:4x1<nxr#OOrx4^1Rn1r<Ox<44ORGqqr:OR<<ojR jqrjq^<:GGjqjxxmqO:1GGRrj1x:<{oaGORjG<x:qRo<GxO^{On<:GonG1k<{x{vNOoj^xU:1On<xqO5oO4{1Gjb:1Oj^x4r1O{jx1O:<O4<RGj(x<Oj<G4{11j{rxq<<O4jRG1:xnq<o^GbRRjjxRq:O1G{Rx{rxO:ooG<<R11Oxn:-OhGjY<{:x1:<qxxGCO1OnGrGo1^o6xRG<O:jO{^:Gr1<nxrcq:oG4GR<n1xROx<}4OR1j^r:qn<<^oRtjOrjqGo141R1jxx{qO<jGGR:1Gx<:GoXGORj{<x::<oOGxb:{OFj:GorG1do{xn<oroj^GA:^1n<:nOE^OOR1GjS:1Oq^x4*1O{j4GO:<O4<RGjkn^OjOGG{11jjrxq:<OGoRG1:xOq<oGG+R1jjnPq:<1^xRx{rxO:PoGG:R1R<j5:/oRGj n{:nn:<qx<:iO1onGr4o1<x-xRGj^:jOj^:4%1<nxrw:O^:4GRGn1r1Ox<44OR1{nr:qr<<GuR jOrj:<<141 LjxxOqO<jGGTx{4x<:qo0GjRj{Gx:q1o1Gxhx{Onr:Go:G1s<R?nz:1oj^GM:1En<rxjx^O4^1G{/:1Oj^x4><nnjroO:<o4<1nj=x:1n<G4n111Grxq&<OG1q4j:xGq<O^GHROjjjG1x<1G:Rx{<xO:noGG:O4{<xR:ToqGjwG{:j1ROox^oNO14nGr^o1^<o&14nj:jO^^:+11<nxRoOO^R4G11n1roOx<&O<1{jGr:OR<<4xRgjrrjqG<:41<xjxxdqO<{GGR:j1x<qxo-o<^j{GxRq1o<Gxo<<o4^1rj<r^O:{nnz:Ooj^Ga:{1n<:xO6^{hj1Gn:RGjrxdq4onG:+OO:<q4<1xjs{q{hxOO:oqGq!o{on:4jRnj:r1q<r1:oO1<t11{rnX:rOO{_xRqjoGG:^R^:e1{^jGroOO^{Gf:<Ox^mtO{jR<1rj4rRq4oGGo=4{Drjo4o^GORR{:OR4G11n1r<Ox:^:oo:^4Kxx4<<G:RvjOrjjOx{rOO:GG141Gno:rOO^nBr1:j<GOFo{Gx:q1rn:Rq<41441nnRrOq:{xnO:Ooj^Go:^RGO1Rj1xxl{1Gn::1O<^x42GxqjrGO{^14<1x4<R1{4xRq{11j{rxqY<OORO4^x4Gj^nj:<on^1xG:^<1G<Rx4j?qRoj4r{qGG^4j1<nnr1%G{{x1:<oxqOq:^{4R1{o1^17x1znO{jj^rjqG<{G:Rqnxxn:G1:jor<Ox<QOjo4Gopj{{nO<jR!{GrjqG<:O1ooG1k<{Rnx:r<x^qFn1Gj<GON#{Gx:q1rrr:qo<^xjr4o:G1k<4j4RR:jPrqqx^44{3<jo:Oqoox4{RxO<<O4>1Onj1q{:xGqoo1Go{1{4xnqRoO^:rnqe<O4jRGj:r1x::xGDprjjxGq:rOr^Oj^rGM1njyrjoR<N1n1jnRr^qz<o4^RGj1^=z{{jnG::x1roO1<<4RRxjr^:4O1<nxrVnOxn:oo4^GR{{rx14OR4jGr:O1:q:roj^o#1qG<n41R<jx14{xnlGGRjj1x<qxx<:nq<<Ox::<o<Gx?>4r44Rpjjr^qO{xn<:Ooj^Gon<qG11RO+<4wj1Gn:{1jor1q<<RGxRrn<x^qxo1j3rxOj<G4:^xG{&{1<<O41RGj:r1jrr^G4ROjjxGq:<1G<J1r xO:loGG:R1GG}n1{nnGjv{{:x1:<x1roq1o>-rRxnRx<qx<o4x:jOo^:X11<G:Ro{{^j4O1:n1r<nOxoqjOFjGxGO1<<4x<^^nR1jox{:4O:^^DR1<<jGrR:j1x<1YjGroOrG<1Rj}ooGxvH{Oxj:Go:G1<<{nnD:Ooj^Gh:{1R:jxO4^Owj1Gn::1O<^x{b1Oj:rGO:^1Oq<RG^Px{on4:O^4^^-O{Rn:4jRqj:r1q<rRO<oR^r{<q:O<G<Rx{+1:{{nor^Oo<O4rRoj<rEoO<x>RRGj{x!Oq<14qROj4x{Cx1rnO:jOG:4qj<:G^R^jqnI:4oxn1r1Ox< 4O^R^42{1sxqqR<^Gqbx1o<:GoR<jxx#nrnnr/OO^^pq11o4GORj{Gx:q1o<^1<M{Ox{:Go:G1GR{xnn:Ooj^G<r<G4:j1{Gxoqj<OGqPo{G^x4j1OnjrGn{:qO.o^^^#xn:x^r4o{^rV1q=<x4jRGj:1<1^n:r<RO{GxGq:<1OqOj^o%qRfnqG:5G{<xx:!xGroqd^{x1::ox^_!O^4ROR4jn^<4F1VnO:jx^rjqGGOGry:OO<x4G1:n11q{rno::<RGq1njRnG:{^G^oN:{O<:GoR<jxx8nqnW:O^x^q4G{1oAGjRj{Gx:jOj^rOO<^n41:^o:G1u<{xn3:Ox4qGe:1On<:xO6:xq4oxGj14j{n<qo1OjOrGO:^1o{o:^Yfn1_:<q{ooGo.:q_<x4jRGj:RG1{nx:oRrj{xG:G<1G<RxG<cnR<jOOnO{<p4rRG:rGjCn{:x1:<rnr<Ox41GqRj{Gx^q:1Xj_:jOG^:o4<jG^Rjjxq{qO<jG^R:Ox<r4O1jjG1j{^nj:1^^^oC:14nx41R{jxx5qO:{:OojGG4^14nqrGO4{^x:q1o<GxZa{OjjjGorG1T<{xnL:OojoOj:{1nx:xO_^Oo<<q4rRGjrxj4AROnjrGO::4:Mo^^VCrn*xq:no4Gr}:{<xq:xOO^nr1qR<xG#ROz{4_{nnOr^OjGS4o1ojdrjR1{jxx:KoOO{OO^jRx1onjroqG{{nG::o1^<lx121GjjO^^:B11<nxrmOOqxoG1:jnr<Ox<*OO<{GORj{qnG:4^G^o4U1Onq:nRojxxWqO<jGGR:n11^qxorGORj{GR{jqx<:nO<^x4oR nRG14o{xn(:Or{rOOjG4GWR^{_r:qn<^GxRGnFrnqG<nG:rGq<^14<1xZ4Rx{k:O:{<R^21O{4x::4o1oRrRq<<xGOxnjjx<q:oGG<Rn{#xqqjoORnR1{<xx:<oOG{ZG{:Jj:oo{^QCO{jnG::o1qx*n1GnO:ROG^:*11<4:r4Or^j4G1:jGr<qxxx4O1RjGn{O1<o4xGFzorjqo<:O4R<R^xYrOn1GGRjj1xOqxo<GOWG:qx::Go<^oFv{qxj:^o:^G{q{xn.:OOq^GXr{1n<oqO0^x?j1Gn::1O<<xqx1OnRrGOx^14:1xj#qROj<O4:11j<rxqtoOGTRGjnr1rO<xG<ROjjxqq:oGG<Rx{NxOqjqG^oR1{:xx:<oO<R;GR:n::<o1^B?x{j1n::q=<R3x1onOr{OG^:K11<jrr}Oj^j4G1:j4r<rxqR4ORGjGn{O1O{4xRp or{qr<:41R<jxxwrOoRGGRRj1xnqxq^GO4j1:x::oo<^43VRGxjxGOjG1-n{xnq:Oqr^G :1Nn<rGOz^qlj1Gn:x1qq^x4:1Oj<rGqO^1^<RnjZr1Oj<x4:4jj<xjG^<OGoRG{4r1q<<x<Xzjjjxnq:oqG<G<{Un::OoG^GR1{oxx:voO^1#x{:nr:<on^P*O{jj<rjo1<53x14nO:jOG^:4G1<j^rpqG^j4G1:n1n4Ox<q4O1jjGrxO1o<<RRQjjrjqx<:GoR<{jx4qOo^GGGqj1x<qxq;^4Rj{rx::oo<o4CP1:xR:GO&G1oq{xnc:OO1<1>:1qn<noO.^O&jR<{o:1O1^x4^1OnjrGqx<R4<RojJ{OOj<G4:11qGrxqq<OGqRGjxr1:<OGGARjjjjGq:ooG<Rx{{xO:^oGG:R1{<xxxbonGj;r{:no:<q{^bGO1onG:Ro1^ncx4rnOr1q4^:4O1<jnrvOO^j4G1rn1r{Ox<^4ORmjGj:x{<<G^R}1nrjn4<:41^^jnxxqO<jGGR:j1j<:RoI^.Rj{jx:x4o<<x>4{OnO:GOGG1GB{x{K:1oj^js:1:n<xqOP^OGG1Gj^:1Oo^x4e1O{jrxO:<r4<Rojhx<OjOGGo11jRrxqn<O<xRG{xo4q<oOGZRRjjxGq:O1GoRx{jxO::oGoGR11Onr:!O^Gj^O{:x1:<Oj^4gO1xnGnjo1^<.xRGj;:jq4^:<G1<nxrPOO<O4GR<n1x^Ox<M4O1j{nr:q:<<4xR/j:rj:Gq{41R{jxx:qOoOGG0x{Rx<:<oYooRj{Gx:r1O<GxJx{OnO:GqRG14O1on_r4oj^oH:{1n<rjqO^O4:1G6n:1O<^xGG11njrRO:<44<1xj!x:qJ<GGO114qrxqB<O4j{jj:x:q<o:G0R:jjnGqx<1G{Rx1nxO:OoG^xdj{<n<:c:oGj8G{:j1:1ox^x2O1OnGxRo1<O4<1Fj4:jno^:w11<jjx:OO<:4G4on1r<OxoG4R1jjRr:j4<<4xR {:<GqGoO41G4jxxDqO<j{7R:{:x<::ogG:Rj1Gnrq1o{GxGM{OnO:Go:^xY<1<nv:Ooj^G0:R1jo:xOx^O4O1G{n:1:<<{4BR8njrjO:qq4<RjjRrOqq<G4111j<rxqzor4jR1j:r1q<o<GpGOHnxG:<<1<rRx4jxOxjqGG:Dx{<{x:XxrGj4<{nx1r4oxoR_O{jnGx:O1^<4q1dj^:j:r^:GHR4nxr1OO^R4G1:n1xOqR<zGo1jROr:O1<<Gj}njOxjqG<n41R<jxnG:R<j^^R:4:x<qxo)GO1O{Gnoq1OoGx3G{Onj:jo:^x#<Ron*r^oj<<4R{1j4:x:R^Opj1G{:xyO<<q4=R^njnrO:od4:1xj1rOnR<G4:11{Ox:qkoo4jRRj:r1q<ojGoRO{jxGqn<1G<Rx1G<jqjO^G:<1{<xx:%oOqqt^1ox1roox^GSO1jn<::Ox^<Gx1pj^:jq<<ot1R4nxxoOO^j4G,:jWr<qq<WG^1jRxr::1<R4xR{jOxrqGqx41U<{4x8:G<joxR:{nx<:xo4GOF:{GjOq1ooGx8J^rxj:Ro:GRp<{xnYxOn1^G4o{1j4:xO1^OGjROn:rnO<<q4?G1njxG:<^1GH1x;orOqr<G<:8xj<xOqm:q4j<Gj:j1rW<xGjRORGxGnj<1^O6J{Mn^qjOqG:R1{<jx:RoO^rVG1ox1:1oxofq:{jnR::On^<^G1.jOROOG<<C111nxr{OO^jr11:j:r<qO<p4:1jjGn4OR<R4xR5jOrjqGO:^xR<{oxF:4<j<oR:11xRqxonGOSq{G14q1OO<^7%1Gxj::o:G1*<{xjo:OOr^G.:{1n{:xr_^x0j1Rn:n^O<On4ER:n{rGqO^1Gq1xjZrO:jn<4:Rjj<x:qkO{4jU<O1r1:^<xq^ROjjxG:xR<G</x{UxrqjoGG:R1qGxx:1oO^j!G{xx1r<o1^/4^{ja=::Oj^<^xR<nOrrOGO:I1^qnxxGq1^jGy1:1{r<Ox<C^OR:jGxOO1oG4x4qjOx1:<<:G{R<4{xiqO<j^<+oj1n<qxq<GORj{GnxG<o<^n*({rxj:Go:<_4j{xjG:OrS^G*:{1n<x^OK<<_jR<n:r0O<<x4O1OjrrG:^^1GG1x{GxROjo!4:4{j<rxqkOOGRRG{Or1:G<x<qRO{1x^q:o{G<R{{WxOqjO<G1R11<xxr:oOGjJG1xo<:<On^,2r{jnG::q!{xaxRGnOx<OG^:P11<<Or2q<^jG<1:jJr<qxrG4qRrjGn:O1oG4xFG{Urj:u<:^^R<jxx.rOoGGGgOj1nGqx::GO4j{Rx::jo<^:7,4^xjrGOqG144{x1::OOx^G^:1xn<rqO_o<,j4qn::1OO^x411On{rGO:^1^<ojjwx<Ojoi4:Rjj<nx1G<OGxRG{Or1nj<x^3OWjjxRq:r^G<Q:{){OnnoG^oR14oxxr:oOGj:1{:nr:<Oq^i,:{jnG1no1<ubx1(nO:jOGo:I41<jOrHqG^j^o1:{1xOOx<j4OR:jG{4O1oOG:RA{^rj:^<:41R<jxxRqOoxGGR:j1xrqx:U^GRj1gx:x^o<O<W#{OnG:GOqG1%<{xn%:Oqj<^H:1{n<rrOJor;jtGnj:1q^^x4R1O{:rG::or4<RrjwxoOjoR4:11{Rrx:A<O4{RGj:r1r<<nGs?OjjnGq:ojG<4x{1xO:joG^:R1_GxxrGoxGj4^{:nq:<ox^IGO14nGrro1<oLx>xnOr1V:^:G}1<nnr}OO^jG<:1n1xqOx<44O1jjGxx4<<<G1RDjqrjqG<:41:1jxn4qOOiGGR:j1x<:{o ^oRj{Gx::yo<^x4^{Onx:GOtG14^{x1=r{oj<&t:R<n<:{Ot<:G^1Gjq:1r^^x4p1O{jxqO:<{4<Rrj6n{Ojo<G<11{<rxq^<O4jRG{x{GqoonG0GxjjxGq:O_GqRx1GxOqRoGG:R11On^:NOrGjo^{:x1:<ox<nNO1nnGrno1^O)xRunq:jqi^:Gr1<jrr7q:<q4GRqn1j^Ox<W4OFjjnr:q{<<GrRp1{rj:<r:41}<jxR^qO<jGGsx1xx<:no%q4Rj{Gx:rJoRGx4G{OxR:Go:G14O1<nTrrojo{8:{1n<:xO^^O4n1Gjn:1OO^xGN=*njx(O:o14<RrjCrOqr<GG<11{GrxqG<O4jooj:xnq<<xGMROjjjGqq<1^4Rx{{xOrRoG<:*<{<nq:6O^Gj^n{:jW:jox^1%O1{nG::o1^<C11>jo:jO^^:4^1<1xr{OO<n4G+{n1nOOxqQoo1j{4r:r1<<O{R=ROnjqGoq41<4jx1<qOo1GqR:{1x<xro>GORjRGn<q1O<Gx45{O{^:GOx^oS<1nnT:roj^G5:RunO:xqG^O<X1Gn::1qO<:4vRrnjroO:^14<RjjnrO:+<G<<11j<rxqD^L4jcGj:nGq<<jGmfO{4xG:q<1^RRx1MxO:1o1G:b1{<{r:SoOGjGG1:x1r<ox<WNOY^nGrxq:^<4n1dar:jOG^:GgRjnxxGOO:q4G1:n1xOqr<bGr1j4or:O1<<GjrOjOnyqGoo41R<jxx/G<<j^GR:1Gx<qjoX^OTr{Gnqq1q<Gx4Q{Oxjroo:^1K<{xny:OojoG4R{1j<:xqX^OGR1G{::RO<<x4iROnjjnO:ovG<1x{4rOx^<G4:11j<rjq;o:4jRGj:x4q<ojrRRO{RxG:{<1G<RxRh4:qjOoG:44{<j^:iqOr1wG1nx1rqox<RQO1j4j::q#^<G^15jr:jq<GoP1RqnxxoOO^j4Gt:{xr<q{<hGr1j{4r::1oo4xy^jOxRqGo:41m<1GxL::<j^4R:14x<:jOoGO/R{G1^q1o<GxGM1:xjroo:<4W<64nKr:q:^G4j{1nq:xO7^O41{^n:x^O<O14.1OnjrG:G^1Gq1x{orOO1<GG:Rnj<xjqFOX4j/oj:r1:h<x^dRO{1xGqx<1G<R{{gnqqjoGG:R1{<jx:GoO^{JG1rx1xqoxol,r{jj^::OR^<<^1hj:xqOG<xT1^:nxr_OO^jGj1:{4r<Ox<u4x1j{<rxO1o:4xGnjOrjqGO:r3R<{1xs:x<j<rR:1U<xqxOoGORR{Gx:q1OO<GpI1jxj{oo:G10<{xj4:Oq+^G41{1nO:xqQ<o&jRon:1uO<<140R:n{rGqj^1<R1xjkrO:joj4:%Gj<x1qsO{4j(<{Rr1:r<xG^ROjjxG:x<RG<4_{;RrqjoGG:R1ooxxr<oO<GUG{xx1r<q<^Z4r{j{^::qG^<4j1{nOxFOGq^h11<nxn&qR^jGO1:{Gr<r4<cG:1RjGx{O1<q4xRTjOx1:x<:^<R<4{x.qO<jGG)xj1n:qxOOGOR1{Gn:rxo<^{yQ1xxjrOo:<=4o{xj<:Orq^GJ:{1{<r1O*<x&jROn:noO<<jGd1O{4rGOn^14<1x{Gr{Ojo:4:<4j<rxqk<Ox:RG{jr1:x<xGGRO{jIjq:O4G<Lj{gnxqjoGq:RR1oxxr^oOGjkG{:4x:oOr^DKO{jn^::o1:<an1{nOrnOG^:H11<GOr4OR^j4G1:nRr<qjnR4OROjG{^O1<<4x4%jqr{qj<:G:R<R4xU::orGG&^j1xqqxo0GOP11qx::xo<o1._{Oxj:GOGG1I1{xnj:Ooj^G;:1:n<r4O%^O/j1Gn::1qG^x4O1OnjrGOr^1GOOrjar{Ojq{4:11j<nx1n<OG^RGjRr1rn<x^G#njjxxq:o4G<Rx{hn:r^oG^4R1.:xx:2oOGjh<{:no:<O^^C_O{jnG:1o1^:mx1HnO:1OG<:G:1<n{rgqq^j4O1:j<rnOn<<4O11jGrrO1<:4xRdGxrjqG<:G4R<jxxlqOO4GGR:j1xOqxo>GORj1qx:q1o<G{F({Oxj:GO{G1z<{xn<:Ooj^GI11ono:RO+<G-j1^n::RO<^xq<1OnjrGOn^14<1x{wgBOj<o4:Rrj<rRq2<jG^R^j{r1q1<xG4ROj1xGq:nGG<Rx{-xrqjoGG:R11rxx:XoOGR>G{:x1r<j<^cpr{jjr::O^^<4B1qnqr4OG<mF11onxr<OO^jGq1:n1r<Ox<w4O1jjGx{O1<<4xR4jOrjqG<:^^R<jxx q:<jGGR:j1;:qxosGORR{Gx:q1O<r<hH{rxjj:o:^^k<1;nq:qO4^G#R{1no:xOo^OCjRqn::1O<^x4>1OnjrGq{^14<1xj4rOOj<G4:0^j<rxqK<x4jRGj:r1:r<xGpROj1xGq:<1G<o1{SxOqjooG:R1{<nx1xoOGR6GG4x1:rox^O#{{{nq::Or^<tn1Qnr:jOG<{ 11<nxrkOO^j4G1:{^r<Ox<*4q1jjGr:O1x:4xRMjOrRqG<:415<^<xgqr<jq4R:{^x<:loqGq74{GnOq1ooGxQ^{Oxjrqo:G1s<{xna:Ooj^G4{{1n<:xO4^OBj1Gn:RGO<^x4M1rnjrGO:<1q11xj^rOjG<G4{11jxx4q4<n4jR:j:rRq<<{GuRO14xGq:<1G<Rx{NxOqjOqG:R1{<xn:uoOGjkG^jx1:<ox^^,O{jnGr:j:^<d{1D+n:jOq^:4<1nnnroOO<r4G1rn1r:Ox<fGn1jjGr:O1<<4xR%jOn4qG<:41Rojxx.qO<j^qR:j1x<qjoUGORj{Gzjq1o<GxB^{Oxj:GO:r:P<{{nNjGoj^q5:1<nn:nOo^O-R1Gnr:1O{^x4ERnnjrGO:^14<1xj5rO:4<G4:11jorxqd<O4jmqj:r1q<<RGcROjjxG:{<1G<Rx{OxOqjoGG:4^{<xx:lo{GjsG{:x1rrox^#3O1<nG::o1^<4R13nO:jOO^:I11<nxxoOO^j4G1xn1r<Ox<(qx1jjGr:q4<<4xRN{OZOqG<n41^GjxxoqOoGGrRr{^x<qRo,GqRj{:x:q1OrGxk){Oxj:Go:G1)<1Rn2:Ooj^^b:{1n<:xqo^Owj1Gnx:1O<^x4CRnnjrGO:<G4<1xjFrO{X<G4:11jqrxq?<O4jTqj:r1q<o^G.ROjjnG1G<1GqRx{qxO:4oGG1ho{oxR:_oxGjD^{:no:<ox<oMO{jnG::o1^<Qx1vjn:jOG^:ER1<nxr*OOxZ4G1:n1rqOx<T4O1j{qr:O1<<4jR%jOrjqGo{41R<jxx^qO<jGGR:1^x<qxovGxRj{Gx:q1OrGx.>{Ono:Go:G14<<<n3:rojO:h:1^n<rHOq^q441Gn::1Oo^x4x1OnjxqO:^14<1njdrOOj<GG{11j<rxqT<O4jRGj:n^q<<xG8R:jjxGq:<1::Rx{cxOqRoGG:R1{<nR:PoOGjwo{:x1:<ox<o)O{jnG:jo1^<Vx1Vjn:jOG^:4:1<nxrBOOo44G1:n1rnOx<%4O1j{qr:O1<<GGR%jOrjqGo{41R<jxxrqO<jGGP:qRx<q{oXGnRj{qx:r1OxGxCo{OxR:GOrG1G<Ron}:noj^qf:4{n<xxqo^O441Gn{:1:O^x^51jnjrqO:<^4<^4jpnO:q<G4{11jrrxx^<OGGRrjrxoq<<nGURqjjx^q:<1::Rx{zxOqRoGG:R1{<RO:4onGj8r{:xR:<qx^nIO14nG:no1<ofx_vnR:jOq^:4^1<Rrr&:O<{4G1{n1rrOx:G4O6jjjr:q^<<4RRIRrrjq:<R4RRnjxxrqO<{GGRjj1x<{1o6GORj{ox:q1o<Gx4o{Oxj:GO^G1T<{xn6rnoj^GW:1qn<:xO0^Oqb1Gn::1O:^x4s1OnjRqO:<^4<R4jvrqOj<Gqn11jrrxq^<O4jRG1:4Aq<<RG!Rnjjj<q:<1:qRx{OxOqRoGG:R1R<4j:ZojGj?:{:{5:<ox{o_O1GnG:1o1^<VxCe4<:jO:^:4<1<e{r/OO1<4G1{n1rxOx<^4Oej^<r:q^<<4{RY{qrjqGxn41Rxjxx^qO<jGG4:<Nx<:-o=GjRj1^x:r1jOGx%O{OnG:GqxG14<<<nh:noj^1p:1<n<:x^G^O,R1Gnx:1O<^x4(^<n{rGO:^R4<1xjZrrqn<G4:11otrxqz<O4j%4j:r1q<rx:joqGRiq1An{rgo1^o4:{_nqxbqG{oxx:IoOGjdG{:1qj<on^bHO{jnG::o1q:jx1^nO:jO:^:V11<4<{r{<xaqqODn1rnOx<?4O^1G^d4{jxO:rOqjOrRqG<:41<O441Gqq<jGGR:j1x<qxO:OORj{qx:q1o<q4qG^n44RborG1/<{xnA:Ooj:O<:{1j<:xOS^O<1<^4nRrjnxjqRonGxROxnx{:hor^GjrOj<{4:11j<{n{1xr:<O4^x111^n^:1Oxjjxoq:<1G<<j^o;xq{oGG:R1{<xx:>oO1j3G{{x1:<oxr^qo<:G4Rxo1^jmx1FnO1ljqnZ:G^qG^%xjn^j4j1:n1r<nR:ro{o1G^Rj{qxr::O<jqrjqG<:41R<<xu:^O<jGOR:j1x<j:n4r^O4{GxRq1o<Gxoz^q4:1qjjxGOr{nnK:Ooj^G :{1A{jxO4^Oaj1Gn::11<x,{_1OjnrGO:^1oOor^GRx{4n<Onoq^1RRjexRr<oq^<r1q:<xGERO4:>q{1jGGoRx{!xOqjoGG:414<xx:<oOGjXG4{4jRrjq^K4^{jnG::nGx^q4<qGGR4n<rrqqoG4jRR{{^{n^4oxo1OjOroRnGnj^r:O1<<4xR+:O11nG<r4o:Or*3:r^x41q^qjRx<qxoDGORj{G1{n1o<Gnf5{OxjjrorG1.<{xn(:Ooj^Gy:{1nr:xOl^OO2<x4{Rnjr^x4o1OnjrGnjx{oj^{4OrOq}<G4:11cx)r{1nx4{RGj:r1q<<xGyROhjxGq1<1G<Rx4^4:14n^rjO^{<n^:NoOGjoO^{GOR:r{rRqG<nG<::OG^<Lx1!MrRo{jr{w1Rxnxr3OO:x:qooG3Rr{jr^qno{^qR{{jxqqR^nGn4o1Gnq:qOG^1xVqn<jGGR:4<4O{nn{:nRj{:x:q1o<q{O4<xNG1^j<G1dq{xn+:Or1r^qx{Rn<:xOW^OgjGG4qj1O<^R4Q1Onj{n{orRqn<RjBrqOj<G4:^)j<xSqU<O4j^^Gn4G{{ji:oRO{^xGq:<1:xOj^R4^j1rrOxRR{<xx:toOGjvG;:11:<oR^.DO{jRoRqjxx^qj1(jq:jOG^:oqo44nRqjnrc:<<rGjiq{xx4::o4^aRn1q<<G4R,jOrjj4n1:^OO^OM41R<{GGR:j1x<qxo,^xnj{^x:q1o<GxtM{Oj*jGo:^4?<{xnTj1{4rq0r{1n<:xO>^OEj4_R::1qn^x4_1OG1R<1brR:qo{Go-x{oxOoG4{R^{^xGqx<RGoR{{Gxqq{o^RO{4xGq:<1q on^Gdn1:oGG1R1{<xx{Hnqr1Oq<OGG:<OG^D+O{jJGRq{4r{q1<rGoRxO^^:i11<nxrzOO4jo41:jGr<Ox<-o:o:^qR{OR<<4xRVjOrjqGq1o1R<{4x0qO<jqOOq^o-n1Ono:xR{rM<jxRx1q4ooxn1n:GO4G1H<{xRORonRxqqnGxG^R{{<^O4o1Gn::1x{x:q<<R4RR^{jx{:O1xjrrOOj<GoRo^^:1G{oxR:^ox^jr1q:<xGuRO4r4411n^GoRx{-xOqjoGx:<o4<xx:joOGj+GGjG_1oj:x^qO^{G<1{jjrq:^14nO:jOG^:_1O<4M{ OO<r4G1:n1{q{rxj:oo14oR{{RnrqRo1Gra4qG<:41R<jxx4qO<jGGR:j1x<n:rXGqRj{Gx:q1o<xx<qrOx{:Go:G1M<{xnbxx4j^G44{1n<:xx:xnq4^oG<Rqj:rR:G1Oj4rGO:^1O<orGrC<1h<GG<11j<rxj^xnqROO^4){1G:{:ROG^n4<q:<RG<Rx{VR:qjoxG:R1{<1{14jGr:O<^r441Ron^3YO{jnG::^1x^<x1dnx:jOG^:ox<{G{;<OO<44G1:n11rx1xr:^41jGrnO1<<4x<^^nR1q^<:41R<jxx8ROxqOGR:{4x<qxo,OqOa^Ox::Go<Gxd+GG4oRWn{G1%R{xn%:Onmrq:8oGInRjj4xOqj<q4j:1O1^x4N1O0oRRjrxoqr^OG4R:{4x14:3^j<rxq-:r:no1^q4=jqxRr4On^446{nn^ORoR<r4O1nnnrOqG{qxn:C:_GjtG{:4OR:j1xC<*Nn14RR{oxn^:oGGo11j1xq:O4G4{RR{^Onq^on^4Rr{1ORooooGO{oxoqj<jGqRnjjxOqno4GrjnxCqO<jGGR:j1{1nxo)^lRj{Gx:jqjGrxqo<xR4Rwnjr^O:{nns:Ooj^Gv:{1{:jxOV^j)j1Gn:{4{^xOqRo:1RrGqG^14<1x4<Rn1<nOono{^l_r1Gqr4jRrj:r1q<r1:oO1<}1<1qjOG<AG{SxOqjxo:{Ox^r_{R<nnrS ^{:x1:<ox^Y.OjjR4::Oj^<#x1AlxR4{xxjOOGoGORrj{xxqR<{Gju:Ox<q4O1jjG11{^xq:1oR^:j1qGoG41R<jxR^1oj4r<on^^Rq{nn1rrRj1:x:q1o<q1Oo<1G0{ojjxbq^<o4o{xj1r^qOo4G<1n{Grnqx<o^4:1Oq^x4Z1OvRRq{j^14{1xj;rOjSxqrQOG4SRn{Gxn::RGj1r1q<<xqyoRGRz{{{jlG<R{{fxOqjxOrqO1{<n::CoOGjoY<{4n1OnRxGor<4G^R{j^xGO{<onOrFOG^:s1^:^^ITjn^{4G1:n1r<Ox<_<GGjjGx:O1<<4x^^^Gfo1GnnOGor^{f^{nnx:Oor^j4:1{o;G:Rj{Gx:{^r{GnwE{Oxj:Go:G1^Grxn4:Ooj^Gs:{1n<n1x ^OUR1Gn::1{GrR:q1OjGrGO:^1ojorGjRx{4n<4:R<j<rxqCrx:norGRWx{r<xGnROjjxGnnn{riOr<GRO1onor^O^<Oxx:qoOGj?G4j4qRqjxrjOqoon^1q^s<jnq:^OIqOx4^rP11<nxr)OO^j<Rx:n1rnOx<=4OoG^<Pq{n:jO{<OjqrjqG<:41R<jxnjnO<jGOR:j1x<j1nor1q>{^x:q1o<Gxm6rOT4jGorG1Z<{xnD:OojqO<:{1nn:xOD^O<Ro4GORjjrr{:<1OnRrGO:^1oOor^:rOqG<G4:11WoR{{^xn:xOOj:xOq<<xGz<:^n4O{rjG:{Or^1xO:4oGG:R14{4:11nnr1lG{jx1:<ox:o<x<o4R::q<^<yx1TR:1{jox^qooOGruo{<xIOOox4RIG{{n-qqo1Gq>O{4n{4xRqjOrjqGr:r*or<3fr{nj^GGpGj1x<qxrrr<Oj<q4jj6nrr4O4<<xjrGo:G1;<G14oR1{e:oqjo?G^Rojoqrqn<1Gqi,rqnr4o1OnjrGjO^R4:1xjSrOq4<GG:o:j<r1q#or4jR^j:j1n^<xG<RO^{xG1O<1o<^r{&xxqjr^G:uG{<{xnRoO^A_G{1x1::ox</qJ{jnO::n4^<6{1V{OR1OG^{(11OnxrROO<G:o1rj^r<q<<X4q1jjGr:qG4q4xRQjOxOqG<r41R:r{xKqO<jGRR:jRx<qxn^GO24{Gx:q1o<GxG,<:xj:qo:^^&<RjnzxOj1^Gk{{1nr:x1o^OGjg<n:r^O<^R4MgrnjrG:j^14r1xjGrOq^<G4:<jjoxGqW<O4jRoj:x1{1<xG:RO41xGq{<1^<O<{Jx1qjqGG:S<{<nx1xoO^</GSqx1:nox<sGR{jnO::r4^<4G1-nOrnOG<Q>11onxrNOOoj4j1:jOr<qG<Y:x1j1Gx<O1<j4xR:jOjGqGox^^R<{^xAx;<jGGR:j1n1qxoxGORj{Gxjq1:<^4IJ13xjroo:x:J<{x1R:qOq^G_r{1n<:x:b^1>j1{n:rrO<x14EkO{^rGq^^14R1xR^rO:jo^4:Rrj<xoqerR4jRG{:r1:f<xGXROjjxGr:o1G<?O{inGqjq<G:41{rxx:joO^:wGGrx1rOp{^/4^{j4o::o1^<GxR^nOrrOG<oK14onxxGOq^jG>1:^<r<Ox<fG:c<jGxqO1nx4xRKjOx1qr<:G1R<<gxDqO<jGG/Rj1n4qxOeGORj{Gx:qRo<^oLV{Oxj:<o:^1OO{nnx:OOq^G4^{11<r^OB<_tjoon:1jO<<j4o1OjqrGn1^14<1x1pnGOj<{4:Rrj<44q%o:G<RG{<r1{n<xGHRO{1nxq:onG<4R{JxOqjO<GjR11Gxxx4oOGjEG1xo<:<Or^!Go{jnG::o11G%x1nnOrnOG^xP1R<jGr*q+^j^x1:jrr<Ox<j4ORqjGrrO1<<4x4({rrjq{<:GrR<^1xirOO:GGE^j1xRqxqOGOz1{qx::xo<o<u={Oxj:Go{G144{xn4:OO4^G^:4{n<rqOw<r%joxn::1x^^n411On{rGO:^1^<pejux<OjoK4:OGj<nxqx<OGxRG{Or1xq<x<vX{jjn,q:ojG<o^{sxO:<oG^qR1{<xx:UoO<j4q{:n{:<Or^?G:{j{Gx<o1<^Sx1RnO{{OG<xj41<jxr=jr^j4G1:{1xjOxod4ORjjGjrO1oO^qR!{qrj{<<:41R<{jx4qOo1GGoxj1x<qxOG^^Rj1ox:1Po<Gx 6{Oj=:GO:G14q{xni:Ooj<^X:1jn<:xOB^:YjRG4x:Rq4^x4n1OjxrGr:<n4<Rqj23rOjx34:PL{<rxq1<OqGRGj:r1r<<nGc(<jjngq:joG<Xj{GxO:noG<rR1{<xxrGO:Gj4G{:4o:<ox^d4:RGnGrro1ooWx1*nOr1qx^:GI1<G4rSOO^j4GR<n1xGOxoG4O11jGx:q^<<GqR,B^rj:E<:^}D1jxx1qOxGGGR:j1j<r4ot^<Rj1sx:Roo<^j5^{Onn:GnRG1}<{xjGr^oj<G5:1jn<:xOP<:nG1Gjr:1jn^x471Oj1^:O:oB4<R:jTrOOj<GjO11{Grx:G<O41RG{:x^q<oqGf41jjnaq:<1^ORx{1xOq{oGG:R1R<nO:VO<Gj4I{:GG:<qx^j8O1xnGrOo1ox!xRGjj:jq4^:^:1<nxrwOO<{4GR:n1rqOx<^4O4jt4r:q1<<G{RI^orjxGO:41_<jxGrqOn^GGtx{Ox<:noZqjRj{Gx:r1OoGx44{On{:GjRG14O1xnUr:ojrrl:{1n<rjq:^O4R1G{r:1O<^xGGRRnjxOO:oR4<1xj8x::<<GG{11<Orxqz<O4jxTj:xRq<oRGQR:jjnGq{<1^<RxR:xO:{oGG:d{{<nn:}oqGj2G{:j1roox<4QO1{nGRjo1o<441Ejq:jq^^:^<1<jjx4OO<14Goon1r<Ox<dGx1j{or:O1<<G<R6RO{nqGon41Hqjx{nqOqj<GR:14x<y^o;:{Rj1<n^q1O:GxoO{Oxj:Gq:^Rt<11n rxojxr :RTnR:xqo^OG{1Gn::1qO<q4VRjnjjrO:^14<Rj{rrO:^<G^r11j<rx:G<q4jmxj:nqq<<xG ROnOxG:j<1^jRx{GxO:joRG:44{<1q:zOxGj4<Rox1r:ox:OAO{jnGx:O^^<411#jx:j{r^:G&1{nxxoOOqx4G1:n1xOO{<?Gj1j^qr:O1<<GjR4jOn^qGOr41R<jxnG4j<j^xR:<Px<qxo(GO<q{^njq1OjGxlG{Onjr^o:<4F<%Gn.rxoj<<4x{1j::xqx^OVj1G{:x^O<<147RxnjnOO:o14:1x{<rO:.<G:G11{<xGqDor4j4Oj:nGq<oxGrRO{RxGR:<1GoRx{AwrqjOOG:R1{<xx:/qO:1%G1jx1r:oxoGWORjjR::qG^<411-{{:jqG^1-1RqnxR<OOoQ4G4:j<r<q{<WGO1j^<r:r1on4xH^jORqqGxO41SO{Oxt:x<j^jR:j1x<rxooGO40{Gnjq1njGxGI<:xjrOo:<G-<RGnNrOjO^G4n{14j:xq<^O,jO1n:rRO<<{471:njrG:4^RGO1xj4rOOj<G^:RRj<xjqko:4jOOj:n1::<x^GRO{1xGr1<1^O+M{KnrqjqjG:R1{<xx:{oO<SJG{rx1:roxOW4x{jjO::q4^<ql1ij:rjOG<{_1<{nxrLOOoj:<1:{^r<qR<e:{1j{<^1O1ox4xoqjOrjqGoxq:R<14x-rq<jGGR:j1xnqxOoGO4^{Gxxq1O<<O621xxj:1o:<^H<{xj4:Oq4^GQr{1n<:x:*<nXjRqn:x^O<x14-;O{:rGq{^1Gr1xR^rO:joj4:e^j<xRqYrR4jRG{jrR:x<xGkROjjxGr:oxG<4K{hnjqjq<G:41{jxxrOoO<GtGGrx1rOqb^/4{{j4o::o1^<GxRrnOx^OG<R_14onxxGqr^jGx1:^<r<Ox<NG:7^jGn4O1nx4xR;jOx1qq<r^:R<<Dx_qO<jGG4pj1nnqxOxGORj{Gx::jo<^R_8{Oxj:<o:^1GL{xj<:OOq^G4{{1jOr^Of<nbj^:n::1O<oxG:1O{4rGq{^1:n1x{Gx{Ojo:4:ooj<rxqlo:oNR^{Rr1R4<xG0RO{1x1q:OOG<4n{-xOqjO<^xR11{xxxooOGjsG{:xR:<OR^B4R{jn<::O1<:KxR<nOjrOG<{e1ROnRrUqn^jO:1:n1r<:x<44O84jGx{O1nn4x;Gr1rj::<:^RR<jxx6::O<GG7Rj1nrqxowGOw11:x:rOo<<nzP{Oxjr<OxG14{{x4 :Ooj^Gb:1Rn<rROW<R5j1<n:r1qG^xG<1O1<rGq{^14<QOjUxnOj<^4:11j<nx4n<O^4RG{{r11:<x<iErjjnqq:O^G<Gt{an:rooG^1R1R1xx:loOGj)j{:jo:<ox^Bax{j1G:ro1<nQxR^nO4OOG<xGb1<{GrKjr^j4G1:{1xqOxo:4O+<jG4OO1O<G{RT{RrjqO<:o4R<1xxOqOOoGG44j1ROqxqT^oRj1jx::Go<o{ckRO41:GqGG141{x{F:Oqjx<A:Rrn<:1OgOrvjXGGx:1qR^xGn1O1nrGO:G:4<MGj2n4Oj<<4:R1jOrx:q<OGqRG1*r1:OOqGU+1jjR:q:<1G<4x{oxOr<oG<_R1<nxxrGOGGj4n{:jR:<ox^m4:{{nGxGo1rn8x1tnOr1q_^:Gr1<{nraOO^jG<(kn1n)Oxxq4O1jjGr:qj<<^GRU1Grjq<<:G1R1jxnqqO:rGG4yj1nOqRob^1RjG:x:q1o<<x4^{Oj<:GqzG1qn{xjGr:oj<nd:<on<:xO&<:&11G{G:1qG^x4S1Oj1^:O:or4<o4jNrOOjo<^F111vrxq1<O4jRGj:n^q<OGGB4Gjjx<q:o1^1Rx1qxOx<oG<*R11Onj:uO1Gj:x{:x1:<qx<n%OR<nGx&o1xn&xRGj4:jqn^:GR1<nxr/q:<44G3Gn1jnOx<)4O1j4Grr:O<<^<RIjOrjqG:n41WrjxxhqO<1GGR:1qxor)oYGqRj{Gx:r1q,Gx4O{OjG:GjjG1G<R<narjoj<:l:g<n<rjqL^OG^1GGo:1O<^x4l.4njxxO:^14<RojljOOR<G^A11{qrx1n<OG1_6j:nqq<n^GpROjjjG1x<1^{Rx1rxOR^oG^xx<{<j<:sqqGj,G{:jFGxox<n)O4xnG::o1^<x:1ejR:jq{^:4c1<jxx^OOo<4GR<n1x{Oxqc4n1j{xr:Rq<<:4Re{:x:qGO441<xjxx7qOOj^OR:1qx<r^o,r{Rj1<x{q1O1GxG4{Oxj:GOx^{l<Ronzxqoj^Gc:R6ox:xqj^O<x1Gn::1qOoG4L%^njn^O:^14<1xjrrO:o<G^o11jOrx:Qoq4jvxj:{nq<O^G5}:{<xGr4<1qxRx{JxOrjojG:4q{<j^:_j{Gj4<{rx1r1oxrqaO{jnGrxqG^<Go1P{q:jOG^:GD:xnxxjOOo{4G1:n1xO4c<i^^1jR<r:O1<<4xqjjOnoqGOo41ROjxnbj:<{^xR:ROx<r^oW^:Ir{Gj4q1O1Gxss{Ojj:1o:<qM<R^nAxxojoGLn{1j{:xqr^OqO1Gj:r4O<oG4=IxnjxnO:O1GR1x{:rO1j<GO^11j<r{q oR4jRGj:r1q<OxrGRO1oxGr4<1<ORxRv4:qjOnG:4q{<{4:7OOrO}GR_x11:ox<rbO0jR4::qO^<4x181::jOGqq*RR{nxr4OO^j4G}:jGr<:^<YGR1j^Or::1or4xNrjOnoqGqn414<{ux/:R<j^nR:Gqx<qxorGO4O{Gx:q1o<GxGg{Rxjrjo:<:(<RjnyxOqV^GGG{1j1:xn4^O41ron:xrO<r{4E1OnjnGqO^1GR1x{nrOr{<GGxRoj<nOqCqR4jRGj:n7q1<x^{ROfoxGq:<1^O&n{yj<qj:nG:R1{<xxr:oO<q,GROx1:<ox^MAx{jjn::o1^<Bj1}jOROOGoA?1qHnxxrOOOjo41:{Or<{o<Vo<1jjG1:ORox4xa:jOrjqG<::xRo{1xWqO<jG^R:1 G^qxOoGO:<{Gx:q1q<^r;41nxjrqo:xo0<1jn::OqG^GGr{1n<:xqGo^/jRrn:joO<^x4P1Oj<rGq{^1Gn1xjarOOj<x4:QBj<rxqE<:4jRG14rR:q<xG4ROjjxGr:OxG<_{{VnrqjjOG:411^xxr^oO^RhGR1x1rOOr^V4x{j51::o1^<Ix1^nOx4OG^:H11xnxj>O1^jGq1:{4r<x1<7G:p<jGx1O1x{4xRWjOnj1<<:^<R<1_xF1{<j^<r1j1nnqxnqGORj{GnxG<o<<G#.Rqxj:Go:G1xG{xjO:Oq<^G0x{1j<r{O+<nzj11n:x<O<Ox4:1O{4rGR4^1qn1x{GniOjo:4:<<j<rxqsOO^4RG{1r1:x<xrqRO{1xoq:OoG<O4{uxOqjO<GRR11jxxnOoOGj*G1xo<:<q^^3Gq{jnG::q_<jWxRxnOj^OG^:g11<{4r)qj^jGj1:jyr<qx<{4O=4jG{oO1ox4x#G1^rj::<:q<R<jxxcrO<{GGB1j1nxqxjqGOS11Gx:roo<<nbE{Oxjr<O:G14j{xGO:Ooj^G4xGsnox^OUoq.j1Gn:xXq4^xGx1O^GrGO:^14<1jjTxjOjoj4:R6j<xx:O<O^4RGR&r1:x<xoUURjjnqq:qjG<^<{}xOr<oG^nR11rxx:GoOGjBR{:jG:<on^T5O{j{Gqno1<:5xR<nO/?OGo:Gx1<j1r qx^j^:1:{lrqOxoo4O4OjGr:O1<<GoRQ{jrjqG<:G^R<Rxx1qOOGGGgnj1R1qxo(^XRj1rx:qRo<GxmfROnq:GORG14n{xG<:Oqj^O&:Ron<x4OXOrQj8GnR:1qn^xGq1O4orGO:o^4<uGj_rOOj<G4:_1{<rx::<O^<RG1xr1r<O<Gtp1jjnxq:rRG<Pj{nxOrooG:nR1{<xxxCoxGj4n{:jq:<:n^J4::GnGxGo1xx(x1NnOr1!:^:Gr1<^hrbOO^jG<:1n1nEOxnO4O1jjGr:D:<<^^R,1GrjqG<:41_1jxnqqO<jGGRxj1n<rqo/^jRj{{x:roo<ox4r{OjG:GORG1Go{xjG:xoj<r&:^<n<:xOwoOG:1GjR:1qn^x:q1Oj1rnO:oO4<5njirOOjo<<j1R{{rxxq<O4jRG{xnOq<O<Gv4qjjxGq:OI^^Rx1nxOj:oGG:R1{<np:eO{Gj4{{:nA:<Ox^^VORGnGjoo1<n8xRGnx:jqr^:O<1<nxrB:O<:4GRRn1xnOxnq4OR1O:r::O<<:4R)jOrj:<1141&{jx11qO<jGGVxq<x<r<oM<qRj{Gx:raqrGx4n{O{4:Go:G1A<14npr{oj<{H:1hn<rxOr^OGG1G1H:1qn^x4Q1:njxOO:o<4<1xjfrOqo<GG:11j<rxq4<O4jq1j:xjq<oxG#R:jjxG{:<R^^Rx{4xOqjoG<:sx{<nr:YOoGjqO{:j1ruox^R-O1nnGx1o1<OGO1QjO:j:j^:611<nxx^OO<{4G1nn1rxOxqE^^1j{^r::4<<rGRHROx:qGor41G<jxR1qOqj^:R:{Rx<;^o=:{RjsGj:q1OoGx4q{Oj{:GOx^r5<1jn;{joj^GL:R1j{:xqG^O411GGR:1qO^14hRrnjn^O:^14<Rjj4rO:.<G^r11j<rx:Go{4j7qj:nRq<<xG* :1OxG:1<1xORx{YxOqj^jG:4t{<j=:.o:Gj4GR^x1rooxO{FO11nGrxqr^<4j1Vej:jOG^:G1RxnxxGOO<14GoRn1xO:q<;Gr1jGrr:O1<<GjRxjOn%qGOr41R<jxnGr^<j^qR:^ox<qxou^:xG{Gn1q1oqGxDh{Oxj^Mo:<&f<R5n2::oj<G4j{1jo:x::^O411Gn:xOO<<j431qnjrGO:o1GO1x{GrOq1<G:j111<n<qho:4jl<j:j<q<ojG^RO{RxGxG<1G<Rx{Ax{qjOOG:Vt{<xR:_:OOn.G1jx1rqox<<mOVjR4::qG^<r^1c4{:jrGo:81R:nxxqOOo{4GRxj4r<qR<.Oj1jjGr::1oG4xAojOn4qGnR41uO1<xV:j<j<^R:j1x<:jorGO4^{G{Rq1o<Gx4G14xjrxo:<RW<{xn/r:qq^GG4{11n:xO&^OYjjjn:x^O<o^4P1:njxG:4^1G:1xR{rO:4<GGxSxj<xRqkrj4jRGj:n1:q<x^oRO14xG1R<1^Od4{8njqjnrG:R1{<njr<oO<^CG1xx1:<ox<Gmq{jjx::qR^<Wx1Zj:^GOGo4D1^jnxrgOO^jj_1:{^r<:^<U4:1j{Gn4O1o:4x4:jOn4qG<:^:R<{Rxlqq<jGGR:11xxqxOoGO44{G4jq1q<<q})1nxjrqo:o<N<1jnj:OqG^G^G{1n<:xOm^q&jRrn::1O<< 4 4ORnrGqR^1Gq1x40rOq1j44:pOj< ^q&<O4j4G^xr1:j<x^:RO<^xG:xR<G<4^{*1<qjoGG:4(G1xxrxoOOxFG{:x1:<o1^E41{jjj::OD^<4xR:nOx^OG<<s1Rjnxr;On^jGx1:nRr<Ox<U^OR^jGnAO1oj4xO<jOnj:x<:^OR<1GxKxr<j<GToj1njqxO:GOo^{Gx:rGoo<^2#{Oxj:Go:<14K{xjr:Oqo^GGx{1{<roO2<R+jRnn:{RO<<j4q1O{OrGjn^14<1x1Yx1Ojoj4:c:j<jnq&o:GRRG1^r1{O<xGWRO{1xOq:OxG<oj{AxOqjO<G{RRR4xx1GoOGjZG{:jn:<q<^?G^{jnG::o1<jNxR:nO:jOG^xz1R<j1r;q{^j4{1:{Or<qjor4O2<jG11O1<<4x42{Orj:x<:^OR<<4x&::OOGG44j1YnqxoPGOW1kOxrr:o<<nPl{Oxjr<O(G14R{x{4:Ooj^G4x1{n<xOO/oq j1Gn::1O{^xG:1O{:rGOx^1G<R<j3x{OjqR4:sOj<xj:O<O^<RG41r1q<<x<fg<jjnxq:OOG<q4{=n::Go^<4R1Roxx:NoO^14j{:j::<{r^I(O{jj<x^o1<R+x_4nO:jOG<x4n1<{Or+1o^j4G1:n1nhOxo:4OJ:jGrxO1o<GRRB{{rjrx<:^OR<Rxx{qOO^GGR{j1jrqxoW^RR{1xx:qRo<GxDiROn1:GqfG14j{xG<:Oqj<o8:ROn<xGO-oj8jR<jO:1q{^x^x1OnjrGO:<A4<f<j,rOOj<q4:41{1rx:x<OGRRG<Rr1:OorGV44jjyoq:<1G<4x<GxOrqoG<^R13oxxrG:xG{41{:2G:<ox^&4:1onGxoo1::Tx1znOr1qO^:Gj1<p1r.OO^j4GRqn1xROxo14O11jGx::r<<^<RU{4rj:{<:^sR1jxnnqOxGGGR:j1j<rOoP<4Rj1{x:Roo<^j4G{qj::GqrG1t<{xjGrnoj<Rb:<on<:xO+<:Go1G{O:1:o^x451Oj1x^O:o{4<o4jlrOOj<GGr11{Rrx:R<O41RG{:xGq<O<GP^^jjn{q:OlG{Rx1nxO{GoGG:R1R<4O:uq4Gj4{{:Go:<Oj^OgOR:nG1Ro1^<FxRGj4:jqR^:4j1<nxr#q:<r4G/On1RnOx<04OR1{4r::{<<G:RXjOrjqG<x41zRjxnRqO<1GG>:{4x<r<o?<1Rj1{x:x1r^Gx4x{On4:Gq{G14Oorn>x4ojnx*:{1n<xxO4^qGq1G{^:1{n^xGGRonjx1O:xo4<1xjTx::o<G^o111orxq2<O4ja4j:nrq<OqGDROjjxG:^<1^jRx{MxOqjoGG:44{<j4:CoOGjY^{:j2z^ox<:HOO<nG::o1o<4r14j1:jqx^::o1<jjr^OOoo4G<Rn1r<OxoG4r1j{jr::R<<4xRFjOxnqGOd4161jxxQqO<jGoR:1^x<qxo}G:Rj{Gj4qROxGxT4{Oxj:Gq:<o(<RPn5rjojxOV:R1j1:xqO^OGG1G{1:1qO<S4QR{njnjO:^14<1x{jrO:<<G4:11j:rxxw<n4jMxj:n4q<:GGwh:1oxGr4<1:qRx{hxOrjj<G:4q{<j^:2:qGj4<q1x1r1ox:<yO{jnGrxe<^<Go1mUx:jOG^:G2:xnxxjOOrD4G1:n1r<=:<IGR1j{1r:q)<<GxRrjOn<qGo^41%{jx{6:Q<j^xR:1ox<rno+^:4G{Gj4q1xxGxU*{Ojjr4o:<qA<R^nNR{oj<<4r{1j1:xjq^Odj1GjxrxO<oo4=EqnjrGO:ownx1x{jrO{^<G4:11{O<pqLO^4j4^j:r1q<<xj1RO1oxGro<1GORx1Tn^qjOxG:GO{<j^:NoO<qfGR4x1:oox^s5ORjj:::qq^<G^1}Gx:j:G^1S1R{nxxrOOOG4GRxjnr<:<<IGq1jjGr:O1o44xInjOrjqG<r41EO4nxTrG<jOjR:j1x<rxOrGO4:{Gj<q1jnGx_l{jxjrRo:GRu<{xn8r:Ox^GGO{144:xOf^OGj11n:xjO<o:4Po{njx<On^R^^1x14rOOj<GGxROj<nxqJxr4jRGj:n1qx<x<ERO1jxGxr<1^O4q{AjqqjxOG:R1{<njr{oO<13GGjx1:<ox<G4{{j{o::nG^<Tx1CnOxOOGo:}1eqnxrLOO^joo1:{jr<Ox<P4:1j{<4qO1O^4x<{jOrjqGO:r2R<1rx)ro<jrrR:1m<xqxq/GOO^{Gx:q1OOxr},Rqxj1oo:G1Z<RxGG:Oq{^GGr{1^G:x:>x:%j!<n:rGO<O{4d/OG1rG:x^1^O1x4GrO:jn<4:44j<r1qFqr4j4G^xr1rq<x<^RO1jxGr:jgG<41{axxqj:oG:41<Oxxx<oOoS;Gzqx1:<xx^4Gq{j{O::o1^<AxRqnOxnOG^:N11<nxrY{G^{GR1:n1r<On<S4O0RjGn<O1<O4xRGjOxj{j<:^rR<R{xvrG<jGG<:jRn{qxOnGORj{Gx:1xoo<G*B{Oxj:^o:<S:^{xjr:O1<^GU:{1{<rrO4<R0jRnn:5oO<<jGG1O{OrG:r^14<1x{GrjOjo{4:Goj<rxqb<OGGRG14r1:R<xGuROjjxxq:O<G<Rx{Hx:qjoG<4RR1nxx:4oOGjWGR:nj:<q4^D4{{jGO::q1^xXxRqnOx^OGo181ROnRrAq1^j^j1:n1r<Ox<:4OKojGr:O1<r4xG}{4rj:n<:^4R<RoxD::oGGG4Gj1hqqxozGO4j<<x:r:o<<<Lk_qxjr<R1G14R{x=<:Ooj^G4x:<n<xOOb:x?j1Gn:x)Vx^xG{1O4DrGO:^14<::jKn/OjoR4:R5j<xx:T<O^oRG{^r1:1<xo(44jjnnq:OoG<4n{3n::roG<GR1Gxxx:#oO<j4:{:j::<q<^hq{{jj<r:o1<Rbx<qnO:jOG<xGn1<{Oru:q^j4G1:{#qoOxo{4Oo^jGr:O1oO^qR?1<rjr^<:41R<jxxRqOOOGG4Oj1xOqxOm^RRj1nx:xOo<<<wfuOn^:Gq4G1Br{x{o:Ooj<VL:R:n<:nOm^O&jNGGx:1q1^xGx1O^wrG::nl4<f<jLntOjO:4:u)Oxrx:n<OG{RGj:r1q<x:G44GjjxGq:o4G<hjG4xOrroGqGR1{<xxx_OGGj4R{:jn:<{4^umO1RnGxOo1^o%x1XnOr1Or^:G{1<4qr?OO^j^GvGn1n^OxoR4OO^jGxxq4<o^xRt1qrjqG<:^(54jxj4qOxRGGR:j1j<r^oN<qRjR^x:xRo<^j4x{Oj1:GxjG1s<{xjG:rojooH:^Gn<:xOE<:G^1G{j:1n:^x4a1OnjxOO:oR4<D1jerOOj<Gon111^rxqw<O41RG{x4{q<OxGUo^jjxGq:O1rORxRNxOrjoGrRR11Ox{:4qqGjOr{:x1:<Oj<qNOR1nG1no1^<7xcsjr:j:<^:^&1<1nr)q:^14GMnn1noOx<)4OR1{{r:rG<<^nRujOrj:<<x414rjxj4qO<jGGR:1<x<rjoz<nRj{Gx:q1OnGxG}{Oxj:Go:G1!<<On4x<oj^GW:{Rn<:x:^^OGr1Gnx:1OO^xGeoYnjx1O:q44<+qjvjOxn<G^<11<xrxnr<OG1<^j:nnq<nxGAROjjjG:x<1<4Rx1{xOR^oGG:Uq{<j::KoqGj/G{:jJrjox<R=OYonG::o1o<Bj1P{o:j:4^::o1<jj^OOOoj4Gyrn1r<OxoGnj1j1^r:{o<<4xRNjOG:qGOq414ojxxGqOo1x4R:11x<x^o}GORjRGRqq1q<GxGB{OG^:GOx<qm<Rnn21{oj^GM:Rtj1:x:G^OG{1Gn::1O<<o4HXOnjn<O:^14<1x{{rO:x<G4:11jorxq(Or4j8Rj:x q<<jG/3O^OxGr<<1OjRx1{xOqjxGGr4:{<jO:LoOGj;G<<xRr{ox^PyO{{nGrx{{^<G<1>^1:jOG^:G11onnxxOOoO4GoRn1xO:o<*^41j1^r:O1<<GjROjOn:qGqR41R<jxxEqn<j^jR:1xx<qxo;GOJ<{GnRq1o<GxhK{Oxj:oo:<GX<{xn>:qoj^Gr<{1jO:xq<^O*11Gn:xqOo<{4y1qnjrGO:o14q1x{^rOqR<G:j111<xkq*or4jAoj:j<q<ojGRRO1sxGxG<1G<Rx{NxnqjOqG:RR{<xR:0:O^:>G1{x1rqoxqRIO11jx::q<^<O{1.nO:j:Gxx*1RxnxxOOOO{4GRxO<r<:4<5Ox1jjGr::f1x4xD:jOR/qG<:41>OqfxA:R<jqOR:j1x<qx11GO4G{Gj4q1oOGx4V1oxjrqo:^rP<RsnHnOOn^G4{{1jn:x:4^O411^n:x<O<rv4s1OnjnGqj^1Gx1x{OrO1^<GGxRjj<n4q!Oq4jRGj:nA:n<x^:RO_^xGq:<1^Ox_{bnRqjq^G:R1{<njr:oO<OYG=ox1:<ox^m4G{jj:::q:^<+j1gjOroOG<{Q1G4nxxOOO<1Gj1:{<r<jW<>4O1j1GrRO1ox4xIOjO4^qGoxGGR<14xM{{<jGGR:1wxxqxO:GO<x{Gx:q1OO{2DL1Rxjx^o:G1H<1joO:OqO^Gq1{1n<:xOf1<-jR:n:x:O<^j4XRO{<rGq{^1^j1x{OrOOj<q4:=<j<rnqu<O4j4G{Ar1:x<x^ORO<,xGr:ooG<4#{;njqjq:G:4T1OxxrqoO^{SG{:x1:<On^A41{jnG::oR^<4j^4nOxoOG:G-11<nxnSq{^jGn1:{qr<14<_4OR^jGnGO1<x4xRNjOx1:<<:^rR<Gqx,qO<j<G4sj1nRqxOnGOq^{Gnx:4oo<OF2Rqxj:Go:<8L1{xj{:OnR^Gs:{1{<x4O2o^pjRRn:nRO<<j4O1O{xrGnj^14<1x{GxrOjO44:QRj<rxq o:G:RG1:r1ro<xG%ROjjnjq:OnG<4x{}xOqjoGOnR11Rxx:HoOG1IG1xG{:<qO^MO^{jnG::q1xO5xRjnOx:OGxR/1ROn{r4:^^j^31:n1r<qjoj4O_xjGRnO1<<4x4;{nrjr-<:^jR<RnxH::onGG4qj1R:qxo+GOI1{nx:r1o<q1>Q{Oxjr<orG1Go{x{4:Ooj^Gz:1^n<x:OCoq&j1Gn::1xq^xGj1OnjrGOx^1GOOrjJn^OjrR4:11j<nx1G<O^rRG1or11n<x^GRrj{jcq:rZG<Rx{0n:r^oG<qR1^qxx:toO<j4R{:j{:<qr^?^q{jj<rro1o<2xI4nO:jOG<x4^1<{nrUnx^j4G1:{!x1OxOG4OS{jGr:O1<<G<RA1orjr<<:41R<jx1^qOOrGGR:j1xOqxOGxoRjRVx:{no<Gx%ARO41:GqOG1GG{xGq:OO1^oprR{n<j:O0^OEjR<nx:1:<^xq^1OnjrG::ox4<,xj*nOOjq^4:H6jOrxr4<O^{RGj:r1:O<{GF4:jjROq:<1G< j{<xOrRoGqjR1{<xx:_O8GjGG{:{4:<ox^?/O4RnGxOo1^<Jx1GnOr114^:G{1<4qruOO^j^Goxn1n^OxoR4OO^jGxxq4<o^xRw1GrjqG<:^,bRjxj4qOxRGGR:j1j<:^oQ<qRjR^x:xRo<^j4={Oj1:GqrG1V<{xjGr1ojoou:RRn<:xO*<:4E1G{j:1n:^x4!1Onjr1O:oR4<N1jDrOOj<Gon111^rxqv<O41RG{x4{q<OxGdo^jjxGq:O1rORxRdxOrjoGrRR11Ox{:4qqGjq1{:x1:<Oj^rbOR1nG1no1^<kx%yj4:j:<^:^s1<1nr#q:<o4G;nn11:Ox<b4OR1{^r:rG<<^nR+jOrj:<oh414rjxR<qO<jGGR:{<x<rjoU<nRj{Gx:q1rqGxG%{Oxj:GoxG14OornXxqoj:Rs:{1n<xx{G^OG{1G{r:1{n^xGG1rn{n<O:xo4<1xj5x::^<G^n11Gqrxq <O^jk<j:j4q<O{G>Gqjjn<q1<1<:RxG<xOqjoG^x4x{<jR:aqqGjXG{:jZxgoxoOfOR{nG::o1^<4#1.{r:j::^:311<nxxqOOo{4G1:n1r<Ox<w:G1{{jr:O1<<4nR0jOnRqGO441ROjxxGqOoj:jR:1Ox<x{ok^RRj{G^<q1OxGx4:{Ox1:Go:<qpoR4n;:qoj^G_:R1jo:xqq^OG^1GGj:1:<^14dR{njxrO:O<4<RjjxrO:<<G<G11j<rxq_<14jbnj:r1q<<RG-GO{<xGr4<1^qRxRjxO:1OoG:4:{<4^:,oOGjGG<xx1r1ox<xCOo^nGrxg<^<Go1hR<:jOG^:Gt^1nxxjOOqx4G1:n1r<qR<A^S1j{1r:qu<<GxR^jOnoqGo<41Q1jxx-:o<j^jR:jRx<qxoK<ORR{GjGq1O1Gxq<{Ojjr1o:<:A<R<nbnrojoG4r{1j1:xqx^OO^1Gn:xGOooo4!1OnjrGO:o14r1x{nrO:q<G^x111<xRqIO44jX{j:1Rq<ojGoRO1:xG{n<1G<RxR3n:qjO1G:4x{<{n:XO:^rCGRox11Oox^w,O11j{::qj^<Oj1=nO:jq<^{pRf^nxRGOO^j4G1:{^r<:O</^o1jjGr:O1<o4x;xjOrjqG<x41y<1<xF:R<jG{R:1:x<:jOoGO4O{GR1q1o<GxGf1rxjrjo:<:?<o4nLr:On^GG^{1RG:xO#^O414OnrxxO<on4>1Onjx<qR^1^41x14rOOj<GGxRGj<n:qiOq4jRGj:r1q:<x^xRO1xxGqx<1^<4o{3nRqj:RG:4:{<nj:1oO<OFGG1x1:<oxoN44{jjj::q:^<:416j:O<OGo^L12onxrCOO<1G11:{xr<qG<w4O1j{<xJO1O44xoqjOrjqGoxG1R<1:x7q1<jGGR:j1n^qxOxGO4x{Gxxq1O<GnLL1Rxjxxo:<:X<{xn4:OqO^GUr{1n<:x:_x:cjRjn:x:O<x14NXOj4rG:G^1G11x1OrOq1oj4:6rj<j<qg<O4jRGjRr1r}<xGwRO{UxGx:O;G<4O{Enrqj{rG:4u1:xxr{oO:RYG{:x1x<Ox^3G^{jjR:::R^<4jR4nOxxOG:j*11<nxxGCj^j^41:4Gr<Ox<mG:A<jGn:O1r:4xRVjOrjqR<:^nR<1xxpq:<j^G_rj1j}qxonGO4r{Gnx:{o<<q.;Gjxj:Go:<1tO{xj{:Oqr^GqR{1jOxGOZo<Yj_^n::1O<<j4o1O{nrGjR^14<1x{G^jOjOG4:zRj<rxqeo:^<RG1rr1{n<xG+ROjjxrq:OnG<4n{sx:qjOG^nR1Rcxxn{oO<rNG1xj4:<qq^)oj{jnG::q1<n>xR{nOxrOGxR51ROj_r=:<^jqr1:n1r<qjo^4OBnjGxOO1<<4xfGOjrjrG<::oR<jxx>::O<GG4rj1nGqxowGORj11x:rno<<nMC{:xjrGOxG1Gv{x{::Oqr^G4xRFn<xqOZn1lj1Gn:x1qo^xG{1O{rrG{R^1GO*4jMn<OjO^4:11j<xj:o<O^nRGRRr1q<<xG*<Oj{nRq:O{G<Rx{=xOr^oG<GR1{<xx:ToOGjO1{rjq:<ox^?/q{jj<mqo1<1MxO:nO:jOGo:LR1o{<rT:&^j:r1:{5rrOxon4O%{jGr:O1oOG1Rc1Grjxr<:41R<jxnGqOOOGG4<j1x<qxok^GRj1rx:q1o<Gxe({Oj4:GO{G1+<{xn4:OO1n4p:R<n<4GO,^OSjLGRG:Rqx^xGO1O^^rGqx^R4<!4j;nqOj<G4:>&{1rx::<Oo^RGj:r1q<<nG/hjjjnxq:<1G<Rx1qxO:RoGG:R1{Oxx:co{Gj4O{:xR:<ox^&GO1nnGrjo1<:6xo<nOxjOO^:GG1<j1r):j^jG<C^n1xrOxOx4O1jjGr:qx<<^TREj:rjqO<:<1^^jxnOqOoRGGRRj1{<rxo_^jRjonx:1oo<^jY1{Oj^:Gx1G1*<{x{.rGoj<r2:Ron<H4Oc<:4^1G{b:1jn^x4E1Oj1rqO:oq4<*ljyrOOjo<4n11{1rxr4<O4jRG{xxnq<OoG+G{jjxGq:<1P1Rx1qxOrqoGGxR11<nK:KOjGj^R{:jo:<Oj<G&OR^nG{1o1^<Txgsnr:jqr^:Go1<^4rpq:<t4G_Ln1noOx<>4OR1jjr::q<<^qR0jOrj:<O441t1jxj4qO<jGGmxq<x<rooMq1Rj{Gx:q1mGGx4q{Ojq:GoxG14<1<n,rjojoxW:Ron<:xq^^OG^1Gnr:1O<^x^vR{njxrO:oo4<o1j}nOqo<GGR11{nrxrO<OG1R1j:nOq<q<GbROjjxG:o<1^{Rx{VxOqRoGo:^{{<j^:#OrGj(R{:{1x<ox<ruOOonG1Ro1<O4^1W{f:jn:^:t11<{xxGOOoO4GcGn18nOxoG4:1j{{r:{o<<4xR_{:nqqGO<414ojxxCqOo1^xR:1nx<rno3GORj1<njq1qGGx<j{Oxj:Go:{j!<R<n/x<oj^<f:11jn:xqr^O^<1G{G:1O<oq4fQQnjr^O:^14<yxj<rO:O<G^G11^:rxrko44j_jj:n:q<qSGm0:{<xGr^<1:rRx{2xOqjOOG:4x{<xx:WoRGj^G4qx1x.ox<^COO3nG::r{^oGq1#nq:jOG^:G1/4nxx{OOor4Gojn1n<q:</^^1j{Rr:x4<<^x=4jOnrqGOo41<{jxxe:=<j<SR:j1x<qxo;<Od4{GjOq1qGGxGG{Ojj:Ro:<j=<R:n3{qoj<<nn{1{^:xj^^O5j1G{:xqO<or4/+onjj^O:o&GG1x1srOxo<G4:11{OxGq,Oq4jGnj:r1q<oj^ORO11xGn4<1G<Rx{mxnqjq4G:GD{<xx:YoO^:wGRox1:<ox^GFO1j1q::qx^<4o10{^:jq<<<p1B4nx1OOO^j4GX:jrr<:q<7^^1j^rr::H<x4x/1jOt^qG<:41 O1qxaro<j<^R:j1x<:jo{GO4j{GPRq1o<Gx4G{1xjx^o:<Rs<{xni:O:4^^Go{1{o:xOG^O4jRqn:xxO<OG4#)^njx<qi^1^41x{xrOOj<G^:RXj<nqq,O^4j4Oj:n1qx<x^{RO1rxG1G<1^<V:{djGqjqOG:4n{<{xrroO<:eG{rx1{OoxOH4r{jj1::{1^<o11wnOx<OGooi11<nxr#OOojq<1:{nr<:q<)^:1j1Gx^O1O44xS{jOj^qGo:G:R<1OxM{x<j^RR:R1xRqxOjGO6j{G{xq1:<^q2mRGxj{{o::jl<1jnR:Oqr^Gr>{1n<:x:v^1&jRRn:xnO<n44AR:OGrG:O^1^o1xjurOq11:4:P{j<{4q%<O4jRG4:rRr4<x^RROjjxGq:OoG<4<{5xOqjoGG:R1<ixnrroOGjtG{rx1rO{r^=G?{j^x::o1^<Gx4xnqxOOGoGF1onnxxGqO^jG{1:{Rr<Ox<LG:R:jGn<O1qn4xRSjOrjq1<:^:R<1Ox-qO<jGG44j1nnqxoYGOR1{Gx::Oo<<G%!{qxj:Go:<14x{xj::Oq<^Gqj{1{<x^OA<1%jRxn:n<O<<j4O1O{orGrG^14<1xj)n^Ojoj4:11j<r1qYqOonRG1Gr1:q<xGrRORjjGq:O:G<:^{U8{qjO<^qR11Rxx{OoOGjLGR:j<:<qo^_G4{jGr::qg<{.xRjnOx{OG^:81ROj{r7:^^j^^1:n1r<qjoo4O,xjGnrO1<<4x#G{:rjr4<:xdR<jxxbqO^OGG4^j1j^qxoGGO(j{ox:r:o<OqehR4xjr<OoG14R{x2O:Ooj^GG:1^n<xoOto4pjorn:xZ:w^xGj1OG^rGO:^1GORqj n^OjO^4:11j<xjqj<O^xRG1rr1q<<x^Grjjjj4q:rxG<Rx{NxOGxoG<^R1R^xx:GoO^jmj{:j::<:G^AG4{jnGrGo1<RWx14nO:jOGo:G<1<{org:4^j:O1:{1x4Oxon4OMqjGn1O1oOGqRf1Grj{q<:41R<jxndqOOrGGR:j1x{qx:dOoRj1Rx:r4o<x1+T{O1n:^qOG18o{xn}:Oqj<xz:Rjn<x:OKxxVj+Gn{:1:G^xG11O1RrG::or4<J:j8n<Ojrn4:11jorx:R<O4jRGj:r1r<OGG74ojjj4q:q5G<4x1qxOrnoG<qR1GoxxrG*rGjGG{:44:<ox^/GO1dnGx:o1o<tx44nOr1OO^:GR1<R^r+OO^jG<!4n1nOOxqr4O1jjGxx:r<<^{RkRRrjqG<:41Rjjxj+qOORGGR:j1x<:roA<<Rj{Gx::Eo<^x^o{Ojr:GO^G1GG{xjGrrojoy_:^<n<:xOUoO4R1G{O:1:G^x:q1Oj1r^O:o{4<o4j%rOOjo<Gr111<rxr4<O4jRG{xx{q<OnGMo{jjxGq:O*GrRxRGxOr{oGG:R1{<jR:4q<GjG<{:na:<Ox<O ORrnGnho1oG)xRG{/:j:N^:G:1<nxry:O^14G=On1nGOxO<4Ofjjxr::j<<^:R#^/rj:GoO4144jxj<qOOxGGG:{{x<rqo_GqRjRGx:x1oRGx4{{OGj:GqrG1v<R^nmx<oj^GV:{1n<xxjG^OGx1G{O:1:O^x^K1{njn3O:oj4<44j>xOq^<G^o11G:rx:1<O<j&Gj:nnq<oxGFG:jj{Gqr<1<4RxGnxO{xoG^xcn{<j::f{1GjIG{:j1r<ox<1,ORxnGRRo1<On31L{o:j:^^:V11<jj^OOOoj4G4Rn1r<Ox<vOO1{1dr::1<<4xRbjOn^qGO^41R<jxxYqO<j:1Rr1:x<qxoJGqRj1<Gqq1ORGx::{Oxj:Gq:O:/oRon+x4ojxrU:RJnR:xqj^OG{1Gn::1qO^R4=h^njjrO:^14<1x{orO:q<G^o11j<rxqgOl4jVxj:r1q<<jGERO{^xGr4<1GoRx{_xOrjojG:4q{<j^:=jxGjGG14x1r{ox<r.OPGnGrxqo^<G<1W1h:jOG^:+1R:nxxnOO^j4G1jn1j<xr<X^41j{or:x{<<<x4NjOnqqG{441onjxnG:q<j^1R:G<x<qxoK<O4q{Gj<q1q;Gxqq{On1:^o:<nt<RnnF:Ooj<<Go{1{G:x:4^O3j1GjxxqO<or4KdqnjrGO:o&4R1x1srOqO<G4:11j<:<q3OG4j4Gj:x/q<ox^:RO1qxGno<1<DRx1Gn1qjO1G:o<{<xx:}qO<oUGR<x1xfoxxq}O11j{::qn^<q41SnO:jq<o^#1eGnxn4OO^j4GRx{or<:r<B^q1jjGr::&1x4x4BjO1:qG<:41R<q:xSrG<j<GR:{}x<:xOGGO4q{G{}q1qQGxX0{{xjr1o:GRH<{xnwxOq4^GG<{1{E:x{<^OGjR{n:xxO<oO4DXjnjx<q4^1^41xGorOOj<G4:R<j<n:qB<O4jRnj:j1n^<x^1RO{RxGRj<1G<^r{4joqjo^G:R1{<jx:roO<n#GRqx1R:oxoFBj{j{4::q{^<^{1l{OxqOGoqE10^nx1rOO^j4x1:{1r<Ox<D4O1j1Gx:O1O<4x4YjOn1qGO:G<R<1xx,rO<jq^R:1ioqqxq4GOoR{Gx:q1q<^j_=Rqxjx^o:oR,<1jjn:Oq1^G<4{1n<:xqG<qmjBon:jqO<^x4SR:jorG:j^1<{1xj(rOOjo:4:zRj<n1qX<O4jRGjnr1r^<xG,ROj1xG:::^G<4:{*n4qjq4G:4){:xxrRoO:GmG{:x1x<q^^hGo{j{4::{o^<4j1^nOxjOGrRV11<nxxG:4^j^^1:{Rr<Ox<XG:R4jGnxO1xn4xR-jOx1qn<:<4R<1nxfqO<jGG4{jRj^qxq^GOR1{Gn::^o<<:giR1xjx4o:<A4q{xjR:OqO^Gk:{1{<xqO>ookjH4n:nGO<ox4:1O{nrG:q^1q11x{MrrOjOh4:4Gj<nrqmqOG:RG1Or1qo<x<RRORjn^q:OjG<qx{LjqqjoGG{R1R^xx:woOGj8GR:4v:<qr^_Go{j{<::q1<jExRRnOxnOGoR51R<n1r5:<^jqO1:{{r<rxo^4OTxjGx:O1qO4xGg{jrjrc<:qrR<G:x.::o^GG4qj1GjqxodGO4j{{x:r{o<<rw><{xjr<R1G1G<{x{4:Ooj^G4x:<n<xnOBO{%j1Gn::1n<^nGR1O{{rGO:^14<84jinGOj<G4:11j<rx{j<q^qRGj:r1qo<x^Gqojjn1q:{OG<Rx{YjOq{o^<<R1RHxxRqoO^14G{:jn:<qn^%eO{jj<rxo1oGax4qnO:jOG^:G^1<{Orp:<^j4G1:n1rjOxor4O1jjGr:O1<<^GR%{jrjqG<:4RR<jxGjqOOFGGX1j1xOqxo}^RR{1qx:qRo<Gx!)ROn::GO{G14r{xG<:Oqj<R;:R^n<rRObojTjR<j1:1qx^x^x1OnjrGO:<n4<(4jKrqOj<q4:41{qrx:q<OGRRGj1r1:OO4G_H1jjenq:<1G<4x<GxOr<oG<,R1<nxxrGRjGj4n{:4o:<ox^i4::GnGxGo1ooAx1lnO:jZ>^:GO1<{<raO:^jGG}^n1xnOx<j4OP<jGj:qO<<^4Rd<Rrj{r<:^fT<jxn:qOxGGGR:j1j<qRoY^1Rj1xx:Roo<^j4r{Ojo:GnRG1J<{xjGrqoj<j%:4<n<:xO)<:nG1G{^:1:o^x4_1Oj1xxO:ox4<Onj rOOj<GG111{jrx:j<O41RG{:x^q<O4G&^^jjnxq:Ou^nRx1:xO{GoGG:R1R<j.:_O1Gj4x{:Go:<Oj^4WORonGxro1^<yxRGj4:jqj^:oq1<nxrBq:1G4GE^n1noOx<v4OR1O:r::x<<qxRSjOrjqGRO41=jjxnjqO<1GGs:{<x<r4oE<1Rj1xx:q1OoGx4:{Ox{:Go:G1G<1(nhr1oj<x;:oGn<xxO4^OG<1G{k:1:x^xGG1nnjxnO:xn4<1xjfrOq^<G^G11j<rxqn<O<jxnj:n:q<o{G.^4jjn<:F<1^RRx^rxOqjoG<:4x{<jo:Pq4Gjqr{:jb:oox<j*OR{nG::o1<O4r1-{^:jx6^:b11<nxG1OOoq4GCon1rOOxoa^^1j{jr:qx<<^oRmROxGqGOG41q{jxYqqOo1GnR:1rx<{DoSGORjRGnOq1ORGx4n{OG^:GOxGR8<ROnJxqoj^G6:Rmjr:xq{^Oo^1Gn::1qO1u48%<nj{YO:^14<Rj{:rO:n<G^r11j<rxqJoG4jl{j:n{q<<jGDMO{rxGrG<1O4Rx1nxO:1oRG:4r{<5l:_oOGjGG{jx1rRox<nTOo^nGrxOn^<GO1p4{:jOG^:GIRznxx{OO:r4G1:n1xO4K<*^<1j1^r:O1<<GjrOjOnnqGnx41R<jxxuPG<j^{R:1{x<qjoE^O<1{^jGq1qjGx4n{On1:xo:<rf<R<n7:OojoGG<{1jR:xqn^O^&1G{:xOO<oo43P4njRjO:<14r1x{xrOrb<G^^11R<xqq5O}4jqGj:x<q<<x^^RO1qxGq:<1G<RxR0g:qjO{G:4r{<jj:pqO<G-GR^x1rRoxoq!O1jjn::q:^<O11={4:jrG<{/1R1nxxeOOx14G4:{rr<:<<Iq41jGPr::3oR4xsnjOnOqG<:414<{nx%r4<j^{R:^Ox<rxjGGO4q{Gj^q1OjGx4i<(xjrjo:rO_<RonL:O1:^GGl{1j1:xOG^Oej<on:xqO<^n4*1OnjnGon^1G{1x{rrO1t<G^:6Oj<n^qMoR4j4:j:n>:x<x^xROROxGq:<1G<5G{Xj4qjoGG:w4{<{x:joO<q8G1nx1j:ox^a4j{jj1::oR^<?x1,{OxGOGo<u1uBnxM<OOoj4O1:{xr<:O</<r1j1Gn<O1O04x;jjORoqG<:GBR<1qxcqO<jGGR:11xrqxO{GO4r{Gjxq1q<G1BpR^xjrRo:qR3<1jnj:Oqx^GOn{1n<:x:W<^ejpCn:xjO<On48R:OGrG:q^1:x1xjgrOq1<G4:>1j<4Jqd<O4jg<{1r1ro<xrOROjjxGq:OGG<4:{yjqqjoGG:R1{1xxrjoOGj%G{xx1r<O{^.G4{jn{::qx^<4jR:nOx:OG:1H11<nxnfqr^jG11:{xr<14<(G:j<jGnoO1Oo4xRejOx1::<:^jR<<jx!qO<j^<Rrj1j^qxq4GORj{Gnxr_o<<x/!^Oxj:Go:G14<{xjj:Oqj^GKx{1j<rOO_o4tjwxn:xxO<^x4r1O{:rGOr^14<1x1I:rOjo14:2xj<=1qKOOGxRG1<r1rJ<x<ORO{1x1q:OnG<oO{%xOqjoG^rR1RGxx:koO^G>G2:nj:<q:^s4r{j1q::o1<{/xRRnO:{OG^:_1 <jor2:o^j^41:^Gr<:x<<4O)njGnqO1qq4x4mjnrjr4<:^{R<G^xpqO<{GG4:j1x<qxoBGO4j{{x:r1o<<x#0R:xjxGOjG1G<{x{}:Ox{^G4xRGn<xnO!rrgj1Gn:x1qq^x^41O{{rGrr^1GOr!jun:Oj<<4:11j<xjqF<O^RRGjxr1q<<x^GS1jjjOq:o.G<Rx{QxOrsoG<rR1R:xx:-oOGj4r{:j{:<ox^f5:{jjGxoo1oGJx1nnOxnOG<x4q1<{rrZnj^j4G1:{1rqOxoR4OhnjG7RO1oOGjR41Orjr^<:41R<{jn2qOO{GG4{j1x<qxOGGrRjR<x:rRo<Gx!U1:n#:GqnG1Gr{xn):Ooj^x#:R{n<x{Og^:YjRGjG:1:G^x<{1O{nrGqx<44<,rje1jOj<G4:_1^-rx:R<O^nRG^Rr1:O<1GT4Ojjj^q:<1G<Hj1OxOr{oGO:R1{<xxrGoqGjG<{:jR:<ox^=4:1rnGxno1q<.x1enO:jq<^:G{1<{{rpO:^jGGR_n1nGOxO:4O+njGj:x{<<^:R8R<rj{4<:<1^^jxn1qO:bGGoRj1nORro,<oRjoxx:q1o<<xi4{qjn:GqqG1qn{xjGroojoGf:RRn<:xOJ<:G41G{r:1rn^x4?1OnjrxO:o{4<EnjHrOOj<G4r111/rxqY<O4jRGj:noq<OoGWROjjx^q:OSx^Rx1jxOs<oGG:R1R<xn:4qGGj41{:Go:<Oj<oiORrnGxro1^<#xRGnR:j:Y^:<o1<nxr7OOo64G(<n1nGOx<04O1j{Rr::q<<4xRajOrjqG<{41lnjxxTqO<{GGR:41xo:Ro-^{Rj{Gx:q1j7Gn44{Oxj:GorG1,<Gxn4rooj<^?:{1n<:xjj^q4r1Gn::1Oo^xGGOonjx3O:jO4<1xjznOO{<^GO11{Grx1q<OG1RRj:x{q<OnG>ROjjn<qn<1^<RxvqxOqjoGG:*o{<n::IOOGj G{:x1rOox^nVO{jnG::o1^<441%js:jOG^:VR1<jjsROO<q4Gqpn1r<OxO)r41jj{r:qr<<r4R*{:x^qGo<414ojxxyqOo1^<R:{nx<n4oBGORj{Gn<q1oRGxz{{Oxj:Go:^qd<1Gnt:Ooj^<m:11n1:xO<^O^O1Gj#:1O<Pq4511njrGO:^14<1x:{rOqo<G4:11j<rxqO<{4{Rjj:xqq<<nGeRqjjxG{j<1G<Rx{<xOqjoG^:O:{<x1:*rnGj+j{:n<:non^x&O{RnG:ro1^ryx1J4x:jOG^:4G1<nxraOOo44G1:n1rOOx<p4O1j{qr:O1<<4{RDjOrjqGo{41R<jxx<qO<jGGR:1^x<qxo0GnRj{Gx::1n1GxQ<{OGo:GOGG1hx14n4r-oj^Rw:{Rn<rLOe^Oqa1Gn::1O:^x4L1OnjxqO:^14<1jjyrOOj<GG{11j<rxq4<O4jRGj:n^q<<xGuROjjxGq:<1^rRx{ExO:GoGG:R1{<nR:%oOGjXr{:x1:<OxrxuO1WnGx^o1^15x1On{:{Oj^:4^1<nnr!Or^j4G<jn1r<Ox<<4O1jjGr::^<<4xRHj1rjqG<:41&rjxx(qO<1GGR:j1n<14obGxRj^1x:::o<Gx4q{OnO:GonG1w<{x{(rOoj^j*:1:n<{ROk^O4n1Gj^:1Oq^x4 1O{jrRO:<r4<Roj_1nOj<G4r11jRrxqn<O4jRG1:nrq<ooGpL4jjgrq:<1j;Rx{xxO:qoGGjR1R<xR:IO_GjpO{:{::<ox<YVO1qnG:no1^<dxD(jq:jO{^:4r1<1<ru:O<r4GR^n1rROxn:4O)j{rr:qr<<GoR_4nrj:Gor41R1jx{jqOoqGG4:1qx<:<o%GxRjRjx:r1OOGxcx{OnO:G1^G1G<RGnZrvoj^jf:O4n<rSOq^q4:1Gj^:1Oo^x4G1OnjxqO:^14<R^jQrOOj<Gqj11j<rxq<<O4jRGj:^rq<o<Gw%Gjjx^q:O1^qRx{xxO:+oGoGR1R<nG:QO!GjXj{:GO:<qx<^dO1OnGrGo1xjWx *nj:jOj^:4:1<LrrW:O^14GRGn1r1Oxjn4Owj{Gr:q:<<G<R0<rrjq:<R4R*pjxx.qO<{GGRrj1x<{1o6GORj{xx:q1o<Gxrn{OnO:GO<G1To{x{_::oj^j!:1Gn<n<O%oOG:1GjG:1O1^x::1O{jr^O:<:4<R<ji?1OjOGG^11j1rxqx<OOnRG1:xXq<o<G PcjjP^q:O1^GRx{xxO:OoGxnR1{xn4:4OGGjf<{:xR:<on^_?O<enG::o1^j/x1QnO:jR{^:4:1<jOrUOq^j^GRnn1r1Ox<<4O4OjGn::^<<G<Rk{7rj1x<:^1R{jxxxqOoOGGq,j1j<r<oH^uRj{jx:rGo<<xg^{OnO:GOGG1:R{x{dx4oj^jB:1:n<a{O!^j4^1^j<:1q_^x441On{rGO:xG4<1xj_rROj<G4:11oRrxqx<OG:RGjrr1r<O^G-yBjjxOq:q:G<4x{^xO:OoG^GR1<jxxxsOOGj)j{:n::<{G^_GO1qnGrGo1^1XxR<nOxjqo^:4:1<j<rcjq^j^GS^n1r1Ox<x4OORjGr1qo<oGOR2jxrjq^<:4RR<jx+<qO<jGG+4j1x<qxoy:nRj{jx::xo<Gn>#{O?R:GOGG12{{xn%:Oqjx<d:1:n<r<OsqjAjEG{x:1O1^x4x1O^RrGO1<o4oROj,rjOj<^4:RGj<rx{<<O4jRG{_r1q<<xGwoxjjxGq:oGG<Rx{*xOr4oGG:R1{{xx:HoOGjOO{:x1:<O^^PPO{jnG^Ro1^1Lx1jnO:{OGo:4o1<j<rTOx^j^j1:{1x{Ox<x4OROjG4-O1O<G^Rf{Xrjqj<:rOR<1xxnqOoOGGYGj1xnqxqv^4Rj{jx:::o<^qDDROnO:GOGG1}1{x^<:Oqj<Rf:1:n<r<Ouqr6j-Gjo:1O1^x4x1O^RrGO1<o4oROjpr{Oj<^4:1Rj<rx{<<O4jRGjjr1q<<xGax{jjxjq:oxG<Rn{pjO:noG^GR1{:xxxxoO<j4<{:n::<O<^Wq1{j{G:{o1^1kx1xnOz<OGo:4o1<j<rHqV^j4r1:{1roOx<x4OROjGx4O1O<4nRK{Urjqj<:xGR<1xx<qOoOGGTGj11qqxqgGqRj{jx:::o<x{Yi{jn^:^O<G1/1{xn4:Oo{^Gp:<Gn<:xO>^xaj1Gn::14n^x4x1Oj:rGOr^1^<RRjyx)Oj<O4:4:j<nx:j<OGORG{Gr11j<x<8Sjjjxjq:o:G<qG{*jO:noG^GR1{1xx:qoO<j4q{:n::<O<^P<o{j{Gr1o1^1Lx1xnO4POGo:GG1<j<rFqy^joo1:{1xjOx<x4OROjG4nO1<xG4R4{Grjqx<:4RR<jnxTqOn-GGR:j1x:qxo2GORjO{x:::o<^OeH{qxjxGOrG1H1{xn<:O:O^GG:R^n<r<O+<F}joxn:x1Oj^x4x1OjOrG1I^1^<RxjcxiOj<j4:R<j<nxqo<OGORG{Gr1RR<x<.R:jjxjq:o:G<q{{)xj:^o^^<R1{oxx:4oOG{}G{:4G:<ox^W)x{jnG::o1rrQx1xnOr:OG^r01i<{jr%qQ^j4O1:Gxr<:xOj4OR:jGrjO1qq4x4,{Grjq1<:GxR<4jx.rO<RGG2oj1x:qx:^GO4j1qx::no<^qk&ROxjxGonG14G{xn<:O:R^GG:1xn<r:OA<<Wj44n::1qx^x4x1OjxrGOr^14<njjMrxOj<<4:11j<rxn1<q4jRGjrr1q<<xG<*<jjxGq:o4G<Rx{?xO:roGG:R1Gr4{1oj:qoq!<:G^R:x1xrqO<4nG:jo1^<WxGoG<k4jR^:4x1<nxrCn^xn:qonG^{O{Rn<:xon^Yjrqq<<4xRa1Oo:qG<r41R<jxx4qOo1G:R:{Mx<qjo}GORjRGnnq1oOGxWG{Ox{:Gq:^4h<{jnd::oj^oU:1<{;:xO4^O4<1Gnr:1OO^x4<nrnjrGO:<O4<1nj,rO^r<G4r11jorxq*<O4jjRj:rRq<<xGgROjjxGjO<RG<Rx{4xOqjoGGrR1{<xx:NonGjIG{:x1rVox^eIOGrG4R{{4rr<jooGxQb{4xO^R1<jqr5OO^jOOoqGoRn{OxoO:<{Gn#O{7n^r4RwjxrjqG<:O^OG^Rz{qOorGGR:j1Rr1{nor:<o<+4:R^j:q1qr<O44:GoRG1u<{xyG1qjoxlOx<{GnrqOS^OSjEGq<:1Oo^x4H1OjArGqxoq4<1jjgrrOj<G4:,1jorxqG<O41RGjjr1r<O4GJR:jjx<q:<RG<B814xOq{oG^<R1{oxx:GoO^+{o{:x1:<OO^Jwq{jnG1no1^oLx1,nO:jOGo:RG1<nnr5Oq^j4<1:n1ncOx<^4O1jjGr:O1O<G1RJjrrjqo<:G^R<jxxjqO<RGGRnj1x<qxo#^xRj{^x::4o<Gn>3{ORx:^o:G1%o{xnf:Oo{^Gb:{1n<:{O3^Oij1Gnj:1O<^xooo<^4RRO:<x4<1xj?1^{nnq:no^bOlR1<nx:nOQRrr1:4<xGyROG44o{{jgO{O:<84nR7xOx4O1^rn^:_oOGjGGr<x1:oox^QHO{RnGrxO<^<vj1Cnq:jOG^:G11RnxrGOO^14G1nn1n<qT<K4:1jj<r:qt<<GTmjjOr{qGoX41RojxxGqOo)RoR:j1x<:Go>GqRj{Gqoq1ooGxWw{Oxj:Go:5n <{nnk:Ooj^Gg:{1kG:nOu^O/{1Gn::1Oo^x4c1Onjx^O:^14<1xjOrOOj<GO5o{^LR1{on:4jRqj:r1q<rErGoq^rKqq:o^G<Rx{SRnjcnnro^s{oxx:.oOGjLG{:x1:<on^Y3O{jnG::o1^<<x14nO:jOG^:X1O<4D{POO<o4G1:n1{njRn<o1o4GnRR{On:4xRrjOrjqGr4:jo:^^;^{qj-r4Oxj1xnqxoIGOoW<4}R1ojc:RO<{qxj:Go:G1-<{xx_jooj^xp:{1n<{jjRxxO{oOG4R{{G^n4g1OnjrGO:^1^:xxjzrrOj<G4:ojGr44qfoy4jRGj:14{on:rOoq^RRo14j::rRn{WxOqjoGG:R1n<1r:#orGj0G{:_GR^jx^#6x{jnG::n4r{:<<o6n:jOG^:L1rRnxrGOO^j4G1:n1x<O1<)4:1jjnr:OR<<4xRnjOr1qG<r41R<jxxk:j<jGoR:j1x<qxo#<O4O{Gxnq1oqGx#G{On1:Oo:^G/<1rny:Ooj^GG<{1nr:xOT^Oe{1GjxQ{O<<}4%1rnjrGO:o1r:1xjOrOqG<GGo11{On<qJ<{4jRjj:r1q<oj^{RO{<xGq{<1G<Rx1GnqqjonG:HG{<xx:0oO^jcG1Gx1:<ox^+(ORjj4::O:^<4<1fn{:jOG<jI111nxrnOO^j4G1:Y4r<qc<z4O1jj<r:q1oR4xRojOx{qG<141R<jnxiq:<jGqR:jRx<qxOxGOR1{Gxrq1o<Gxpc{1xj:oo:G1i<{xn*xOOG^G3n{1nq:xOG^OGjR^n:r4O<^{4L1qnjnGqq^14q1xj^rOqj<G^:ODj<r{qw<r4jRxj:nD4x<xG<RO{nxGq:<1G<o:{4xnqjoGG:RR{<nL^ooOG{ GRox1:oox^4tO1V:o::o1^<Gq1Hnq:jOOPn811<nxn4OO^{4GRxO<r<qp<Y4j1jjGr:q<nq4nROjOn{qG<r41R<jxx<<r<jGGR:1Rx<qnoSGxjR{Gx:q1qOGx/4{On1G:o:^<v<{1nH:Ooj<GqG{1nr:xOn^O4G1Gn:1:Oo^j4?1nnjr^O:^14{1xjGrOO{<G4:11j<nAqQ<r4jR<j:r1q<Ox^oROjRxGqn<1GORx1GnGqjoOG:D{{<xx:hoO^15G{{x1:<ox^4CO11j^::O<^<S{1AnO:j:Gnju11xnxrOOO<r4GRx{or<q4<KG51jjGr::?<14xR:jOx4qG<:41SO{1xXqR<jGOR:j1x<qxoRGOgO{Gxxq1o<GxGW1Gxj:jo:^:Z<14n/:OoR^G4G{1nR:xO&^OljGon:r<O<^x421:njxG{G^14r1x{4rOqG<G4:<:jorjqH<n4jR^j:r1:G<xGGROj{xGq:<1G<4_{BxrqjooG:R1{<jx::oOGRkG{nx1:Oox<G4c{jnO::O{^<ux1snOrnOG^{011<nxr4OO<14x1:j<r<O{<?4O1j1G4jO1<x4xROjOxrqGox^nR<{4xL:(<jGGR:1Cj4qxo:GOA:{Gx:q1OO<oDP{Rxj:Oo:G1Y<{xnn:OOO^Gfn{1n<:x:J<jUj1jn:r:O<<44 1On1rGqG^14R1xj}rOOj:o4:R<j<rxq(<:4jZG^Gr1qr<x^4RO{GxGq:x:GoRj{Axnqjo^G:R11jxx:GoOG{/G{:x1:<Or^*Ur{jnO::o1^<GxR>nO:ROG^n511OnxxG:4^j4O1:j{r<Ox<;4OR<jGr{O1<<4xR4jOx1:{<:G<R<j{x qO<j<Gqjj1xxqxoOGOHr{GnxrGo<^4cM{xxj:Go:<5KR{xn::OO*^G2:{1jOrGO_^RPj1On::1O<^xG41OjOrGOj^14<1x1sxROj<j4:R:j<x4qA<O4{RG{Gr1qR<xGTROjj1oq:o<G<Rx{0x:qjOGrGR1{rxx:1oO^GkG{:4^:<oj^8 n{jn^::o1:G5n1!nO:{OG^:.11OnxrbOO^j4o1:n1r<Ox<{4O1jjG1{14xr:j^r^<dj1qnjqGO{^xcoqOo:GGR:j1R41rjorrO44<4{RGj:rrO1kqxj:Oo:G1e<4R41Rnjr^j_:{1n<xxxG^Og{1Gn::1Oo^xGGR{njr<O:<44<1xj7nOq{<G4x11jOrxq4<O^jWTj:xNq<<jGvR:jjx::x<1GoRx{qxOq{oGGxR1{:q{:,oOGj+r{:xR:<o1K^dO{jnGr4o1^oax1*:^:jO^^:K11<nxr;OO4r4G1rn1r<Ox<H4O1j4grrO1<<4nR(jOrjq^<:41R<jx{qqO<jGGR:{Gx<qxo,r^o{<O4NqRo<GxsQ{Oxj:G:jO1A<14nm:Ooj::O{<4G:Rr{GO:_{1Gn::1O<^x4}1OnjrGOR^14<1xE<RR{RnG:<<R^{rxqo<O4jRGi148{onq:oROj{xGq:<1OnRn{AxOqjoGG:R1j<1r:_onGjkG{:G4R<nnxqq<{jn^::o1^<OG1ej4:jOG^:oo<rG11<jnn<:O^nGqD1jR<z4j1jjGr:nOn^:Oo<Gnd1qGoG41R<jxRonRr^r<or^G({{Rn1rxRj{Ox:q1o<qAOR<<Gd:GojG1/<{xRGRG{4rq.:14n<:xOXx<q4ornr:1O<^x1BO1qRrGxx^14r1xjPrOnjn4:4oj^:rnq.<O4jRGj:r1x<:xG%R1jjxGq:r4:oOO^j8:{{nor^R1{xxx:JoOrGq4<x4n1oj1^%Wq{jnG::ne^<4<1UnO:j:qrj^xb<{RR<rGoj^q<jn1rrOx<J4O^^^<R{{^nG4xRojOrjqGn::4oo^O(jqOocGGR:j14:{nj^r4Rj{xx:q1o<q{Oo<G441ojjr^O:{xno:Ooj^G<n<{GXRr{G^OMR1Gn::1xjxRqo1qnjrGO:^14<1xRx{OOj<x4:11j<1x{Rnr:oOO^4N{1G<xGqROjjxGj:jJ:rqd^rinR^oGGjR1{<xxjoj<x4OR{:nG:<ox^_or<oGj1{o1^qyx1&nO15{4x:p11onxraOOq14GR4n1r<Ox:::no44op<{qx:qROGjq^ONn14nq:{O^orno<jGoR:j1x<njn4r:Rj{Ox:q1o<q1Oo<1G?:Go{G1C<{x4ORGjnx4qx{1j<:xOJ^O<1<^4nRrjnxjqRonGxROxnx{:uor^GjrOj<:4:11j<?{1<n::oOVGRr1qq<xGMRO411rnx<1GnRx{exO1Gj<rqOn4jR{{OoqGjEG{:x1:<ox4.<o{jnR::o1^<<{<RGGRn{<:nq^ooGRRo{<rRqq1:jor<Ox</OO<{G1R{1Gn:qRR-jrrjqG<:OQO^<GxNqn<jGGR:G^1:1^n{o:Rj{jx:q1o<q{OR<n411on{:4Oo<:G^:OOG^GP:{1RqRrjjxoq14on:r4O<^x4f^:G4ROO:<^4<1xj=D:{nnq:OoGjorxq+<O4jRGx: {n<4XGeROjjxG{n<1G:Rx{#xOqjoG<:q!{<x1:KoxGj41{:x11qox^o%O{jnG::o1o<qj1+nn:jOq^:Gx1<nxR^OO<G4G1:n1r<OxOK::1jj:r:q<<<^ORMjO1Gq^<R41Rojxx*qO<jO:Rr{Ox<qjoDGORj1G4Gq1oxGxG<{OxR:GO:r:&<{Rnv:{oj^x7:1141:xO<^OGG1GnR:1qOnr4B1xnjjOO:^14<Ix^GrOq><G4j11R4rxqp:j4{Rqj:rRq<<xG&RO4Gx^q1<1GORx{uxOqjr:GrZo{<x{:KoOGjdGO<x1::ox^q?O{1nG::x<^<_R1QnO:jOG^:G11RnxroOO<44G11n1n<qO<%4n1jjqr:qx<<^xRqjOx4qG<{41iCjxjK:x<jGqR:{^x<xxop<O44{Gx{q1orGx4{{Ojjrjo:^^Z<{RnHr^oj<<G^{1nx:x:R^Opj1G{:xnO<<64Z1jnjxGO:o_r^1xjqrOx%<G4:111<Xxq,<{4jRrj:x1q<ojG^RO{<xG:*<1G<Rx1GnRqjonG:pO{<xx:EO:<KmG1Gx1:jox^2JO{jjq::Oo^<4<1an::jq<n2211jnxj<OO^j4Gc:j1r<qG<C411j1Rr:O1<14xRrjOr{qG<:41%O{RxS:m<jGxR:j1x<:jOoGOeq{Gn)q1o<Gxi21qxj:xo:^rt<{xn :OO{^GS1{1n<:xOG^O4j<jn:r^O<oO4-1jnjrGjn^14r1xjirOOj<G^:ONj<rRq.<n4jR:j:n11O<xGoRO{4xG:<<1<<Oj{hxnqjoqG:G4{<jxRGoO^4yG{{x1rRoxo2q:{jnq::O^^<Gx15jOROOG^{!1y1nxr<OO^jqo1:j^r<Ox<F4O1j1G)xO1<r4xRojOxGqGO:rdR<jRxTqn<jG1R:114OqxooGOw4{Gjnq1q<rj+v{nxj:qo:<rM<RxGG:OO4^G_{{1nr:xqGnoUj1:n:nrO<^x4uXOG1rGO1^14x1x{orOq11:4:Roj<n4qp<O4jH<<qr1qj<xG4ROjjxGr:j)G<.G{(x1qjqnG:41<Oxx:roO^>%G11x1x<1R^J!R{jnn::ro^<Gx^1nOroOG<4L14Gnxr,:r^j4x1:jar<Oj<zG:OnjGx4O1<o4xRgjOnj1<<:GqR<{^x(rR<j<GOxj1x1qxo<GOE^{Gj:4^o<^<%Q1dxjnro:<1OG{xnx:OOO^G^O{1n<x{O,^Rdj1<n:riO<<j:R1OjOrGOr^14<1x18.:Oj<j4:R:j<j^qzOO:1RG{^r1q:<x<<RO1j^qq:orG<.o{0{{qjqGrqR1{Rxx:noOox7G{:j<:<O<^)44{jnG::o1<<zx1OnO:jOG^xf1R<{^rJOn^j^x1:j<r<Oxo^4OR4jGr:O1<<4x4E{nrjqq<:G^R<{hx;rOorGGR{j1xrqxojGO4j<<x::^o<GRyeRrxjxGjxG1sr{xno:Oqq^G4xo{n<rzO8O:dj1Gn:x1{O^x4O1OjGrGq:^1GOrljWr{Oj<O4:11j<xj1R<OG<RGjrr1q<<x<5O:jjxxq:oOG<^_{,xO{RoG^4R1{oxx:eoO<jG<{:nq:<O^^_44{jnG1no1^R>x1#nO:jOGo::>1<jorUq4^j4:1:{1iOOx<n4ORqjGx<O1O<:jRl{4rjq{<:<4R<1x4GqOoqGGv^j1nRqxq0r:Rj{{x::ro<GRY-RO41:GO^G1ZR{x{::OO1{:-:1xn<r{O>^OMjR<^q:1q4^x^41OnjrG::nM4<RqjTx^Ojog4:T1^Orxq{<OGrRGRnr1:OjrG-7<jjxoq:<1G<4x<GxO:xoG^OR11<xxrGj^G{44{:nR:<ox^fVORrnGrOo1<^ax1InO:jq4^:4q1<nxr6O:^j^G1nn1r{Ox<r4OROjGn::p<<G^RNjRrjx6<:41%<jxx:qO<1GGRxj1j<rqo5G1Rj{xx::8o<^j4q{Ono:GojG1v<{xjG1(oj^jy:Rjn<:xOy^OG<1Gn1:1O1^x4G1Ojjx{O:<^4<}jjQrjOj<GGO11jrrxq&<O4jRG1:x<q<<RGbRnjjx:q:O1^ORx{oxO:4oG^<R1R<nG:konGj-q{:nx:<qxxG;O14nG:{o1OMhxBYG::jOq^:4^1<1Rry:Ox14G1{n1rrOxq44OR1<4r:q<<<4nRFjOrjrGnx41RxjxxOqOqoGG4:G1x<:4oPGxRj1:x:r1O4Gx;q{On^:G:RG1G<1on/:{oj^rT:8jn<:xqo^O4G1Gnx:1OO^xG3RrnjrqO:OO4<RAjfrOnG<G4{11j<rxqZ<O^jR:j:x^q<<RGYRjjjjG:j<1GrRx{oxO::oG<:W:{<xR:;onGjK1{:j1roox^odO14nGn<o1o<G<1knn:jOq^:GO1<{xx{OO<44G1{n1joOxoGG41jj:r:OR<<4xRQ1OxOqG<141RxjxjrqOOj:GR:{ox<q1o&G{RjRGxnq1onGxfq{O1^:Gq:^x5<14n&:{ojOF/:{1j4:xOO^O311Gnx:1q<<n4Y1nnjnxO:<<4<1x7OrOq4<G4:11j<rxrV<14jRqj:x^q<opGs4O{GxGq{<1GrRx{jxOrjo{G:,^{<xR:6OGGjGG1:x1:rox^o/OZ:nGx:O{^<5R1enn:jq4^:G1R{nxroOO<44G4rn1xO:q<D4j1jj^r:O1<<^x/rjOxGqG<1414{jxjg{O<jGrR:{Gx<r1oV<Ofx{GxRq1onGx^q{Ojjrno:^o%<14nJn<oj^G-1{1nx:xOG^Od11Gj:xxO<^R4.Q1njr:O:^1<O1xjorOO1<G4:11j<nmqM<j4jRGj:r1q<OxG<RO{GxGq1<1GxRxRAj4qjo:G:!<{<nO:zqO<4YG{1x1:xox^jWORjjR::O<^<4W1b{n:j:Go< 11xnxrOOOO^4GRx4qr<q4<N^j1jjGr:O1oj4xR:jOrjqG<r41>O{1xvqR<jo<R:j1x<rxoRGObo{Gn4q1O<GxT=1Rxj:jo:GRz<{xnar:O1^G4^{1n::xOH^O41Rnn:rxO<O:4X1Onjx<^G^1G41xj<rOOj<G4:ROj<x^q&o^4jR<j:x1:j<xG:RO1nxG:4<1G<>4{QxnqjoxG:RR{<xx:joO^4MG{xx1:<ox^WGG{jn:::o1^<yx1e{O:{OG^1 11xnxrOOOoj<O1:j<r<qf<gGG1j1GrxO1<x4xROjOx:qGO:^<R<{BxKqj<joGR:11x:qxoOGO8G{Gnxq1OOGn6N{{xjx:o:G1.<{xno:OO<^GS:{1no:xqG^qJj1nn:jXO<^x4AQO{rrGq4^14{1x{krOOj<:4:R:j<rjqN<O4je<j1r1qR<xG<ROjjxG::-jG<-O{*x1qjooG:4sqxxx:{oO^)>G{:x1:<1O^kDR{jnR::O?^<4x<xnOr<OGoqa11{nxrSjn^j4q1:jOr<On<YG:OnjGr{O1o{4xRzjOx1R4<:G<R<1<x*qO<j<GOxj1xxqxoOGOco{Gx:14o<^4uz{Oxj:Go:<1qO{xnq:OO^^G4j{1n<{WO4^1tj1On::1O<^xqo1Oj4rGqw^14o1xja1<O{<G4:1Rj<rxqi<x4jRGj:r1:O<xG)ROjjx1q:<1G<^n^G4r1nn1r{qG^rR{1r{sr4VG{rx1:<oxqqIO1GnG::o1qjqr<j4xR4{<^:4o1<nxrfn:r{qnoOG%V^14<>4q1jjGr:jq<<4nRhjOrjjx<:G^R<jxxD{rn::^Oo^1x<qRogGORj4o4q1xj^rjf){{xj:Go:q1Oo<O4oRx{Jrqg:1qn<:xO)q1:4<qunRxj{r1qoo:njroO:^14<^{GocxOj<^4:11j<1jq4<O4jRGj:r1q<<xG2ROj{xGq:<1OORx{oxOqjoGO1qw^o4q1ooqGj&G{:x1:<oxG&<o{jnO::o1^<qq<4GxR<OG<:U11<nx{4j:xR:4o<^^g:jRrX:ooRGnNj{qn^::o^jOrjqG<::4R<jxxpqO<jGGR:{<4qqnoUGOGo{Gxrq1o<Gxs<xrxj:Go:oq;<{nn7:OnR^GD:{1no:xO/^OGjo<n::1O<^x4N1xnjr:{n^R4<1xj:rOO{<G4:11j:O{q3<O4jRxj:rRq<<1R^ROjjxGx4<1GoRx{SXrqjoGG:RR{<xx:vqOq4VG{:x1:<ox^nYO11jO::O#^<4n1&nO:j:G<x611OnxrGOO<^4G1:{Or<O{<24:1jjGr::1o:4xR^jOrRqG<141R<{^xpqx<jG^R:j1x<rxooGO55{Gxjq1O^GxG/1xxj:Oo:^G#<{{nPxOO4^Ggj{1n::xO^^OGjRGn:rGO<^14/R8njnG1o^14:1xj<rOq1<G^:RRj<r1ql<x4jR:j:r1qr<xG^ROjRxGqj<1G<Qx{5xxqjo^G:R1{<jx:RoO^)WG{jx1r^oxo=F1{jnO::OG^<D{1p{OxoOG^jC11:nxr^OOojr{1:jGr<O1<fGP1j1Gn4O1<:4xR<jOr{qGO:^^R<j1xVqx<jG:R:j1x{qxo^GORR{Gxjq1OO^^Yt{xxj:Ro:G1L<1jn{:OO4^G4:{1n<:xOV<qpj1<n:r^O<^j4(1O{orGOn^14o1xjVrO:j<{4:R4j<r{qD<14j4G{:r1qq<xG^ROj1xGq:n4G<R1{ixqqjoGG:41<Oxx:<oO^ _G1Tx1x<jj^5Sx{jnO::Oj^<Xx<onO:jOG^jQ11onxr<^r^j4G1:GHr<On<&4O<RjGr:O1<q4xR?jOxGGq<:41R<Rqxfqq<jG^R:{GqqqxoPGOGr{Gxrq1o:R{Aa{Oxj1<o:GR;<{x4^:Ooj^G!r{1n<:x:ko:Lj1Gn::1O<<o4w1O4RrGOx^14o1xj_rO:jn<4:R?j<rjqt<14j4G^xr1qO<xGGRO{:xG:xj{G<R{{/nqqjoGG:41<Oxx:^oOGRKG{Rx1:<n{^JSx{jn<::o1^<GxoGnOr#OG^ja11xnxrfjr^j4q1:nRr<Ox<a^Oo1jGr{O1<r4xRRjOnj1<<:G^R<jRxTqr<j<GOxj1xrqxooGORR{Gj:Ryo<GRL2{nxj:no:<1:4{xno:OO4^G4x{1{<xqOQ^nzj1qn:r<O<^xGq1OjWrGOj^14r1xjbn4Oj<q4:1Rj<rxqfOOGRRGj{r1qr<xGRRO1jxjq:o^G<RR{#xrqjqG^xR1{rxx:ooOGRiGR:4q:ooR^X_n{jnn::q1<1Kx1onOr4OG^rh1i<j<r=On^j4q1:j<r<Ox<o4OR)jGrjO1<r4xKGjrrjqq<:GnR<jxx}::ooGGR1j1n<qxo,GORj1Rx::4o<^aFM{:xjr<o{G1Y:{xj4:Ooj^GG:ROn<:1O_^x#j1rn::1qq^x4o1On1rGO:^1^<ojj}rnOj<q4:R^j<rx{^<OGGRGjrr1q<<x<KO:jjx:q:o<G< r{_jO11oGG1R1{xxx:^oO<jq<{:n<:<O8^sPr{j{GRxo1^xax1OnOroOGo::n1<jer;Oj^jG<1:{1r{Ox<O4ORGjGr{O1<<G<RDjnrjqq<:G<R<jxn:qOoGGGRrj1x<qxq}^xRj{:x::<o<^rVvROj4:Go1G1_x{xn^:Oqj^{g:1<n<riON^r8jfGx::1Ox^x4O1OjorG::<G4<RdjsrjOj<^4:v114rxqO<OGGRGj{r1q<o4G!Rnjjxqq:o<G<7j{oxO:GoG^oR1{<xxrGo:Gj&r{:n1:<ox^bcORenG:jo1^nSx1GnOrjO:^:4G1<jxr/Ox^j4GR4n1r<Ox<<4O1{jGr:nj<o4xRFjqrjqG<:41R<jxxJqOOGGGR:j1x<q{oQGORjGoP{RGooGx)d{Oxj:G^:r{<<{xn4:Ooj^Gox{1n::xOl^OO8<q^cmGO<^R4k1Onj{:{xrR:4<RjwrnOj<G4:<G^^1Gj^rj4{RGj:r1q<<xGl{OfnxGq{<1G<Rx^O4G1nj4rxR1{jxx:>oOx=q4<OG^R4njroq:{jnO::o1^<qq<4GxR<O^^:H11<nxrwOO^j4G1:j4r<Ox<6O:^^m<r:qo<<4xR2Gjb114noOO<qGSxCqn<jGGR:^44A{nn{rORj{qx:q1o<O{OR<G4nR<o:^4i<{xnhR<j4xrC:14n<:xOaq:qnoxn::RO<^x4>G:njroO:^14<^jGoRxOj<:4:11j<1G{RnG:yoq^xr1qo<xGiRO4^xGq1<1G<Rx4^4o1:j4rx^44Jxx:uoO^1xG{:x1:<O^^0mO{jnGrGo1^ofx1=nO:jOGo:Gr1<nnr2Oq^j4q1:{1rnOx<44O1{jGxjO1O<^<R,jqrjq^<:^GR<1xxOqO<{GGRrj1n;qxqS^^Rj{^x:qRo<^{!*ROjG:GorG15o{xj4:Oqj<qp:{Rn<:nOt^xIj1GjR:1O<^x4G1On1rGqxn{4<1njyxjOj<G4:>1jorxq4<O4{RG{or1q<OoG/R:jjxGq:<1G<4x1kxOq1oGGxR11^xxx5OqGjl<{:n&:<o{^l>OR4nG:no1^<!x1-nOxj{<^:441<n{rVqo^j^Goxn1rqOx<^4O34jGr:{4<<41RHjOrjqG<:^1OOjxx<qOo%GGWqj1j<1jokGxRj{Ox:r5o<Gx:j{Ox{:GojG1FO{xnORro{^G3:gnn<:nOF^OSj1O:n:1O<^x^{1On{rGO:x44<1jjNrOOj<G4:718<rnqG<O41RGjrr1:Oo4GWRxjjn:q:<1G<4x{RxO:EoGGjR11<xxrGOoGjAq{:n::<ox^NGO1nnG:{o1^rSx11nOr1qO^:4<1<j<rEOO^j^GR4n1rxOx<O4OR<jGr:OR<<G4R3jOrjqG<:41+:jxxOqO<1GGRxj1nO::oLG{Rj{{x:q1o<^jmr{On<:GoxG1t<{xn#rnoj^qe:1On<:jOcoO441Gn{:1Or^x4G1O{jm<O:<<4<1nj/xnOjOG:x11jnrxq4<OG1RGj:Gxq<<1GTR{jjx<q:O1<ORx{<xO:LoGG1R1{<{n:,oxGjbq{:x1:<oxo:>O{1nG::o1^oEx1<:r:jOG^:<r1<nnr(OOrR4G1xn1r<Ox<v4OBj4:rrq0<<4jRZjnrjrGo^41ROjxxGqOO8GG4:jRx<qjokG:Rj1Ox:r1oRGxDG{Ox1:GO<G1G<1Onv::oj^<w:R4n<xxO:^Oy11Gnx:1qo^xGGR:njroO:<:4<1xj.nOq{<G4n11jqrxq:<O^joGj:xGq<<nG&RrjjjGqR<1G:Rx{<xOq1oG<:4:{<x1:boxGjAr{:x1:xox^^hO{1nG:xo1<<yj1Un::jOO^:441<nx{1Oq^j4G1rn1r<Ox<Z4O1jjGr::<<<4xRdjOx^qG<:41ox^j5R1^r<qo<1j1x:qxoWGOOr^^4j1Oo<^ds#{Oxjjojqrxq^<j1^:Oo{^Gh:{1Rn:xO^^OVj1GRxR{{j^x4o1OnjrGxnx{:Yor^GrOO{<G4:114Orxq^<O4jRG4x1onO<nGtROjjxGq:<17<^r{_xqqjoGG:<_{<xR:uoOGjO:<<4{R^jj^ Ar{jnG::n4rrq11fnr:jOG^:qj<r^4r4OO^j4G1:n1r<Ox<24ORSjGr:O1:O:OOoGnrjqq<:41R<4&4G{qnr:qR:{^x<qxo>:rO:^^4o11o<GRJ#{Oxj{OjqqOoq^3n2:1oj^G%:oGG^R:{ox^O1<qGx:1O:^x4i1O4JRq12nG4<RljprOOj:x:qoxG:RR1G<q4jRGj:r1q<Gx:R^Ob:xGq:<1^Orx{LxOqjOoG:R1{<xxr4oOG{?G{:x1:<oxoV4R{jn^::oR^<4x1b{OrnOG^rE11onxxoOOoj4O1:nRr<On<7Gn1j1GxrO1<o4xR4jOx<qGO:GrR<jnxmqq<j^4R:11nxqxo4GOR{{Gx{q1q<^r8m{qxj:^o:<GT<{xjj:Ooj^G%x{1nO:xqGnoYj1^n:r4O<^x4fQOn{rGOr^14o1xj4rOOj<^4:REj<rxq&<O4j4Gjnr1qO<xGGRO{GxGr:OoG<Rj{/x:qjorG:R1{:xx:^oOGj+G{:x1x<jj^ckr{jno::O<^<GxoGnO:ROG^nF11:nxrVjr^j4O1:n1r<Ox<N^Oo1jGrjO1<:4xROjOnj1<<:GGR<j1x!:t<jGG:<j1xoqxo<GOR1{Gx1R4ooGxbgL^xj:^o:G1?<{1:^:Ooj^G^o{1no:xONrrCj1<n::1O<^x4g>O{1rGOx^14O1xjjrOq1j44:RGj<r{qM<O4j4G^xr1q:<xG<RO{rxGr:jkG<RR{ xqqjorG:41<Oxx:OoOG{PG{jx1rO{r^Zi{{jn<::o1^<GxoGnOr^OG^Rp1RonxxG1o^j4x1:jXr<Ox<P^ORojGxEO1<j4xRnjOrjqO<:GqR<jxxLqO<jGG44j1xjqxoGGOR1{Gnx:qo<^^!U1<xj:Go:<+4R{xnx:OqG^GX:{1n<rROb^{mj1jn:r?O<ox4:1Oj^rGOR^1Gx1xjgGGOj<O4:Roj<rjq_OO^1RGjjr1q:<x^GROjj{^q:oGG<RR{;xOqjoGo&R1{Oxx:)oOG{3G{j:4:<ox^#<4{jn^::o1rqkx1GnO:jOG^:51(<4_r4O:^j4<1:j1r<:x<14O11jGrxO1or4x4v{qrjq<<:GNR<{Rx&rOoxGGRxj1xOqxo:GO4j1{x::Jo<GjKH1oxjxGo1G1uO{xnG:OO4^G4xRnn<:{OE^:sj1Gn:x1O1^x4^1OnRrGq^^1^<<xjirxOj<^4:R:j<nxq^<OGDRGjjr1:x<x<y4^jjxOq:oGG<D^{6xOrooGGnR1{Oxx:GoO^jgO{:ni:<O1^ Vr{jnG{OoR^<Ax14nO:jOG^:Z11<nxryOx^j4G1:nRr<Ox<b4O1jjG{{x1<<G4R.jOrjjOnq:oon^OQo{x<RG^Rrj1x<qxomGORj^x1::ro<Gx,#{OmR:GorG1.<{xnD:Oqjx<Q:{Rn<:nOt^:bj%:<y:1Oo^x4:1On{rGOn^14:n{j?rOOj<x4:1Rj<xj4O<O4{RGjjr1q<<xGOOrj{x^q:oOG<Rn{_xOqjoORnR1{<xx::oOG{kG{j:4:<ox^.lR{jn^::qU{x>x14nO:{OG^:811<:jrFOq^j4<1:n1r<Ox:14q1jjGrrO1<<4xR4jOrjqG<:^<R<jxxVqOoGGGR:j11q1rnjroO1Mox::Go<GxW?<^S{ROj_G1#j{xnF:O{Tx4qOo^G41jjox:pj1qn::1O<:_:G<qGrRqO:<^4<1xj {r{nx1:qO?jorxqQ<O4jRGx:y{n<<xGoROjjxG{nnx:oOq<HxOq{oGG:R14Oxx:^oOGjXGGxRojOox^^&O{jnGROj^xnIn1MnO:jOG^:%11<nxrYOn^j4G1:G<&/{rxR::1jjrr:O1<<:#OG^oKrnxrnq<R<jnxUqO<jq<R:{4x<qxo+O:On<xx::4o<Gx_WGr44ROo:^Gu<{xnl{xj4xxqj{Rn<:xOd^OQj1Gr:j{O<^R4_1Onj{r{xx^qro:jBrqOj<G4:^oj<xFqi<O4j^x^q&x{:xRrGRO{4xGq:<1q:Or4:Rr{G:RG:R1{<njG8oOGjCG{nx1:<ox^)4:{jn^::o1^<Nx1i{Or^OG^r511onxr<OOoj4x1:nRr<On<uGn1j1Gr{O1<o4xR4jOn4qGO:4RR<jnx qq<jGnR:11nOqxo4GOR{{Gnnq1q<<oz7{qxj:^o:^{Q<Rxn4:Oo{^GFr{1jo:xOV^nUj1Gn:rmO<^j4&R:^nrGOr^14o1xjkrO:j<^4:1Rj<rnq#o^4jRG{^r1qO<xGSROjjxGr:O(G<Rj{6x:qjoqG:41{xxx:GoOG1QG1Ox1:<On^u)r{jnG::o1^<Gx^jnq:ROG^n311rnxn2qq^j4o1:j4r<q1<K4O11jGrjO1<<4xRMjOnj:o<:GGR<j1xvqn<j<GR{j1x:qxo<GOV<{Gx:rOo<GnU {xxj:<o:^<Yq{xn0:Oqo^Gmr{1no:xO<5r>j1Gn:xqO<^n4!1x:RrGO:^1<G1xj4rOOjxo4:RAj<rxq!<O4j4GR1r1qO<xGGRO{jxG:xoGG<R1{!xqqjoGG:41{xxx:<oO^KyG1Gx1x<Oq^Bzn{jn^::Oj^<4jRjnOrGOG^x)11<nxnLOq^j4:1:j<r<q4<?G:RRjGrRO1<O4xR}jOnjqn<:GoR<{4xS:G<jGGR1j1xjqxoPGORj{Gx:r+o<^4,b{:xj:<o:<_M{{xn::OOq^GP:{1jOr^O ^RVj1:n::1O<^x4G1OjGrGq4^14O1x1urnOj<:4:R<j<xJqYOO:1RGjRr1qo<xG:ROjjG1q:oGG<C4{Cx:qjqG<xR1{:xx:<oO<GZG{:{R:<o1^Wwn{jnG::o1ojVx1GnO:jOG^r711::{rzOO^j<11:nRr<Oxx^4O11jGr:O1<<4x4_4jr{q<<:GIR<j1xarOoGGGRxj1xOqxOoGO4j1Gx::=o<Gj6H1nxjxGo1G1hO{xnG:OOo^GG:1:n<:jOI^:KjRon:x1O{^x4G1On1rGqq^1GORxjprrOj<<4:11j<nx::<O4RRGjnr1:K<x<%oOjjxOq:<RG</G{!jO:GoGGjR1{:xx:OoO<j4{{:nG:<o1^u4:{jnGr4o1^qMx1GnO:1OG<:4G1<njr3qq^j4o1:n11GOn<84O1{jGr:O1<<4xRsjOrjqn<:41R<jxxOqO<jGG<j^{Bn14nj:nR{{Gx:q1o<GxF>4<1j:GOoG18<{xYoRrj4x<o4<jG<RR{<:x:ooG4{:1O:^x4k1Os4_P{{xn4<R4j6rOOjrO:qooGn#O{oxx4jR1j:r1q<rq:ROn^R_qnxj^r:O1^R4<x{oGG{R1{<xxjOj::{OR^{x1r<ox^)CO4{4<Rnj{xDqRo<4n{j{4xnqqo:G^RR{<^j4^1:n1r<j^oq4O1jjGn:n_<<4nR2jOrjqo<:^YeqjxxGqOosGGR:j1j<:1ouG:Rj{<x::4o<<x4j{Ox1:GoxG1Ux{xnO:xoj^^0:1on<:nOI^:Uj1O:n:1O<^x4q1On{rGOj444<1xjXxjOj<^4:11Gqrxq4<O4jRGj:r1r<njG!Rqjjx^q:oqG<Rx^^xOq1oGGrR1{<xxxXj:Gj}<{:nI:<O4^}GO<1nG:xo1^Omx1:nOxj{<^:421<njrbOR^j4G{qn1roOx<44O11jGn1xx<<4nRW{jrjq^<:G!R<j1q^qO<jGG>1j1xoqxom:rRj{^x:qRo<Gx_ZROr%:GorG1No{xn4:Ooj<j!:14n<:nOW^OAjIGnn:1Oq^x4^1Oj4rGO:oq4<1{jBrrOj<G4:11{1rxq4<O4RRGjrr1q<r:G4ROjjx^q:<1G<Rn{exOqjoGGnR1{<xx:kOGGj2G{:RnR^jRx^On41GqRj{Gx^q:44nOryOG^:f1GrG:}o{^^j4R1:n1r<nRn^qno1&neO{1nr:1<<^Rkj{qoG41R<jxjHn:<jG^R:j1x<q{oU^:4^{Gxxq1oOGxX/{Ojjr4o:^UC<{jn,:rojoG4q{1nO:xOG^O0{1Gn1roO<^n4u1{njr^O:<H4<11r^rOOj<G4R11jorxq<4r4jRGj:xqq<<nGNROrrxGqr<1GoRx{IxOqjGRG:RR{<xx:goOGj)GGOxR:<ox^4&O{jnG:ro1^<Xx1D{o:jOG^:P11RnxrKOOqR:4oOGjRrj{n<qRon^IMnOR<<4xRAjOrjqG:4o1R<{4x_qO<jq4O1^^4O1On4rRRj{rx:q1o<O{OR<<4x1qnnxG;o{xn,:Ooj^GX:{1R<:jOE^{-j1Gn:1cjox^q1<:GnCrO:<44<1xjU{q{hxO4:RRj<rxqg:R:ro^GRp^j:nj:4O<^R4G{rjl:rO:^^4Rqjo<G:R1{<RRjroqGjUG{:x1:<oxqr<O{jno::o1^<q:<oG{:{OG^:!11<nxr6r1Rj4GR:n1r<Ox:Gqq<RG{RR1yn^:Ro1Gx{R14n<:{OOR{xeqj<jGGR:444^1OnRr:GR{Gn_q1o<Gxo?<o4R1njjrqq^<:ngrGoj^G6:^44r1{{<rRqno%RnR{{lxr:G1Oj4rGO:^1O:oGGo-^{4<GGG11j<rxn<xR:Roo^qQj1GxR:^Oxj{xGq:<1G<Rx{kxOqjoGGRR1{<xx1Oj:rnORGxRojOon^LNO{jnG::o1G<<r1Wnj:jOG^:<R<q4{Ro{<nf4G1{n1r<Ox:O::<{GRR{O1<r4xRCjO{R14n<:{OOjnxLqO<jGGR:j1q<nro.GRRj{Gx:jOnr:nqG<xS11qnrxGC<1Gn):Oojqoqqo4G41R{<rROR1Gn1:1O<^xo:ooG:ROj{n)4<R^jhrOOj:n:OoGG{R{{4nx:nO<j:x^q<<xG7<n4BKn1o:7xORx{UxOqjnoG:h6{<xx:ZoOGj4G<Gx1:Oox^qzO{{nG::r-^<Lj1vnq:jOG^:W11{nxr^OO^j4G1:n1n<O{<!4r1jjor::O<<^xR<jOrRqG<n4144jxj;:G<jGoR:{4x<rqov<O44{Gxnq1oqGx/q{Ojjrqo:^4l<{{n+x<ojoGqx{1nq:xO^^O+R1Gjx^<O<^142C)njrGO:^1qG1njorOOj<G4x11jx<Rq,<q4j54j:rRq<<nG;RxrRxGq:<1^^Rx{4xO:SGoG:R1{<nj:NoqGj4<q1x1:xox<<fO{jnG:14^^<4-1wjr:jO^^:kR1<n1O^OO^j4GRnn1roOxoGnj1jj:r::<<<4xRz{O-OqG<{41R{jxxOqOoGroRrjRx<rroCGqRj{Gx::GGqGx5?{Ojn:GorG14Oorn;:jojo4z:{1n<xxG4^O4G1Gn1:1q;^xGGR:njrrO:o<4<1xj(x:::<GG%11{4rxq*<OG1ZOj:xqq<o1GiROjjn<:4<1G1Rx{oxOqjoGG:4^{<n6:=O*GjK<{:n<r^ox^OSO%GnG:ro1^oTx1<:r:jOG^:^<1<nnr7q:nn4G11n1n^Ox<64Okjnqr:q<<<GER={Grj:<O441Rnjxn<qO<jGGFx{:x<:Go3GnRj{Gx:rIOqGxXr{Ojb:Go:G14O1nnbrYoj^q+:{1n<:xO4^O4G1GjG:1OO^xGso2njrqO:<14<RJjwrOx{<G4x11jrrxq4<O4jRxj:x#q<<nGZROjjxGr)<1GqRx{*xOqjoG<:4o{<x{:&orGj4x{:j1:nox^^.O{RnGxoo1o<4:1gnr:jOo^:Gn1<{xxoOO^R4G1nn1rnOxO!::1jjor:q4<<^:Rl1O%1qG<n41Rqjxx^qOo1j:R:{Gx<rOo;GORj1<<1q1orGx4x{Oxj:Go::jeo1Mnu:Ooj^^V:1<Gq:nO4^Oo41Gnr:1O<^x4<nrnjrGO::^4<1njwrOjR<G4R11jOrxqB<O^jqGj:xoq<o4GtgVjjjGqj<1GnRx{qxOrooG<:kj{<n4:lo{Gjux{:x1r:ox^:>O{RnG::o1o<4:1)n1:jOx^:Gc1<{xrROO<<4GRYn1xnOxoGGn1jjnr:q{<<4xRW1OY1qGo441R{jxnoqOo1nGR:{:x<:oo=GORj1<jGq1oRGx-n{Oxj:GOx<:5<1Onzr4oj^G&:{1j^:xOr^O4:1Gn::1O<<{4S1{njrGO:<,4<R.j4rOq^<GOn11jorxq4<OGHjoj:r1q<r{GsRqjjxG{n<1GnRx{GxOqjoG<:q1{<n4:eo{Gj;j{:j1xBox^qXO1^nGx4o1o<G<1%n{:jOr^:4O1<nxxrOO<<4G1nn1r<OxO6411jjxr:qO<<GjRv1OxGqGo#41Rjjxn4qOo1^:R:{qx<:rolGORjRGx<q1o{GxNr{Oj4:GOx^oc<1<n8::oj^Gy:R+jq:xOn^O-11Gn::1qO<14*RGnjr<O:^14<1xj4rOqo<GG<11j<rxq_oj4jRrj:r1q<<jGU*O^OxGq1<1^GRx{qxOqjnqG:5Y{<nL:)oqGjs::{x1:oox::vO{{nG:ro1^:{{1}nO:jnx^:>R1<n1O^OO^j4Goqn1roOx</qr1jj<r:qG<<4xR#1OF1qG<x41ROjxx4qO<j:oR:{4x<qxoMGORj{Grjq1oOGxuG{OxR:Go11^t<{jn=1roj^^t:{Rn<:1^^^OBj1G4n:1Oo^x4H<rnjr<O:<G4<1xjFnO{1<G4x11jOrxq4<O4jooj:x4q<<xGQROjjxG{O<RG:Rx{-xOqjoGG:xO{<xj:IorGjWO{:x11qox^GhO1MnG::o1o<qj1wn::jO<^:+R1<nxR^OO^R4G1:n1r<Ox<?dx1jj<r:qY<<4{R*jORRqG<n41Rrjxx-qOOjr<R:{4x<q{oL<4RjRGjxq1oqGx5^{OnP:Go1^o)o{RnA:Ooj^^t:{Rn<:xqo^Omj1Gn::1O<^x4sqGnjroO:<^4<1jj_xO{O<G4x11jnrxq^<OGtjoj:r1q<jnGHRqjjxG{n<1GORx{<xOqjoG<:q0{<xj:Co:Gj;^{:x11qox^^iO{jnG::o1^<R11,n::jO<^:441<jsZ^Oq^14GOrn1roOx<p4ORvror:O1<<rnRyjqrjqGxn41ROjxx<qO<jGG4:<6x<qjo2G:Rj{^x:q1nqGxD^{Oxj:Go:G13<j1nf::oj^<e:14n<xx{G^Oi11Gnx:1On^x^Si:njr<O:<C4<R{jbrOxx<G4x11jOrxq4<O4jooj:x2q<<1GBROjjjG1x<1GORx{GxOq{oGG:O4{<x{:loOGjwG{:x1q:ox^GCO{1nG:no1O<<r10n::jOr^:4<1<nx{1Oq^j4G1rn1r<Ox<G4q1jjGr:q<<<4xRKjqrjqG<:41R<jxn<nO<jGoR:j1x<j{norxRj{^x:q1o<q4Ju{nxj:Go:q4q^<O4RR:oj^^d:{1n<jjOK^x?j1Gn:>Gj{r{qnR<njrGO:^1qq1xjWrOOj<G4:111<njqS<O4jRGj:x_q<ojrRROj1xGq1<1G<Rx{>qqqjo<G:RR{<xj:/qOo{T^{xx1:Oox^4CORj<r::Og^<Hj1_nq:jOGrnT11qnxr2OO^j4G}:^/r<O{<v4r1jjOr::1nO4xR^jOrRqG<n41R<G{x2qx<jGGR:j1x<rxjGGOpM{Gxjq1o:GxGN<:xj:Oo:^GI<{Rni:Oj4^G :{1n::xO4^O,j^%nr:1O<^n461OnjrGO:^14<1xj^rOOj<G4:Rxj<rxqzrn:joOGr4G{rrG:ooR^^sx1j<1G{Rx{8xOnRn1:rq4<qR:14j^r4CG{{x1:<oxqOq:^{4R1{Oo^<ix1-{OR1OG^rJ11<nxrGOOOGrx1:nRr<qd<X4q1jjor:qG4q4xRXjOxGqG<r41R<G{xBqq<jGGR:j1x<rxqGGOR{{Gxrq1ooGxQg4<xj:^o:^&!<{nn :Oxx^^w:{1no:xOU^O,{1Gn::1O<<x4%1OnjrGO{^14<1x4o{x{oxR<x1Rj<rxq8<O4jRG1jo1qo<xG?ROjjxGR:r<O<Rn{lxOqjoGG:R1j<1r:ioRGjKG{:Ro1rj1q:On<o4rR;{G^<4G1FnO:jn<xq:G<oG1Rr{oxx4G11n1r<Ox:::oo:GOR{1)<<4{RfjOrj1!x{roRojxxWqO<jGGR:j1x<qxoqGORj{GRj1{nnr4Oj^n4X:GojG1.<{x_^1R{OrqI:1:n<:xOtqrO{oHG11R{q:{qrOAG4rGO{^14<1xmO=:j{xRq{1Rj<rxq*<O4jRGj:{1qo<xG?ROjjxGq:G1O^Rx{rxOqjoGq4Oj^:4^1^nqxfq4<xRi:<ox^VZOrqnG:ro1^<>x1}nOrjqn^:.R1<j<rIOO^j4G1jn1roOx<44O1jjGr:q7<<4jRKjOrjqG<:^1 qjxxGqO<1GG oj1nO:Oo;GrRj14x:q1o<GxSx{On8:Go:G1#o{xjGtooj^qp:{Rn<:xOaoOrM1Gn{:1Or^x4:1Oj1x2O:<<4<11j*rOOjo<GR11jnrxq1<O4jRG{xx:q<oGGkRRjjxGq:<1GnRx{rxOqjoGG:R1R<jG:5oRGjTn{:n^:<ox<rQO1onGrGo1^<ax1ARr:jOq^:Y11<njrLqOoq4G1jn1rROx<o4O1j{^r:OR<<41R7jqrjqGo441Rojxx4qO<jGGR:{qx<qjoeGORj{Gx:r1OrGx-G{Ox1:GOoG1G<1<nb::oj^<U:1on<xxO{^O211Gnx:1q<^xGG:jnjroO:<{4<1xjKrOjx<^4j11j<rxq4<OGGOojrr1q<O:G*RqjjxGq:oGRqRx{3xOrxoGGrR11OoV:-onGj%o{:x1:<OB1o*O14nGxqo1^oXx14nOr.^o^:*11<{rr*Oq^jG<:1n1rrOx<r4O1jjGx:{:<<41R5jjrjqq<:41<1jnx4qOoXGGRrj1x<:UoiGqRj{^x:q1o<GxJx{Ox1:GoxG1p<{x{MrOoj^<m:1,n<rqOZ<:4j1Gnn:1q^^x4i1OnjrjO:<G4<1xjHrqOjo<4{11jrrxq4<O4jRG1:GGq<<RGARnjjxxq:Oc^4Rx{OxO:3oGG:R11OnR:Fo{GjY<{:x1:<Oj^4-O1<nGr4o1^<ex1AnR:jOn^:4e1<nxr6:O<:4GR4n1r{Ox<o4O1j{:r:qq<<G<RQjOrjqG:n41RrjxxhqO<1GGu:^:x<q1oC^4Rj{qx:q1x1Gn(4{Onh:GorG1l<1rnc:qoj^^E:{1n<:xqG^OP11Gnn:1O<^x^LRRnjr<O:<W4<RqjFx:OR<G4n11{^rxq/<O4j3}j:xGq<<xGDRqjjn<r4<1GrRx{4xOqjoG<::G{<xR:NonGjCx{:j7::ox^O6O1onG::o1<O}11_n{:jOn^:P11<jjxnOO<<4GR4n1r<Ox<5^41jjnr:q4<<4xRH1On4qGo441R{jxxoqO<j^<R:{qx<:<o!GORj{G1nq1orGxwT{Ox1:GO:r:!<{1n)rGoj^qd:{14r:xO4^O4+1Gnr:1O<::441Onjr^O:^14<1nj;rOOj<GO^11j<rxqhoG4jRGj:R4{rx{r<oR^n4hnnn{r2Or<GxO:<oGG:R1G:-RR:jxqROnoG4^:<Ob^IuO{jRoRqjxx^qj4^nq:jOG^:X11<nx{<xO^j4q1:n1r<n1x:qnorGqr:qG<<4xRl4x4o1Gx{G4RojnxNqO<jGGR:j1{:nxo5G1Rj{Gx:j1j^r{Or<x4oR4jOG1G1{xnp:Oj<xOqj<111nr:Rx{:^or1O%h{^rjqjoo^<jKjnx{:44rG4Jr{Rxq:j4{a^T^{<:^o^GxRx{oxrqxo<GrRR{qq:oqG<Rx{,1R1xnOr4O4^o411Rj:Gj5{{:x1:<x1roq1o0PrRxnRx<qx<o4x:{OG^:L11<nxrV:GRj4^1:n1r<Ox<A4O1j:Gr:q4<<4xRdPqw*{O<:G:R<jxxVj^nnrqOn^^RC{Rn4rjO4{Gxjq1o<Gx<1^q4r1qorG1k<{xnC:O{j:o<:{1n::xOD^Oo:<nGnFGO<<x4/1Onj{<jrx4qRo4^G-o14nNqj^4^^zO{Rn:<RRGj1r1q<<xO^O:^4u^1jn^GoRx{}xOqjoGG:R1{<xn:ToOGjNG{:x1:<rx^2Yx{jnG::x^xGqR<{nOr=OG^:+1GOG^R1jx^j4r1:n1r<{KnG:oor4<{RnD<o4xR}jOrjqG<:o1^<jxx<qO<jGGo1^xYo14oWG:Rj{Gx:{^r{Gnz_{Oxj:Go:G14:4xn,r!oj^G_:GqGGRx{oxx<1<q4R1R{G^n4v1OnjrGO:^1^:Gxj4rOOj<G4:11j<1d^8<OGORGj:r1n{nq:4o{^411{rn :rOO{6x{qjoGG:<4<^4:11nn:RqO{rx1:<ox^?JO{j1:j:oR^<3x1(nO:j<Gr:j11<n1rHOO^jOoo4^:RrOx<:4O1jjG{njRnp:OoGGqRR{{<:G:R<jxxVj^nnrqOn^^1r1:j<:nO1{^x:q1o<Gx_V{O:jj4o:^<A<{xnw1&xoxtOj<^Gj:nOD^O&j1Gn::1r1qx4P1nnjrGO::<:k<nGq!rO{<G4:11j<rxqLq<ojRGj:r1q<<xG,RrjjxGq:x4:rO1{KxjqjoGG:<1^o4j1oj<x kG{1x1:<oxq:qo<:4O1{{g^<}R1#nO:jxnxoOR<n4Rr4OO^j4G1:n1r<oxqR4OROjGr:O1rq:rOo^:RR{qrnqROG^{xAq{<jGGR:^G(r17n4rnO:<Ox::<o<GxJEGx4n1rnRrxOr{xn1:Ooj^Goj<^GjR1n:qqq:<n4RRj{4rRq1oxnjrOO:^14<^hGRi<1=<G4R11j<rxnRnj:4O<^<RR1{<xGoROjjxGn1jN:oOq^oxO:OoGG:R1<:4r1qn{r:Oq^r4uR;nR^Z4a{jnG::nGrr:Go<RrRnj1xq:D4qnxr^OO^j4GoOG^=nOx<o4O1jjG{n{{n_:rOGjqrjqG<:41R<jxjjnO<jG{R:j1x<nnn1:rO<<44xj1j^r^O1<xx{:Go:G1g<{xn)nRrj^Gaj{1n<:xxjrnqGoOn:x<O<^x4KG:4{Ro{^xo:Oor^oD<{QrO:x<R^G.{1hxq:1oq^Oe41{<xGrROjjxGjjn^rjO14^4o1:j4rxR1{nxx:JoO:GOq^nGGR^jjOGDO14nG::o1:r<1<rG^n1OG^j211<nx1oxxxoqR1:j^r<Ox<HOG<{G<R{{x<<41R!jOrjn:n<qRonjxx<qO<jGG<j^^4j11ozGRRj{Gx:{GnrxGq<GG&{1<n{rxnj{nn#:Ooj:qZr1^n<:xOD^n=jRG{o:1Or^xG41On{rGr:oX4<1RjerjOjon4:R1{:rxqo<O^oRGjxr1r<opG_Rjjjxoq:OxG<As{xxO:GoG^*R1{oxx:XoO^L{o{:x1:<OG^ATq{jnOono1^<>x1rnO:{OG^:o<1ojerVOq^j4G1:j1R1Ox<o4O^ojGr1O1o<G:R?jnrjrr<:GGR<jxnmqOoGGGR:j1x<qxq.<^Rj{:x::<o<<qmvROjr:Go1G1kx{xjo:OO1<x_:1on<j<O=^OWj1GnR:1Oj^x4-1OnRrGq:<r4<RGjVxqOj<^4:11y^rnqr<O4jRGj:r1r<O^GaRRjjxnq:OnG<4x1>xO:ooG^4R14Gxxx=OnGjpn{:nq:<Or^NBO14nGrGo1^o x1 nOxjOq^:4:1<j<rkOn^j^GRqn1r1Ox<x4O1{jGxxG4<<GoRejrrjqG<:^1CTjxxnqOoqGG4Gj1nOr4o}^GRj{xx:q1o<^jd<{Onr:GOLG1a<{xjGrnoj<_K:1On<:xO8^OC{1Gj^:1qG^x4*1Onjx^O:<q4<1xj-r:OjoG<{11jjrx:<<OGoRG{xxjq<o^G0^jjjxGq:O1^ORx{rxO:ooGOoR11Onx:>O=Gj^o{:x1:<Oj^:HO1qnGrRo1^<dxRGjq:jO1^:G<1<nxrbq:oO4GRon1xROx< 4O1jq%r:qq<<GqR_j:rj:Goo41RjjxjOqOooGGR:{nx<:^oaGORj{Gx:r1orGxlr{Ono:GqoG1G<1RnU:Roj^n :R^n<rjqG^O4O1GRG:1O<^x4.R:njr{O:^R4<11j&jOxn<GG^11{orxx4<O4j^4jrxxq<<xGzROjjjG:x<1^}Rx{jxOrroG<:4O{<nO:+OGGj<.{:j1:jox^jtO1:nGrqo1^<4<1Yj^:jO^^:Z11<{xrrOO<r4GRon1rrOxO_4x1jjRr:qn<<4nRL{:<RqGoO41RqjxxUqOOjG<R:{jx<::o6<MRj1<nOq1O^GxGH{Oxj:GOx<<t<1xn*xOoj^G&:R0jn:xq4^OGj1Gn::1O<<q4gR<njx^O:^14<1xjnrOq:<G4:11jOrx:Eqn4jR{j:nGq<oOG#}:1:xG:<<1OxRx{cxOrjOqG:yx{<nO:Wr^Gj4<R<x1r4ox<OZO{jnGrxOx^<4:1 1r:jOG^:GTRrnxrROOoG4G1:n1xOq^<WGO1jRor:O1<<4x{xjOx:qGo:41ROjxnv:r<jG{R:{qx<:Ooh^:Y1{Gn<q1rxGxsH{OjjrOo:^xK<1OnWj^oj<<4O{1j4:xr^^OZj1Gjxx<O<<:4cR<njrGO:oM4r1xjRrOrR<G4:11{O<+qToO4jQkj:r1q<<xj1RO{:xG::<1GORx1vnGqjo{G:G<{<nO:8oO<rlG1<x1:<ox^CTORjjG::Ox^<4O1C{^:j:G<r)1RLnxrjOOo44GRx{^r<qq<pO41jjGr:O1o^4xR1jOrjqGoG41G<lrxD:<<j^^R:4Ox<xxq3GO-x{G1nq1:qGx4G1Oxjr4o:q< <{xn!xOq<^G4q{1j^:xr{^O411Rn:r1O<ov4z1Onjx<:^^1Go1x{1rOOj<GGxRqj<xjqtOR4jRGj:n0rk<x^^RO{rxGq:<1G<1<{bnoqjOoG:f0{<nxrroO^x%G14x1r^ox<G4{{jj4::x<^<ux12{Ox<OG<q_1R^nxj{OO<14:1:j1r<r{<d4O1j{<noO1oo4x4ojOrjqGox^nR<{jxU:j<jGGR:1a<xqxO^GO^n{Gx:q1o<qoP41oxjroo:^ J<1xnR:OOx^GG1{1j^:xqG<jNjR4n:xOO<^x4;6On{rGqq^1G^1xR:rO:j<j4:R{j<xrqpqx4j,G1^r1:G<xo:RO{nxG::o^G<F:{%RFqjo^G:R1^qxx:RoOG{)G{:x1x<nj^54o{jj4::O^^<Gx1onOrnOG<qg1G:nxx_q{^jGK1:Rxr<qr<C<OR{jGxOO1<O4xGRjOjjqO<:GjR<{OxEq{<j^<_{j1n^qxO:GORj{Gj:rro<^r;m1oxjnro:<1qO{xnR:OOn^G<x{1j<R<OZ<<Ej4rn:r{O<^xrj1Oj:rGqO^14O1xjuxRO{<R4:11j<rxq=OO^qRG{or1:4<x^{RO1jx:q:onG<8q{7nnqjO<GnR11GxxnxoOGjTG{:jx:<Or^PWO{jn::::1<j#x1RnOr{OGo4F1ROjor5qO^joq1:n1r<:xnG4ORjjGx:O1:44x-GOjrj:^<:o4R<jxxM::xOGGDxj1nxqxoLGORj{xx::1o<^ji0{:xjrGoxG14^{xRN:OOj^Gu:1Gn<rxOb^ODj1Gn:x1qx^xGk1OjjrG:o^1^<RGjCxOOjoG4:Gjj<nx:r<OGjRG{:r1:^<xGJkxj{n^q:<RG<Rx{+jOr<oG^rR11oxx:ooO<j45{:nR:<On^Xmq{jj<rqo1<Oax1^nO:jOGo:Go1<jjrWq:^jGj1:{Ix4Oxo^4OR<jGr:O1oO^oR>{xrjqx<:41R<{jxoqqO4GG-Fj1x<qxob<^Rj1<x:r^o<Gx=*{OnG:GO:G1;<{xnG:OOj<o!:1{n<r1OU<OyjR<j::1q<^xoO1OnjrG::<{4<Rxj_xOOjqR4:0&{urx:4<O<RRGj:r1r<njGJt:jjxoq::rG<G2G<xO:1oGn1R1{oxx:qoO^U{o{:x1:<RW^u(q{jnOono1^<0xqrnO:{OG<xn<1<jjr3:q^j4G1:j<<rOxoG4O:OjGrrO1<o4xR<rrrjqG<:n:R<jnxl::RGGGKxj1nGqxozGO_1q:x:r4o<<zm={Oxjr<q3G14:{xjq:Ooj^GA:1on<rxOy<xDj1<n:r1O1^x4R1OjorGq:^1GOR4j.xOOj::4:11j<nxqj<OGjRG{:r1n4<x^G4)jjn^q:O<G<Rx{2n::toG^xR11Oxx:coO^11^{:j4:<qw^MWO{jj<xoo1<:*xTnnO:jOG^:Gb1<jxrXqx^j4<1:j1xxOx<R4O4GjGx:O1q<4{R?{orjrj<:^oR<jxxrqOojGGR:j1x<qxq54rRj1Gx::1o<<qk#ROj4:GO:G14<{xjo:OO1<jZ:1Rn<{oO#^O}j1Gj^:1qO^x4g1Oj<rGr:o44<RjjVxqOj:x4:11{{rx:^<O4jRGj:r1r<o:G#)rjjnoq:OnG<4x{<xO:RoG^nR14GxxxvOrGj4o{:j4:<Or^=JO1<nGrjo1^o2x1VnOxjOo^:GG1<j1rbOn^j^G1nn1x:Oxo<4O1{jGxxqq<<GRRZjrrjqG<:^1RnjxnoqOO4GG4Gj1nOGwog^jRjRRx:q1o<^j_l{Oj^:G:oG1k<{xjG:Roj<xM:wnn<:xO-^OG<1Gj{:1qj^x4e1OnjxqO:o44<1xjar:OjoGGR11{Orx:<<OGRRG{xxqq<o{GY^jjjxGq:O1GqRx1^xO:RoGOoR11Onj:4OxGj4:{:x1:<Oj<4WOR4nGnno1^<exRGjO:jq:^:G<1<nxrSq:<x4GRRn1jqOx<=4O1jj1r::4<<^4R-j:rj:Gon41DOjxxrqOoRGG(x1rx<:{owOjRj{Gx:r1jUGx4^{OnR:GroG14ORGnkrxojOoe:{1n<rjqO^OG41GjO:1O<^xGGM*njx:O:q44<1xj}x:q4<GGR11{Grxq2<O4jR:j:n4q<O4G R:jjnGq1<1^ORxROxO:RoG^xx:{<n{:VO1GjsG{:j1::ox<^/O1RnGj8o1o<4<15jr:jqo^:<G1<jxrqOO<14GG3n1xqOxqdG41j{<r:n:<<<:RcjOx1qGon41RojxxwqOOjGOR:14x<:{o%GnRjRGn:q1OqGx4^{ORK:GO:^^)<1jnKjGoj<o/:!1j::xqG^O&11GRq:1qOnr4ARrnj{rO:^14</xj4rqqR<GGn11g4rx:G<x4j/Oj:n<q<<xGhL:1oxG:{<1<GRx{;xOqjO1G:44{<nR:,oOGjlGR<x1r<ox^F}O{jnG::Oj^<4r1QnO:jO^^:G O^nxxJOO:^4G1:n1n<On<4GO1j{Gr:xn<<Gj,ojOx{qGo141R<jxnGqx<j^<R:1jx<qxoaGOpj{Gn:q1OOGxMY{Oxj:xo:^nS<{xnz:Ooj^G44{1nR:xOk^OQ{1Gjxm{O<<O4=G{njrGO:o14o1njjrOq:<Goo11{Oxqqfo^4j?:j:r1q<ojGjRO{xxGrO<1G<Rx{8nrqjo1G:5j{<xx:;oO^rDG14x1:<ox^CIO{jno::OO^<zx1wnq:jq<nq811{nx{qOO^j4GV:^rr<q^<l4R1jRRr::+oy4xRxjOnGqG<:41aOj{x=:4<j<-R:j1x<qxooGOPo{Gn^q1o<Gxe-1Gxj::o:G1c<{jnDrOqr^G/{{111:xOO^OkjxRn:r<O<^x4X1OnjrGjO^R4n1xj/rOOj<G41RojoxGqb<q4jR^j:xGq<<x:<ROjjxGqR<1G<Rx{yIxqjoGG:m^{<xx:WoO<4_G{:x1:Oox^,;O{jjq::o1^<%{1-nO:jO:^R}R1{nxroOO^{4G1jn1r<j1<h4O1jjrr:O1<<4xo<jOrjqG<{41R<jxx;:n<jGGR:{Gx<qxofGO44{Gx:q1oOGx}V{OnG:ror^:T<{xn-:qoj^OX:{14::xO;^O441Gn::1O<<R4.1OnjrqO:^14<1xG<rOOj<G4R11j<rxqsxx4jRGj:xqq<<xGdIO^OxGq{<1o^Rx{xxOrjj<G:c:{<x{:*r4GjG:Ogx1:1ox^R,q{{nG:Ro1^:{{1#nO:jq4^ruR1<jsrqOq<O4G1xn1roOx<O4O1j{qr:O1<<G(RcjOrjqGxj41R<jxxoqO<jGGR:1^x<qxo%G{Rj{Gx:q1OrGxsz{Oxj:Go:G1=<1Rn_:Ooj^^B:{1n<:xj<^O&j1Gnn:1O<^xGgo%njrqO:q<4<R<jbrOjR<GGG11jjrxqT<O^jO<j:x:q<o<G>CrjjxG{n<1GRRx{:xOqjoG<:qK{<no:_O4Gj4o{:x1Grox^n,O1qnG::o1o<O:1Bj4:jO{^:<41<nxGjOO<O4GR^n1rrOxOtGr1jjjr:q^<<o<R#jOnSqGo^41RjjxxCqOOjG:R:{rx<:oo_O6RjRGnoq1oRGx-n{O{{:Gq:<4 <1on5r4oj<oL:11jO:xOx^O^j1Gj^:1:<<:4AR0njrqO:q:4<5xjrrOqO<GGG111^rxrZ<n4jRjj:x:q<O{GSRj{^x^:<<1GxRx{4xO:8oGG:OG{<xx:*ojGjpG{:x11:ox^,DO14nG::o1^<4R1(nO:jO:^:M11<nxR<OO^j4GRpn1r<Ox<)qn1jjjr:qx<<4nR?jORRqGoG41RqjxxuqOOjr<R:{:x<:<o#<oRjRGjxq1o1Gx=x{OjR:Go1^oHo1OnN:xoj^^m:14n<:xj<^OQj1Gn{:1O<^x4 <xnjrGO:<44<1xjgrO:4<G4:11jxrxq2<O4joqj:x:q<oOGbRqjjjG1x<1G1Rx{^xOnqoG<1oG{<n<:k:qG{B^{:no:<o1#^kO{jnGnroR^oYx1<:r:jOG^:j41onnr=OOrR4GRGn1r<Ox<B4Ouj^<r:q:<<G<Rp1^rjrG<{41R1jxxxqOO4GGgx1rx<:oo?O!Rj{Gx:q1O<Gx=j{Oxj:Go{G1^<1jn)rGoj<^!:1rn<rjqn^O4r1GR{:1O<^x^zRGnjrRO:<n4<Gqj*x:::<GGO11Rqrxqm<OG1<jj:x{q<O_GTROjjxGqj<1^4Rx{RxOq1oG^:_q{<nO:!rOGj#R{:x1roox^{NO{jnG::o1o<4q1yj^:jOR^:Gn1<{xxxOO<r4GRon1{GOxO3Gj1jjRr:qn<<GrRYjOnvq^oO41RojxxtqOOjGnR:{jx<::okGnRjRGn^q1OGGx01{Ox{:GOx<&A<1rnk:roj^G_:R1no:xOR^O4n1G{G:1qO<^4lROnjrxO:^14<RjjOrOq{<GGd11j<rx:G<n4{!<j:xOq<<xGtRO{GxG:q<1^ORx{,xOqjO4G:2n{<xx:3o:Gj4G14x1rCox<<PO1rnGrxOx^<4q1ERj:jOG^:G1Rqnxr{OO<r4GGon1xOO{<iG<1jRor:O1<<GjG<jqxnqGoO41R<jxnGqx<j^GR:1<x<qxo ^:R{{Gnrq1OnGxM>{Oxjr4o:^n5<1nnP::oj<GAj{1jQ:xOr^O4r1GjxxqO<<q4DGjnjrGO:o14o1xj{rOqr<Goo11{OqGqXo<4jI:j:r1q<oj^xRO{nxGqj<1G<Rx1GxrqjOGG:4<{<xx:+O:^OkG1rx1xRox^7EO{jn:::On^<4n1Qn::jqG<jz1R2nxnOOO<r4G1:jGr<qq<,4O1jjGr::1^q4xR{jOxrqGOo414<jRxh:^<jGRR:1^x<:jo4GO>x{Gjxq1o<GxyZ1Oxjr4o:G1,<{RnHnOqO^G4q{1jo:xrr^O5j1qn:r1O<^x4y1OnjnG:g^1G<1x{*rO:r<G^:RGj<xxqWoO4j^Nj:n1:j<x^wRO{jxG:q<1G<Rj{Tnqqjo^G:R1{<jxrxoO^{dG1rx1:roxo,3{{jj^::OR^<!n1Ej:rOOG<x811qnxr?OOojGx1:{Wr<qj<W^21j{<^1O1oq4x^4jOrjqGox41R<{1xSnq<jGGR:1QxjqxOoGO^{{Gx:q1o<^4Y61:xjrqo:G1B<{xn::OOj^GM:{1nO:xqF<M0jR4n:xGO<<x4BR:jGrGq:^1ox1xjgrO:jor4:R1j<xxqI:^4j3<{xrR:o<x^OROjjxG:xOoG<bj{?n{qjoGG:4Q14xxr^oO<G G{:x1rOOn^c4x{jjr::o1^<vxRrnOrjOG<jP11Onxxiq4^jG41:jqr<qx<>G:RrjGx:O1:x4xRbjOnj{1<:G1R<{xxzn^<j^<Rxj1noqxOOGORj{Gnx:xo<^j>wRxxj:Go:<QCR{xj^:OqG^G*:{1jO:RO><xhj)On::1O<^x4O1OjjrGqj^14O1x{JxoOjo44:4<j<xxqeqOonRG{qr1xO<xGxRO{1G4q:o1G<<4{3xOqjqGGrRR1<xxrDoOOr8G1xjn:<On^;4j{jnG::qI<4HxRGnOxxOG^:c11<jGrMqO^jG<1:n1r<Oxo:4ORrjGr:O1<<4xRN{rrjq1<:41R<jnxE::jnGGpoj11nqxo&GO4j14xr:no<^q>V4^xjr<O4G14G{xjO:Ooj^G4x1Rn<rrO0o<3j1Gn::1OR^x4{1OjnrGO:^14<8GjQx5Oj<G4:R}j<rx{^<OGqRGj1r1q<<x<)O:jjx{q:orG<GO{CjO11oG^<R1{rxxjroO<jq<{:nn:<o{^3^n{j{:{jo1<4exqOnq:{OG^Re11::{rFOO^jx:1rnRr<OxGG4ORrjGr:O1<<4xRzr^rjqR<:4RR<jxx}qOR<GG/^j1n7qxo{GO4j<<x::ro<GRYW4.xjxGjxG1}R{xnn:O:{^G4::Rn<r<OcOOuj1{n:x1qr^x4n1Oj4rGxG^1^<s4j0x4Oj<{4:4Rj<nxqo<OGqRG{^r1qR<x<_/Rjjx{q:orG<GG{ujO:noG^^R1{Rxxx^oO^GIr{rnn:<o{^g.q{jn^::o1r:tx1ynOrGOG^:i11<:Or_q4^j4R1:nRr<:x<G4ORqjGr{O1q14x4Cjxrjq{<:GrR<Rnx_rOooGG)^j1xRqxonGO4j1xx::ro<^o)&1OxjxGoxG1ZR{xnn:OqR^Gd11onorqOm^{Hj1^n::RO<^xq<1OnjrGO1^14<1xj,RnOj<{4:Rnj<rnq_OO^1RG{^r1qr<xoORO1j4<q:onG<R{{}{nqjq:qjR114xx^koqG{EG{Rx1::G{^*AO{jOG:roR^<,xjGnOrrOG^:%11<nxr)^^^j4R1:nRr<Ox<24OnrjGxOO1<o4xRzjOrj{q<:GrR<{:x)qq<j<G4xj1x1qxooGOGn{Gj:R?o<^O8K{nxjrno:G1Or{xnx:OO:^Ghr{1n<ojO!^nbj1<n::1O<^xo11qnjrGOr^14<1xjor1Oj<G4:Q:j<rxq8<OGGRGj:r1njnr:jox^44<qr<1G<Rx{ xOqjrqO:R1{:xx:,oOqROnoG4^:<O4^QSO{jg:1{j4x:qroG1::jOq^:.11<gOR4j:x4q11:jrr<Ox<Zo{o4^O1j{^nj:1<^GR4O{q<r41R<jxxAqO<j<1^:j1x:qxocGOoZ^qG.RGo<GRZc{Oxjj:jx:Rq4^Rn4:Ooj^Gy:{1n<j<x,^O441Gn::1{Oxr:oo<GDrGOj^14<1x?ODo{xnO4:RGj<rxqXn^q{OO^;r1q:<xGvRO4xa^1on^GoRx{yxO<j{x1nR14Oxn:QoOGj(G{:x1xjrx^e!x{jnG::xzr{q:<<nq:jOG^:F11<nxr_OO^j4o1:n1r<{:xo:{1jj^r:O1<<qGR#jrrjqG<::noo<Gx4qO<jGGR:j1x<ox:RGO O{Gx:q1xqrrqo<:YR1qxn:RqG<{n;:joj^G*:<x4{R{{<rnqx1Gnj:1O<^xooo<^4RRO:<^4<1xjL1nnXxn:oGuROrxq.<O4jjbj:xvq<<xGuROjjnGqn<1GORx14xOq{oGG:L{{<xj:WoOGjmG{:j1:{ox^GlO{1nGr4o1o<4n1Wn::jO<^:>R1<{xxjOO^14G1xn1xoOxOF^^1jj<r:qC<<4RR21Ox^qG<n41Rojxx1qOoj^:R:{%x<:Go+GrRj{Gnqq1oOGxwX{Oxj:Gq:xVg<{jnp::oj^nT:R1R4:xOG^O(11Gnr:1:<<14L1:njr<O:<R4<Rj{rrOOR<G^G11j<rxraOG4jRoj:x4q<o{G5U:14xGqj<1^ORx{MxO:1OoG:,^{<nq:uoOGjGG{1x1:rox^obOR4nGrxO^^<4f1Yj^:jOG^:G1R1nxrOOO<G4GR^n1r<q<<.4{1jj^r:O1<<^x4GjOx^qG<R41RxjxjF1:<jGnR:jRx<::oX^:xG{GnGq1onGxdX{On1i4o:^r&<R^n!:OojoGqx{1nR:xOn^O4:1G{:2AO<<o4MR4njxrO:o/r^1xjjrOq!<G4:111<#jq=oG4jR1j:n4q<ojjORO{rxG:q<1G<Rx{t{qqjo1G:kn{<xx:voOORcG{Rx1:<ox^GhORjG<::Oo^<441fjx:j:GrOT11nnxrqOOoG4G1:14r<q?<e4:1jj<r:q1rj4nROjOxjqG<141=Oq3xeq{<jG<R:j1x<qx{jGO54{GxRq1oOGx4Gqjxj::o:<NE<{xn3r:5G^GBR{1n1:xOw^ONjx4n:r4O<<44Y1:njxGO{^14O1xj^rOOR<G4:y4j<rjqI<:4jRGj:n1:j<xGGROj1xGrI<1GxRn{Yx:qj:4G:RR{<xn:_oxRRLG{:x1n^ox^4iO1):o::o1^<^n1wnq:jOGrnN11Onxr^OO^j4G1::or<Oj<H4q1jj^r:O1rG4nRtjOr{qG<:41ROjxxZqO<jGjR:j1x<qxo<GORj{G1x1qjG:1D?1(xj:Go:qqqG<xGoRxr1rqOR^RGG:xOO^O2j1G2iR{{Lr1qoo:njrOO:^14<^1Go)11L<GGG11j<rxn<xR:Roo^qEj1GxR:^Oxjjxqq:<1G<<O^4S:14n1G:64{<xx:!:<ox^5{:no:<ox^A<r<nGFROj^rqq11Vnj:jOG^:qx<{G{t<jnxx4G1{n1r<Ox:O::<{GRR{:q<<4xRCjORRqG<:41R<jxxkqOOjr<R:j1x<qxoQGRRj{:4nqRo<Gx;:{Ox{:Go:G1!:x{n_:Ooj^x-:{Rn<:xj^^Obj1Gn::1O<^x^+o:njrGO:^14<R^jfnO:1<G4:11j<rxqo<O4j^}j:r1q<<jG0RqjjxG{n<1G<Rx{4xOqjoG<:jq{<xx:yoOGjPj{:j1x ox^TeO{jnG:no1o<GB1knO:jOG^:2R1<{xrxOO^j4G1:n1rxOxqCGR1jjGr:qG<<G4R#jOx{qG<:41RojxxpqO<j^<R:j1x<qjoAGORj{Gjoq1o<GxX5{Oxj:Go:^1*<{nnQ:roj^Ge:R1j::xO4^OY{1Gnx:1:<oj4F1qnjr^O:<O4<RfjqrqOR<G4:11jorxq4<O4jYqj:r1q<<nGFROjjxG}<<1GoRx{^xOq1oG^:O:{<xx:}oRGjk^{:x1{Gon^S;O{{nG::o1^<.n1ynO:jOq^:V11<nxr:OO^j4G^^G^E{jjxRqqo1GOr:qG<<4xRh>nPx1qno41RqjxxdqOrR:qOjj1n4qxo8GOo4<o6{Rar{r:q#<nG#{O{4r1Or{xnq:Ooj^Go^<^G{j{jRrxq4R4n::1O<<v:^1qn{rGOn^14o1xjCrOqP4o4:11j<r{q_<q4jROrnr1q<<xG1ROj{xGr:j3G<Rj{&xOqjoOG:4co^xx:^oOG1MG{:x1x<jj^;Ir{jno::OG^<GxoGnO:ROG^ng11onxrOa{^j4<1:j:r<On<N4r1jjOOnO1<<4xRxjOr{qG<jR4R<jxxX:<<jG^R:j1FqqxoGGORj{Gx:q1q<<jSD{:xj:<o:^47<RxGG:OOk^GJ:{1nr:xONrnfj1<n:rGO<^n4_1O xr^O:^14o1xjLrOO1<G4:11j<njq.<O4jRGjjr1q<<xOGoR^xBOq:o1G<Rx{y1:{{nor^Oo<O4rRoj<r%<o<q4xR^jjO^&O14nG::o1xqqx<4G{RxOG^Rz11<nxRO{:xnqR^x/o{OOn<J4O1jjGr:O1q{oxRCj{rjqG<:O{OxGR4G1Gx{rnR:{^x<qxo}OjO1^^4o1^o<GR/7{Oxj{qrjrqq4pjn-:1oj^GE:G44oROjjr:O{<oG^:RO<^x4g1OnjrGO:q14<11jdrOOj:::<<RGnrxqr<O4jRG44;j{:n^:^oq<B441x<1GjRx{WxOnRj4rnOn^r411rnrG{eG{:x1:<ox^J<R4jno::o1^rsx1>nORjjorrqxoBnxr^OO^j4GGrGGR:On<L4O1jjGr:O14<orR jnrjqG<:qGojGR8{{n<jGqR:j1x<n{nRrGOn<<x::<o<Gxmh414n11njr^qO{nn7:Ooj^G%:{1x<jrOL<Glj1Gn:R<j{xjqoooGx7O{qxoqnoOGorOO1<G4:114r1^qe<x4jRGj:4G{on{:nROjRxGq:<1rGoR<qxO:<oGG:R1G<4rR^nRxpOn<q4j:oox^#iO{jnG::o1^<yx1OnO:jOGqrq4<q4RR1{x^jG^1:n1r<n^x{qqo^Gq1j1Yxo::O^^OR{1<x{:joq<^x+qj<jGGR:444^1OnRr:GR{Gx{q1o<Gx<O<G5{1rjnG14_{xn+:OxRrqOnoG4{Rrj1qrqn<1GqKQOo^x4p1OnjrGO:qO{<ojj&rOOj<GOo11jqrxqs<O4jRG1:n:q<<{GWRrjjjGq:<1GORx{<xOq{oGG:R1R<n{:soxGjpO{:nr:<ox<jDO{RnG:jo1^omx1Wjr:jOo^:4m1<nxrkOOo:4G1jn1roOx<w4Odj{rr:qG<<41Rcj{rjrGOG41R:jxx<qOO4GG4:{Ox<q1oMGxRj{1x:r1jOGxy<{OnE:Go1G1)x:Rn2::oj<D;:{Rn<:nO/^x{R1Gn::1qG^x441OjaOoO:^14<Rnj5rqOjo<n111jrrx:j<O4jRGj1o^q<<RGb&:jjx^q:<RG<R1x^xOqjoG^xR1{oxxrGRjGjKq{:j.:<ox^vPO^xn^:1o1^<Dx1GnOrG4q^:uR1<{ureOq^j4^1:jGOqOx</4OsGjGrrO1<:1{R8jOrj:j<:4RR<{j<OqOo^GG4<j1x<qxoOrrR{{rx:r:o<Gn(&{Oxj:OGnG1D<{xjx:Oo{^G#jn4n<:xO)o4Vj1^n:x?;x^x4q1O{GrGO:^1G<o<j(rjOjO}4:Roj<x(Go<O4{RG1qr1qo<xG4RO{?qoq:<1G<4r{ZxqqjoORnR1{<xxx:oOG{XG1xG{:<O4^*?1{jnG::q1Ro.x1qnOr^OGoGE1RO{<rmO1^jG:1:n1r<qj<44ORojGnxO1<<4xIGj{rjqj<:^xR<jxxh::O4GG5^j1x1qxoLGORj{Rx::oo<^oVZ{:xj::OjG13n{x{R:Oo{^G#r{1n:o{O&^O5j44n::RO<<j:R1Oj^rGq>^14<1x1u:nOj<r4:Roj<n<qJo:^4RG{Wr1r5<xGSRO{1n^q:oqG<3<{YxOqjO<^<R1{1xxrjoOGjCG1xnx:<Oo^y4t{jnG::o1<:Fx1qnOrqOG^x61R<G<rJOj^jG{1:jor<Ox:44O1RjGr1O1<o4xR*j:rjqo<:GMR<jxxkqOO<GGRjj1xoqxo_GO4j1<x::Go<G1=B{{xjxGOoG1E:{xn<:Oq4^GG:ROn<:1Ol^xNj11n:x1:4^x4<1OjErGO1^1GOr(j=rnOj<R4:11j<x+Go<O41RGd^r1qo<xG4RO{}qoq:<1G<^o{sxqqjoORnR1{<xxnRoOG{&G1xo<:<O!^.GG{jnG::O<xq>n1OnOjnOG^r-11<nxr<^r^j4G1:R{r<On<?4xnRjGr:O1:<4xR4jOx14:<:G<R<{jxsqO<jGGoOjRxnqxozGOR{{Gx1^^o<GnF34xxj:^o:GR=<{1:^:Ooj^G<j{1no:xO<srsj1Gn:1GO<^n4f1O4RrGqg^14q1xj}rO:jjG4:ROj<xGqio14j4G{jr1qj<xG:RO1LxGr:oOG<ZG{,x1qjO^G:R11xxx:roO^WaG{:x1x<qq^6eR{jnn::q4^<Gx1RnOroOG<4Z1?4nxxGqr^j4j1:{{r<Ox<U^Oo1jGxGO1<14xR<jOx1wG<:GrR<{:xSqO<j^<RRj1npqxo1GORj{Gnx:oo<^q(!1<xj:Go:G14j{xnx:OOr^GJ:{1n<rqOb^1vj1Gn:rmO<<Z441Oj<rGjx^14o1xj4rOqt4o4:11j<RjqV<q4jRGGnr1qj<xG^ROjjxGr:j1G<yG{Ex1qjOxG:411^xx::oO^<*G1jx1x<o1^u(1{jnx::OR^<(xRjnOroOG^jt11<nxn#q1^j4n1:jqr<q{<T^Ou^jGx4O1<{4x44jOx1qn<:G:R<1rx}qO<j<GR<j1x1qxoxGOBf{Gnx:<o<^oV.{nxj:Go:<*IR{xnj:OO4^GN:{1jOxqO(<^aj1qn::1O<^xGo1OjOrGqo^14<1xjyxxOj<x4:11j<rjqfoO:ORGjRr1qO<xG:ROjjiqq:o4G<_4{bxqqjoG:nR1{qxx:ooOGjlGR:G8:<o{^+>r{jjr:::<nj#x1^nORoOG^r_1R^nxr<^r^j4G1:Gqr<On<s4xnRjGr:O1no4xR4jOx1R4<:G4R<{xx3qO<j^<=1j1x:qxOrGORj{Gj:rro<G1UJ{xxj:oo:G14^{xno:Oo{^GL:{1{<xOOy^ngj1qn:rqO<^xGs1OjGrGOr^14<1x1Px:Oj<:4:R<j<rnq/<OGORGjnr1qx<xG4ROjjR3qr<1G<Rn{>xOqjooG:R1{<xx:NoOGjKG{nx1:<ox^F{^{jnG::oR^<8x1DnOOrOG^:I11<nxr_OO^jON1rn1r<On</4O1jjGr:O1<<4xRnjOrjqG<:GoR<jxx)j4n4rn^n^{L:{Ro*GxRj{Gx:j<jh:nOq{On<:Go:G1<q^n4jRGn1r^On<rn<:1Ou^O&joO4rA4jR^x4o1OnjrG{:x4qooOGjrrOj<G4j11j<rxnGxR:xoOj:x^q<<xG?^j^:m^{Rj4G<RR{;xOqjjor:oR<n4::^oqGjKj{:x1:<j1rRO{<^411{nRrOqO<o{a:jOG^:G1oOnxr4OO^j4G1rn1r<j{<Z4:1jjGr:O1<<^xOGjOr1qG<x41RnjxxOr^<jG^R:1qx<qnoCG:Rj{Oqnq1o<Gx4r{Ox{:Go:r4W<{nnl:qoj^GW:R1GO:xO4^Om{1Gj^:1:xjG4c1qnjx^O:^R4<R<jTrx^R<G4:11{orxq4<O4jooj:rRq<<jGJROjjjG1x<1GoRx{4xO:<oGG:O4{<xj:(oOGjcG{:j1ROox^GkO{1nG:xo1^<R11hnq:jO^^:431<1=4:OO^{4GRrn1roOx<O4ORXror:O1<<GnR0jqrjqGrO4RR<jxx4qO<jGGix<{x<qnoUGnRj{Gx:r5OxGxuG{OnI:Go:G1G<ROnp::oj^<c:1qn<:xO<^OFR1Gn::1O<^x^aRqnjroO:<44<1{jcrO:r<G4j11j<rxqb<O^jX^j:xGq<<1GFR{jjxGq1<1GoRx{<xOq{oGG:<j{oxx:woqGj(G{:xR:<ox^KXO1qnG::o1^<4<17nO:jxOx4:4<qGrR1{<x4qoojn1rrOx<_4O^:G^Rx{^ny4xR<jOrjqGrj:^Oj^1x-qx<jGGR:4juo1qnoGO84{Gx:q1rxrjO4<^44:GojG1J<{xRG1RjxrOg:1<n<:xOdxGqoooGjR^{G^j421nnjrGO:n4:<<n^qi<Oj<O4:11j<V1{4nr:qRGj1r1q<<xO:Oo^:0O{{jt^1Rx{>xOqjnoG:R1{<xx:,oOGjGG<xx1:<ox^_pO1^nG:1{4^oKx1Ujt:jO^^:t11<n1O^OO^j4GRGn1roOx<Yqr1jjGr:O1<<4xR61OX1qG<:41R<jxxqqOOj<<R:j1x<qxowGqRj{G1Oq1o<Gx3G{Ox{:Go:r4;<{xn/:Ooj^G,:M1R^:xOL^O4^1GjM:1O<r{4A1Onjr^O:^14<,x^GrOOj<G4:11jrrxr;n:4jRGj:r1q<ooGI4O^1xGq:<1G<Rx{OxOrjj<G:R1{<xx:to:Gj0G^nx1:oox^4bO{jnGx:{L^<}n1lnq:jO:^:G1oOnxr4OO^{4G1jn1x<{<<i4O1jjor:OR<<GjORjOrjqGoG41R<jxju1:<jGGR:j1x<:^o}Gjs^{^xrq1o<Gxp4{Ox1:Go:<^E<{xnV::oj^G):{1jr:xO#^OaR1Gn::1O<q:451Onjr<O:^R4<1xP1rqOj<G4r11j<rxq><q4jRGj:xWq<<xG7RO{hxGq:<1qnon^r4xqjoRG:R1{<Rj1oj<r6Oq<x64R:nRxFqO<44O:Ro1^<Yx1ajx:jOG^:z11<nxrV:O<q4G1:n1r<Ox<G4O.jjRr:O1<<4xRQjqrjqGoG41R<jxxGqO<{GGR:{qx<qxoiGORj{Gx:q1OqGx.I{Ox{:Go:G1S<RGni:Ooj^^u:{1n<:xO,^Okj1GnR:1O<^x4#R^njrGO:r^:q<R^G{R{xnG:{OG4:4^1dxn4jRqj:r1q<r}:joq^^4oq:o<G<Rx{?Rx1nnr:ROx^rxx:<oOGj/G4{4jRrjq^)4G{jnG::xnx^qRo^4nj1{qxj:Go^G:j4Or^{4G1jn1r<Ox:O:G<{GrxRO1<<4x4H:Grjq^<:41R<jnxt::ojGGRxj1x:qxotGO4j{xx::%o<GjlC{qxjxGOwG12O{xnG:OO4^GF111n<:nOW<j*j1^n:r.O<^11^1OnjrGq1^14o1xjaRrOj<^4:11j<rxq.Ojx<RGjrr1::<xG4RO{GxGqjG4G<Rx{Unxqjo^G:R1^qxx:4oOG{}G{:x1x<qj^_Lq{jn^::O4^<.x<^nO:ROG^x}11<nxn2{:^j4o1:j4r<Oj<U4O<RjGrjO1<o4xRijOnj1<<:GGR<j1xgq{<jGG1jj1xqqxo^GO?t{Gx:r4ooG{8d{rxj:Go:G1{4{xn<:Ooj^G0:{1n<1ROt^qij1On::RO<^11^1OnjrGq1^14o1xjLRrOj<^4:R4j<rxqg<O1^RGjrr1qo<xG4ROjjRkqr<1G<Rn{0xOqjo^G:R1{<xx:aoOGjuG{nx1:<ox^J{^{jnG::o1^<Ux1anOOrOG^:s11<nxruOO^jOm1rn1r<On<74O1jjGr:O1<<4x<xjOrjqG<r41R<jxxNqO<joO^:j1nOqxokGO<R^o4x1{j_rO<G^q41{Oj0rqOq<o411njRxo!:1qn<:xO2:xq4oxGj{xjorjqooGnjrrO:^14<<EGoRr1Qn4:xG%j<x:q}<O4j<OG{4O1:xGO4OG^o(r1Onn:rO:<<xOqRoGG:R1<G8RRqoO^G.G{:x1jqjjroOqo*4q:ro1^<5x16nO:jxqq:H1R)nxr0OOr4on^<GqTq{1:jqqOo^4k{1G<<4RRQjOrjn1xr:Mor^Ox8:x<jGGR:G4>q1jnRrGO:4<yrR!r{rqO4^{44jojqrxq^<j1^:OOq^Gc:{15:1R{:xxO^o<4rR1{<rRq<1Oj^rGO:^1oqorG1C<{4xo:j11j1rxqA<Oq_oq<74Gnqnr:jOo^1{oqr<1G<Rx{8xOqjOOO:R1{1xx:HoOqoOR^r4o1rxOr4O:<441:ro1^<Kx1dnO:jx8q:K11:nxr OOr4oOo4GnroOx<_4O1jjGr:o1:^4nR%jOrjqG<:41R<_xxcqn<jGGR:GGQj{Rn{:nRj{Ox:q1o<q{Oro#44:GO4G1v<{xd^Roj1xOoqoI4:1R{G^qQj1Gn::1O<nxo4xOnjr:O:^14<^jGo!^{nn:q{1Rj<rxqY<O4jRG1j{1q<<RGyROjj1:1xxRr4oR{.x{qjoGG:<1^o_11<nRrxOr{:n^:<ox^ao:<o4rRL{G^<4<1%nO:jxorrqjox4n6^nrxo:j<{n1rnOx<A4OofGqR1jRnr:OO<jOxoqG<:41^{^:7<{RxR:^Oj^{4OqxorGORj{GRj1^jjr1<^<o4:R4jxG1vx{xnt:Or{roqj<qGx1ROs^j,j1Gn:14jrxOqo<r^0rGq<^14<1x4o_O{vx^:jo^JjRR{rx{:<OOj:xOq<<xG&^x^1441:nGr^q4^1xOqjoGG:R1{<nU:aoOGjqo<jG01{j:rq_r{{nGrTo1^<VxG<4RRR{Gx<ORo{G{rmO1^j4G1:N4Ro{Oxjq:<{Go2^O1<j4xR/jO1j14nn:qO:^^IR1<<j^:R:j1x<njn4:rOq^r4x1{jrr:O<Gx411^jOx4q<^nGG1njxro:4{1nj:xO=^OoR<qG<R^jqx1qo<xn{rGO:^14<1xjC{xxj<^4:11j<rxq*<O4jnGj:xGq<<xGy<G^o4M{{<1G1Rx{txOjojhr:q^<:1j1on{:{qg{:nq:<ox^0<r<:4q1r{L:2q^o^Gx:jOr^:#11<?{Ro{x::qnon^Gr<qX<T4O1j^O44{1xr:roOjOxSqG<:41<3^^4^1x<jGjR:j1x<n{n::RO:^O1r1Gn::RO<{Onn:Go:G1<O<rGG1xj4x<on<qG11RnTrR:<<qG<r4O<^n4}1OnjrGO:^1^<GxjPrnOj<G4:^q^4Rn{qxn4{RGj:r1q<<xG#ROjjxGq1<1G<Rx4^4o1:j4rx^4{<x1:.oOGj<1^{4<R:on^AdO{jnG::o1o:jx14nO:jOG^:y11<R1oyOO<O4G1:n11q{rno::<RGq1njRnG:{R4jOrjqG<:41R<xx{RqOo4GGR:j1Rrn1nrr^G1{Gx1q1o<Gxo<<o4^1rj<r^k<{RnT:Oojqoqq<xG^RjOX^Rtj1Gn:{ojrx1o:<nGoRr{7nG4<R5j&rOOjrGqrO&Grh:1<<OG:RGj:r1jqxR:^Ox^o441Or4r^OO^R4:qjoOG:R1{<R:14j^r4NG{Rx1:<ox:<qo<^4rR<j^r:hx1qnO:jOGr1:to^Gq1Gx{q14G1jn1r<Oxr<qnO<^Or:qG<<4xRg-nZx1qno41R:jxxwqOxJrnO:^^x<r4odGORj<<YxROnor{q^^nGQ1nnjO:^^dr1rn:r7Oo^n4^1:n{r^Or j1On::1O<:6qRo<^crGOx^14<1x4o{ROj<x4:11j<11{on1rg<o^44:{r<xG^ROjjxGnrnG::Rx{nxOqjoGq<oR<{4rRojxqnq<^j4^ROon^waO{jnG::o1OH<x14nO:jOG^:*11<j1o5OO<x4G1:n11qj{nG:oo:G1Z4{jxnO0OGGqFr{q<:G<R<jxx}n1nn:1oj^^4OqxO&GORj{G1x{RnqroOq<:4nRqjOrG<q<r4jRoj1OoA:1rn<:xO_qqqx<oGER{{O:xqR<RGx,OO:<G4<1xje><{4nx:jrOjorxqW<Ox4RGj{r1q<<xGORO{jnoq:o^G<<G{?xqqj:G^GR1{rxxj{oOo4bG*:nx:<oR^p<R{j1x:::1^12x1onOnrOGo1_11<jjr(Oj^j4G1:n1r<qx<G4OR4jGj{O1<x4xEz{<rjqq<:<:R<j1x)qOqGG^R1j1x<qxo!GORj{Ox::oo<Gx_t{OxjxGojG1Tn{xnq:Oxj^GG:1{n<r4OF^{/j1rn:x)Or^x4:1O{qrGO:^14<>GjPrROj<G4:R4j<jx:^<OGoRG4gr1rr<xGc^oj{xjq:<1G<Rx{XjO:RoG^GR1{1xx{AoO<jtn{:n::<O<^N<x{j{Gr{o1^1;x1xnO{1OG^:441<jor(Oq^j4G1:{1r:Ox<n4ORqjGx{O1O<4nRP{4rjq{<:OoR<{jo^qOo:GG^<j1x<qxqV^ORj{1x::xo<q<_I1:nx:GOoG1do{xnc:OO1<qB:1jn<:nOf^OMjR<jO:1q^^x441OnjrGO:oo4<ROjTxoOj<G4:11{Grxqx<O4jRGjxr1:<qRG6RRjjRxq:o:G<7j1xxO:OoGOxR1{<xxxTojGj_j{:n::<OI^?4:1xnGr^o1<q%x1fnOr1qO^:4x1<j1rNOO^jG<1Rn1x4Oxqn4O1jjGxxqR<<G:R+j1rjqG<:41xGjxxxqOoxGGRxj1n<:qobGRRj1:x:::o<Gx3x{OnO:Go:G16<{x{D:joj^j3:1:n<{xOXoO4n1GjG:1O1^x4q1Oj1rqO:<r4<Boj6rOOj<GG:11{8rxq4<OG!RGR:{{q<oOG+^1jjRrq:<1O^Rn{{xOqjoGG:R1R<x1:PO^Gj5R{:R1:<qx<x3O1rnGroo1q:cx!Yn::jOR^:4n1<vjrIOO<14GROn1roOx<K4OUjj<r:qj<<G:Ru{nrjrGo^41_Gjxx1qOr^GGbx:4x<:ro%OGRj{Gx:r1OrGx=R{Onn:GxGG14O1nn5rOoj<jJ:{1n<rjO{^O4{1G{G:1O<^xGG1rnjx<O:o:4<1xj_rOqG<GGq11{Orxq}<O4j(Gj:xnq<<xG_R:jjnGx{<1^0RxG:xO:roG^xkR{<nq:Ur:GjYG{:j1roox^{AO1rnG:1o1<O4G1dj<:jr{^:Y11<jjxOOO<n4GRnn1r<OxoG^C1j{Gr:xr<<4xRV{:n:qGor41AqjxxuqO<j.jR:{nx<:noBG:Rj1Gnjq1OFGxGn{Onr:GOx<q3<1qnQj:oj^GQ:R1jR:xO{^O4r1Gn1:1qO<G4_R<njxoO:^14<Rj{GrOqn<G<q11j<rx:G<r4jdGj:n4q<<xGT&:qGxG:r<1o^Rx{uxOqjspG:in{<nn:No:Gj4G{nx1r/ox<OiO1rnG::Oo^<4q1DnO:jOG^:G1RRnxr{OO<r4G^:n1n<qn<yG^1jjRr:qo<<Gjl:jOxxqGO^41R<jxxprG<j^4R:{>x<q{o}oO^n{Gnqq1rjGxoq{O{jxGo:^{P<)OnDrroj<<4<{1j<:xxG^O-j1G{:rGO<<x4yROnjr:O:oiG41x{4rOqR<G4:11{Oxqq*o:4jG{j:r1q<oj^oRO{RxGn^<1G<Rx1GxxqjOOG:Gj{<xx:)oO{x_G1:x1r:ox^G=O1jjr::O{^<G 1#jO:jOG<<N1R<nxrkOO^j4G(:jjr<qx<CGO1j4Gr::1or4xttjOxjqG<R41ZO1<xQ:q<j^{R:j1x<qxo{GO71{Gxrq1o:Gx^)4oxjr<o:qO#<f^ndnOqj^G4x{11}:xq^^O411on:x4O<qj4I1OnjnGqO^1Gq1x{^rOqG<GGxd4j<x1q6:44jRGj:nLqx<x^oRO{nxGq:<1^OWj{;njqj:{G:R1{<njr2oO<^+G44x1:<ox^6Rp{jjo::qo^<(j1LjOx:OG<xF1wRnxx^OO<1Gx1:{4r<xj<J4O1j1GnoO1oq4x,^jOxGqGox^xR<{1xs:r<jGGR:1YxOqxOoGO4<{Gx:q1OO^Rpf1jxjn{o:G10<1joO:Oq^^Goj{1n<:xOD1<vjRon:xoO<^j4#ROjRrGqx^1Gx1x{^rOOjoj4:04j<rxq7<O4j4G{Fr1:q<x^^RO4jxGr:ooG<J{{(nrqjorG:4V11xxr<oOGR#G{:x1:<O^^a4n{jnG::Oq^<^x4RnOx4OG:Sg111nxjN:O^jGq1:1xr<q{<ZG:R4jGx1O1:O4xR+jOnj:n<:^<R<1bxYqj<j^<Rxj1nnqxr4GORj{Gnxr<o<<G2*44xj:Go:<#4q{xjr:OOR^Gu:{1jO:ROXo)Xj4{n::1O<^xon1q{GrG:G^14O1x{Dx4Ojoq4:K<j<n=qeo:GGRG{1r1jH<xGURO1jx1q:O<G<47{2RoqjqGG1R11xxxrOoOOj*G1:no:<OR^*oo{jj:::O1^n>xRonO{qOG^rt11<4{rPqj^j4^1:n1r<:xxG4OzGjGx1O1or4x4E{qrj::<:^<R<1nxI:OOGGG.{j1nGqxOOGOGj11x:r^o<qnWdGxxjnGO4G14r{xnj:O:<^G4xRGn<xLO}:Gzj1Gn:x1qr^xGO1O{GrGO{^1^<ojjWxjOjo:4:Gnj<xx{x<O^4RGj{r1:x<xG#:Gjjnoq:O^G<Rj{pxO{RoG^jR1{<xx:>oO<j04{:jG:<O1^ioO{j{GrGo1<:bxR<nOr^OG<xGr1<jRr8Or^j4G1:n1nEOxoO4O1jjGxGO1q<GxR_{jrjnx<:<nR<Rxj8qOOGGGG<j1nqqxOGGnRj1rx:jmo<GxL3ROnn:GORG14n{xnO:OO1^{B:ROn<jnOM^OwjR<{o:1q{^x<n1OnjrGqxo44<Y<jh{4Oj<G4:Dv{rrx:n<OoqRGj:r1q<^<G/N{jjn{q:oZG<_x{<xOrGoGo^R11nxxrGo{Gj4r{:Re:<ox^SGORonGrRo1<nEx1OnOr1q^^:GO1<Rnr;OO^jG<!<n1x{Oxqn4O1jjGxx:^<<^<Rv{rrjqG<:^zrxjxnnqO:qGGR:j1x<_Oog^{Rj1{x::eo<^xoG{qjG:GO1G14n{xjGrGoj<r>:Gxn<:xO#oOGO1GjR:1qn^xoR1O{jxGO:oo4<Z4jU{OOjoGGO11{xrxnR<O^^RGR:xOq<O*GC<4jjj:q:<1^RRx1qxOq{oGG:R1R</j:UO{Gj4r{:j^:<qx^{lOR^nGrRo1oo5xRej1:jq:^:4j1<{4r(rOo44GR1n11oOxr<4O4j{nr::<<<GORQ11rj:<<n41&njx1jqO<jGG4:1rx<r4oh^{Rj{qx:r1jOGx4q{Oj^:GqoG14<<<nsrjoj^q(:Ron<:xnd^qGc1Gj1:1O<^x4;oGn{x<O:^14<1njSrOR:<GG:11{OrxqG<O4jhnjrxRq<<xGFROjjjGr^<1^oRx14xOjjoG<:4n{<nn:6OqGj-r{:jSroox<G.O1jnG::o1^<wR1Vjr:jOG^:4<1<1xx<OO<R4G^bn1n<OxoGG+1j{Or:qG<<4xRV1Og1qGoj41}:jxxOqOo1j:R:1^x<:{o!GORj1<<1q1OxGx^n{Oxj:Go:jj&<11nPrjoj^< :11j^:xq^^OOo1Gjj:1r<^{4cRrnjn1O:o44<Rjj<rO:><Gox11j<rxrJOG4jcOj:nGq<oIGD!:{<xG:{<1^qRx{sxO:1oqG:4<{<RR:poOGj4<q1x1rnoxOnZO{jnGrxqO^<GG1!jo:jOG^:U11Rnxx<OOo<4G1xn1x<:G<JGr1j1{r::G<<GjRqjOn5qG:x41R<jxjm:O<j^OR:1Gx<:doK^:4r{Gn{q1:RGxNv{On1:xo:<<H<{nnD:Ooj<<<x{Rjn:xrn^Oaj1GjxrOO<oG4M1qnjrGO:^14r1x{<rO:<<G4x11{<nqqMor4j&:j:nGq<qxG4RO{RxGnG<1qGRx{=n^qjO^G:44{<xj:soO^:YG1xx1:<ox^DPORjxo::q3^<4j1T&O:j:G^1(1ROnxxGOO<^4GRxj{r<q{<.^41jjGr:O1<o4xW<jOrjqG<{41G<14xT:x<jOxR:R1x<qxOjGO44{Gx:q1o<GxGf{jxjrqo:<^+<Gxn xOOz^G4{{1jr:xx<^OGjRxn:x^O<<R4D^:njrGq:^1Gx1xj4rOOj<G^:Qrj<nzqboj4jlqj:n1:r<x^ORO1GxGnR<1^O4G{)n{qj:1G:R1{<jxr{oO<^_G1Rx1j1ox<Gxj{jjx::oR^<dx1,j:^GOGo4m11onxr6OO<1n:1:{:r<On<Y4O1jjG^GO1on4x>xjOrjqG<:^GR<{RxWqO<jG<R:{1n:qxO<GOo<{Gn{q1:<<<2k1xxjnro:Or)<1jj^:Oq4^G<x{1n<:x:J^rXjRqn:x^O<<d4sR:{GrGq1^1<R1xj_rOq1qO4rMoj<xrqD<O4ja<{Rr1:j<xonROjjxG:xOVG<4^{MnqqjoGG:R1{xxxrooO<o8G{xx1r<o1^;4x{j{{::q^^<4jRqnOx4OGqx)11<nxnfqG^jGq1:{^r<q><vG:rGjGx1O1oq4xRhjOx14:<:^oR< :x#qO<j^<r1j1njqx:nGORj{Gnxx^o<<^mc1xxj:Go:G14o{xjo:Oqo^GSx{1j<r0OD<xijR:n:x^O<^xGr1Oj1rGqj^14<1xjAxROjo44:11j<rnqwo:rnRG{:r1:O<xG;RO1j{jqro1G< x{=xjqjO<^RR11oxxnnoOGjEG1xxR:<Oj^>4o{jnG::o1<1ixRAnOr1OG^:_11<{4req^^j4G1:j_r<Oxoo4ORxjGr:O1<<4x42{<rj:_<:GjR<4xxNrOooGG!Oj1nGqxoqGO6114x::{o<:JeZ{Oxj:GqGG14<{xns:OOo^G^:4{n<rxOtq1wj4qn:n1x^^xGe1O{1rGr8^1<<GrjMxOOjO14:E4j<jxrw<OGjRGRRr1xR<x^G)xjjn^q:rPG<Rx{.jO:roG^rR11oxx:OoO^141{:jZ:<ro^MeO{jj<xwo1<qAx1RnO:jOG<x4o1<j1rSx4^j4G1:{ax^Oxoo4O4xjGr:O1<<(<Rs{qrj:q<:GuR<{xnrqOojGGG^j1noqxOG<^Rj1^x:j/o<GxhHROnG:GOrG14o{xnO:OO1^1/:RZn<r{Ok^OejR<nj:1qq^x<11OnjrGqx<q4<R1jkxrOj<G4:Xf{jrx:o<OonRGj:r1q<o:G5*qjjnqq:o.G<-x1<xO:joG^1R11oxxrGq4Gj4^{:RI:<ox^ GO1{nGrro1<o_x1OnOr1OR^:G*1<RoryOO^jG<R0n1xqOxqn4O1jjGxx4<<<G1R)c4rjqG<:^w<1jxnoqO:qGGR:j1x<roo%^qRj1qx::Lo<^x44{Onj:GqOG14o{xn2:Roj<^*:{1n<:xO+oOGq1Gjr:1qo^xO71O{jxRO:<R4<Rnjy{xOjOGG:11{orx:4<OO1RGj:nGqoojG+RqjjxGq:O1^nRx1GxO:1oG^{R1R<n{:_O:Gj4<{:Ro:<Oj<<)O1RnGj<o1^<UxP}n::jqo^:G41<F<raq:<n4GRjn1roOx<I4OR1jqr::^<<4nRPjOrj:<x<41sxjxx4qO<jGGR:1<x<:{o-^jRj{Gx:q1onGx44{Oxj:GoxG14<1GnlrOoj^{h:1Rn<nxOj^O4j1Gnx:1q^^x4*Rjnjx^O:^14<1xj?nOqG<GGr11{orxj!<O^jRoj:xRq<onGgR{jjn<::<1^ORx{rxOqjoGG:XR{<n{:AoOGj?<{:jWq4ox<<VOG:nG::o1o<sj1zjx:jqO^:Go1<{xrGOOoU4GRjn11qOxoe4n1j{or::o<<G1R%{:n^qGoj41aOjxxAqOOj^jR:1Gx<:1ozGjRj1<xjq1OrGx^n{Oxj:GOxo^b<RynIrooj^GL:{1nn:xq<^OGG1Gnx:1q<o<4cRrnjx1O:oG4<1xj1rOq{<GGn11j<rxq5oG4jPGj:r1q<<nGmRO4jx^:O<1^<Rx{DxOqjn1GrEx{<xx:HoqGj4<oqx1r4ox<GEO{jnGx:oR^o4q1Vj^:jO:^:G_1jnxr1OOqq4G1:n1xO:4<.Go1j{4r:O1<<4xR<jOxrqGoq41R<jxxt:G<jGjR:j1x<qxo-GO-n{Gn4q1o<Gx+4{On1d4o:^:C<1jne:OojoG:^{1n1:xOx^O4G1GjxrGO<<o4IG4njrGO:oE411xjjrOqn<G4:11j<xRqvo54jR1j:r1q<<x^oRO{^xGq:<1GORx1HxqqjoqG:4r{<n4:toj^^2^{Rx1:xox^4%O{{nG::jG^<&x1 nn:jOG^:41<1nxroOO:44G1Rn1rxq4<44{1jjOr:OR<<4jR_jOu#qG<:41Rrjxx?qO<j^qR:j1x<qjo_GORj1G4Gq1orGxG<{On^:Go1^o_o14nF:roj^^B:1Gn<:xqo^Ofj1Gn::1O<^x4_RnnjrGO:^R4<1xj6rO{p<G4:11jrrxqi<O4joOj:r1q<o;G0ROjjnG1G<1GrRxGGxO:^oGG1Do{on4:mo1Gjc^{:ng:<oxr<*O{jnG:{o1^<Jx1c4x:jOG^:4<1<nxrBqOxO4G1{n1x{Ox<q4ORGjrrrqo<<4nRgjqrjq^<:41o:jxxVqOo4GGR:j1n<1<o6GnRju<x::oo<^dLq{qn^:GoxG1vo{xn4:OojrOv:{1n<:RO&^OZjRGGG:1Or^x<^1Oj^rGO1<o4oR4jFr{Oj<^4:1Rj<rx{<<O4jRGj{r1q<<x^FOPjjxqq:q4G</4{kxj:^o^GRR1{{xx:4oO^4WG{:4G:<ox^uan{jnG::o1<r8x12nO:ROG^:%11<jRr6OO^j4<1:n1r<Oxoo4O1jjGrjO1<<4xRd{nrjqG<:G^R<jxxg:On^GGR{j11qqxoqGORj1^x::oo<Gjb5{OxjxGq^G1;n{xnq:Or4^G+:1qn<rGON^:Jj1Gn:x1Oq^x4:1Oj<rGr{^14<11j}r1Oj<x4:11j<nxqG<OG<RG{Ur1:q<xGJj4jjxrq:oOG<RR{PjO:noGGRR1{rxxrnoOGj4V{:nO:<oj^6VO{j{Gx4o1^jFx1:nOxqOGo:sR1<jGruO1^jOr1:{1r1Ox<:4OR<jGj{O1o<GRR}j{rjn:<:GOR<1xnGqOo^GGR{j1nRqxqL^rRj{rx::oo<:4fFROjG:GoRG1Zn{x1o:Oqjx<E:1on<r4OLOj%jyG{x:1On^x4q1OjrrGO1<o4oR^j#rOOj<^4:1Rj<rx{<<O4jRGj{r1q<<xG7onjjxrq:oqG<Rn{SjO11oGGRR1{rxxrnoO<jq<{:no:<O4^Y^q{j{Gxxo1^nzx1qnOrrOG^14o1oj^r}On^j4^1:jir<Oxx<4O1jjGr{O1<<4xRm{nrjqG<:G<R<jxx/qOn4GGRRj1x{qxo4GO&1o4x::oo<:<hJ{Oxj:Gr1GRDj{xnG:Ooj^GV:f1n<r^O_^Rwj1Gn:rG^q^x421Oo:r^Or^1^<0jjtxGOj<q4:<uj<rxnO<qGxRG{^r1q<<xG?onjjx1q:ojG<Rn{Sxj1<oGGRR1O{xn:4oOG10G{j:4:<ox^#rR{{n^::qwn^fx1qnOj/OG^:_1X<Gjr.O1^j4o1:{{r<OxO^4OR^jGrxO1<O4x4O<1rjqr<:j<RojnxJr{<jGOjnj1x<qxROGqR{{Gj:xlo<^4Z+{nxjxoo:<1qO{xnr:OoR^GGq{1n<1ROY^{aj1nn::RO<^x1G1Oj4rGOx^14<1xj01<O{<G4:1Rj<rxqk<nGORGj:r1qq<xGDROjjx1q:<1G<<R<PBx{{jO:{<O^r4^1qn1x=+G{{x1:<oxqOq:^{4R1{o1^{6x1XnOjRj1rr:4oqc:R4{^x44x1:n1r<:xnG4O1{jGr:O1<q4x4O4xrjq^<:GGR<jnx=q:<jGOjnj1x<qxo<GOR{{Gxjo4o<Gx0){{xj:^o:G1Oq{xn4:Ooj^GK:{1{<xjOW^qPj1^n::RO<^x<11On{rGOx^14o1xjX1<O{<G4:1Rj<rxq <q4jRGj:r1qq<xGiROj{xGq:<1G<Rx{PrOnnoGG1R1{<xx{Gnnrrq4<14^:<o1^DJO{jR1R4{4x:4r1lnO:jq<OqX11onxr4OO^j4G1:jnr<Oj<m4O1jjGr::1oq4xRGjOr1qG<n41R<{oxVq:<jG<R:j1x<:jo^GORR{Gxrq1o<Gxi<1rxj:^o:^j=<{nnN:OnR^Gc{{1n<:xO,^OGj*<n:r^O<^R4/1:njrGjn^14n1xjWrOOj<G^:O8j<x4q&<{4jRoj:n11O<xGqRO{^xGqr<1G<jq{Ex1qjo^G:R1{<xx1ooO^4CG1Ix1:oox^<qx{{n^::O<^<-n1(nO{xO^^:.11onxrdOO^{4G1:n1r<O{<%4O1jjGx4O1<<4x^^^GE4{^nxOxo{^{4<qO<RGGR:j11o{1n<GO&-{Gx:q1jG:Rq:<xnx:Go:G1e<^{nJ::oj^G3:{1n<xx:G^OF11Gnx:1Oo^x4XG<njr<O:<D4<1nj,x:1n<G4x11jqrxq?<O4j^:jrx4q<<nGIROjjxGx:<1G:Rx{<xOqjoGGj{4{<xx:0O4Gj.^{:x11qox^qwO{jnG::o1o<Gj10n{:jOr^:4B1<nx{OOq<o4G11n1r<Ox<#qn1jjrr:qq<<4nRmjja<qG<x41Rnjxx4qO<1GGRjx4x<qxobG{Rj{^x:q1xGGn.p{Ox{:Go:G1TO{xnE:Oojo1A:{1n<:xOr^O7j1GRrR4{:x^:O<q^ Rqjj^R4<1xjLrOOj<G^jG1jorxqs<O4jRGj:r1q<<nGVROjjxGq:<1G<nx{Zx{qjoGG:<4<^4:11nn:RqO{:n^:<ox^g<r<n41Rq{T^<k11DnO:jx1x4:4o:n{r4OO<<4G1:n1{qjnxj:G<1G^Rn{r<o4xR&jOrjqG<:<Gn<jxxOqO<jGG^n<5ar{nj<:nRj{:x:q1o<Ojqo<xGCR4jOG14%{xnc:On4xGOj^RG:1Rx:rnqo<rGz=GO<<44B1OnjR:{xx{:4^jZq{:O{<G4:11j<rxq&^OonRGjjr1q<<xq<on<<4Oqr<1G<Rx{IxOqj:OO:R1{{xx:JoO:IOqolGGjqjrrjqo<1nG:jo1^<}xGoG<D4jR^:4o1<nxr;nxxnqr<RGxRrj1<44O1jjGr:O1<<G1^WjOxGqG<:41^q^rUj1on1ooR:{<x<qxoAqOo{<<Y{1jj:GxN:{Oxj:Gxjr^qj<1>^1R{Orq,:1rn<:xOF:xq4oxGj1o{Orn:eoOG4ROO:<:4<1xjd1x{4nx:j^4^^sO{Rn:<RRGjnr1q<<xO4ox^wxGq{<1G<RxG<h114nR:{R1{:xx:DoO:4<O<44n:<o1^_KO{jR:Rqjjx:kx1onO:jOGq1:X<oGqRoOq^j4G1:n1r<OxOjoO1{jGr:O1<<4xRZRj{jqG<141R<jx1:1on::Oo{<_x<:<oJGORjGO3{ROj:Ojqo<xGXR4jOG1v1{xn+:OxRx4q{o/4q1Rn^rqqxoon:r(O<^x4S^nYorGOj^14<1x31Rq{rxq4:RGj<rxq8rr:oOjG{r1qj<xG+RO4j441nnqr:O^^R4<qjo1G:R1{<R{1onrx5On<q4jjqjrrjqo<1nGr:o1^<fxGG4q1Rj{rR:3o^GRR1jxqR:4o<G{+Or{<;4n1jjGr:j^:::^o{R:rjqo<:41R<^:vo1{j1GGR:j1x<x:obGxRj{Gx::bo<^x4<{OnN:Gq1G1lo{xjlx3oj^OH:1qn<:{OF^O4o1Gn{:1O<^x4m1O{jx^O:<^4<1RjlnnOjOGGr11jrrxqo<OGqRG{xnoq<o!G24ojjxGq:<1^ORx{qxOqjoGGnR11<nR:go{GjG:{:xR:<oxORDq1<nG::o1^<dx_Ynj:jOx^:4O1<{Rrb:O<n4GR(n1rjOx<O4Ofj{xr:qO<<GGRN14rjqGo:41R{jxx4qO<jGG4:{4x<:^o*GRRj11x:r1OeGxbr{Ono:G:4G14O:{nwr8oj<:p:{1n<xxq<^O4O1GjG:1qG^xGGR1njr{O:<R4<1xjJx::O<GG<11{orxq6<OG1,:j:xnq<onGJROjjxGrG<1G1Rx{{xOqjoGG:,G{<nG:HoOGj-<{:n1nrox^qfOfOnGr2o1<O441zn1:j:{^:)11<{xrGOO<<4GRAn1j&OxoGGG1jjnr:q{<<4xRp{:x4qGoG41R1jxxEqOo1GoR:{rx<q{oAGORj1<nRq1O=GxG4{Oxj:Go:{jT<1Gn%rGoj^<K:11jG:xOq^O^^1GjI:1O<^n4p11njrGO:^14</xj1rOq<<GGB111rrxr><q4jRxj:xOq<ooGMV:{nxG:4<1<qRx{UxOqjOGG:h:{<xx:zoRGj^G4qx1:1oxoO8O1:nG::r{^o4o1wnO:jOG^:G11RnxrnOO<q4G){n1n<:0<LG41jj{r:q<<<^xRRjOxqqGo^41ERjxxBqn<jG1R:jRx<qxo%<OIm{Gn<q1OaGx4j{OjjrGo:^x2<1On)xRoj<<nn{1j4:xqO^Otj1G{:r4O<<q4KR^njxkO:oUGn1xj1rOO1<G4:11{OrnqPoo4jR<j:r1q<oj^oRO{jxGqx<1G<Rx{UxRqjoRG:K1{<xx:KoO^4BG1^x1:<ox^GzO1j1q::O:^<^<1Vj4:jq<^x511RnxnnOO^j4G_:jjr<qo<yG41j11r::_<14xRjjOrRqG<:413O{)xk:^<j^4R:j1x<:jOjGO/x{Gxnq1o<Gx4G1xxjr4o:^{2<{xnN:O<O^G4^{1j^:xOG^O4j1jn:r:O<OG4kR4njx<qx^14R1x1nrOOj<G^:R{j<xoq_o44j41j:n+:G<xGjRO{nxGq:<1^OR{{%n^qjoOG:R1{<nj:{oO^xBG1qx1:<ox<Gxj{jj4::OG^<0x1#nO{qO^<^61R^nxrGOO<j4^1:j:r<r4<,G41j{<nWO1<R4xk^jOrjqGO:4RR<{oxU:4<j<vR:11n<qxonGOBq{Gjjq1O<^GyM1gxjxuo:^r0<1xnj:OOO^G4:{1no:xO_rr/j1{n::RO<^x4E&O41rGq^^14R1x{jrO:j<j4:Rrj<xoqio:4j.G{{r1q1<x^xRO{qxGx:O4G<X<{fn1qjqGG:G1{1xx:xoO<o(G1!x1rOon^C44{jjR::o1^<Gx1^nOrqOG<^y14PnxxG0j^j411:j4r<Ox<tG:rGjGxoO1or4xR}jOrjjG<rGrR<{qx&qO<jGGYRj1xjqxoBGORj{Gx:1xoo^4(U{Oxj:^o:<S:^{xn::Oqr^GU:{1{<RrO4^1Mj1xn:nxO<<j441OjorGOn^14<1x{GxnOj<j4:#^j<rxqY<O^ORG{Sr1q1<xGKROjjn{q:o^G<Rx{Ix:qjOG<^R1{:xxrRoO^4MG{:nx:<oR^zD:{jnG::q1xO6x1onOr4OG^R/11<4{raOj^j4<1:n1r<:xnG4ORGjGr1O1<n4xR*Onrjq:<:G<R<jxx&rOxxGGR1j1xxqxoRGORjqxx::^o<^>S({qxj:GnnG13r{xn^:Ooj^G!:<4n<rwOa^rzj1Gn::1gr^x4O1OjGrGO:^1^<<:j_rjOj<:4:R{j<rx4:<OG4RGj1r1q:<x<UO:jjxqq:oGG<4r{lxO{RoGG1R1{Oxx:+oO<jq<{:n<:<Ov^fGo{j{GRxo1^xFx1OnOx1OGo::c1<jJreOj^j4r1:j1R1Ox<o4Oc^jGr1O1<<q{R_jnrjq<<:41R<1x4GqOo4GGR{j1n:qxqOqxRj{qx:R^o<Gn-_{1xj:OGnG1b<{xGo:Oo{^Gejn4n<:xO%x1wj1^n::1jq^x4o1On1rGO:^1^<Tjj6rnOj<q4:Rnj<rxx1<OG4RGjxr1qo<x<8O:jjxqq:oGG<4r{NjO11oGG{R1{rxx:joO<jq<{:n^:<oR^Mgq{j{Gxxo1^rex1onOr4OG^14o1oj4r_OO^j4^1:j_r<Oxx<4O1jjGrjO1<<4xR={nrjqG<:G%R<jxx_qOn4GGR{j1xnqxo4GORjx<x::Go<GjPu{Oxj:GxOGRQ<{xn4:Ooj^GVj{Rn<:xO?^1tj1Gn::1Oj^x4a1ORRR^{<xxqO<nG^M4Oj<x4:11j<b61on<qROO^42{1G<xG<ROjjxGjOxRr4oR{_xxqjoGG:qG^o4{1noO^GfG{:x1{qnRrjOn^RGO::O^^<ix1FGrRjj^xRqj1<j7r6OO^j:OO4G1Rr{rxO4OR4jGr:O1n<q{o4^G_::O<:41R<{j4RqO<jGGRRj1x<qxoU:rRj{^x:q1o<Gx#,RO41:GorG10o{xn4:Oojoo-:{1n<:jOf^:yj2:!j:1O<^x4q1On{rGOx^14:n{j,rOOj<r4:1Rj<r1<^<O4jRG{Or1qo<x^GqojjxGq:oOG<Rx{Cn:RnoGGrR1{:xx:PoO<jq<{:xR:<on^QMj{jnG1no1^OFx1(nO:jOGo::X1<njriO:^j4^1:n1RrOx<z4O11jGrrO1<:1{RljOrj:o<:4RR<jx ^qO<jGGRrj1x<qxqh<:Rj{Gx:q1o<GR/6{O!R:GoxG1b<{xn3:Oqjx<m:1Tn<:jOK^rBj1G4{:1O<^x4G1On{rGO::j4o1xj3rqOj<G4:11j<rxq&<OGjRGj:r1q<<{G ROjj4Q{{joG<RR{_xOqjr:rxoR<4!R:4oOGjIG{:x1:<roqstO1:nG::o1:rqx<<4qKMjq:mq^<{G4R:{x^R4^1:j:r<Ox<vor<{^6_1jRnqO{or<Va4q^<:41R<jxxyqO<jGGRrj1x<qxoTGORj{G1:q1orGxHQ{O!4jOj4rn^O{xnq:Ooj^Goj<{4nR4jjrnq_1^n::1O<^x4-1Oxj{4Or^14<1xjhrOOjoOo:11jxrxqw<OO<O4^<*G{rnjGfRxjjxGq:x4:{q<^oxO:ooGG:R14nLRR<r1r4On^R4OR:ox^<kO{jnG{<jqxqq1%onO:jOG^:q41<nnrDOO^j4G1:{1hOOx<44O1{jGrxO1O<:jRdjqrjq^<:GnR<1x4GqO<{GGRrj1n<qxOGxoRj{<x::qo<GxAMRO41:GoxG1QO{xn4:OO1{:z:14n<r4ON^O7jR<o1:1O:^x4q1OnjrGqx1<4<1Rjyr{Oj<G4:11GqrxqO<O4jRGj:r1r<njG-Rjjjx:q:o1G<RxqoxO:GoGG1R1{<xxxi1nGjN:{:n<:<o{^dGOx4nG:1o1^x=x1jnO:j11^:4U1<j0r-O:^jGGoGn1roOx<O4O11jGr:{4<<4nRMjOrjqG<:^1OOjxx4qO<{GG_Gj1jxj1okGqRj1qx:qRo<GR0,{xqR:Go:G14r{xn4:OOsdo>:{1n<x1Oe^qyj1G4n:1Oo^x4+1OnjrG::n_4<1njkrqOj<<4:&#<^rxqG<OGoRGj:r1r<j1G?R:jjx<q:<RG<ej1jxOqRoG^^R1{<xxrGOjGjtO{:nO:<ox^64:R^nG:{o1^nYx1unO:jq^^:4<1<nxrdOO^j^G1Rn1rxOx<O4ORnjGr:q1<<G RUj{rjqG<:41^qjxxGqO<jGGRxj1n<1<ovGqRj1Wx::Lo<GxO^{Ox{:GorG1D<{x{ux:oj^^S:{Rn<:1Om^O<x1Gnr:1OO^x441Onj1XOr^14<1nj-rOOj<^4:11j<rxqn<O4jRGj:xGq<<xGm^n^x4q1o<RG<Rx{&xOqjoGOO^1{<nx:PoOGj<^^xG4R^jOxoqx<4HGRq{4r{q1<rGoRxOG^rD11<nx1rOO<r4G1:n11r{{xo::^o^d :1^n:O1Or^Oc4qG<j41R<jx1j{RnRrOR:{<x<qxo+qxOn^rdR1xnrGnu>{Oxj:Go:G1k<{xn>:{oj^G8:^GG^R4jqxGq4<On:rxO<^x4f^^Gn.q{nx^oOoR^<ux{nn_<r11jrrxqW<OOGO<GrFn{rOoG_ROjjjG^<<1GoRx{ExO:4oG^x4<{<xj:?oqGj+G{:j1rjox^GCO{1nG:{o1o<Hj1%n::jO<^:4:1<jMrOOO^{4G+Gn1roOx<G4ORJror:O1<<^<R%jqrjqGxn41RojxxtqO<jGG4:<;x<qno)GqRj{:x:q1RrGx 4{Ox{:Go:G14GqqnE:1oj<jp:{Rn<:nOH^x{R1Gn::1q1^x441OnjRoO:^R4<1nj_rOOjOG:x11jorxq4<OG6RGj:e4q<<jGQROjjxGq:O1rORx{GxOq1oG^^R1R<4j:0o:Gj(<{:n4:<qxxGJO{1nG:xo1^:tx1Ixo:jO^^:WR1<njra:jq:4G1rn1x1Ox<44O11jGrj<4<<4xRk1Trjq^<:41oqjxx4qO<jGGR:j1j<o1oVGqRj{^x::oo<Gxk4{OxR:Go:G1z<{x{Vrroj^ob:14n<r^O+^OG<1Gnn:1Oq^x4&1Onjx1O:^R4<1{j#rqOj<GOO1Rj<rxq4<O4jRGjrr1q<<xG_RRjjxGq:<1G:Rx{lxOj:nnrnqG{<x1:ZoOGjOR^rGG1jon^0?O{jnG::o1qr<x1Qnr:jOG^:qn<{G:r4OO^j4G1:n1r<xo:&4r1{jGrRO1<<4x<<^og^{rn<:^o:jnx8qO<jGGR:j1x<qxo4GORj{Gx:q1o<^1<w1rxj:Go:G1Oq{xn4:Ooj^G=:{1{<RjO+^qAj1^n:roO<O_O<1On{rGO{^14o1xjOrOqc4o4:11j<rRqT<q4jROrnr1q<<xGRROj{xG:xj{G<Rn{cx:qjoGG:41Eqxn:4oOG{}G{jx1:<O1^hK:{jnG::o1^<GxRjnO:1OG^x711onxrmO{^j4<1:jWr<Ox<HG:R^jGrnO1<{4xRwjOrjqn<:4RR<j{xwq:<j<GRjj1xoqxo4GO}4{Gx1^^o<GnCi1Oxj:^o:GRZ<{1:^:Ooj^G4:{1no:xqG{jVj1^n:rOO<^x4WRO4<r^Or^14q1xj4rOOj4<4:1Rj<rjqZ<O4jRG4OrRq<<xG4ROjjxGqr<1G<Rx{tn=qjoGG:R1{:xx:LoOxmO^<n4r:<OG^fTO{j?o1{jxrrO{o<4nR*OG^1Q11<nx1<{ox^qro<G^r<qG<a4O1jUOU414n<:Oo4^R(RqG<{41R<jx4^1Ox{rrOOj1xjqxo/GO^R^^4<1xnO:nO^<4xj::o:G1-<GG4RRGj*rqqx{1nr:xOz^OoGo<4rRnjr^x4o1OnjrG{:x4qooOGjrOq.<G4:114:RR1:nx^4RGj:r1q<x{G=R:jjxGq:<1G<Fx^xxOq1oGGxR1{oxx:WnrGjX<{:x1:<ox^)GO<1nG:xo1^Okx1:nOxj{<^:4U1<njrXO{^j^Goxn1rOOx<G4OR^jGn:1d<<4jR*j:rjqO<:^1OOjxxGqO<1GGRxj1n<r<o4G:Rj{jx:qRo<Gx4:{Ox1:Go:G1S<{x{}rjoj^<P:1in<:{Ob^O4^1Gnj:1O<^x4 1Onjr^O:<_4<11jPrqOjo<4n11jOrxqr<O4jRG{xnGq<<{G>RqjjxGq:O1rORx{^xOqRoGG{R1{<.{:uoxGjIG{:x1:<qxxGLO1ZnG:jo1^xNx16Rj:{Oq^:>R1<nxr7OOx44G1xn1rrOx<44O1j4drrO1<<4nRajOrjq<<:41R<jxxxqO<jGGR:{Gx<qxo2r<O4<x4jq1O+Gx=B{O(4RGnj:Rq:^RR:1njorrq)oGno:xOl^OPj1Gn::1O<^x4q1OnjrGnjx{qno4GjRn{2<G4111j<rxj<no:^or^<d^q<o#GZROjj4<{{nnr^qy^oxO:)oGG:R1Gs4^R^jxGjIq{:x1:<x(xGOq<r4q::Oo^<dx1wRxR4{oxj:(o^^^r8On^j4G1:^GRojjxjqn4{jGr:O1oOjjRQjrrjq^<:41R<jxnoqOo.GGR:j1x<qxqmGRRj{Ox::Go<^4%b{Ox1:Go{G15r{xn&:OO.<n+:{1n<n:Od^qmj1:{o:1On^x^11On{rGOr^14:n{jvrOOjq;4:1Rj<rx{^<OG<RGjrr1q<<xG_1xjjxxq:oOG<)5{/xj1Ro^^bR1K<xx:4oOGj%G{j:4:<ox^k^O{jn^::q1xOUx1rnOr<OG<C21H<{jrcOR^j4n1:jqr<Oxq14ORojGrxO1<o4xVG<orjqn<:G:R<jxxcrOn1GGk4j1x{qxoOGORj^ox:::o<GxgC{OxjxGjxG1;1{xnx:OO^^GU:G<noroOk^jXj1Gn::1jr^x4r1OjqrGOr^1GOOrj/rROj<j4:11j<nx1G<OGoRG{4r1qx<xGIorjjxjq:<RG<Rx{*xO1xo^^^R1{xxx:YoOGj&O{:nq:<Oo^EHq{jnGrgo1^{0x1HnO:jOGo:441<j^rfOR^j4O1:j<rOOx<r4OujjGrrO1<<4xR<rrrjqG<:^1R<jnx,qOxRGGY4j1x<qxoEGO4jR<x::qo<^^0#{:xj:GrOG1S{{xnG:Oo{^G3:<4n<r^O_^O#j1Gn:x1{O^x4r1OjorGOR^14<:RjarROj<n4:11j<jbj<<OGoRG11r1qo<xG^RO{hqoq:<1G<G3{QxqqjoORnR1{<xxnUoOG{_G{1G4:ooj^KGR{jn^::o1^<Z1n^nO:jOGO4Q11onxr<^r^j4G1:11r<On<*4O<RjGx4O1<<4xR+jOnjr<<:GqR<{^xhqn<jGGjoj1xRqxo3GORj{Gx:1^o<^^D}14xj:^o:^G{q{xn}:O:j^G?r{1nxRGOb^rBj1qn::RO<^j4k1x:RrGO:^14r1xj4rOOjrC4r11j<rnqU<O4jRoj:r1q<<x^dROjjxGq:ooG<Rx{uRx1nnr:ROx^rN1:-oRGj&G{:Ro1rj1q:On<o4rRh{G^<_{1QnO:j{Er{:o1<jGrvOO^jO<oq^GRo{1xr:ooxj^r:O1<<4xRM<ORGnG<:G^R<jxxLjnrw:nOoVExoqxoQGORj{Gx:q1r<Gn,({Oxj:Go:G1R<4rn?:xoj^Gm:^44{u<jo^qmj1Gn::1O<^x^<xOn{rGO:^14<1xjQqOxn<G4111j<rxn:no::oOG{4?q<o<GEROjj1o{rnjrxon<^Rr1ojj:{R1{rxx:)oOqGq<^r4n1ron^82O{jnG::o1^<_x1BnR:jOG^:oqoG41Rrjrr{:Ooq^i1:Ox<M4O1jq{r:qC<<4xR*jOrj:G<x41ROjxx4qO<{GGR:{Ox<qjo.GqRj{Gx:q1OxGx_^{Oxj:Go:G1G<1rnM:roj^oD:1jn<rjO1^O4>1Gj^:1O<^x4d* njrqO:^14<1njIx:1n<G4111jxrxqW<O^jqOj:x<q<oJGKRrjjn<::<1GnRx{:xOqjoG^xIr{<nG:go{GjIG{:jcrjox^rWO1nnG::o1^<=n1Ijf:jOG^:a11<{xroOO<O4GRGn1rOOx<}GR1jjjr:qr<<4xR+jO{RqG<141R<jxxGqOoj^{R:{^x<:^o,GjRj{GjGq1oOGxYo{Ox{:Go:<4,<{jny:qoj^GM:{1jr:xO^^OJj1Gn::1:<<n4!1rnjroO:<j4<ux{4rOOR<G4n11{ rxr=on4jRoj:x4q<oOGk4O^1xGqn<1GqRx1MxO:1R:G:FG{<no:NoOGjmG^OxR:rox^*UO{{nG:1{4^oIn1u{O:jO^^:*11<n1O^OO^j4G;:n1roOxoGnj1jj:r:q^<<4xRljj*Rq^<1414<jxx4qO<jGGRjx4x<qxob<ORj{^x::GGqGx=H{Oj{:GorG14O:Knf:joj<4c:{1n<rxjx^O441Gnj:1Ox^x4k<Qn{r<O:<^4<1njDrOqx<G4x11jorxq5<O4j8qj:x4q<<jG!ROjjjG:1<1GqRx{^xO:xoG^xt<{<x1:,O4GjtG{:x1rRox^opO{jnG:ro1<O4:1Ynj:jO:^:?11<{x4<OO<G4G11n1rqOxoGGx1jjrr:qO<<4xRg{:xoqGoJ41RnjxxBqOo1^<R:{qx<:rogGORj{Gjoq1o1GxJG{Oxj:Gq:<x#<1<nCr3oj^<,:{1{2:xOx^O4q1Gn::1O<q{4&1jnjrGO:<y4<RxGxrOq4<GG411jxrxq0x&4{R<j:x^q<<nG+RO14xGqx<1GoRx{HxOqjOGG:S4{<x{:soOGjGG1ux1:qox^^2O1xnGrxoR^<I11)j4:jOG^:%1R:nxroOO^j4G1rn1xOqo<U4j1jj:r:O1<<^xq<jOxGqG<141RqjxnGqj<jGrR:{Ox<qxoX^:44{GnVq1o1GxU.{On1:qo:^qg<1rn#:Ooj^Gz1{1n1:xO^^Odj1G{:x4O<<<4MRunjr<O:^1Gx1xjxrOqq<G4:11j<{{q?<j4jRGj:xVq<ox:xRO{4xG:4<1GxRx{kwzq{o<G:Z^{<xn:-oOG{hG{xx1:oox^mpO{jjO::O4^<S11TnO:j:G<O511qnxr^OO<x4GRxjxr<O1<aG41jjGr:O1<n4xRojOrjqG<r41;O1oxDqj<jG:R:j1x<rx{<GOmG{Gx1q1oqGx4G1Oxj:ro:^{)<{xn3r:O{^G4T{1j^:xOg^O41R<n:rqO<<r4W1OnjrG:o^1411xj<rOOj<G^:Roj<x<q+ok4jR<j:r1:o<xGxRO{qxGq:<1G<^{{ZxjqjoGG:_U{<nx1xoO^4NG1ox1:xox^%On{jn<::O^^<3n1NnO{xO^^:L11onxrTOO^14G1:n1r<j<<)4O1jjGrjO1<<4x^OGR5:{1<r41R<jxx8qO<joj^:j1x1qxocGOqI<4,R1ojJ:RO4^:4:1qo:^jy<{xng{xj4xxqj^ORoROjrr{qx<R4{Rj{:^n4U1OnjrGO:^1R<GrjDxOOj<G4:^_GoR{{nx{:1O4^{lj{::{:ROG^n4<xn<1GrRx{ZxO{4rOr4OnyOxn:,oOGjVG{:O1{O4x^4HO{jnG::o1^<^:xPnOrGOG^:g1^:GrRqj{x:qq1:jGr<Ox<fOGo4G:#jO1<R4xRcjO{{1}xn:OO^^jR01onorPOjj1n^qxoYGO<j^1ur14nrrGOR<G4i1qjx:GOroGG<:qoj^GY:{1n<:xx1qOcj1rn::1O<:1qoo1^P{<{qnO4<1Rj8rOOjrG:qoq^G 1ql<n4jRGj:Rf{{n4::Oxj{xGq:<1G<Rx{*1RnjoG^4R1{<xx{<nnx<qOG<hR1OnRrj*O1onG::o1q{q:<<4R1Rj^xjq{oOnnr_OO^j4G1:n1jLxx<s4R1jjGr:jGxrrGO<0r.n{1nqriR<j{xvqO<jqoO{^Wx<:goaGORj4o4q1xj^rj^^{On?:Go:G1o:^RG:Rxo{^Gw:{1n<:xOPoxjj1Gnj:1O<^xoOoG4{RrO:<G4<1xjl{j{nnf:j1Rj<rxqi<O4jRG4^{1q<o#GMROjj1^{nn4:rO:<<xO:4oGG:R14q4r1jjor1pG{{x1:<oxqOqG^{4rRnoR^<cx1 nO:j1Gqj<11<nRrLOO^jonoo4RRnjR<m4{1jjGr:n{nxqROG^GR{1n<r41R<jxx;qO<jGG^:j1n&qxoeGO<R^q7nRGn{rrO14r4n11jqx+l<1xnE:Oojqoq<<qG<R{x<rnqR<o4{Rjj:rnq1oxGRr^O:^14<1xj*rOOj<G4:R:j<rxq6:R:ro^GRT^jCxn:Gon^:xGqR<1G<Rx^O4:1nnRqx<o4Oxx:^oOGjZG!O{jnGon^;}O{jnG::o1q:<x1Qnr:jOG^:o_<oGjrCOn^j4G1:7xRojjxo:G1jj:r:O1<<OGoR^Gl={qnx41R:jxxTqOx4OOO4^nx<rco=GORj4<sr14nRr4qG<oG4R)nj:GqO^n41Rrjjr^qx<^GG1{{r^q(j1Gn::1O<^xorxOnjrOO:^14<^OGrdr1H<G4j11j<rxj<nR:joqj:x^q<<xGM^j^1}^1on^G<R{{}xOqjr^:jOG{oxx:voOGjeG{:1Gj<ox^OzO{jnG{:nRxOOR<1Gx:{OG^:k11<nxr(rjqj4G4Gn1r<Oxx::xO8^G{Gr{q^r4Oq^{jx1<nq:DOl^r4:x<xRr4OoR{)o1{j^:nqEV41q1qn:Oq^qB1{1nr:{o1^:){1^nno{^GD:{1n<:xOKox<j1GjG:1O<^xoro<Gjpq{j:2qro4G4z<O{<G4:11j<rxqU^OonRGjjr1q<<x:OOGG{Brq:ooG<Rx{}1r1njarOO^^q41:4oOGjKG{:x1:<O1RJYO1fnG::o1:GOn<{4n:jO{^:&11<>1Ro{1nQOrox4Rt<{xxoqx1jjor:O1<<O{oo^xrjqq<:41R<4^c11Oj4rOR:{^x<qxobqjo{^14{1^o<^<K!{Oxj{ojqx^qO^{4o{rn{xfqn14no:xOx^OZj1GVjR^{jx1o^ooG:N4{xq44<R^jFrOOj:::qo4^rZ{njno:ROOj:x7q<<xG-<n4oxGq:<1G<Rx{mx1qjoGG:<1<^4{1rjxroq4<Ox1:xox^T+O4RG<1{nRx:OR1Vnx:jOG^:O4<{^<RoOq^j4G1:n1r<Ox<2{O1jjxr:O1<<o{o4^GM:{<xr:4oRjnxzqO<jGGR:j1n:nxo4GORj{Gx:q1o<oG<Z{qxj:Go:G1g<{x1rjOoj^ok:{1n<R:jox{hj1rn::1O<r1qo<j4{kq{<nG4<11j rOOj:q:OO^^4rxqO<O4jRG4n5x{{x1:oO:jjxjq:<1G<<^^14OR4jOO{Oj^:AR1<oO^^%G{:x1{xnRr^qx<nG<nxo1^j+x1HnO1sjqnC:G^qG^/xjn^j4q1:n1r<n1x:qnorGqnoqN<<4xR7:rrjqr<:41R<jRxs:Oo:GGRRj11<qxo4GOGj{rx::oo<o{y8GjxjrGorG1zn{xR<:OO*^GG:1nn<rGOJ^nzj4Rn:r<Ox^x4:1Oj<rGOr^14o1xj<OrOj<G4:ROj<rnq+<OOGR^{)r1qo<xGARO{j2jq:ooG<4o{>x1qjOG^OR1{nxxjRoO^G8G{:nn:<OG^+&O{jnG::q1o4gx1:nOr<OG:481Z<j<r+O1^j4x1:-xr<qjoj4ORojGjjO1<<4xRe{xrjqj<:41R<j{xt:OoxGGsGj11<qxo4GORj44xr:ro<Gx!k{OxjxGOjG12R{xnn:Oxo^GG:1rn<roO-<4#j04n:x1OR^x4n1OjqrGr{^14<zEj7xGOj<^4:11j<nxqo<OG:RG{<r1j1<x<NR:jjx1q:oxG<4R{bn:GRoG^oR11jxx:IoO<jLo{:nn:<Oq^#GR{jj<x^o1<GQx4OnO:jOG<x4j1<jrrErj^j4G1:{8r{Oxo>4OGGjGr:O1<<^oRU{^rj:G<:41R<jxxoqOoqGGR:j1xOqxOQonRj{jx::<o<^oZ,1:x{:GO^G1en{xnL:Oqj^:0:1rn<roO;:rsjR<jn:1ql^x<j1OnjrGqx<44<Rqj2nxOj<G4:3/jorxq1<O<^RGj:r1:OO^G,uojjj^q:<1G<Rxq1xO:qoG^qR1{Oxxr_qcGj8j{:Rn:<Oo^-CO1rnGr^o1^<Wx1!nOxjO:^:4r1<jorLxR^j^GRon1rROx<n4O^:jGxx:<<<GORiRxrjqG<:41RRjxx{qO<1GGRjj1{<nro.^^Rj4Gx:xjo<Gx^R{qnx:Go:G1h<{x{?:1oj<sd:1jn<{^OzoO4R1GjO:1qG^xGR1O{jroO:<j4<R:jMjnOj<G4r11{^rxq4<O4jRG1:nrq<orGlBojjRjq:O1G:Rx{RxO:noG<{R11Oo{:.OOGj4x{:x1:<qx<<CO1jnGr:o1o{?xRGjx:jq^^:<:1<nxrBq:<q4GRxn1j1Ox<%4OR1j<r::4<<o<R8jOrjqG<R41L<jxn^qO<jGGR:1<x<::o_GORj{<x::1:rGx.{{OnG:GOOG14OR^nMr<oj^re:{1n<xxq^^O4x1GjO:1nq^xGGRrnjx4O:Oo4<1xjWx:OR<GG:113-rxqQ<OG1ajj:xRq<q4GCROjjn<:q<1^ORxSjxOqjoGG:1:{<n::sO:GjJ<{:n1rnox^{TOGqnGrOo1<OJR1Mj<:jOr^:-11<{xx{OO<x4GROn11qOxoGGq1j{4r:xx<<4xRT{:rRqGo:41<Gjxx2qOo1GRR:{Rx<nOo-GORj1<<1q1OOGx<1{Oxj:Go:{j%<1:n_r:oj^<N:11nr:xO{^Oor1GjO:1O<oO4;R<njrGO:^14<Lxj4rOqx<GGO11({rxrbo{4j=aj:xjq<rOGEi:{nxG:q<1^qRx{HxOqjO4G: 1{<xx:mO&Gj^G4qx1r<oxqY5OQrnGn:q1^<4x1%1O:jr1^:G#Rjnxx4OO<^4G1:n1n<qq<bGq1j{^r:j4<<GjRjjOx1qGOR41R<jxnG:{<j^oR:41x<qxoc^:RR{Gnjq1qnGx;X{On1rqo:<^?<GxnW:Ooj^GRG{1jo:xqo^OV11Gj:xqO<<x4h^4njx^O:oEGo1x{4rOq^<G4:111<n<q.oq4j_^j:R4q<ojGrRO{1xGn<<1G<Rx1Gj^qjOoG:hO{<xx:+O:^okG1jx1xnox^_yO11o:::q^^<4R1gnO:jOG:^?RRonxxoOO^14GR:{or<qx<ZO^1j{^r::D<:4xV4jOR4qG<:414<{xx3:q<j^^R:1xx<rxoqGO8{{Gnrq1rrGx4*{jxjrGo:<xU<1nn3rOq<^G4:{1j{:xO4^Osj<on:rRO<^n4u1OnjnGjx^1Go1x{4rOjO<G^:C4j<xnq7oq4jV:j:x1:<<x^PRO4^xG:r<1o<4O{VnOqjxnG:4^{<{x:1oO^j8G4rx1jxox<GGK{jj^::n^^<Yx1?{OxqOG<r61Ronxr<OOoj:<1:jRr<qn<hG41j{G8GO1o<4xR<jOx{qG<:xxR<{:xu:O<jG<R:j1eqqxoRGORj{Gx:q1q<GrEb1oxjr4o:qqF<Rxj<:OOn^G4q{1>%:xqG<:%jRGn:jGO<^x4C1OjGrGqr^14o1xj<rOrj<O4:RRj<{xqCrj4jGG1:r1:o<xolROa:xG:xOGG<%j{px{qjoGG:411oxxrGoO^1fGGnx1rOOn^z4r{j{r::o1^<4jRonOxgOG::811<nxxGOR^jGq1:Rxr<Ox<uG:11jGx1O1<{4xRMjOrjoj<:^eR<1PxSq:<j^Gvdj1noqxrnGOm1{Gnxrqo<^jDB{{xj:Go:<1G4{xjG:OO1^Gon{1jO:RON<rdj41n::1O<<j4O1O{WrG:G^14<1x{GxpOjoq4:4oj<rxqLo:jGRG{1r1x1<xGKROjjoEq:OJG<4A{_x:qjOG^zR11oxxj{oO^1JG{:j^:<Oj^gLO{jnG::q1<oKxRGnOr1OG:401_<{4rbq:^jG<1:Mxr<qj<O4ORRjGjjO1<<4xRU{<rj:O<:41R<j1x)xO:nGGpjj11<qxqjGORj44xrr^o<GxpC{OxjxGO<G14r{xjo:Oxo^GG:Ron<rRO*<nJj;4n:x1qO^xGo1O{4rGr{^14<R1jVxjOj<^4:11j<nxqj<O^GRG{1r1j1<x<J71jjn:q:O<G<4R{7n:GRoG^RR11jxx:poO<j4v{:jo:<q4^wGR{jj<x^o1<j8x4OnO:jOG<xGr1<{^rbrj^j4G1:{hrrOxox4OGGjGr:O1<<^qR2{{rj:j<:41R<jxn<qOO4GGR:j1xOqxO/::R{1Ox::<o<^Rg%_Ox{:GOjG1Gx{xRO:OO1^q_:R^n<r4OK^O+jXG{o:1qr^xGo1OYRrGqxor4<A;jS{GOj<G4:I#{1rx:q<O<^RGj:r1:OOqGVe1jj{1q:<1G<=jqOxOrooG<RR1{<xx:L7<Gj4q{:jq:<oj^!4O14nGrjo1:4sxRonO:jO{^:G^1<nxr;OO^j^G1xn1xrOxoo4O^ojGn::q<<GRRH{nrjn1<:^!0qjxnOqO:KGGR:j1x<r^oC^{Rj{Gx::4o<ox^R{Oj^:Gr:G1to{xnijoo{<xy:{1n<:xOEoOG:1G{y:1qj^xor1O{jrqO:oO4<+Gj=noOjOGGH11{jrx::<O^^RGj:xnq<O^GYRqjjxGq:O1^RRx1rxOrooG:GR1R<n<:NORGj4n{:jj:<Oj1^wOROnGxIo1^<Bx-g{G:jqj^:G:1<1^r7q:oO4Gm^n1xOOx<N4OR1jjr::x<<GjR>jOrj:<oq4144jxnGqO<jGGR:1ox<r<oA<^Rj{Gx:q1quGx4:{Oxj:GoxG14<KRnhr{oj^:f:ROn<rjqj^OG<1GnR:1O<^x^SR1njxxO:oO4<^{jsx:qG<G^411jrrxqI<OG1_4j:n:q<q4G)ROjjn<qx<1^RRxMjxOqjoG^x2^{<jO:_q{GjpG{:x14-ox<:XOR:nG:xo1<<q<1Uj{:jxR^:GO1<jjaROOo<4G4qn1r<OxOi4q1{{xr::O<<O{R({:n4qGO4414njxx)qOo1^OR:1:x<jxoXGORj{Gj^q1OjGx4x{Oxj:Go:^ob<1Rnl:Ooj^GT:{1j^:xq<^O?j1Gnr:1qOnr42Rnnjj4O:^14<WxjRrq:4<GG{114qrx:Gox4j-:j:joq<<xG3*:{OxG:R<1q<Rx{uxOqjOOG:4^{<j4:6oOGj6G1jx1rOox^#PO{1nG::qq^o4{1AnO:jOG^:G11Onxx^OO<R4G^4n1n<:><*Gr1j{or:nx<<Gj)qjOn_qGqj41R<jxxdq:<j^qR:j1x<qRoeoO_j{Gn{q1r<Gx4!{On1rno:<<V<^GnQ:OojoGqx{1jx:xqO^OoR1Gjx^<O<o44d1nnjrGO:o&nx1x{:rOq4<G4:11j<GOqgoj4j&xj:x%q<ox:xRO14xG:<<1^xRx{l_rqjO:G:RR{<xx:wqOr1,G11x1rxox:x&ORjG<::q<^<Gz1/{<:jqGO{K1RrnxrOOOoG4GRxj:r<:F<-4{1jjGr::1o:4xAOjOnGqGrn41NO{:x>:{<jGqR:j1x<:jo:GO4<{GjRq1o<Gx4G1rxjrno:^^H<{xn,r:q<^GGG{1{n:xOC^Odjjjn:x<O<o<4Q1:njxGO{^1Gr1x2nrO:G<GGxKqj<nEqc<{4jRGj:n1:^<x^ORO1GxGjn<1^OR1{.n{qjqrG:R1{<njrnoO<<HGGrx1:<ox<G4r{jjn:::o^<Lx1Xj:x<OGoGU1^onxr+OO^j4j1:{<r<:<<v4:1j{Gr1O1or4x^{jOnGqGoxGRR<1!xAxo<jGGR:11nnqxOOGO4G{GRnq1OO^rZg1{xjxro:G1w<1jjO:Oq<^Go:{1n<:xO,:Op{R:n:xOO<^x4.1O{^rGqn^14<1xj.rOOjx14rRRj<rxqN<q4jRGo<r1:^<x^4ROj1xGq:OqGosx{txOqjoGG:41{{xxrboO^jdGG4x1x<O4^;4O{jjG::xx^<4j14nOr{OG<qV11<nxrT:4^jG<1:n1r<qO<%<O11jGxxO1:<4x^^jOx1qn<:^4R<GGxpqO<j<GOxj1nqqxO^GO<R{GnxG<o<^1M?4Gxj:Go:<0xx{xjo:O:^^GW:{1n<4OOk<rdjRqn:rbO<<xqx1Oj1rGq<^1Gq1xR_{oOjo<4:41j<{Oq}qO^jRG{xr1:4<x<xRO{1x:q:O4G<F4{UxOqjqG<4R11qxxr^oOqRyG1xjo:<O1^=<G{jnG::q3<qixRonOjnOG^:(1ROj:rdqj^j^r1:n1r<qjo^4O;^jG1:O1<<4xRTn)rj:o<:^oR<jjxD:OoxGG+xj11RqxO^GOM11Gx:r4o<^4zN{OxjxGO:G14q{xj^:OxR^G4xRGn<r1O?o{mj1Gn:x5qn^xGo1OjxrGO:^1GO6qj;xjOjOr4:11j<xj4O<O^^RG{{r1q<<xG-:Gjjnoq:OoG<Rj{7nOj1o^^xR1G4xxr^oO^1=r{:j4:<xR^f5O{j{Gr:o1<qAxR^nOx:OGo:?R1<j{rpqr^joq1:j1xOOxoG4OW:jGxnO1q<GrR;{:rj:n<:O:R<jxn?qOoRGGRrj1x<qxqw::Rj1ox:r4o<:<dQROnG:GOnG14q{xjO:OOj<RP:RJn<{4OT<rwj4Gj::1qO^xOr1O{4rGr:oo4<Rjjp{qOj::4:UM{qrx:^<Oq4RGj:r1r<<jGN rjjnoq:oGG<4x<GxO:RoG^nR11oxxr.jZGj4<{:nG:<O{^>3OGjn^r:o1<ONx1_nO:jj1^r4n1<nxrPOq^jG<Oqn1xGOxOR4O1jjGn:OR<oG:R*{<rjjo<:^z/qjxxRqOq^GGR:j1nO:no>^ORjGGx:q1o<GxBq{Onx:GO:G1m<{xnsr4oj^{D:{1n<:xO;^OGF1GjG:1O<^x441Oj144O:<r4<4rj7rOOjOGr^11jRrxqn<OORRG{xx:q<oOG74{jjxGq:ODGORx{{xOjjoGG:R1{<j^:UO4Gj8R{:x1:<ox<<IO1<nG::o1^OPxRznR:jOr^:<G1<jGr(OOrx4^Ryn1r<Ox<s4ORGjrrrqq<<4nRdjqrjqo<:41o:jxx_qO<1GGR:j1x<{1oSGORj{ox:q1o<GxO<{Oxj:Go{G1f<{xnO:{o{^jp:17n<:nO}^nCj1G4j:1O<^x4r1OnjrGO:xG4<1xjer{Oj<G4:11G:rxqD<O4RRGj:r1q<x1G5ROjjx<q:<1G<Rx1oxOqjoGGxR1{<xx:Oo{G{I{{:x1:<on^#8n{jnG1jo1^<Ex1rnO:jOG^:qG1<nxrsO{^j4G1:n1R:Ox<c4OROjGr:O1<<q1RMjOrjqq<:41R<jxnoqO<jGGRnj1x<qxOwrgRj{rx:j_o<^oeZRO41:GO^G1Qr{xn^:O:G:OX:1rn<{qO4^qwjG:n:rG^q^x4J1O=rr^Or^14:n{jyrOOjrq4r1Rj<xYqq<qGqRGj{r1qo<xGOROjjnqq:<1G<R{{_xOqjoG:jR1{<xx:qoOGj_G{:j^:<ox^Fp:{jnG::o1<rAx1YnO:jOG^:l11<jRrBOO^j4^1:n1r<Oxx<4O1jjGr{O1<<4xIa^Qrjqr<:G:R<{ox>qOxRGG_^j1x:qxo GO4j<<x::ro<^o2SV:xj:GnnG14m{xn<:Ooj^GG:oBn<rOOi<Gyj4<n::1Ar^x4j1Oj:rGO:^1^<<:jMxGOj<14:Gxj<rx^n<OGqRG{<r1qn<x<}RRjjx{q:ooG<G1{TxO:4oG^<R1{:xx:uoO<j4q{:nx:<OO^h^x{j{Gr{o1<lXx1jnOnxOGo:4o1<jOr8qG^j<<1:j1rROx<n4OG^jGx<O1O<^JR6{4rjqr<:oGR<1xn{qOoqGGL^j1{GqxqV^4Rj{{x::ro<:=i#RO41:GO^G1_R{x1n:Oqjo<I:1rn<roO;q<8j1:nR:Rq4^x4<1On{rGOR^14<<1jCrOOj<x4:11j<rx:o<O4jRGj{r1q<<xGkoxjjxGq:ooG<Rx{/xO1=oGG:R1{Oxx:#oOGjOO{:x1:<o{^gZO{jnG1jo1^<bx1onO:jOG^:qG1<nxr3qY^j4G1:n1OuOx<n4ORrjGrrO1O<GxRi{4rjqr<:oGR<1xnqqOoqGG,^j1{Gqxqs^rRj{{x::ro<:wyCROjO:GO^G1+R{xYq:Oqj^^l:1rn<roO q<5j1:nR:Rq4^x4O1On{rGO1^14<<1jQrOOj<x4:11j<rx{<<O4jRGj{r1q<<xG+cnjjxGq:o^G<Rx{TxO1loGG:R1{nxx:toOGjOO{:x1:<oj^)BO{jnG1jo1^<>x1^nO:jOG^:{x1<jor*q^^j4^1:{1x^Ox<n4OR^jGjjO1O<^qRN{4rjq{<:<jR<1xnOqOoqGG8^j11qqxqPG{Rj{{x::ro<qGm}ROnr:GO^G16R{x11:OOG^rLr1nn<:{O}^qZj1^n::1j:^x4=1Oj^rGO:^14<<RjSx4Oj<R4:1Rj<nx1G<OGqRGj{r1qq<x<Oq1jjx{q:OOGORn{X1jqjoORnR1{<xxr:o:G{mG{:44:<Oo^-JO{jnG::q1xObx1nnOrqOG:4!13<nRrfq4^j4{1:.xr<qj<R4OR:jGjjO1<<4xR3{^rjqR<:41R<jRx+xOO:GG8oj11<qxO<GOA1{rx::jo<:G)3{OxjxGO4G14G{xn1:OxR^G4xRnn<rrOKqGPj1Gn:x5n1^xGP1OR:rGO:^14<ROjKx<OjoG4:Rbj<xx:L<OGrRG{<r1:G<xGfR:jjnIq:<1G<Rx{-jOrqoG^OR11GxxjroO<j&j{:nj:<O:^_Go{j{G:1o1<Ghx11nOj4OG^:GG1ojrrSOq^j4G1:{1x:Ox<R4ORnjGRGO1O<G1Rf{orj:4<:<^R<{jxOqOojGG4Jj1x<qxqS^4Rj1Gx::1o<o^yY1:jo:GOrG1^x{xn+:OO1<qm:RYn<j}O)^OQjR<n{:Rqq^x<O1OnjrGO:on4<Rxj/xrOj<G4:11{xrxq1<O4jRGjxr1:<o4GW ^jjx:q:ojG<_j{xxO:xoGGRR1{<xxx>q^Gj40{:nj:<x{^*4:{1nGrqo1qH-x1JnOr1rO^r411<0:r=OO^jG<Rjn1xoOxqj4O1jjGxxqq<<GjRe4<rjqG<:41c{jxx1qOo1GGRxj1n<:hoe^^Rj4{x::jo<^jeo{Onx:GoRG1W<{x{Vrjoj<D2:1jn<{{O&<:1<1Gjq:1:n^x4B1Oj1xqO:<14<4ojNrOOjo<^G11{orxrq<O4jRG{xxPq<ojGiR:jjxGq:<1GORx{1xO:1oGGxR11<j<:.O^Gj<R{:nj:<ox^ryO1xnG::o1^<6xC7xr:jqS^:4j1<k^r8:Ooq4GROn1xGOx:j4OR1{or:q{<<<GRMjOrjqGoO41.<jxxKqOo4GGG:{jx<:xoWOORjRox:q1O{Gx44{Oxj:Go:G1G<1onJrqoj<^-:Gqn<xxO<^O4{1Gjr:1:^^x^}Rinjx^O:<R4<4RjbrOqR<GGx11jorxq6<O^jg{j:nBq<ojGUo/jjjG:q<1^ORx1GxOx4oG^x4o{<n{:kO1GjXG{:j1rfox<^3O1RnGn4o1<Onh1fjx:jn<^:m11<jjr2OOo44G^xn1r<OxoG4j1j{:r:j_<<4xRajOxRqGon41bxjxx+qO<jGrR:{Rx<qxo5G:Rj1GxRq1O<Gx!O{On{:GOx<<I<1nnk:{oj^GY:R1n1:xq4^O4{1GEn:1qO<j44R:njnrO:^14<Rj{<rOqR<G^j11j<rx:GoR4jXOj:joq<<xG2Z:1GxG:{<1<:Rx{dxOqjO<G:AR{<nR:Mo:Gj4G{Rx1r<oxqn_O1{nGrxOq^<4n1%n{:jOG^:G1oVnxx4OO<{4G^nn1xOq{<=G:1j1rr:O1<<GjR<jOxRqG:T41R<jxnG:o<j^OR:Rox<qxoZ^:T{{Gn{q1:jGx(M{Oxjr1o:^Rt<1Rn#::oj<G41{1j<:xx{^O4{1G1:j{O<<x4Tm:njjnO:o3r^1x{4rOrn<G4:111<rnq4oq4jv^j:R4q<ojGrRO{1xGrR<1G<Rx1Gn{qjOoG:<1{<xx:,oO^x_G1rx1rqox^NhO{jjo::Oj^<kx13nO:jOG^R%1R4nxr(OO^{4GRx^{r<q:<u<o1jjGr::1o^4nR1jOxxqGrn41NO{rxt:o<j<rR:j1x<:jonGOAj{GR:q1o<Gx)51xxjrTo:^1p<{xn.:OO:^G4^{1n<:xOG^O3j<on:rxO<^{4H1OnjnG{x^1Gi1xjjrO:j<G^:OUj<xqqS<{4jK{j:n11O<xG1RO{4xGjj<1<x<1{Dn<qj^RGrRR{<Rw:_oxRRHG{:x1q4on^45O{jr<::Oj^<#x1(nO:jOG5o)1RGnxr4OO^j4G1:OOr<qO<EG^1j{7r::1nO4xRjjOx^qGqj41BOanx4:^<jGrR:j1x<rxo4GO>r{Gnoq1xqGx4G1Gxjr5o:Oxm<{xnBr:Oq^G4q{1{::xO7^O4111n:r1O<O44,1Onjx<qR^1Go1x{{rOOj<G4:Lnj<xqqyoq4jR<j:x1{1<xGjRO4rxG:o<1<<Oj{snGqjorG:^G{<jxRGoO^:2G1<x1nGoxoSq:{jn1::Ox^<O+1fj:j{O^<o.11nnxr;OOoj4o1:jnr<qq<WOr1j{<xjO1oG4xGjjOrjqGox^OR<{rx)xq<jGGR:1_x1qxO*GOG^{Gx:q1OO^xbp1qxjnjo:G1w<{xnO:OOr^G4r{1nO:xqexvPj11n:{nO<<q4_*OG1rGq<^14n1xR<rO:jn<4:Rxj<xOqcq<4jXGqrr1qR<xoqRO{:xGr:O4G<aO{px{qj:OG:411jxx:joO^:+GbOx1x<o{^t4G{jn1::qG^<GxRxnOr:OG<<g14Rnxn}q^^j411:jxr<x:<C4jR^j^xOO1<n4xR4jOr1qG<::GR<jxx-q{<jGGR:j1nrqxo8GORR{Gx:q1o<:RP71Gxjrmo:GRs<Rx{G:OO:^G8R{1n1:x:fx:%jR%n:r^O<:14;)j<<rGqO^1G:1jj4rOnG<G4jj4j<rxqCox41R^j:xG<q<xG0RO14x<qr<1G<{j{Hn<qjoGG:R1{<xx<{oO^xiG{rx1:<ox^a{^{jj4::oR^<wx1(nOR4OG<<#1R^nxr4OOoj^<1:jrr<q4<3o:1j1GixO1o44xRqjO1bqG<::^R<{ox6:^<jG^R:j1qOqxoqGOR1{Gx:q1o<q:i4{Oxj:^o:G1L<14n::Ooj^G4G{1n<:xO ^x)j1Gn:{<{)rnqq1Oj4rGO:^1Ox<nGjQn{4<G4{11j<rxnOnGq{or^nr1q:<xGtRO<N7^1nnrG<+G{.xOqjro:rOx<%Qj14nrrqsG1Gx1:<oxx<qo<^4rR<j^roOj<j4n:jOq^:(11<G{(3jqn^:81nn1r<OR<M4O1j^GRnjRn>:OR^jqjGqG<:41R<G{x}q:<jGGR:j1x<qxrOGqRR{Gxrq1o<GxP Rrxj:<o:^sX<{jnD:OxG^^6r{1nO:xO3^OTj<on:r;O<^n4Z1OnjxG{G^14O1xjGrOO{<G4:o4j<rjqM<:4jRGj:r1nx<nG^ROj{xGq:<1G<^:{?x:qjo<G:RR{<xx1^oOG1EG{nx1:<oxo}q:{jn<::O_^<4a1f{j1TOG^xQ1RGnxr4OO<O4G1jr4r<Ox<CG<1jj^r:qG4q4xRsjOnGqG<r41R<G{x+q:<jGOR:j1x<rxjGGOR1{Gxxq1oqGx-5^rxj:oo:GR%<{xn&xOj1^G2n{1nq:xO4^Odj{On:r0O<^j4*1rnjn:R.^14O1x{OrOO{<GGU11j:O{qE<O4ju:j:rRq<<xO1RqjjxGqr<1G<Rx1GGoqjo<G:Bq{<xx:KO:G1NG{nx1::ox^pfORjno::O4^<c{1wn{:jOG<g811:nxr4OO^j4Gt:j:r<O1<g4x1jjqr:O1oo4xRojOr{qG<:41R<{nx5qj<jGOR:j1x<rxOjGO,G{Gx1q1oqGxQ,{jxj:ro:GRK<{xn%xOo{^GCR{1nn:xO4^Ozj1rn:r<O<<s4Z1{njr:4{^14x1x1<rOO{<G4r11j:O{q_<O4j4Oj:rRq<<xowRO{GxGq1<1G<Rx{h_nqjo<G:%<{<xn:5oOqx!^{:x1:oox^T8O{1nG::o1^<BR1hnO:jOG^Rz11<nxfG{on4:k<jG^R:Ox<o4O1jjGRn{xxo:qOvjrr{qG<j41R<jxA{{qj6:xR:{^x<qxou:jO:<44qR5OqGxH3{On1B4o:GR?<{1n/:OojoGqx{1no:xO4^O?11Gn:{<Oo^j4)1OnjrGO:^1qq1xj^rOOj<G4:11j<R{qX<x4jR^j:r1q<<xxjROj{xGqj<1GORx{z1jq{oGG:RR{<xx:PoO:ReG{rx1:Oox^syORjG<::oR^<en1Jnq:j:::j.11onxrjOO^{4G1nn1r:^{<W4O1jj1r:OR<<41j^jOrjqGor41RojxnGRo<jG^R:{Gx<qxoY<OO1{Gxrq1ooGxco{Oxjj:or^Is<{xnv:Ooj^GGn{1no:xOG^O(11Gn:{<Oo^x401qnjrGO:^11O1xjUrOO1<G4:11j<1:q4<O4jR^j:r1q<<nG2ROjjxG:1<1G<Rx{_xqqjoGG:oO{<x1:NoOGjoO^{GOR:ox^:uO{jnG{:j{xqq^o<4RRn{Z^:4^1<nxr}jrx:q^ooG1r<qM<P4O1j4of<{qx:qROGjqrjqG<:41R<jxx?qO<{GGR:j1x<qxoD5O^n{Gx{q1o<Gx<r<<4jRqjjG1m:{xnT:Ojrr^qj<On<:{Ot^O.jG<4rWTOo^x4>1OnjrGO:;1o^1njQrOOj<G4:11n<{rq7<n4jRGj:R^n:n^:{G:jjxOq:<1G<<{^rGp14oGG{R1{<xxjOj::{OR^{xR:<ox^_dO{jnGrjr1^<4.1ynO:jxxxqqx<:4R?GOO<N4G1:n1{x{^xj:G1jj1r:O1<<onoG^r+n{1n{rGor4{lrRkn4GGR{j1x<qxxVroOo<d4jq1o{Gx%0{O4GR<jqrnoq^{44RGj4^Gtn{1n<:xj1rn:^G4n::1O<^xo:1On{rGO:^14<1xjUr{Oj<<4:11j<rxqN<O4RRGjrr1qO<xGGROjjnjq:<1G<Rn{DxOqjoG^4R1{oxx:4oOGjWGR:n::<on^/-q{jj4::q1<jQx14nO:{OG<r,1*<jxr3Oq^j4^1:jOr<qxoj4O1{jGrxO1<<4xR2jqrjq^<:GlR<jxxKqO^nGGRrj1xoqxo-GORj^ox::}o<Gj-2{Oxj:GnnG17q{xn^:Ooj^G>:j{n<:jOJ^:,j1on::1:4^n441On{rGOx^1G<x:j*rqOj<14:1Rj<rx{^<O41RGjrr1q<<x<BO:jjx<q:o+G<;r{&jO11oGGxR1{Oxxr4oO<jq<{:nL:<oj^Jbn{j{GRxo1^Omx1GnOrROGo::81<njrCO:^j4^1:j1G^Ox<G4OR:jGrxO1O<xRRej:rjq<<:G1R<jx{GqO<RGGRjj1x<qxo(G:Rj{Ox:qRo<Gx>?ROjq:GojG1b:{xnR:Oqj<jD:1Gn<:1OD<qlj/GnR:1O:^x4<1Oj4rG::<14<11j+rxOj<j4:m1{Orxq<<OG#RG{xr1:Ox^GtRnjjx{q:<1G<Rx{:xO:GoGG:R1{oxxrGqGGjKr{:nn:<ox^iGO1onG:Ro1^n*xROnO:jqx^:4O1<nnrsOO^jG<c4n1r{Ox<O4O1jjGxxqj<<G<RC{GrjqG<:^pn1jxxnqOoGGGR:j1x<:4o=G{Rj{{x::Uo<^xu<{OnG:GOOG1Dn{xn2r4oj^o(:1<n<:nOE^O4{1Gnn:1O:^x401Onjr<O:<G4<1njbrOOjOG4x11j:rxq<<OGnRG1:4=q<<1GARxjjn^q:O1rORx{<xO:LoGG{R1R<4j:>oxGjbO{:jG:<Oj{O7O14nGr^o1^<Nx1>4<:{O:^:u11<nnrKq:nn4G1Rn1x4Ox<Y4OPj^<r:qo<<G4R?{nrj:<jq41RjjxxrqO<jGG4:<?x<:GolG1Rj{Ox:q1rxGnLr{Ox{:Go:G1!<GXn4rYoj^<Z:{1n<rx41^O4q1Gj<:1OO^x4ZqGnjrxO:<r4<1jjgx:r:<^G411jnrxq2<O4jRRj:xoq<o^G?R:jjnGq{<1GxRx{^xO:^oGG:4}{<x{:/ojGjV^{:x1:oox^VbO{{nG::o1^o_x1JnO:jOj^:y11<nxrOOO^j4G^DG{).j1xo::1jjor:O1<<:{OoG:r{qG<:41R<jxxyOO:nGG_;j1x<qxj<roOx<q4o1+nrrjYI{rxj:Go::4Or<1n.:xoj^Ge:^G4r/G{<^O441Gn::1x{x::pon^NrGO1^14<1x^^wx{1xn:Oooj<rRq_<O4j^:^xRR14xRG4ROjjxGq:<1G<414.jqqjoGG:R114xn:6oOGjfG{:x1x<O:^p,O{jnG::Oq^<Gx1jnO:jOG^:Q11onxn!Or^j4G1:n1r<q4<SG:DGjGrrO1<j4xR%jOnjq1<:4RR<jnx3q:<jGGRjj1xOqxoFGORj{Gj::<o<GjE3{:xj:no:<14q{xnG:Oo1^GFr{1{<r:OY^: j1<n:roO<ox:G1On1rGOx^14x1x{G<^Oj<o4:R4j<rxqao:GxRGjjr1q1<xG#ROjjnqq:<RG<R1{*x:qjOG<GR1{<xx:OoOG{%G1xnx:<ox^6Cx{jnG::o1rq+x14nO:jOG^:_10<GjrtOq^j4^1:jqr<:xnG4O1{jGrrO1<o4x4V^:rjq^<:4RR<{4xerOn1GGRrj1xoqxoOGORjRox:q1o<GjkJ{:xj::jnGRl<{x{N:Oo{^G>:{1n:o{OM^OsjYGn::RO<^xq^1OnjrGO:^14<1x1cn:Oj<G4:11j<rRqi<OqRRGjxr1q<<xGiRO1j4<q:o8G<Rj{vxRqjqGrxR1{Oxx:GoOG{FGR:G8:<oj^.l:{jnr::q1xO3x1GnO:1OG^1Y11<4RrmOO^j4<1:nRr<Ox:14q1jjGrrO1<<4xRVjOrjqG<:G<R<jxx(qOo^GGR:j11q1rn1r<O4^o4jq1O4Gx*%{Ok4Ron{x><{<:G-Rn{E:O:4<14r:xOj^OLj1GzoR{{rx{qoG:^4.O{jx{:G4njfrxOj<G4:on^^47{o<OGIRGj:r1nrn:roO^jjxOq:<1G<<q^R4j14OOG:R1{<jx^joOG{bG{:x1:Oox<G4j{jn<::O^^<hx1({OrOOG^x_11OnxrGOOojG41:jIr<Oj<z4r1jj:x^O1<o4xd^jOr{qG<x41R:r{x0qO<j^oR:jRx<qxn^GOR{{Gx:q1o<GxCe^rxj:<o:GR?<{xn/xOj1^GEx{1nO:xOO^OGjL<n:rFO<^j4(1qnjr:OR^R4:1xjVrOO{<G4111j<xRq;<O4jR^j:r1q<<x^oROjjxGqx<1G<Rx{NnnqjoGG:s4{<xx:YoO<4WG{:x1::ox^CEO{jjq::o1^<IR1 nO:jOG<{)11<nxrOOO^j4G1:<xr<Oj<-4x1jj<r:q1x14xR4jOx>qG<x41R<4:x4qO<jG^R:j1x<qno4GORj{Gnqq1o<Gx24{Oxj:Go:G1k<jx1R:OO4^G#:{14qROj4x^qj1Gn1:1O<^xo:ooG:ROj{n04<1Rj-rOOjx::<o{^^pjq=<x4jRGj:tn{on1::ROjRxGq:<1qqoR<<xqqjoGG:R1{<xx:coOGjH1{:x1:<rnrGqr<n41R{{Grro{<r^tR4OG<Gw11<nxROjRx1qqoqGjR:{jx4q{1jj:r:O1<<O{ojGRVu{qnx41+<jxx3qO:{:<On^{4E1Rj<:n<j<44n1qj:r^OR<<xj:^o:G1K<^Gnm:noj^G=:G<GO1nj{rnNR1Gnr:1O<^x4C1OnjnOx:Oj4<1xj;x:1n<G4:11jrrxqD<O^jO<j:r1q<<xG&R:jjxG{n<1GoRx{2xOqjoG<:q,{<xn:DoqGjW1{:x11qox^GmO{{nG::o1o<qj1In::jO<^:4n1<{xPGOO^14G1xn1rqOxOQ::1jj<r:q6<<G<RX1O4rqG<x41ROjxxnqOOjG:R:{*x<qjo(^GRj{Gjoq1ooGx&4{Ox1:Go:<GH<{jna:qoj^GM:R1n1:xOG^ON11Gjo:1:<<j4c1:njr<O:<44<Txj4rOO1<G4x11j1rxrFrr4{R<j:xiq<oGG&4O1oxGqx<1GORx{jxOqjOGG:RR{<xn:ho:Gj4<{nx1:Oox^q*O{jnGrxqq^<m{16nq:jOG^:I1RonxrYOO^R4G1xn1xOO1<24q1jjqr:O1<<^xgGjOr{qG<r41R:jxxb:n<jG<R:{gx<qxovGO4o{Gxnq1oqGxk_{Oxj1oo:^Gh<{jnd:Ooj^GRq{1nq:xO^^O4_1Gn:{GO<^{4.1OnjroO:^1G<1xjGrOO1<G4n111<GRq7<:4jR<j:x{q<<x<^ROj{xGqx<1GORxRX^{qjo^G:RR{<nr:_oO:RSG{xx1::ox^J_ORjG<::Ok^<Zj1;nR:j::j7y11OnxnoOO^{4GROn1r:^{< 4O1j1qr:OR<<41j^jOrjqGqG41Rojxxz{r<jG<R:jRx<qxoH<O41{Gxxq1oOGx2O{Oxjj:or^GA<{nnk:Ooj^GO{{1nO:xO<^O_{1GnjO4O<^x4N4^njr^O:^1qq1xjGrOq4<G4:11j<12q4<r4jR^j:r1q<<xo1ROj1xGqx<1GoRx{zR<q{oGG:RR{<xx: oOGj5G{:x1xOox^b/O{{nG::o1^<fx1CRRjjOG^xI11<nx1oxR^j4q1:n1r<x{xR:Gon^<r:q1<<4xRFB:R{{on^:oOO^r4o1<n6OoOq^x4^1j:^GORR{Gx:q1ro:1O<{qxj:Go:G1E<{x:,jooj^:m:{1n<j{jRxGqno<1n:1Or^x4v1OGR#Gjrno:G1njUrOOj<G4:11n<{rq4<O4jRGj:r1q<<xOpRO{<xGq:<1q<Or<^MRR2nnrqOj{<nG:uoOGj<o^r4xRTnjr4Or<qnG:1o1^<LxG44r1RjqxO:G1<nRrbOO^jOOo-G^g4jR<34j1jjGr:nOn^:Oo<GnM1qG<R41R<jx1R1jn4r<O<GR4{qxo<GORj{G4j{RjqrocZ{1xj:Go:q4q^<{4{1n{XrnOn{1nr:xOL^OOG<^G<D^jr^x4o1OnjrG{:x4qooOGjrqOj<G4:11j<rxx:MO4{RGj:r1q<<xGXROjjxGq{<1G<Rx4O4G{{nrrnR1{{xx:7oOqoqS^j4q1qnnx<qo<1no::o1<v%x1fnORGjnxxq^o^G:k<{ox^qro<G^r<OR<!4O1j6:sxjRn4qRR0{GrjqG<:q4orG{4<{Rnnr_^n^{431rjGGqRj{Gx:q1o<Gx^r4Oxj:ro:G1.<<pGGRojr:<<RG8n<rnOt^O2jGnGo1RjnrRO<o:4{2B{nx1qoojGo=<jRnn4:RGj<rxq-:j::o^GRr1qq<xGPRO^xBq1R<1GrRx{PxO{4rOr4OnHO4n:hoOGj>GGox1:qox^y.O{jnGx:Oj^<5{1Fnr:jqr^:=11xnxr<OO^{4G1:n1n<qn<g4x1jjOr::1<<4xR{jOrRqG<j41Rojxx?q1<jGoR:{dx<qxozGOwq{Gxjq1ooGxEY{Ojjr{o:^G&<{1nWx4ojoGm1{1n::xO<^O4n1G{:rOO<^14k1xnjxxO:o1:O1xj<rOqb<GG:11jx<Rqy<:4jk7j:rRq<<nGKRxrRxGq:<1^GRx{4xO:hGoG:R1{<nj:IoqGj4<q1x1:rox<OAO{jnG:1{4^oPR1}j::jO^^:=11<n1O^OO^j4GRxn1roOx<<1r1jjGr::4<<4nR+{:<GqG<{41RxjxxSqO<j:#Rr{<x<qxo_G:Rj{:4nqRooGx4x{Ox{:Go:G1h:x{n2:Ooj<jd:{Rn<rjAO^O4^1Gj1:1O<^x4Oorn{rrO:o:4<1njwrOOj<O1n11j<rx:x<O4{RGjjq4q<<xGg44jjx^q:OYjxRx{qxO:ooGG:R11<4<:-ojGjG4{:no:<O&1okO{{nGxqo1^o#x14nOr%^o^:311<{rrAOq^j4Onnn1r<OxOr4O1{jGxx1{<<G4RD1:rjqG<:^11rjxxqqOo^GG4rj1nO:^o-G1Rj{nx:q1o<^j4<{Ono:GO{G1T<{xjGrPoj^jf:R<n<:xOz<:4x1Gj^:1O1^x4v1OnjxRO:<o4<Rojcr:Oj<::n1Rjnrxrr<O4{RGj:r1q:4{GuROjjjnq:<RG<R1x^xOqjoGo:R1{oxxrG{oGjEr{:{}:<ox^IGO{4nG:Ro1^nTx74nOr1q4^:4O1<{>rQOO^jG<1Rn1r{Ox<x4O1jjGxxq4<<G<R;{jrjqG<:^BWjjxxnqOoOGGR:j1x<r4ogG{Rj{{x::io<^xOx{OnG:GO^G1En{xnKjqoj^o/:1<n<:nOd^O4q1Gnn:1OO^x4,1OnjxjO:<G4<1nj}rOOjOGG{11j:rxq<<O^qRG1:xnq<<1GfRxjjn4q:O1^4Rx{<xO:EoG<_R1R<nx:AoxGjYO{:n1:<Oj{OYO14nGrxo1^< x1OGr:{O<^:<{1<nnr#OO^j4Onnn1r<OxqR4O1{jGxx4<<<G3RW{jrjqG<:G<OqjnxOqO:nGGRrj1x<qxo<RrRj{Gx:n{o<Gnfz{xqR:Go:G1<<{xn4:OO1{:S:1<n<rKO*^O_j1G4O:ROn^x4_1On{rGO1n44o1njN1rOj<^4:11j<r1<^<O4jRG4nr1qo<xGXorjjxxq:o4G<Rx{(jORjoG^mR1{jxx:GoO<j.^{:nO:<OG^Qhr{j{G:ro1^jhx1:nOr4OG^:G^1<j^rmOx^j4G1:{1x1Ox<r4ORojGxOO1O<4jR%jRrjqn<:GnR<{jnqqOoOGGRRj1x<qxqTr:Rj{jx:::o<<:yb1:^j:GO^G1Xo{xnk:OO1<qa:1xn<:nOW^O7jR<j::1q4^x441OnjrGO:<:4<R<j}x^Oj<G4:11{Rrxq:<O4jRGjxr1qx<jGaR1jj(^q:<RG<Rn{Uxx<RoGG:R1^oxx:4oOGjOo{:nO:<o{^2TO{j{Gy:o1^j*x1:nO:1OGo:411<jGr O1^j4o1:{1rjOx<:4OR<jGr{O1<<GrRMjRrjqO<:41R<1xnOqOooGGb4j1nGqxq/^qRj{nx::qo<<O?s1:j::GOGG1Fn{xnC:OqjG1e:1:n<r<OXo<yjR<j^:1OR^xG{1OnjrGqx<x4<ROjJn^Oj<G4:a3{jrxq{<O^rRGj:r1q<O4GZb7jjxRq:<1G<Rx1jxO:<oGG:R1{OxxrVjFGj+r{:nG:<OG^B%O<4nG:no1^n5x14nO:jjo^:441<nRr2OO^j^Goxn1rqOx<^4OpOjGn1jG<<4{RT^Orjq^<:^qR<j1q^qO<jGGO:j1xoqxOGxoRj{ox:rGo<Gx;F1:Gn:GojG14o{xn3:Oqjx<h:1Gn<:1OA^1mj1G4n:1Or^x441OnjrG::nk4<1Rj5rnOj<14:11GqrxqO<O4{RGj:r1r<njGWRjjjx:q:O4G<Rx4Oxq:^oGGrR1{<xx:KnnGj-o{:no:<on^F5OGxn^::o1^oyx1SnO:ROG^:M11<jRrKOO^j4GRGn1r<Ox:<qRoRGoDq{jnGqRo^^xr{qG<:41R<jxxyqO<jG^R:j1x<qxo-GOG+4Gx:::o<Gx-B^j4oR<n{r{qG^1GG1qj^^GY{{1n<:xxOx:O{<R4{:1qm^x4b1OR{R<{nx{:_oR^<RnnRxnrGo^j<xxqQ<O4j^^Gx441^nOroOx^4RG1qj4:{O1^r4o1xoGGnR1{<xx{^nnxklG{{x1:<oxrOqG<nG4Rxo1<Vvx1ZnO{r{4x{:4<rRjso{xna:4oO1Rr<qq< 4O1j4qAn{^nOO^o1^O441OrjrqO<GRx-qx<jGGR:4^4G1Rn{GO24{Gx:q1nqrOO4<^4j:Go1G1+<{xz^RGjorOO{ofnq:nOZ^x8j1Gn:Rn{^nPqo1OjLrGO:^1:4<n^<R1Oj<:4:11j<1G{RnG:Aoq^xrRq<<xGEROjjxGO::{G<Rn{uxOqjxxGx^^{<xx:,qO1:fG{rx1:<ox^nUO11nr::O_^<4O1znO:j:G<rV11OnxrGOO<q4Gw:nRr<Oj<-4:1jjjr:q<<q4xR4jO{SqG<r41ROjxx<<r<jGGR:=Gx<qnohGOoR{Gxrq1o<GxK({OjjR<o:GR(<{nnprOojoGGx{1no:xO4^O={1Gn:jjO<^n4K1:njr^O:^1qq1xj4rOOj<G4:11R<{rq.<q4j+Gj:n^q<<x:^ROj{xGqr<1G<RxR)4:qjo^G:RR{<x1:Aqj:8XG{rx1n:ox^4HO1nnG:j^4^<Qx1H1x:jO^^:GLO^nxr4OO<{4G1:n1n<{j<g4q1jj^r:qn<<4xo^jOr1qG<x41R<jxjS1:<jG<R:{,x<:1o-GOoR{Gxnq1oqGx+Y{OjjR<o:^4k<{{ng:nojoGqx{1nq:xO^^O411G{:.lO<^{4P1rnjxaO:o1r41xj^rOOR<G4R111<x{qZ<r4jRoj:nGq<<x^lROj1xGqx<1GqRx{wxxqjooG:24{<xx:3qO^<&G{nx1:qox^ogORjn<::O4^<P{1Tj::j:G^{T11qnxr^OO<x4Gh:44roO{<,4r1jj:r::1o{4xR^jOrRqGoj41R<1Hx=q:<jG<R:{4x<:jorGORR{Gxxq1o<Gx4GRDxj:Oo:<4F<{xn-:OqO^GZr{1n::xOG^O411on:r}O<<n4U1OnjnGqR^14O1xjGrOqo<G4:Rrj<r{q+<x4jRGj:r1qR<xG<RO{4xGq:<1G<o{{uxnqjoOG:R1{<xx=qoO^sZG{jx1:rox^;4:{jnO::oR^<I117nOr1OG^nA11qnxr<OOojGj1:j4r<O{<D4r1jjGrrO1<O4xRGjOr1qGO:G4R<jjxhq:<jGoR:j1noqxo^GORR{Gx:q1q<^qC3{rxj:oo:^OC<{xn<:OO4^Gtx{1n<:xOX<:Pj1on:r^O<^n461OAxr^O:^14o1xj+rOO{<G4:11j<xtq6<O4jRG{<r1q<<xO{Oo<44o{{r6rrO1<<4o1x:^G:(<{<xx:vxxrnOr^R4x1rox^o O{jnGj1jxroq4o^nOrrOG^:z1^rG{Ro{::o:}o:^^_:n1nr:Oo4jGrjO1<<4x^O^GR{{r<:GGR<jxxVnnnxrqOo{Rx<qxom<On:{Gxrq1o<Gxc<{On1:<o:^a2<1JnU:OojoGbx{1nO:xOG^O4(1G{:roO<^j4Q1:njr^O:<<Gr1xj4rOqj<G4r11jOrxq<4r4jRGj:x1q<<nG5ROGRxGqr<1G<Rx{axOrjq<G:RR{<xn:io:Gj*G^nx1:qox^4_O{jnGx:{p^<S{1#nr:jOo^:}1<qnxr<OO^j4G1:n1n<{j<_4x1jjOr:q^<<4x1<jOrRqG<n41R:jxx.:r<{GoR:{4x<qxo7GOjr{Gxjq1o<Gx/2{Oxj1qo:GRt<{1nc:qoj^GoO{Rn<:xO4^ONj1Gnr:1O<^x484{njrGO:^14r1xj2rOj4:O:4onROrnq><O4jRGj:r1:::xGXRnjjxGq:rx:ooj^o4GqjonG:R1{<R11oj1xV<1^r4F1rjO^4kO{jnG::o1^<^1G>nOr^OG^:l1<xGjRR{^:1orGxn1rjOx<}4OGRG^c<{xxOqno^^4rjqj<:41R<4^2{{qn^:q<<GRwO{RnjGOVd{Gx:q1xBr^q^<xx{:Go:G1V<{xnH:O4j^^U:{1n<:xO,^O^uGGn:xoO<^x4lo:41Xxjrn4:q<R^<RR{+qj<q4{R{jjx<qro4GxRrj1xrq{G4ROjjxGq:<1G<^64WxqqjoGG:R1{<xxOproGj}j{:x1:<x^r1qOo4GOjxj^rnOn<1nOrOOG^:S1^qGrFo{:rRqq^n4RaG{{<iG41jjGr:jGxrrGO<4{B1{^n::1orG1x4qO<jGGR:j1x<xj4=GObc{Gx:q1r{:{OR<<xj:qo:G1-<G+GG1qjrrqQ:14n<:xO?qqq,<On:rGO<^x4.^rGoVjj{^R4<1xjdrOOj<G4:11j<rRqg<O4j<O^*&^14xRG5RnjjxGq:r4r^OO^R4:qjoOG:R1{<R1RrjOr4BG1Wx1:<ox:<Ono<GO{njqx1OR1tnj:jOG^:o4o^GORR{:OR4GRUn1r<OxrV:ooRGnmj{qn^::RKjrrjqG<::jor<4x*:<<jGGR:444m1^ji::On^^4x1GxF:nOG^n4::GO1G1g<{xRG1qnRr{ORobG^RRj1rxOao<4rRj{qxxq4o:G4vXjnnq4o1xjSrOOj<G4:{1y^rnqc<O4jRGj:r1xxfxGsRjjjxGq:r4rOoR^44x14oGG{R1{<xxjrj^:{Or^{xR:<ox^>&O{jnGn<r1^<441}nO:jn:r{q4o:GruGr:^j4j1:n1r<n1xo:1O_ okq{xn^:jG^jOr1qG<:41<r4^xHqj<jGGR:41vo1jnor<qL{Gxjq1o<Gx<o<<G41RonGRi<1xnA:Oojq<Or<44RR4{Gxo:4oy4j{4{^xOqRo:1RrGq<^14<1x4^RnjRnO:4o{^G{{{RnG:nO<jrr1q<<xGhROjj{Gn:<1GnRx{pxOnRj4rOOj^rE{R<oqGj=G{:x1:<ox^L<O{jn{::o1^<<n<14rR<{4xxo1o^G^R1{x^j4O1:n1r<n:x4:^o4jGrjO1<<4x<oaxzo{R<:GGR<jxxInjnnr,Ojj1x:qxoMGOol^qGtRGo<^mVS{OxjjxjqrxO:^RGG:OOo^G2:{1N:1R{:xx<Ro4G<R{{O1x481OnjrGjO^R4q1xjHrOOR<GG:o:j<r{qJq:4jR^j:j1x{<xG^RO1OxGrq<1^<!1{?xrqjorG:Ah{<xx:xoO^a>G{:x1:<oxom4O{jnO::OG^<^G1a{O:1OG^jv11:nxn^OO<14^1:j^r<q1<24O1jjGxoO1<x4xRVjOrRqGo:::R<{QxXx:<jG^R:j11^qnoqGORj{Gx:q1q<<<k6{{xj:ro:oOu<Rxn^:OO^^GkR{1j{:x:!<xCj1rn:roO<<R431OjRrGq.^14o1xj(rO:j<O4:ROj<xGq;o14j4G{nr1qj<xG:RORrxG:x84G<M^{2jGqjoGG:41Rvxx:roO^ocG{1x1rOo1^Z4K{jnq::o1^<4jRnnOrqOG^{V11<nxxGqO^j411:j^r<Ox<W4OZGjGx4O1o74xRWjOrj:R<:GoR<jxxLq:<j^GG{j1xxqxqjGOD^{Gnx:jo<^4iH{qxj:Go:<14x{xnq:OO^^GGO{1jOxGOD^1#j0^n::1O<<j4:1OjorGr:^14<1x{Gx:Oj<j4:toj<rxq>o:GjRG{^r1:4<xG3ROjjo/q:ooG<Lo{yx:qjOG^{R1{xxxrOoO^^SG{:nr:<O4^T&O{jnG::q1^o>x1qnOr^OGOYK1D<jrr>O{^j4r1:14r<qjo^4OR<jGxjO1<<4xR+{jrjqn<:4RR<j1xKxO:nGGJ4j1{Oqx:OGORj44xr::o<GxdS{OxjxGO{G151{xnx:O:<^GG:1^n<r<ON<(bjRnn:x1qn^x4x1OjOrGq{^14<ROjgx4Oj<^4:11j<nx:x<OGqRG{^r1:j<x<%HGjjx{q:orG<Gq{(n:GRoG^<R1RFxx:SoO<j4:{:nx:<OO^3lj{jj<x4o1<46x1nnO:jOG<x4{1<j:rwq4^j4G1:{>x^Ox<R4ORqjGr:O1<<^4RB{Grj:4<:41R<jxx^qOoOGGR:j1xOqxO5onRj{nx:xxo<^<5*1:jr:GOGG1Ko{xnp:Oqj<^!:1:n<r<Oio<?jR<jn:1OR^xGq1OnjrGqx<?4<ROj.nqOj<G4:8P{orxq{<O^^RGj:r1:OojGU?<jjj^q:<1G<RxnxxO:OoG^OR1{Oxxr6OoGjCn{:jn:<O<^f4:1onGrGo1^o;x1-nOxjOR^:4:1<j<ra:<^jG<Rqn1rROxO44O1jjGxx:G<<GORz{FrjqG<:^&Rqjxx{qOO{GGR:j1nOG3o.^<Rj{jx:q1o<Gxx1{OnO:GOOG1cO{xj2::oj^n=:R<n<r<O!^O4G1GjG:1O<^x4?1O{jxRO:<:4<R<jmn1OjOGG^11j1rxqx<O^RRG{xnqq<ooGWRxjjxGq:<1^GRx{jxOqjoG^GR1X<O^:gOGGj^<{:n4:<Oj<qMO1rnGx1o1^<IxX!n::jOR^:4n1<{:rQq:oq4GROn1xnOx<a4OR1{rr:q{<<G:RLjOrjqG1O4174jxxRqO<1GGX:{:x<:OosoqRj{Rx:x1O^GxBj{Ojj:GqrG14O11n5r^oj^^v:{1n<xxOx^O4r1Gjo:1:G^xGG1rnjx(O:oo4<1xjJx:qR<GGq11R<rxqQ<OG1r:j:x1q<o:G>ROjjn<r8<1^oRx1qxOqjoGG:hO{<nq:ZOqGjb<{:n1:1ox^jIORrnGroo1<O4:1fj^:jO^^:_11<{xxDOO<r4GRon1nGOxoGG41j{=r::R<<4xR_{:n^qGoq414OjxxcqOo1j:R:{1x<r4o;GORj1<<1q1OoGxGo{Oxj:Go:qr o1qnFrqoj^<B:11jx:xOj^OGG1Gjo:1qOoq4_R^njnjO:^14<kx{nrOqr<GGo11R:rxr3<q4jRRj:xnq<oxGD2O1<xG:<<1o:Rx{{xO:jonG:Lx{<{R:SoqGjFG^nx1r4ox^4/O{jnGx:{h^<4q1>j^:jqx^:G1oOnxr{OO<r4G4Rn1x<{<<PGG1j1rr:qn<<<xGRjOx:qGO^414rjx{vno<jG1R:{Rx<xoo*GO::{GnGq1O GxpG{Oxj1oo:^rz<{xnb:OojoG/q{1nR:xOn^O^<1G{:r1O<<o4sR4njnoO:oi4R1xjjrOq<<G4:11j<xxq0o^4jRGj:x^q<qxGRRO{rxGxx<1^qRx*hjOqjoRG:41{<jn:kO:<G%G1Ox1:oox^iJORjnn::Oj^<4:1D{<:jq<<{u1R^nxn4OO^j4GRx{Or<qx<wG:1jjGr::Xo14x?4jOn^qG<:410O1^xp::<joGR:j1x<qx^xGOtx{Gnxq1oOGx4&R.xj:Ro:<nb<1:nEr:OP^G4O{1no:xOV^OGjRon:rjO<<:4(e<njx<q4^1G^1x{qrOOj<GGxRqj<xxqJq<4jRGj:n+:{<x^4RO1^xGq:<1^OxL{Nn:qj:_G:R1{<xxJjoO^x2G1xx1:Oox<Zqp{jnR::q<^<4:1f1OjnOG<oL1=:nxrjOO^jOG1rjrr<qq<z4O1jjG&<OR<{4xRbjOr{qGoxr{R<{<xgxr<jGGR:11xoqnoxGOcO{GjOq1OO<o5;14xjrro:G1X<1jnr:OO:^Gtx{1n<:xOaoG+j1jn:rxO<^x4v1O{:rGOR^14<1xjNrOOjoR4:R<j<rxq_<q4jQ<<qr1qn<xo^ROjjxGr:n{Gom4{ x{qjqmG:4/{xxx::oO<^LG{:x1rOq^^p+R{jn<::o1^<MxRnnOr^OG<4Y11<nxrdOx^j4O1:n1r<Oj<PGOBOjGrnO1o:4xR<jOrj:1<:GGR<jjx5qO<j<GOxj1x:qxo<GOyo{Gx:14o<GRPT{:xj:Go:<1qO{xno:OO4^G44{1n<GROU^nPj1qn::1O<oxO11Oj4rGO{^1^o1xjv^1Oj<O4:R^j<r{q/OO:1RGjjr1qq<x^<RO1j4<q:oGG<R1{ {jqjqGOGR1{:xx:<oOGRDG1:xR:<o{^e7r{jnO::q1<:Tx1<nO:ROG<jN11<n{rpOn^j4<1:n1r<:x<44OR4jGr{O1o:4x4 {Orjqq<:G^R<k0xyrOoRGGR{j1xrqxorGO j{<x::Go<o^ t{nxjxGq4G1C:{xn^:OqZ^GG:1/n<:1OU^x jR4n:x1:O^x4<1OjCrGrq^14xR4j4rjOj<G4:1Rj<rnqH<O:8RGj:r1qq<xG#ROjj,qq:oGG<=b{>xqqjoGRxR1{qxx:GoOGjPG{:Rj:oox^C_q{jnG::O4^oax1=nOrGOG^:c11<jOr5OO^joRoq^^QqjR:G:nO&^O-q{jqo4xR:jOrjqG:nqROs^ObG{qxR:{R:{xx<qxo(rrO4<O0n1xn{rxOG<o+{R<njG1Ir{xnY:OjjroOr<xGt:xO<^OPj1GR{Rj{rxq4NR^njrGO:r^:q<R^G{R{xnG:{OG4:4^1}xnG{RGj:r1r<POG_RqjjxGq:o<G<Zj{^xOq1oGG{R1{<xxx oRGjL<{:nN:<Og^*GOR:nG:xo1^OCx14nOrGqG^:uR1<jxrhOq^j4<1:jGOqOx<64ORjjGrrO1oOrrR!jqrjqO<:41R<jxN^qO<1GGR:j1x<qxqvr:Rj{<x::bo<GjMs{O{V:GorG1>O{xnG:OOG1q?:{Rn<rqO=^q!j1^n:rG^q^x4K1OjrrGOr^14:n{jwrOOjoG4:1Rj<xj1R<O4RRGjnr1q<<xGi^jj{xOq:oCG<Rx{%xOnxoGGnR1{Oxx:4oOGjoZ{rx1:<on^I)O{jn^::o1^<bxGGnO:jOG^:4^1<nxrBnGr{q<<{Gxr<O1<34O1j0:%q{jn:4nRhjOrjqG<:41{<arx4qO<jGGR:j1x<nR4vGORR{Gx:q1ro:1O<{On<:Go:G1<q^n4jRGn1r^On<rno:xOX^O&j1Gn:q1x^^x4^1OnjrGnnx^::1xjqrOOj<Gq1OP^^tqjG:{o1RGjjr1q<<xq<on<<4Oqr<1G<Rx{_xOqjrGO:R1R1xx:6oOr<qO<j41n1:roRq{o^GrnO{sx^Oj<jGo7<rarnq{o41rR4{rxRqqoj1{{^{^x<o^G^Rxjxxoqr<xG<RrjRxq<r41R<jxxEqO<jOO^:jRx<qxoeGORj{Gx:^1ooGx?){Oxj:Go:G1<<{nn):Ooj^G!:{11:jxO4^Ouj1Gn::1O<o1oX1OjerGO:^1oro:^ow^Oj<:4:11j<1G{RnG:*oq^xr1qq<xGcRO^x5q1R<1GORx{UxO{4rnG:dq{<xx:ixxr4qx<jR4R^jOrRq:{{nG::o1^<zx1-{G<jOG<^Q11<nx1<jnn<:O^R^_Ro{xnNqnoFjGr1O1<<4x<eGqQ1{qnOrGR<{:x>qO<jqOo{<O4:{Gr4rGOo^r4O1nnrr:q<{OnG:Go:G1o:<r4q1{j:rq2:1^n<:xOyqRqr<^4RR^O<<44h1Onj14{1x^:OoOG4_ROj<O4:11j<1Rn<xR:rR^j:r1q<<xG3ROYO1Gq:o^G<Rx{/1r1nn1rqqw{<xR:coOGjoO<b4^R4nR^L4G{jnG::n4rrO{o<4RRn{?qnq{o GrKGOq^j4G1:n1r<Ox:r{O1jjqr:O1<<O>ojGq_^1o<r41R<jxxbqO<jGGR:j1x{qxoVGOoe^qGERGx2:nOG^n4::GOrG1S<{xRrR^n{rrO{^GGO1nj1xrqj<^GxR^{Gr{:r1Oj<rGO:^1O<or^^RR1cxn:qojj<r1qk<O4j<O<4,1{r<nGQROjjxGq:<1o{^x{pxRqjoGG:<q<G}11rnr:{qO<qGv:<O<^Z=O{j oRq{^xOO{<ovr1{{}xn(R1<nxrAOO^j4G41R1roOx<#4O1jjGr::G:<4xRxjOrjqGrj:^Oj^11^1on:r4Ox#4x<qRo8GORj4:4x{Rj4:RV8{xxj:Go:r<qh^n4q:ro{^G41{1n<:xxGrqOR<{4RMw{^xRq1<x4+Y<jrxj:qoxG4z:{4nvqnOqj<xYq=<O4j^o^qzx1^njo^RO{}xGq:<1q O^<^4xqjoqG:R1{<RRj<nRrr^<{:no:<ox^;<r<nG#ROj^rqq11Enx:jOG^:O4<{^<RoOO<O4G1:n1{{{qx4q{o4/1Rr{2xr:OR!{XrjqG<:OqOG^x4o1x:1:qoRGR4Gqxo:GORj{GRj1^jjr1o^^RGO1qo:^Gg<{xn}{<n{rRO{{1nn:xO!^Oq_<q411R{rxO:<1OjjrGO:^1oO<nG^L4{^n<:qO^^GR1n^no::O4^x{4qo<xGLROjjxGq:qxO<Rx{<xOqjoGO1Ox^o44:QojGj8G{:R4ROnRr4qx<4nG:jo1^<MxGj4nRG{O<<cR1<nxr.j<^{4O1:n1r<O1<YGOoOjGrjO1:D4xR4jOjjn4<:GGR<R^xUr4<jG:OnjRxOqxo:GOR{{Gx:q1o:R{z&{Oxj:xo:GR*<RxGG:OO4^Gkx{11o:xOO1nUj1qn:rqO<^n4L1qnjrO^n^14<1xjrrOO{<G4:^<jorRq6<q4jRGj:x1{1<xG<RO=jxGq{<1^<Y:{Lxxqjo:G:a4{<xx:joO^4>G{:x1:<oxo0bx{jnq::O^^<4R1 {OxOOG^{Q11rnx{4OO<14<1:j<r<rx<&4O1jjGrrO1<n4xR}jOrRqGo:GrR<{4xunG<jG^R:j11^qno:GORj{Gx:q1q<^jYW{1xj:xo:<^i<Rxj<:OO<^G4I{1{<:x: <4Sj1xn:rOO<^R4f1O{orGq4^14o1xj6rO:joh4:Rqj<x^qXOq4j4GjRr1q{<xGrRO11xG:xe4G<}<{-{xqjoGG:41{rxx:xoO^OcG14x1rOO{^K44{jjG::o1^<4j1GnOr:OG<:C11<nxxGqo^j4R1:j1r<Ox<e4OJ:jGxGO1o44xRSjOrjqx<:GOR<jxxFq:<j^GG{j1xnqx:1GOh<{Gnxrno<^GFWYjxj:Go:<14x{xn::OO<^G4j{1jOxoOg^REj1rn::1O<<j4n1OjOrGqq^14<1x{GxDOj<{4:4^j<rxqPo:GnRG{<r1qR<xG2ROjjowq:oOG<aO{Hx:qjOG^1R1{nxxn:oO^<3G{:jn:<OG^deO{jnG::q1^q5x1:nOr<OG<{t1a<n{r*O1^j4x1:RRr<qjoo4ORojGj:O1<<4xRX{^rjqj<:4RR<j1xpxO:nGGYGj11)qxO^GORj44xr:ro<Gxlc{OxjxGojG1SR{xnn:Oq4^GG:1<n<roOE<4AjIGn:x1qO^x4n1OjqrGO{^14<RGj_xGOj<^4:11j<nxqx<OG:RG{<r1ro<x<__:jjx1q:oxG<4j{ln:GRoG^oR1v:xx:#oO<j4^{:nn:<Oq^-0R{jj<r?o1<GhxR4nO:jOG<x4:1<jrrFqq^j4G1:{2rqOxo+4OR{jGr:O1<<G{R5{^rj:G<:41R<jxxqqOoqGGR:j1xOqxOeonRj{jx:njo<^ozF1:nR:GO^G1^x{xn_:Oqj^{S:1rn<roOl<xUjR<jL:1q(^x^o1OnjrGqx<O4<RqjXr{Oj<G4:.b{^rxq1<O<4RGj:r1:OoGG&?ojjxrq:<1G<RxnxxO:qoG^qR1{OxxrpO1Gjwj{:{O:<Oo^C4:R:nGr^o1Ox x1,nOxjOr^:4r1<jor0qx^jG<R1n1xaOx<q4O1jjGxxqg<<GqRY{<rjqG<:^cNRjxx1qOo^GGR:j1nOGvog^oRj15x:q1o<Gxx1{Onq:GOqG1WO{xj6rqoj^jc:4On<roOZ^O4o1Gj^:1O<^x4T1O{jrqO:<r4<RojWxnOjOG4x11jRrxqn<Oo{RG{xnnq<oOGM4jjjxGq:<1^<Rx{{xOqjoG^GR1-<1r:%O^Gj^1{:xR:<:xo?)O1rnGnno1^nQxRGn::jq2^:<<1<nxrl:Oo<4GROn1xGOxo<4OR1jqr:q{<<^RR5jOrj:<oG41k<jxj1qO<jGGgx1ox<:no GrRj{Gx:rto:Gx4G{Oj^:Go:G1y<j<n/r<oj<<X:1Sn<rxO{^O4r1G1D:1qG^xGGR1njx5O:q<4<1xj!nO:4<GGO11{Grx:<<OG1ROj:x{q<o4G?ROjjn<r-<1^<RxR^xOqjoG^x_4{<nn:kqnGjuG{:jhGxox<G.O4nnG::o1^<oo14j<:jq<^:4W1<jxxoOO<r4GGwn1xGOxoGG11j{!r::a<<4xRc1Ox1qGoO41#GjxxGqOOjGRR:{jx<::omoGRj1Gx1q1O4Gx2G{Onx:GO:^xa<1qncr}oj^^y:{14q:xO1^OF{1Gn::1:<rj4 R<njx8O:oR4<px{jrOqx<GGO11{xrx:hoR4jRRj:j{q<o:G8GO{GxG:o<1oRRxMRxOxjoRG:kn{<jG:w::Gj4<Rox1rGox<GgO{jnGx:qr^<4:1+j<:jqj^:G1oOnxr1OO<x4GGxn1x<{<<IG^1j{jr:qj<<4xqjjOxqqGoo41ROjxx!{r<jG1R:j1x<qxoF<O1R{Gn<q1ONGx4o{Ojj:oo:^xV<1On)jqoj<<44{1j4:xr0^OHj1Gn:rGO<<:4F1OnjrOO:O14q1xj1rOx:<G<^11j<x4qAoo4jRGj:r1q<Ox^^RO{nxG:q<1^rRxRYxxqjO4G:A{{<jx:wqO^^aG1qx1r^ox^o}O{jj1::O1^<#n16nO:j:G<q!1R<nxxeOOo{4GP:jrr<qx<aGO1j1<r::Noo4xE4jO{IqG<:414<1^x!:q<j^^R:{qx<:jROGOC1{Gn:q1o<Gx4G{Oxjroo:^1N<{xnXr:O<^G4j{1j<:xOt^OUj1On:rRO<<1421OnjrG:<^1G^1xj=rOO1<GG:uxj<x:qc:<4jf4j:nH:<<xGRRO%GxGq:<1<<4o{knoqjO4G:4G{<njrGoq^jMG{Rx1:<ox<G4x{jj^::OG^<px1sj:xGOG<x%1crnxrHOO<1Gn1:{4r<qr<e4O1jjGxxO1o^4xQ^jOr1qGo:GxR<{:x r1<j^4R:1*xOqxoRGO^G{Gx:q1q<rOzi1oxjr4o:<GX<1jjG:OOj^GG{{1n<:xqG<jUjR^n:rnO<^x4;R:jOrGqx^1^r1xj!rOq1oj4:U4j<nrq&<O4jRG14r1:^<x^^ROj1xG::OzG<7:{.{1qjO4G:R1^qxx:RoOGj2G{:x1x<<{^y4o{jj4::q^^<GxRonOrnOG<qm1GonxxGq:^jGG1:Rqr<Ox<W4OwOjGxrO1<<4xROjOjjqq<:GRR<DOxSr^<jGGRRj1nOqxoTGORj{Gj::^o<^j+31:xjrqo:<1v:{xjG:OO1^GG:{1{<r^Oy<:=jR<n:r^O<^x4q1OjRrGOr^14<1x13n>Ojoo4:p4j<nnqKOOGORG{nr1:q<x<GRO{1x1q:OGG<G1{vxOqjqG<^R11:xxr<oO^o_G1xo<:<OR^b^v{jnG::qV^<&xROnOnOOG^:a1RO{<r,q{^j^j1:n1r<Ox<q4O(HjGxRO1<<4xR_1Wrj:<<:41R<jjx-:O<RGGIrj11GqxOGGOh1{Ox:rNo<OdN5{OxjxGOrG14O{xjG:Oq#^G4xRmnor{Okon,j1Gn:xKq4^xG<1OjnrGO:^1GORrj.xnOjOq4:11j<xj:o<O^GRG{qr1q<<xGkRnjjn<q:O<G<Rj{=nO:roG^rR1RjxxrGoO^1,x{:j3:<r&^E5O{j{GR<o1<OFxRGnOx.OG<xGT1<j{rY:n^j4G1:{_xqOxo<4O4rjGr:O1oOGxRS{nrjrq<:41R<{jnjqOOGGGGoj1x<qxob^nRj1<x:r<o<Gjv61Ono:GOrG1^j{xjG:O:jq4Y:1Rn<xOOs<G3j4GRq:1qo^x^q1Oj^rGqxn{4<Rjj?n<Oj<G4:21jorn:G<OG1RG{jr1:Oo4G*Hrjjjqq:<1G<ej1qxOrYoGoOR1{<xx:FOjGj4<{:jG:<ox^v*O1:nGrqo1^<dx1ynO:jOO^:4j1<nxreOq^jG<Oqn1x^Oxo14O1jjGn:OR<oGrR}{orj:O<:^)WGjxnTqOq4GGR:j1nOr^o>^qRjv#x:q1o<Gx42{Onn:GOrG1t<{xn(:joj^1=:{1n<:xO#^O4n1GjG:1O<^x441Oj144O:<r4<5:j%rOOjOG4r1RjRrxqn<O^;RG{xx:q<oOGN4njjxGq:OcGRRx{{xOxxoGG:R1{<j^:NO4Gj=R{:x1:<ox^q#O1<nG::o1^<>x1>jj:jOr^:&11<nnr>q:nn4GRcn1nGOx<a4O)j^{r:qO<<GGRD{xrj:<<R41R{jxjoqO<jGGhx1Gx<:<o7o<Rj{Gx:q1oxGxy:{OnO:Go:G1s<Ron/:noj^Gz:1Hn<rxqo^O4-1G1::1Or^x4O1{n{rqO:^R4<1njprnOj<GG{11j<rxqG<O4jRGj:#Gq<<xGWRxjjxGq:<1^rRx{_xOqRoGG:R1{<nR:KoOGjfG{:x1:<ox<o*O{jnG:ro1^<#xRi4{:jOO^:4O1<nRr,OOor4G1{n1r:Ox<P4Ovj{Or:q^<<4RRIRnrjqG<{41Rxjxx<qO<jGG4:14x<:_o0GjRjpqx:q1OrGxEO{OnG:Go:G1G<Ronk:joj^:i:1on<:x,:^O441Gn1:1O:^x45jGnjrqO:<U4<1xj8nOOR<G4{11jrrxr<<O^jRxj:x<q<<1GX^OjjjG:r<1GnRx{GxOnroG<1L4{<n4:v<qGj&^{:16:<o1V^FO{jnGqro1^oex1<:r:jOG^:?k1<nnr8OO414G1Rn1r<Ox<L4O1j:Rr:qo<<4nRWjOrjqG4^41RrjxxOqOo^GG4:{rx<qRosGxRjtGx:q1O:GxQO{OnB:Go:G1G<1<n3:joj^:_:!1n<xxOj^O4G1Gn1:1qq^x^mR<njr:O:<<4<4Rj/xOqO<G4{11{{rxqO<O^jPxj:x^q<<1GwGOjjjG:4<1GrRx{oxO:RoG<:br{<xR:6onGj^j{:j1xOox^o.O14nGnRo1^x4414n{:jOG^:_R1<njrDOOxt4G1:n1r:Ox<S4O1j{qr:O1<<4jR)jOrjqGx{41RrjxxqqO<{GG4:R_x<qRo)GxRj{xx:r1jOGx%q{Ox1:GroG1GxG1nl:{oj^rir{Rn<njOU^x{R1Gn::1On^n441Onjq<O:<o4<1xj)rOOj<G1o11jnrxq4<O4jRGj:Onq<oGGfRqjjxGq:<1:rRx{oxO:<oGGrR1{<qj:ZoxGj)<{:x1:<oxq1+q{jnG:ro1^<tx1<n::jOG^:4<1<nxrmOO<b4G1:n1{x{Ox4q{1jjRr:O1<<ORO^GnA1nnnO:1Or^1R<1Rnj:qR:{^x<qxo}OjO:^^sRR4o<G1)L{OxjjqjOx^q4{xn^:Ooj^Gon<^G::xOj^O#j1GioR{{rx{qoG:^4_O{jx{:G4n{GrOOj<G^:^_j<rnq(<O4jR<j:n2::<xGGRO{hxGq:<1<<44{Tx:qjo<G: M{<jxrGoOG1NG{xx1:xox^OHr{jn^::Oo^<An1Zn::jOOfn&11<nxrqOO^{4G1jr4r<Ox<DGq1jj^r:O1xq4xR4jOrjqG<:414<1jxKqq<jG^R:{^x<qxn^GORR{Gxrq1o<GxG#<:xj:oo:^4k<{{nk:OnR^Gpj{1n<:xOA^OGjo<n:rGO<^14e1qnjrGoj^14q1xj^rOqJ<G4:54jor{qb<r4jRGj:r1<4<xG<ROjjxGq:<1G<oR{?xqqjoOG:RR{<xxj1oqGj G{rx1:<ox^4UO{jnG::q{^<5x1Dnq:jOG^:!11<nxrZOO^j4x1:n1r<x{xR:rorGqVj{qxq4xR<jOrjqG:1:xoo^4xC:O<jGGR:4 wo{{nn:{O1<44{1jn:O{OR<G4nR<:nG1.q{xnp:Or{rOOj{1nx:xO>^O<Ro4G<R{{OO{4211njrGO::4qooOGjR:j{xo:^11jrrxq=<Oq4^O^4HnxO<xGoROjjxG1:n4:oOO^jxO:^oGG:R1^x4j1Rj^q1<r4xxR:<ox^>sO{jnG::r1^<u11LnO:j{Orr:4<RnxroOO^j4GG1GxRo{4n^4ORojGr:O1:{::o<GRRR{^nj:{OOjxxoqO<jGGOn^1woR4n1GqRj{Gx:q1o<GxRD4ox{:Go:G13<{xnmoOrn^Gb{{1n<:xxOx:O{<R4{:1qA^x4s1O_RRqjnnGq{orG1{r{nx1:qODj<xSqp<O4j^x^q+x{:xRrGRqjjxGq:<1G<RxC:OOq{oGG:R1{<xx:LrROjYG1rx1:<oxqrq^^{4r1{nGxOOn<1GrRjj^xxq^oG4{JrOO^14G1:n11rn^<C4n1jjGr:n4n^:OoR^:rjqq<:41R<41w:{nnr:qR:{4x<qxo/r<O4<rxrq1o<Gx;.{Oxjnnr:G1Zn{xn&:Oxnx:O{oUGF1n{r^O4G1Gn::1xor{q^<nGx_OO:<O4<1xjd1O{nno:4OGG{pr{1x{4jRGj:r1j4<xG^ROjjxGq:<1<<v4{5xrqjooG:pn{<xxr^oO^g*G{rx1:<oxo=Zr{jnO::OG^<E{1TnOrjOG^nV11:nxr4OO^jGO1:j4r<Oj<l4O1jjGrjO1<:4xR4jOrjqGO:GoR<j1xtqx<j^<R:11xRqxo<GOc.{Gnjq1q<<O6Q{xxj:Oo:^j#<RxGG:OOi^GJj{1{4:xOOxrT{1<n:r1O<^n4D1OnjrO^n^14<1x{arOO{<GGxr<j<rRq*<q4jRGj:x<Gr<xGoRO{{xGqr<1GoRx{<qrqjoGG:(R{<xn:IO:{GiG{{x1roox^HIO{j4%:rO<^<Fx1(n::jO:1{C11onxxoOO^{4G1rn1r:^{<c4O1j{qr:OR<<41j^jOrjqGO441RojxnG4j<jGrR:jRx<qxo8GjOR{^xRq1O{Gxm4{Oxj:GojJ4W<{xn>rRoj^^-:1G:q:xO/^OGO1Gnr:1qO1-421{njxGO:^14<RxGxrOqG<GGR11jnrxqOnr4{R^j:j<q<<nGwROjjxO<n<1G<RxROxOq{oG^xq{{<n4: o1Gj*G{:j1<oox^qVO1^nGx^o1<O4r1Cn1:jqG^:011<jjx{OO<o4GR{n1r<OxoGGx1jjjr:OR<<4xRF{:xWqGo^41RRjxxHqO<j^GR:{ox<:oomG:Rj{:j^q1onGxG{{Ox{:GorG1i:x{n=:OojoRZ:{Rn<rj{R^O4^1Gj5:1O<^x^y{nnjrrO:<o4<boj+x:q^<GGM11jorxqa<OG1y1j:xqq<ooGCROjjn<qj<1G1Rx{4xOqjoG^x4:{<no:_O4Gj=G{:x1rqox^qFO1qnG:xo1<<q<1/nj:j:4^:4o1<nx{4OO^R4G11n1roOx<h^41jjor:qF<<4xRJjOx<qG<j41Rojxx qOOj^:R:{Gx<q1o;^:RjRGxrq1o:Gxs<{Oj?:Gq:^GH<{1nF:xoj<p}:R1jr:xO<^O4#1G{o:1qO1(4J1nnjr<O:^14<RJ^^rqO1<Go^11jorxq#<OGmjoj:r1q<:oG2Rqjjn<41<1GxRx{4xOqjoGG1n^{<nT:UrGGjP^{:xR:<o1I^cO{jnGj<o1^omxRGoj:jO:^:4R1<nxr3OOrx4^1Rn1r<Ox<44ORG^orrOR<<OrRijqrjqG<:GGjqjxxiqOrnGGRrj1x<{{oLG1Rj{ox:q1o<<x:?{On<:GObG14j{x{g::oj^xt:1On<x^OcoOGG1Gj_:1Oj^x4o1Onjx:O:<q4<11jWrOOjOG^<11j{rxqr<O^ORG1:nOq<o^GTRRjjj3q:OW^xRx{xxO:GoGG:R1R<4j:FO8GjTj{:n::<Ojjs5O1qnGr1o1^<=xRG{4:jO1^:G<1<nxrgq:<Y4GRon1xxOx<.4O1jjrr:q:<<GqRujOrjqGoj41Rjjxx+qO<1GGR1{ox<:Gok:^Rj{^x:qRo<G1{^{Oxj:GnoG1do{xn=1roj^xE:14n<:xO8oO:j1Gjz:1Oj^xG:1O{jr{O:<O4<RGj!xROjOGGh11jjrxq:<OG4RGj:x4q<o^GuRxjjxGq:O1G:Rx{rxO:ooG<GR1R<nR:,oRGj/n{:j4:<Oj<qeO1OnG:1o1^<hx(pnG:jOj^:4:1<j<r.q:<n4GR^n1n+Ox<S4OR1jnr:qx<<^OR,jOrj:<oO41t4jxnjqO<jGGR:1Gx<:<ow^^Rj{Gx:q1o1Gx*:{Oxj:GoxG14<<<n,:{oj^OY:1On<:xjo^OvR1GnR:1Oo^xGGOonjroO:<q4<1xj2x:1n<G4j11{prxqE<O^jO<j:xGq<<1GIeojjxG{n<1GrRx{4xOqjoG<:qS{<xR:honGj0r{:x1jxon^O?O{{nG::o1^<OR1Lnr:jO:^:8R1<nx{1Oq^j4G1rn1r<Ox<^4O1jjGr:r1<<4xRQjrrjq^<:41R<jxx_qO<jOGRrj1x<qxogGORj1GO:q1o:GxJC{OR4Rlj{rn_<{1nY:Ooj:oq4o:4r:xOo^O!j1GRnR{{,xr:G1OjlrGO:^1OG<nG{RnOj<14:11j<1{{oxrrIon^q_jnqnr:jOo^1xG:G<1G<RxG^4oR4j<:nO^Gq*n11jrG{IG{:x1:<ox^_^<4jno:ro1^:;x13nO{G{4xO:G1onxrVOO^j4G1:1x{<Ox<G4O1jjG1{nq<<GxRcjOrjn<xr:4oR^44G1oj4rzoj444^1OnRr:GR{Gx1q1o<Gx<^<o4:R4jxO4Q<1Gn7:OojqoOr<xG61jj4rrqq1^n::1O<^x4e1ORj{GO:<O4<1xjz1O{nno:4OGG{!r{1<O4RRGj:r11GxRrqRO{<xGq:<1q:oR<:4xjRnnxGO^{<n^:3oOGjoO^{GOR:r{rRqG<nG<:ro1^<mx1DnO:jrOq:w1RGnxrPOO:r:4o{^4Rrxjno:xOa^4wOrRrr:xRF{OrjqG<:OnO^^R4^{n:1rqOj<G4^1::4OxOn<r4Oq1orGx5v{OE4jOj4rn^O{nnI:Ooj^G*:{1x<jrO2^xKj1Gn:{xj{x{:<1OjNrGO:^1O:O^^mRnOj<r4:11j<(_1Gno:r<<FR1Sq<<RGCROjjRO1?n^r4oR{gx{qjoGG:<4<^4:11nn:RqO{:n<:<ox^;<r<14q1r{Grr7x1xnO:jOG:oq{orG{RonGx4q^o1G^r<q<<u4O1j4OR{1On:o{oR^G%n1<qn410^jxxCqO:{rqOj^{1O1Rj<rxOn<i1n1{jErrqG{Onc:Go:G1or414rR^oj^:Y:{1n<jj{oxx:)o4GO:RO<^x461OnjrGO:^14<1RjirOOj:::x<R^4RRq=<x4jRGj:RG{rjGr<RO{GxGq:<1q<on<GMn1xjOGrR1{<xx:uoOGj+Gr:x1:Rox^cEO^K4qFF{G:nqj<4GORjjqrj+11xnxrzOO:<:4o<GGRr{j<&GN1jjGr:jGxrrGO<N:441Onj:{OGjnxgqO<jGGR:j1n:nxoWGrRj{Gx:nRn::1n:{Oxj:Go::j+o{{nu:Ooj^om:1141:xO^^O4^1Gnr:1r<q^4C1rnjxRO:O<4<Rx{4rOOR<GGr11jOrxqzoo4jROj:r1q<<xGt4O{oxGqj<1G:Rx{1xOrjorG:WG{<x1:yqqGj4<{xx1:roxo:cO{jnG::qq^<4H1WnO:jOo^:41<1nxrOOO<^4G1rn1r<xr<44{1jjGr:O1<<^xuqjOx^qG<R41 Gjxjyq:<jGrR:{ox<:Yoi<O4<{GxRq1onGx^Y{Oxj:oo:^OK<{nnK:OojoG44{1nj:xO:^OGn1G{:xqO<<G4w11njrxO:oFjq1xjrrOqj<G4:111<xqq/<R4jRnj:njq<ojGORO{OxG:R<1G<Rx1Gx{qjo{G:4o{<xx:gO:^xhG1<x1rnox^kBO{jjj::Oq^<4O1WnO:jOG<oz11nnxr=OO^14GR:R^r<q;<aGo1jjrr::.o44xRqjOnOqG<:414<{{x>q{<jGrR:1Gx<:jO:GO2<{Gj^q1o<Gx4G1nxj:no:^Fd<{xnYr:Oj^G4G{1{n:xOE^O41R1n:rrO<<j4_1OnjrG4O^14n1xjnrOO1<GG:M<j<xaq2<n4jRrj:r1:1<xGqROjjxGq:<1<<Tx{%x{qjorG:0j{<jx:^oO^^vG{Rx1xoox<GF{{jnx:::O^<Wx1anOx:OG<4t11<nxr<OOOjo41:jqr<q4<v<^1jjG{qOR<14xRijOrjqGO:GqR<{<xu:t<j^)R:11nOqxoxGO.O{Gx1q1q<Gn}y1Txj:jo:o1X<{xj^:OOq^G_r{1n<:x:8^xsj1{n:rrO<or4vgO{^rGq^^14R1xj:rOq1Ro4:Rxj<xxqU<O4j4G{4r1:h<xGjRO1xxG:xOqG<;q{DniqjoGG:4_1Oxx:1oO^O2G{:x1rOq<^C4o{jnj::o1^</xR^nOr:OG<q/11<nxrHOn^j4j1:n1r<Oj<mGOG4jGx4O1o^4xRxjOx1qR<:G:R<1<xIqO<j<Gkqj1x1qxoxGO4_{Gnx:Oo<^ow0R4xj:Go:<2MR{xnj:O:q^GX:{1jOr4Oe<^%jR{n::1O<<j4^1OjxrGr^^14<1xj&:iOj<j4:Rjj<rjqAoO^bRG{4r1qr<xGxRO{1n^q:o:G<4<{axOqjqG^jR1{1xx:xoO< kG1xn4:<Oo^ G{{jnG::ql^q_x1jnOxqOG^:71RO{qrKq^^j^r1:n1r<qj1O4ORxjGn^O1<<4xRHq<rjqj<:GjR<jjxe:OojGGS4j1nqqxoxGORj1:x:::o<Gx)t{OxjxGq4G1W1{xnx:OOx^GG:1rn<r<Oz<Kvjc^n:xsq{^x4n1O1xrGO:^14<R1jDxGOj<G4:R:j<jxxR<OG:RGjRr1rx<xGT^oj{xRq:<1G<Rx{>jO:4oG^oR114xx:1oO<j4<{:nn:<Oq^FJj{j{GrGo1<4_x1{nOnjOG^:441<j:r7Oq^j4G1:{1r1Ox<14ORxjGnqO1O<^GRD{<rj:_<:GOR<{jo^qOonGGe:j1x<qxqBG:Rj14x::{o<<:T/1:j::GO:G14n{xn,:OO1^o/:1Rn<x4OE^O3jR<j^:1qO^xGq1OnjrGO:oq4<RrjTx:Oj<G4:11j1rxq{<O4jRGjxr1:<qRG(SGjjn4q:onG<(j1GxO:roG<GR1{<xxxsonGj.R{:nn:<O1^V4:RonGrOo1on!x1KnOr1OO^:4{1<njruOO^jG<1rn1x<OxOq4O1jjGxxqq<<GnR*j:rjqG<:41{1jxx{qOo{GGRxj1n<rooa^GRj1ox::no<^j4j{Onr:GqGG1z<{x{Srqoj^RE:1nn<r1OY<:441GjO:1qR^x4-1Oj1xjO:<{4<1{j3rOOjo<G:11{<rx:n<O4jRG{x<<q<onG#RrjjxGq:<1nbRx{{xO:{oGGxR11<4<:EOGGjNq{:nn:<:xORfO1:nGxjo1^otxRG{O:{OR^:4G1<nxrt:Oor4GRon1x4Ox<j4Objjxr:qn<<GqRWjRrj:G<r41_BjxxjqOorGG%:1xx<:Oo_<RRj{^x:q1o1Gxz{{Ox{:Go:G1G<ROn r^oj^Rd:R{n<xx{G^O4r1Gjo:1qx^xG8oJnjr1O:O44<Rqj!jOxn<GG<11{rrxq{<O<j^4j:xxq<qOGUs4jjn<Rq<1^4RxRoxOqjoG<:RR{onq:PO^Gj4O{:jf:xox^1(O0^nG::o1<OHR1pjo:jr4^:d11<nxr4OO<r4GRqn1r<Ox<QG^1jjjr:O1<<4xRKjOxjqGo441R<jxx4qOo1x4R:{:x<rRogGORjRGxrqRo1Gx;x{Oj#:GOx<<><1on*x{oj^G5:RAjG:xOj^O^n1Gn::1O<<^4!RFnjr1O:^14<1xj:rOq^<G4:11j<rxqYo{4jR:j:r1q<<nGB>:<nxGqR<1<rRx{HxOrjj{G:/o{<n4:6OxGj4<14x1:joxoq!O{jnGrxOr^<4^1a1o:jOG^:F1RRnxrqOO<o4G1:n1r<:a<34x1jjGr:qL<<GxRxjOrRqGq*41R:jxxOq{<{GOR:j1x<qnoMGrRj{Gn{q1o<GxE!{Oxj:Go:rGT<{xnw:roj^GA:{1jr:xOB^OM11Gn::1O<r{4.1nnjroO:^14<_x^GrOq4<G4{111,rxq-xr4jR:j:x4q<<xGA4O^1xGq1<1GxRx1jxOqjRqG:N<{<n_:>oOGjGG^Ox1:xox^OEORqnG::Gr^<.R1Bnj:jOo^:G11qnxroOO^R4G4cn1r<qr<,4j1jjor:O1<<^xR1jOxGqG<1414jjxjs:4<jG:R:{<x<xqo%<Ov{{Gx1q1oxGx4j{Onjr:o:^^.<U<n!:jojoG4x{1nr:xO^^O^<1G{:rOO<^R4f1nnjnRO:o1G<1xjorOq4<G^1111<gjqZ<n4jRqj:nqq<Ox<GRO{4xGq{<1<<Rx{Ox{q{orG:;b{<xn:2oqGjbG^jx1:<ox^^fO{jnG::Gx^<LR1in{:jO^^:G1Y4nxroOO^R4G4.n1n<:o<04n1jjqr:rn<<^xRqjOx4qG<{414xjxj7qq<jGqR:{^x<rGo=<OLG{Gx{q1orGxG({OnG:ror^o,<{nnV:qoj^<p:{14::xOm^O-R1Gn::1O<r14b1OnjrOO:^14<1x:jrOq4<G4R11jorxryo{4jRqj:x4q<qGGb4O{oxGq{<1GrRxR{xOrjO<G:b^{<xR:iqjGjGG1Rx1:rox^o#OR1nGx:qr^<ER1Xnn:j:G^:4<1nnnrqOO^R4G1rn1roOx<Qqx1jjGr:q4<<4xRPjOX4qG<{41Rnjxx4qO<jR<R:{4x<qjo=GORj{GROqRo<GxE4{Oxj:Gon^GY<{xnc::oj^G*:{1nr:xOA^OqRoG4r_o{G^x4<1OnjrG{jrR:qooj:rOOj<GGxO{j<rxqg<:4jRGj:n11O<xGEROjjxGqr<1Gxb4{4xqqjoGG:RR{<x{:!oO<4,G{:x1:<ox^ BO{jjq::o1^<fn1enO:jOG<{%11<nxrGOO^j4G1:Rjr<Ox<,4:1jj^r:O1rG4nRQjOr{qG<:41R<jnxdqO<j^1R:j1x<qxo<GORj{GRO{Rj4:Rdm{{xj:Go::<Or^{G<Roj1O<m:1Gn<:xO*:rqooj4{:1Ox^x4I1ORRA<j{rR::<Rj0xjOj<G4:^)GoR{{nx{:1O4^{Tj{:r1rGoq^x4o1:xRrOoR^1=rRoo^G:R1{<xx:_oO<&<G{:no:<ox^,Oj<1G4Ronaqn<j1ynj:jOG^:oCorG1W<{oxx4G1Rn1r<Ox:<qnoR^Oux{{n{4xR:jOrjqGr::{Oq^^4<{Rnnr>R:{^x<qxobOjO1^^4o1^o<G1/>{OxjRrnrrqq:{nn.:Ooj^GK:{1x<jrOZ^xij1Gn:bGjox{qn1On1rGO:^1Or^^jNrjOj<G4:<<G{}{1oxq::RGj{r1q<<xqo^x^o/Rxx<1GqRx{XxO1xnqrRR11<xx:BoOO1O^^n4r1njjrRqn<x4Ojnj{x qroG1r:jOO^:l11<bR{<jRxr4G11n1r<OxrIqqo1Gq3O1G<o4xRFjOrjqGG::{^<jxxnqO<jGG^r^j_q1GnRr:<j<4441jj:GxdO{Oxj:Grnr{qS<rGGnro{^G2:{1n<:xO(4O<n1Gn1:1O<^xo:ooG:ROj{nD4onq:jOG^:P11<{x.^rnq <O4jRGj:r1q<<xO<ROjjxGq:OqGoRx{NxOqjoGG:41{Oxx:KoOGjAG1qx1x<q<^_AO{jnG::OG^<4j11nO:{OG<^311<nxr2O:^j4<1:n1r<qI<c<ORrjGrxO1<o4xE=jOx1qq<:G4R<jjxdqO<j<GOxj1xqqxo^GOs1{GnxG<o<G1gz1Rxj:Go:<>4j{xno:Oqo^GZ:{1n<rjOl^rij1qn:r&O<<x4^1On1rGqR^14q1x{GxqOj<o4:+Oj<rxq>OOG^RGjnr1qq<xGqRO{1n<q:oGG<4V{ZxOqjO<^jR1{rxxrOoOGj)G1xo<:<Oa^C4j{jnG::o1{G+x1^nOrGOG^x%1R<jOreO:^jGo1:j4r<rxo44O11jGr{O1oR4xmGjjrjqo<:GRR<jxx3rOo1GGRnj1xqqxOGGOV1{rx::Go<<^iV{Oxjr<q^G1ur{xjj:Ooj^G4x:<n<raO8<R2j1Gn:xCqj^x4q1O{:rGO:^14<,Oj?rrOj<r4:R3j<xxq{<O41RG{Gr1qq<x^G6njjxoq:oRG<Rx{pjOr<oGGnR1{qxxrGoO^1s^{:nG:<qO^F3O{jj<x<o1^rdxRjnO:jOG<xn<1<j8rpq^^j4G1:{mxjOx<q4Oz:jGr:O1<<4RRujrrjqr<:GhR<{xnnqO<1GGRnj1xqqxOGGxRj{ox:rGo<Gx!_ROj<:GonG1 q{xjG:OO1^j-:1Gn<xOOa^OmjR<jf:1Or^x4O1OnjrGO:<r4o1{jNrnOj<G4:11j{rxql<O4jRGjxr1q<oRG3Rqjjx^q:<1G<4x1rxOq{oGGrR1{Rxxx(ojGjZ^{:xR:<q<^eGO1jnG:ro1^oDx1:nOrjOq^:u11<jRrZOq^j4G<nn1roOx<G4O1jjGr:n<<o4jRJjOrjqG<:^irxjxx^qOOoGGR:j1x<{:o4GxRj{Gx::Ko<^j<4{qn4:GOrG1(<{x{2:qoj^q}:1^n<rjOA<:GG1Gn1:1q4^x4E1Oj1rnO:<o4<HOj!rOOjo<G:11jjrxq{<O4jRG{xxoq<o^GA4GjjxGq:<1^nRx{oxO:ooGGxR11<4<:PoxGjNo{:n^:<:xOR>O10nG:{o1<4_x1P4n:jO^^:4G1<nnr>q:nn4G1rn1xGOx<}4Oaj^<r:OR<<4nRa{Grj:<1141ROjxnrqO<jGGR:kjx<qno_G:Rj{^x:r1qOGxf4{Oxj:GO4G1M<4:n5:qoj^<):{Rn<:xx1^q2j1Gnr:1O<^x4m1OnjrGO:<q4<1xjBrOq4<G4:11^qYx{4n{:xRGj{r1q<<xOOO:G{UR{{<1GxRx{exOj<j4r<OG^r4j:UojGjCG{:RpRrj1x<qo<xnG:{o1^<&xoc4r1{j1x<l11:nxr=OOngq^onGrr<qG<D4O1j4OR{1On:O{or<cF4qGo%41R<jx1^{qn::1oxGR+q1oo4GORj{Gx:q1o<oO< 1<xj:Go:G1Oq{xnf:Ooj^G3:{1{<RjO8^Oej1Gn:riO<ox:G1OnjrGO:^14q1x1V=:Oj<G4:11j<r1qzqOonRGj:r1qn<xGrROjjzoq:<1G<Rn{UxOqjoG1RR1{<xx:4oOG{fG1xG{:<ox^w;n{jnG::q7n^Dx14nOrGOG^:51_<GjraOq^j4^1:nRr<Oxx^4O11jGr:O1<<4x4t^:rjq<<:GmR<{GxkqOn4GGR:j1xOqxo4GORjGdxrq1o<Gn/>{Oxj:Go:G1u<{xno:Ooj^G_:1^n<:xO6qjq1<^GoR^O<<54?1Onj{<{{nG::orG1rOq<<G4:114:RR1:nxORon<G-^q<ouGPROjj1x1qnx::oR<GxqqjoGG:R1{<xxx:rO^G.G{:x1:<n{^5FO{jnG::o1^<GxoGnO:jOG^:;11onxnd{:^j4G1:n1r<O1<F^Oo1jGr:O1<<4xRGjOjjn4<:41R<j{xfqn<jGG<OjRx<qxo4GORj{Gx:q1o<Gx/f{nxj:Go:GRy<{xnc:Ooj^G^<41n<rGO?^OKj^O4{hO{::{qrOhG4rGO{^14<1x%OV:j{xRq{11jxrxqK<Oo1Oq^j4G1^n:GURjjjxGq:rOr^OO^<fn11o:G:R1{<xx1^oOGjXG{:x1:<oxomq:{jnG::o1^<+{1 {OR1OG^:k11<nxroOOoj:<1:n1r<Ox<u4x1jRG{qO1<<4xRGjOr{qG<:OjRojxx,qq<jGGR:j1x<qxoYGOAx{Gx:q1o<GR/D{Oxjj:jx:Rq4^RnT:xoj^Gs:Gx4{R{{<^O4^1Gn::1n:xrqq<{G:Rqjj^1G%1xjyrOx{x<:no{^>LR1<xnORon<GS^q<oxG+ROjj1^{xj4r^OO<o4x14xGrqq4^{411rjorxa^{:x1:<ox^3cO4xRG::oR^<ex17>R:jOR^:711<WR>^jnx1onoOG1Pr{1r<:RojGqr:OR<<4xRd41rjqO<:41R<mRl11nnrG^R:j1x<qxoWxO^{4Gxrq1o<Gx*={Oxj:Go:G14D{xnd:Oxrx4q{o44rjj{oxx:Do4GOnRO<<44+1Onj1o{4xGqr<jG4w::R<G4:111<oOqS<q4jRGj:xOq<ojGoROj1xG:G<1G<RxR/noqjo<G:lU{<nG:FqO<4}G{xx1:Oox^{TO1Gnx::oR^<Gj1!nq:jO<^:4Gnqnxr7OOo14G1rn1r<j{<s4q1jjGr:O1<<^xOGjOr{qG<r41ROjxxf4n<jG^R:jRx<qxo7^<!O{^n<q1OyGxk4{Ox{:Goja4g<{xnNrGoj^^5:1G:q:xOy^OG11Gnr:1O<r{4+1qnjr^O:^14<3x^GrOO{<G4r11{Grxr.n:4jR^j:rRq<<nGz4O^1xGqr<1GoRx{<xOrjj<G:RR{<xn:EoRGjG:1mx1:oox<<2O{{nGr^o1^:{{1WnO:jqO^:#R1<n1O^OO^j4GDxn1roOx<Cqr1jj^r:q><<4xR)1OV1qG<r41RojxxqqO<j:oR:{Mx<qxohGORjRG4xq1oOGxtG{Ox{:Gq:xVL<{jn3::oj^qX:R1GO:xOG^OC11GnR:1O<Gr4=1qnjr^O:<l4<42RjrOO{<G^x11jorxqO<OGajoj:r1q<OjGYRqjjxG{n<1GoRx{^xOqjoGG:O4{<xj:foOGjBG{:j1ROox^GHO{1nG:no1^<4{14n::jO<^:z11<nxj1OO^{4G1xn1roOx<DO<1{jGr:OR<<4xRJjqrjqG<:41Z^jxxcqO<{GGR:j1x<qxoFGORj{GxRq1o<Gxo<<o4^1rj<r^O:{xno:Ooj^Go{GG4{RqrG^O4o1Gn::1x{x:q<<R4RR^{jx{:O1xj:rOOj<GOxo{^:Rn1<xR:nO=jrr1q<<xG-ROjjrGnq<RG<Rx{3xOqjoGG:^1{oxx:poOGj-Go:R<j<ox^<3O{jnG{njqx1OR1)nn:jOG^:o<oO4nR{jn^j411:n1r<nRnPqx<{^OR{nOxr:^oqG14CqG<n41R<jxz1{nj^GGh4j1x<qxrq:nq84xY{1qnnrGq<{OnG:Go:G1<j<r4j1xj4x<;n{Rj{:xOi^OSj<on::RO<^x4i1OnjnG{x^14o1xj4rOO1<G^1qOj<rnq0o14jR^j:x{q<<1R^ROjjxGrL<1GoRx{eirqjo^G:R1{<xx:!qOr1aG{rx1:oox^xwO11^4::O#^<+{1?nO:j:Gnjm11OnxrGOO<:4GRxj:r<O{<f4j1jjGr::6o:4xR<jOx^qG<:41WO1qxkqn<jG^R:j1x<qxo<GOzG{Gx:q1o<GxGy1{xj::o:^<Q<1qng:OOO^GX1{1nn:xOz^OujGon:rAO<^x4(1:njxG{G^14o1xjrrOO1<G4:o4j<rnqb<O4jRGj:n11O<xG4ROj{xG:G<1<<Oj{Hxqqjo^G:Nj{<jxRGoOG{7G{rx1::oxOb<o{jn^::O^^<4G1(nO1ROG^rN11onxrmOOoj^<1:nRr<On<?G41jjG{OO1<o4xRGjOr{qG<:OjRojxxWqq<jGGR:jRx<qxoKGOGr{Gx:q1ooGxwk{Oxj:Go:ox<<{xnq:Ooj^GO1oQG^RqnGq{<11GjG:1O<^xO<<n^<8Oxnx{:Dor^GjrOj<x4:11j<11{on1r#<o^44:{r<xG<ROjjxGjOxRr4oR{dxxqjoGG:<x^{4{R<oO<GwG{:x1jOnnr^q4<^G<Rq{^xGO1^<G:1{{axnq1<oGjRo{<rR:n1:j^r<Ox<UOn^hGnDox#<o4xR2jOrjqG<:o<^<jxxOqO<jGG<:GR4O{Rn1rxR{{Gx:q1o<Gx%s{O1j:Go{G1S<{xRj1qn1rqq<{1nR:xO#^OO,<q^_)Gnnxjq4oOGjRqjj^R4<1xj*rOOj<G4:11j<x4qa<O4j<:G{/41:nrrGG:jjxOq:<1G<<p^R4<RZo^G:R1{<xx:3oO4j<4{:n^:<ox^F<r<n41Rq{.^<4310nO:jxxxqqx<:4RKGOq^j4G1:n1r<Oxo<oO1jjOr:O1<<O1oo^14VqG<141R<jx1^1:n4:^Oj^^xoqxo-GORj{Gx:o1r^G{w4{Ono:Go:G1o:^RG:Rxx:r^Ox<^Gw:nO!^Oaj1Gn::1r:qx441OnjrGO:^14<1x:VrOqO<G4:114qMr1on:qRoq4nRR1Gn{G5RRjjxGq:xG:rqG<<1r1nn1rqq5{<xR:aoOGjoO<b4^R4nR^e44{jnG::rRxGO{<:GoR1nGxqqqoGG1r;qO^j4G1:+5Roj{xnq{o1^4S{{jx:o{oR^GKn1<qn41ROjxxwqOx4OnR:{4x<qxoYOqO+^Oxrq1o<GxHN{OxjrG4:G1lx{xn#:OrRx4q<<{GOn{OD^n*j1Gn:{<{Ornq{<nnjrOO:^14<^R,<RR{r<G4j11j<rxj^xRrOoqj:xGq<<xG-<x<o4G{{<1G:Rx{_xOj4jur{On{oxx:foOGjUG{:{Gj<ox^:MO{jnG{:j{xqq^o<4RRn{#^:4x1<nxr3nrx4qoojGq}^{::^:oo:^4VxO1<q4xRHjOsx{qnRx1R<jxxgqOxxG^Rxj1x<qxoGGOgj^jx::/o<GR&S{qxjnGrqG1.O{x{::OO:^GB:<4n<:{Ok^O=j1Gn:x1{O^x4^1OnRrG:r^1^<ojj rrOj<o4:;<j<xj4O<OGTRG1{r1q<<xG>o<j{xqq:<1G<R{{HnO1OoGG{R1{rxx:4oOGj<4{rn<:<ox^!wO{j{Gxpo1^x*x1OnOx{OGo:G<1<jiriOj^jG<1:{1x4Ox<O4ORGjGnxO1<<GWRMj{rjq^<:41R<1xnGqOo^GGRRj1jGqxq(<^Rj{rx::oo<oOc*1:oR:GO3G1G:{xn}:Oqj^<E:1On<rGO6^:_jR<nx:1O{^xGx1OnjrGqxoo4<R<jyn#Oj<G4:;/{nrxqn<O^ORGj:r1q<<nGpR1jjx{q:<1G<Rx1rxO:GoGG:R1{OxxrK:nGj?q{:j1:<O*^Z4:11nG:1o1^j,x1*nOxjO^^:4<1<jBrwr^^jG<11n1rnOxo44O1jjGxxOR<<GGR*{4rjqG<:^?RjjxxrqOoxGGR:j1nOroo_^zRj{nx:q1o<Gxx1{OnG:GOGG1}O{xj.:Roj^q/:=on<r0OI^ObR1Gn1:1O<^x4-1O{jxnO:<<4<RJjTnqOjOG4{11jxrxqO<O^GRG{xrRq<o4GI4njjxGq:<1GjRx{:xOqjoGGjR1*<1r:Ho1Gj5q{:j4:<oxORfq1onG::o1^<yxt)n::jOn^:4q1<{nr6:OoG4GR4n1r{OxoG4OUj{tr:qq<<G^Rv1:rjqGon41R1jxx4qO<jGG4:1^x<:<oh^mRjRsx:r1orGxdx{OnO:G:<G14O:{nkr4ojoOd:{1n<xxOx^O4q1Gj^:1OO^xGGRnnjr1O:O:4<1xj?x:qo<GGo1111rxqA<OG1ROj:xjq<q<G#ROjjxG:j<1GRRx{1xOqjoGG:4S{<n^:uoOGj_<{:n1nrox^: ORjnGr4o1<OU{1fnR:jOx^:-11<{xxGOO<o4GR4n1j4OxoG411jjjr:qj<<4xRt{:x<qGo^41TojxxAqOo1^rR:{xx<::o#GORj1<xjq1O4Gx44{Oxj:Go:4:V<1^n8r^oj^<f:11jr:xO:^O^q1Gj4:1qO<1401RnjrxO:^14<6x{#rOqo<GG411R4rx:Gon4jRjj:xRq<<xGXK:j1xG:^<1^RRx{;xO:1O:G:5x{<nn:BoOGj4<q1x1r4ox<nfO{jnG::pj^<4^1Fj^:jO<^:41RRnxr:OOO^4GR4n1r<q^<M4R1jjGr:O1<<^xROjOxoqGo4414ojxjT:H<jGnR:{qx<r?of^:4^{GnGq1O{Gx8y{Oxjr4o:^r><{xnLr*ojOGj4{1nR:xOo^O4:1GjxxoO<<O4?RonjrGO:o1Gn1xjjrOq:<G<o11{Oxxq)o^4j5&j:r1q<oj^qRO{xxG:R<1G<Rx{*<<qjo1G:fj{<xj:MOO^{ZG1^x1x^ox^j=OljnO::Or^<441Njq:jq<^ny1Rwnxr:OO^j4Gs:{qr<qO<lGG1j1Rr::sox4xR{jOxxqG<:41COjjxl:<<jG{R:j1x<:jROGOXn{GnRq1o<Gx4G11xjrGo:^j-<{xn}:Oq4^G4<{1j<:xOG^O4j1on:rrO<Oo4}RGnjx<q^^1GK1xj:rOOj<G^:T4j<xOq!oG4j4Rj:n):x<xG{RO{{xGq:<1^O4O{zn<qjqoG:R1{<njGOoO^nQG1Ox1:<ox<Gxj{jjG::oR^<ux1KnO{qO^<<%1R<nxrGOO<jGn1:jrr<r4<_GG1j{<xxO1oD4x4rjOrjqGO:GrR<{Oxm:G<j^GR:11nRqxojGOf:{Gj<q1O<^rh-14xjrGo:^x)<1xjX:OOq^G4{{1no:xO_xRvj11n::RO<^x45WO{OrGq<^1G 1x{1rO:jo44:Rxj<xOq_O^4jFG{:r1qR<xG^RO{:xGx:ozG<fo{Kxxqjo^G:G11{xx:noO^r;GRTx1:<Ox^>aR{jn{::o1^<Xx1nnOr<OG^:;11onxxG1o^j4n1:1<r<Ox<)^O1{j^x4O1<{4x4{jOx1qr<:G:R<{:xzqO<j^<Z1j1xRqxO<GORj{Gx:r3o<^^6>14xj:Go:G1Ga{xnO:Ooj^GU:{1n<r:Oc^nEj1Gn::RO<<j:R1OjGrG:1^14<1x1,FoO{<:4:R<j<jqq?o:4{RGjRr1:G<xG2RO{1nGq:oOG<;1{ExOqjoG<oR1{xxx::oOGj/G{:nr:<o{^D#O{jn<::O1^rJx1GnOn4OG^n=11<j^rPOr^j4<1:n1r<:xnG4O1RjGrnO1<x4xRKGrrjqO<:GFR<jxxprOn1GGRjj1x:qxoOGORjqqx::Go<G1L5{OxjxGnOG1_:{xn<:OO{^Gi::On<:{O7^x)j1<n:x1{O^x4^1On1rG:{^1^<ojjErrOj<o4:.4j<nx1G<O4RRGjnr1:Q<x^TO#jjx<q:oxG<R{{gjO11oGGnR1{OxxxooOGjOo{:nG:<oj^/FO{j{GRxo1^:%x1<nOn4OGo::31<n1rSOx^jGo1:{17OOx<<4ORFjGr1O1o<:<R}jrrjqj<:GGR<jxqGqO<1GGRxj1x<qxo q<R{{Gx:qRo<GxDh{:xj:Go:G1HR{xnF:Ooj^OX:{1n<{Ojrxr:v1GnR:1O<^xO<ooG^Rr{<x^q:1njQrOOj<G4:11wr{xqt<x4jRGj:cj{rjGr<ROj{xGq:<1q{Rj{&nGqjoGG:^R^O4{1RjGx4qO^{541{{<ro)O1onG::o1qnORo<R1R4jnrRqOo:nnrHOO^j4G1:n1x:xx<^4q1jjqr:O1<<O*OGGqTr{qO^41R<jxnG4j<jG^R:{4x<qxodGOoR{Gxxq1o<GxfS{OjjR<o:^HA<{jnv::ojo:rD{1nO:xqr^O5{1GjG:1O:u{401OnjxnO:^R4<Rj^RrOO1<G4j11j<rxr0n:4jRoj:r1q<<nGtRORjxGqj<1G:Rx{PxO:fGoG:R1{<j4:EoqGjGG<xx1:nox^O,O1<nGx11O^<441Vj^:jO^^:4<1<n1O^OO^j4GRon1roOx<<1r1jjGr::l<<4nR>1On1qG<R41Rxjxx:qO<j<oR:{ox<qjo/G:Rj{:4nqRonGx4G{Ox{:Go:G1z:x{nZ:Ooj<<Y:{Rn<:1^^^OIj1Gj{:1Oo^x^3o:njrrO:<<4<Roj=nO{1<G4R11jnrxqq<O^jO<j:xoq<o4GfRnjjxG::<1GnRx{4xO:^oG<:oj{<xn:8o{Gjen{:n<1jox^GpO1onG:ro1^O,x1<:r:jOG^:4q1<nnr2OO*14G1rn1rOOx<S4O1j4arrO1<<4nR/jOrjq^<:41R<jx1OqO<jGGRrj1x<qxo;GORj1GO:q1OvGxmh{OVR11n{:RqO<r411jjnroq{o4n<:ROP^OWjG14rRZjrxO4c1jnjrGO::O:^oOG<Rn{1<^4:11j<rxqg<OoA^Gj:xoq<<xG_oj^1441ox#On^j{)xxqjoGG:<q^q4r11oqGjQG{:x1:<ox4X<o{jnx::o1^<o1<oG1Z7nox4::<rnnreOO^j4G1:n1{<xx<V4j1jjGr:n4nOqRo4^x(4q^<:41R<jxxwqO<j1GR:{Gx<qxoLqxO4<x4jq1orGx+7{ORGR<nrrnOr{xnO:Ooj^G<n<{GIRr{GOr>j1xn::1O<q{q4oGG:R<jrx4qR1x{OrOOj<Gox<RGq,o{qn::nOq^O5Gj:nj:4O<^R4G{rj :rO:^^4Rq{oGG:R1{<xx:goOGj}G1Gx1:<oxq{qoo4Go1{x^xGq1<oG::{OG^:.11<nxrAqxqj4G1nn1r<Ox:G:oO<jGrRO1<<4x<<Gn4<1O:x:{OjjxxqqO<jGG^n^{4G1:no:rq;{^x:q1o<Gxa({O1x<Go:^jN<{xny{rjnxqqx<44r{{j4x<qRG<GqRxj:^n4(1OnjrGO:41q<xxj4rOOj<G4:11j<nGnl<OG^RGj:r1jxxR:^Ox^n4<xx<1^GRx{(xO{tnqx&qGGj1n1jnRr^qg<o4^RGj1^Q4G{jnG::n4rrO{o<4RRn{iqnq{osGr/GOO<z4G1:n11WjRxO:x1{jGr:O1<<4xR/1GojqGo441R<jx1O1oxRrqOn4x4^1{j<GOUo{Gx:q1x::Rq:<x1RR4j<r{qO{xnn:Ooj^G<r<j4qRGjRx:ojo4G4Rj{:^n4X1OnjrGO:^14<Gxj4rOOj<G4:11j<jOn <q4jRGj:r1q<<xoj^OjjxOq:<1G<^R^14n1roGGjR1{<xx{orxroOR{:n4:<ox^-q<<4Gr::Or^<)x1ZyxR4{xxjOooO4niF{Ox4qO1:jOr<Ox<TOOon^oD41Gx{:ro1jOxoqG<:41<:GR4:1xr::^ox^^4vqno GORj{Gx:R1noOxN#{jxj:Go:::<{<:4<1n{<^Gz{{1n<:xnoqxqo<R1x:1O1^x4=1O7R/4{{n#qq<R4^Rq{xno4:R^j<rxq#:r:no1^q4sq<<xGUROjjxGq{<1G<RxG<0114nR:{R1{:xx:,oOqxO^<o4^:<O_^LNO{jaG1r{Xrrq:o<nO:ROG^:u1Go41R<Oq^j4G1:n1r<OxqGoO1{jGr:O1<<4xR_Sx{jqo<r41R:jxxTqOr::nOn<Gx<:xoYGORj4<zr14nRr4qG<oG4RAnjq4q^<O4RR::R^Gwj{1n<:xxOxoqxoOn:r:O<^x4U^xG4lx{j:4:^oOGRH:rR<G4r11j<rxj<<q4jRGj:r1q<<x4;^ojjn4q:<1G<<x^jfq{Rnqr%O{<h&11oj::/OqoFGG:<o1^I=O{jToR4{:rr_xRKnO:jOGqnqx<r4nIGnxx4:xoj*{uGnixRqrO4^orrO1<<4xR jOrjrO::41R1jxx}qOrrr4O{<4erjOno:qqG^qx::wo<GxU_GnRo:GojG1#<{xd<RRjjrqq<{Rn<:xO_r<+{1On::1O<^{4HROGOrGOj^1<:1xj4rOrjqn4:RGj<1gqSon4jMGjnr1q:<x^!ROjRxGq:oAG<RR{AxOqjoGG:41{Oxx:ooO^4mG4{x1x<qG^>3n{jnq::Or^<4jRrnOrGOG<OB11<nxr+q<^j4r1:n1r<O{<uGOoOjGrRO1q:4xR4jOrjn4<rGOR<jxx#qO<j<GRnj1xjqxo:GO<4{Gj:r<o<^G.k{1xjn^o:<1U:{xn::OO<^G^1{1n<r1Ol^RTj1^n::1O<ox4o1OjorGq4^1<q1x1pr1Oj<n4:Rqj<n:qwo:jRRG{Gr1:^<xGHRO1jxjq:o:G<d<{txjqjO<GRR1{Rxx:ooOGjZG1xnj:<OO^pvn{jnG::q8^o8x1{nOr4OG^:e11<{OrcqP^j4R1:n1r<Ox<44OR<jGr:O1<O4xb3Rnrjqr<:orR<{Gxg::oaGG-tj1{^qxoNGO4j1^x::Oo<^Ge#RRxjr<q4G1w{{x1R:Ooj^G4x1<n<r<O.oxej1Gn:xPqj^x4n1Oj1rGO:^1GOk^j?xGOj<j4:11j<rx41<OG<RG{<r1qO<x^lu{jjxrq::RG<hG{QxO:<oG^_R1{<xx:=oO<j4{{:nO:<OG^V<n{j{Grxo1^jCx1:nOrqOG<x441<j^r q<^j4G1:n1rnOx<x4O1{jGrjO1q<orR,{YrjxO<:GGR<jx{RqqoqGGR:j1x<qxq8^1Rj{{x::ro<ORHfROjL:GO^G1sR{x14:Oqj^<(:1rn<roOMOjij1G{Q:1qt^x441OnjrG::o<4<ROjVxGOjqo4:X1{1rxqj<OG:RG1Or1:OR{Gcz^jjn4q:<1G<4x{RxO:roG^oR1{xxxrGOoGj4K{:R4:<ox^z4:R4nGrqo1qqdx10nOr1qO^:411<R{rAOO^j4GRxn1x4Oxoy4O1jjGr:qR<<GoRCjOrjq<<:G1GrjxxxqO:qGGQ^j1nO:<oU^4Rjy4x:q1o<<x>G{Onq:GO^G1G{{xjGr=oj^1_:RAn<:xOC<:Gq1Gjo:1x^^x4M1Oj1r{O:<j4<RjjmrOOjo<Go11{^rxxR<O4jRGj:::q<ooGfcojjx<q:o1GnRx{xxOxqoG^^R11Oj<:EO4Gj^4{:x1:<qx<{5O1qnGr^o1o{txRGnq:jO1^:<{1<nxr_q:<q4GRon1xEOx<(4OR1jRr:qj<<orRtjOrj:<1141E^jxxjqO<jGGR:qjx<:ooa^oRj{<x::1O{Gx)x{O1{:GO^G1A<1xnJr4oj^GK:{1n<xxqG^O4q1Gj^:1xr^x^}74njr{O:<r4<Rojlx:O{<GG<11RJrxqQ<O4jCqj:xnq<<xGQ(/jj{Gnq<1^4RxN<xOqRoGo:41{<nq:8OqGj<4{:jw:xox^1FOTnnG::o1o<4{18j<:jqw^:^q1<jjr:OO<n4GRxn1r<OxoG4r1j{Gr::G<<4xRJ{:n^qGor41RjjxxNqOo1^OR:1!x<rxoWGORj{GrGq1OGGx4G{Ox1:GO:<qs<1qn#n4oj<fm:RUnr:xO1^O^n1Gn::1:<<n4_R<njxpO:Oq4<Rjj:rOqn<Goq11j<rx:G<n4jUGj:n:q<<xG?c:1^xG:r<1^ORx{FxO:1R:G:4_{<jR:ZoOGjEGG^xRrGox<G.O{1nGr:qx^<4q1CRq:jqQ^:Gez4nxr1OOO^4G1:n1n<q4<?G<1j{_r:xx<<^xK^jOxxqGoO41G<jxnA:n<jGRR:vxx<::o3^O4r{Gnoq1O4Gx!4{Oxj1oo:^j=<{nnm:OojoGOx{1jG:xO1^O^R1G{:xGO<<:43R<njn<O:<14O1xj{rOxr<GGO11R<xqqao^4jRnj:j^q<qxGrRO{rxGxG<1o{Rx1Gx:qjO%G:Go{<xx:tqO^:=G1Ox1rGox<{eORjG<::Oj^<4:1k{o:jqGxG 1R4nxx{OO<x4G1:<xr<qo</G^1jj<r:O1o{4nRjjOrjqG<:414<1ox):G<jG1R:4^x<rxOqGO7:{Gn<q1oRGx4G1rxj:Ro:^jK<{xnY:OqO^G4O{1n<:xOO^O^jRjn:rjO<O14#Rjnjx<q:^1G^1x{jrOOj<G^:O7j<xrqUoo4j4nj:nt4x<x^hROPnxGq:<1^Oxt{PnqqjO<G:R1{<xxYjoO^n_G1rx1:Oox<Wqm{jj2:::4^<4r1JnO1ROG<q+11onxraOOoj:<1:j{r<qr<#<r1j1GvxO1o^4xRRjOnxqGo:o^R<{:xMn4<j^4R:10njqxoRGOGn{Gx:q1q<^4/T1oxjr4o:oqE<1jno:OOj^G<q{1n<:xqG<nFjR^n:rxO<^x4ER:{orGqx^1GO1xj0rOq1oO4:P4j<n1qp<O4jRGnGr1:^<x^^ROj1xG::oqG<,:{){4qjO4G:4F1rxx:RoOon5G{:x1x<q^^&4o{jj4:::q^<4jR4nOrjOG<xd11<nxxGqj^jG^1:1nr<Ox<>G:YojGxxO1:^4xRyjOx1nG<:^4R<jnxkqO<jGGRRj1n^qxO^GOR1{Gn::no<^:&g4qxjr4o:o14:{xn1:O:x^GGj{1n<rROM<o*j1Gn::1O<oxD^1OjnrGqq^1or1x1SxmOjo44:R{j<xoq+o:^:RG{:r1:G<xG)ROjjxrq:oRG<Rn{Dxnqj:GGrR11oxxn<oO^YBG{:jo:<Oj^*PO{jnG::q1o4bxRGnOr1OGq{K1C<n1rPq:^jG<1:1Rr<:x<O4OR1jGxxO1qx4xRC1^rj:o<:4RR<jxx}rO<{GG_nj1nqqx:^GO4j{1x:r4o<^{k0R<xjr<OjG14:{xnR:Ooj^GG:RGn<r1O.<xJj1:n:xZyx^xGo1O{vrGO:^1GO1xjDxjOjoO4:11j<xj:?<O^^RG{jr1q<<xGAznjjnOq:OoG<Rx{uxO:qoG^xR1{<xx:GoO^j4o{:nR:<ro^N4:{jj<:jo1<OHxYRnO:jOGo:Gr1<jjrsq:^j^n1:{#xOOno^4OR1jGr:O1oO^^R={xrjn4<:41R<{jn)qOO4GGpxj1x<qxOG^{Rj1:x:n{o<GxCi{Ox{:GOxG14x{xnG:OOj<1}:1Rn<noO?<:djR<jj:1qO^x^R1OnjrG::xx4<Rjj>x:OjOn4:7Njxrx:^<OonRGj:r1:OO^GdXxjjx1q:<1G<Tj14xOr4oGOqR1{<xxrGojGj4:{:nx:<ox^&hO1jnGrxo1<xPx1GnOrjqo^:4R1<RnrDq:^j<GGqn1xoOxO14O4gjGr::q<oGjR+jOrjqG<:^1b<jxnGqOo1GG^{j1j<:{o,^:Rj1<x::ro<^jT^{OnR:GO1G12<{xnix4oj<O8:{1n<rOO;OO4q1Gjj:1r:^xGo1Oj1xeO:o^4<KOjprOOjOGq^1R{rrx:o<O<oRG{xnOq<O.G}k:jjxGq:O_^1Rx1qxO:<oGG:R1{<x{:COnGj4r{:n(:<Ox^r_OR7nGxno1<r3x4wn1:jqO^:4R1<Rrrl:O<j4GR{n1rOOx<G4O4G{fr::^<<{RRBjqrjxn<:GGjqjxx7qO44GGRrj1x<ojoV^nRj{Gx:q1o<Gxj{{Oj4:GorG1a<{xj8nnoj<Ou:GJn<rRO#<:4G1Gj{:1r^^x4l1O{jx:O:o^4<RRj,nROjo<4r11{xrx:G<O4jRG{xx<q<O4Gl4jjjxGq:OJ^oRx1:xO:<oGG:R11Onx:FORGj4<{:x1:<ox4x-OR4nGx4o1^OQxRuj4:jqO^:^r1<jRrUq:<^4GR{n1j^Ox<84O#j{Zr::^<<GRR!1Rrj:<O!41txjx{RqO<jGG%x{Gx<r4o5^1Rj{Gx:r}ooGx4:{O1n:Go:G14O:xn&rRoj<<,:{1n<:xOx^OG41G{4:1OO^xGLE4njxOO:qR4<RRjJx::q<GG{111nrxqy<O^jR:j:n^q<oRGF^GjjjG:o<1^rRx1oxOxjoG^:8n{<n1:srGGj4q{:{1rqox<<bO4jnGroo1O<GO1vjx:jOR^:<-1<nxrOOOo44G1rn1r<OxO0::1j{qr::^<<<{R(1OD1qGo{41SrjxjGqOoj:jR:1Gx<nqo ^nRj;G1qq1O:GxMr{O{4:G::O{N<11nun%ojOnE:{1<H:xqG^OGA1Gnx:1O<o^44RrnjrGO:^14<.xjorOqR<GGn11irrxrS<{4jLoj:n4q<ooG#.:jRxG:j<1o*Rx{gxOqjoOG:4^{<xx:iOmGj^G{rx1rroxO<DO1^nGrxqx^<GE1&{G:jOG^:G1oOnxxOOOoG4G44n1xO4T<5G{1j{<r:O1<<GjrOjOn<qGo,41R<jxxU4<<j^:R:1Ox<qjoD^O3r{Gn{q1qqGx4O{O{jrxo:<^(<1nnSjooj<<G4{1jx:x:R^O7j1G{:rwO<o34yRjnjnnO:o+Gr1x{qrOq1<G4:11{Oxxqyo14j6{j:r1q<ojjORO1oxG:b<1G<Rx1Gn1qjOjG:4!{<xx:2oO^1JG11x1r1ox^G.O1jj/::q^^<^o1Djj:jq<<,;1RxnxnROO^j4GS:{4r<:m<WGj1j1nr::Y<q4xZqjOx1qG<:41(O{xxY:1<j<qR:j1x<:jROGO4o{Gnxq1o<Gx4Gqjxjrjo:o^0<{xni:O1:^G41{1j1:xOG^O4j^<nrx^O<qn4lRjnjx<qq^1Gx1x1qrOOj<G^:JCj<n_qMoj4jG1j:n1:4<x^ORO1GxGr4<1^<pO{Qnnqj:1G:4<{<{x:^oO<4?G1ox1jGox^24:{jj:::o1^<-x16{OHjOG<1b1Rxnx{oOOoj411:{<r<:u<&<q1j1Gx1O1ox4x(OjO{GqG<:G4R<14x-qq<jGGR:11n<qxOqGO4^{G{nq1q<<^Tv1{xjrro:<j3<1jj::Oq<^G4q{1n<:x:I^G;jRxn:xOO<<_47R:j^rG:4^1<j1xj rOq1on4:-:j<{Gql<O4jX<j1r1:R<xo:ROjjxGq:o4G<4G{bj4qjoGG:R1{xxxrOoOGj;G{xx1r<j<^g4n{j1R::q<^<^x4RnOx4OG<4V14nnxj2xo^jGq1:1:r<x^<,4O^jj^xnO1or4xRHjOrj{1<rGRR<jxxZqq<j^<qqj1nOqxq:GORj{Gj:qRoo^jWC1:xjxno:<34<{xj^:OO1^G(:{1jOxOOy<xkjROn::1O<^xGx1Oj1rGqj^14<1xj&x^Ojo44:11j<rxqM<OG}RG{Or1q<<xG4RO{1G4q:o{G<GG{ExOqjqGGrRR1^xx:RoOookG1xnr:<Ox^l4:{jnG::qZ<RXxR4nOx?OG^:Q11<{qr8qo^jG^1:n1r<Ox<R4OR:jGr:O1<<4xR;j:rjqj<:41R<jnxM::jnGGk^j1jjqxoBGO4j{^xr:ro<^oD_RRxjr<q<G14){xjG:Ooj^G4xR:n<rqO <x+j1Gn::1:b^x4n1OjrrGO:^14<5GjZr1Oj<G4:11j<rx:O<OG^RGj:r1qo<x^Gqojjxxq:qOG<Rx{WjORqoG^JR1{jxxxroO^14{{:nq:<Oj^QAO{jj<r4o1^1ixR<nO:jOG^:4R1<jGrEqh^j4G1:n1xnOx<o4O1jjGrxO1o<G1RQjxrj:J<:G^R<{-xqqqo4GGRnj1xoqxoGGORj1qx:q1o<Gjgi{Oxj:GnjG1u<{xn<:Ooj^Gi:<4n<rDOC^r j1Gn:x1{O^x4O1OjGrGxG^14<<{j0r{Oj<o4:11j<nx1G<OG^RGjRr1x1<xG?rnjjxrq:ooG<Rx{hjO{xoGGRR1{nxxnRoOGjxx{:n<:<O4^_Dx{j{GRxo1^x5x1<nOrxOGo::f1<jcr>Oj^j4O1:{1)OOx<O4ORGjGx1O1O<:jR>jjrjq:<:GGR<1x{xqOoGGGR1j1nrqxOlGqRj{Ox:r^o<^(Q=ROjo:Go1G1!:{xn1:Ooj^O7:1on<:{OP^O-j)Gnn:1On^x4q1OjxrG::<o4<R4jSr{Oj<O4:T1jjrxqq<OG^RGlGr1:<<1GLRjjj{qq:ooG<4x{xxO:GoGGjR11Gxxx O<GjF:{:n<:<o1^8GO<1nG:1o1^xYxROnOxj{<^:4<1<j3rKOx^j^Goxn1rxOx<O4ORRjGn:rQ<<GtRpjjrj:r<:G<Rnjnx:qO<jGGRrj1xoqxo0:xRj{Gx::^o<Gx!X{O<q:Go1G1/j{xn4:Oqj<o+:1<n<:1O(<<PjeGjO:1Ox^x4O1OjdrG::<h4<RDjsrjOjo:4:p1jjrxqO<OGGRGjjr1r<OqGMRjjjx:q:rGG<4x{nxO:GoGG1R11nxx:Oo{G{Px{:nW:<on^T7:{jnG1jo1^<Bx1<nO:jOG^:qG1<nxrNOn^j4G1:n1RrOx<O4OR<jGrrO1O<:jR/jjrjqO<:GjR<1x4GqOoGGGR1j1x:qxqQr:Rj{:x::<o<<DK?RO41:Go1G1_x{xn<:Oqjx<2:1<n<r.O(<nsjEGGx:1Ox^x4O1O{{rG::OY4<R&j0rjOjor4:R<jnrnq:<O4{RGjrr1qq<xG(oxjjxGq:oGG<Rx{CxO1koGG:R1{Oxx:>oOGjOO{:x1:<oR^aBO{jnG1{o1^xQx1:nO:{OG^:1M1<n1rzO:^j4G1:n11GOn<l4O1{jGr:O1<:41RXjOrjqG<:41R<j1xlqO<jGGonj1x<qxo&GORj{Gx:<no<Gn=A{qxj:Go:G1<G{xn3:Oo1^GAr{1n<{:O4^OTj1^n::1O<^x4M1OnjrGq<^14<1xjTrnOj<G4:O4^<Rn1qn<4jRoj:r1q<:j:RO1jjxOq:<1G<O1^44r1qoGG{R1{<xxjOj::{OR^{x1::ox^mAO^i4qw6{G^<4G1*nO:jxorrqxo/4jR4jrxq4GR^n1r<OxxOqRo1GqJq{jxr:qOa^x4oqG<R41R<jxR<{nj<rO^x^{4jqxoOGORj{GR 1{j(:1Oo<:xj:qo:G1t<<x4^1qj:r1Ln{Rn<:xOi^O-j=Gn::1O<^xO{1OnjrGO:^14<1x1px^Oj<G4:11j<r1qPOOG^RGj:r1q<<xGrRO1jnGq:<1G<Rx{+x1qjqGGRR1{<xx:0oO^osGR:nR:<ox^87O{jn<::q1<4bx1*nO:jOG^{J17xjurvOO^j4j1:nRr<qO<%4xnRjGr:O1<14xR4jOxN<o<:41R<{rx;qq<jGGonj1x<qxo4GORj{Gj:R?o<GxbX{Oxj:ro:o<o:{xnk:OOn^GIr{1nR:xO<wr-j1Gn:r{O<^n4E1O_xr^O:^14o1xj_rOOjxo4:11j<rjqW<O4jRGror1qo<xGcROjjxGq::jG<Rx{Qx:qjo^G:4Po^xx:NoO^OZG{:x1rO{r^,!q{jno::o1^<GxoGnO:{OG^r=11onxrwjr^j4<1:n1r<Ox<B^Oo1jGrxO1<O4xROjOrj{o<:G4R<jxxNqO<j<GG<j1xqqxo^GOts{Gj::qo<G{J/{rxj:no:<1kx{xn^:OoR^G4J{1{<x<O(^rXj1on:rqO<ox4q1OnRrGOn^14O1x1ix4Oj<o4:R4j<rRqK<OGRRGj:r1qq<xG4ROjjRaqr<1G<Rn{=xOqjoGG:R1{<xx:OoOGjQG{:n<:<ox^t<1<n411jj^xOHx1^nO:jOGqxq{ojnxrqOO^j4G^jG^Vj{1:G:oO<jGr{O1<<4x^O^:R{{Rx{41R{jxxbqOroro^1^{8q1Rj^:nOZ{ox::jo<Gxvy{O{O:Go:G1T<{xnB:Oqj^:!:{1n<:xO;^xQj)G{Y:1O<^x4p1On{rG::<14<1xjSrOOj<o4:>1jRrxqD<O4jRGjrr1r<o{GaROjjxGq:o5G<4x{jxOqjoGG:R1{rxx:korGjvG{:nB:<oj^BGj1rnG::o1<4*x14nOrGOG^j141<nxrcq^^j4^1:n1RqOx<S4O1{jGr:O1<<1qRkjqrjqG<:41R<jx{1qO<jGGRxj1xoqxoNq<R{{Gx:qRo<Gx*3{Oxj:Go:G14J{xnw:Ooj^OH:{1n<{{jrn6q41Gn{:1O<^xoOo:4{RRj{^R4<1xjarOOj<G1:G{jorxqQ<O4jRGj:!qn<<xGqROjjxGjjn^rjO14G4oR<o^G:R1{<xx:IoOGjzG{:n<:<ox^H<1<n411jj^xOMx1^nO:jOGxOq^onnnrAOO^j4G1:n1x<Gx<44O1jjGr:O1<<&xGRjqrjqG<:41R<<x(4nO<jGqR:j1x<jRr<:ROr(<n1q1o<GxNb1jx{:^o:G1Y<{xnD:OOO^GDx{1no:xO_^OGj1:n:rJO<^j4v1:njnGOj^14O1xjGrOq^<G^:Rrj<rjq#<:4jRqj:nlqn<xG^ROjRxGq:<1G<;{{NxxqjoGG:RR{<nj:OoO^4pG1<x1:<oxod!x{jnq::O^^<4G1#j:rnOG^1?11xnxr&OO<G:o1rn1r<qr<M4q1jjGr:qG4q4xRTjOxnqG<r41sOqdxmq{<jGOR:j1x<:*loGOi^{Gn:q1ooGx84{On;ooo:G1P<1xnL:qoj<<x1{1nn:xOn^O?j1Gjx^<O<<G4*R=njrGO:o6<C1njrrOqo<G4:11j<xqqh<n4jRnj:x%q<ox^{RO{exGqr<1GrRx{ajGqjo^G:aG{<xn:0oO<4!G{:x1:oox^X_O{{nG::o1^<^{1znO:jOG^1N11<nx{jjqr1qqo<1Rr<OR<H4O1j4<p4{oxj:1RF{OrjqG<:OXooG{,n{{n1r4O{^j/:n{nRrGOn<<{nqRo<Gx7m{Oxj:G:<O1J<1Wn;:Oojqoqq<xG^Rjr^^O441Gn::1nrq1qro^11rGOj^14<1x4<Rn1<nO4r11j<rxqH<O4jG:b:r1qn<xGQRO^G4<1qnnqO<44GxO:qoGG:R14o4:1^n1rnq<G:4{1{j:x<XO1OnG::o1::ORo:GxjR{4x<q{oO1{r4OO^j4G1:n1r<:1:F4OR<jGr:O1r:qRO:^x1R{njG:^R<j1x=qO<jqoO4<:WrqxorGORj{GRj1^jjr1<j^qU11qj<G17O{xn=:On4qntn{Rn<:1OX^OKj^O^4R1jr^xGO1OnjrGxxrRqqooGqt:{nnq:OoG4:Zj{4n<:ROGGr4I{rn::^ORjjx:q:<1G<^{<GWn{{jO:{R1{xxx:ToOqjO^<x4^RGj1^4JO{jnG::o1^<41xCnOrKOG^:F1^K4RRO{x^{4G1:n1r<Ox<ZGxGjj^r:O1<<4xR*jOrjnG<:GxR<jxxWjrn4:oOj^q4^1:r^roO:<44xq1oxGx_H{OR:1^nxr^q>(jnIrJoj^Gg:^4G^RR{Grrq4^o4rRj{q^x4r1OnjrGnjx^:jo1g^ko{:n4:x11jqrxq!<Oo{oOGjr1qR<xG#ROGBTqR*jGqnOj^44O1jnq:jR1{:xx:koOq4qW<{4n:<oR^h=O{jRoRqjxx^qj14nO:jOG^:E11<xxjROO^{4G1:n1n<Ox<o4O1jjG1j{Oxr:qoojOxFqG<:41^x^r311x<jGoR:j1x<1:nor{Rj{:x:q1o<qGOR<G4P1qjxG14G{xnv:Onzrq:VoG>jjnjjrRq^o GoR^{Gx14!1xnjrGO::xq{o{^<rOqo<G4:11U: R{4nGO:o^Gx=^1+<nG?ROjjxGq:<1G<Rx{4xOqjoGG:R1{<xx<yoO^ _G{:x1{Gnnr{On{jnx::o1^<ox<RGrRo{Ox4q{oGnxrqOO^j4G^1G^Rq{1xR::41j^r:O1<<4xRJjO{fnG<:GGR<jxxbjnrS:nOoj1xrqxoQGO<G<<dr1nnrGn#_{Oxj:Go:G11<4r:<:Ooj^GF1o4no:nO?^r j1^n::1O<^11^1OnjrGOn^14o1xj<OrOj<G4:R^j<rnqX<OqxR^jxr1q<<xGEROjj1:qr<RG<Rj{exOqjoG:ORR{Oxx:zoOG1VGR:nO:oo{^lcq{j{<::qb<:mx1<nOxROG^:p1A<jyrJOn^j4^1:{qr<Ox<44O1RjGrnO1<r4xHP{:rjq<<:<nR<j{x%xO:nGGRxj1nOqxqxGORj^ox::4o<Gxh}{OxjxGjxG1yq{xn^:OOj^GG:o>n<:{Os^r}jROn:xb_x^x4<1O11rGO:^14<<:j4rnOj<G4:R4j<nxq:<qGGRGjrr1rO<x^G4^jjxrq:q4G<Rx{;jO:4oG^IR1{oxxrroOGj4R{:n<:<O)^i+1{jjGroo1^rDxP{nOrGOG^:<{1oj+r>OO^j4G1:{1n4Ox<O4ORGjGx:O1O<GxR.jjrjq:<:^RR<1xxjqOoGGGR1j1jGqxov^oRj{rx:qRo<GxzvROj4:GoRG1Vn{x{<:Oqj^xi:1on<r4OFoW%jR<On:1Oj^x4o1OnjrG::o44<RGjAr1Oj<n4:V>j{rxqr<O<jRGj:r1:OO<Gw)5jj{Gq:<1G<}j1{xO:qoGo:R1{<xx:PoxGjBx{:nr:<ox^.EO{RnG:1o1^<&x1GnOrjrq^:4^1<n{rMOj^jG<RGn1rxOx<O4O1jjGn::r<<G?R6jjrjr:<:^gR{jxxqqOO1GGR:j1nOrGovG1Rj1nx:q1o<^jp:{Ono:G:^G1m<{xjG:roj^jy:1On<:xOA^Onx1Gn1:1O1^x4G1OjjxxO:<^4<R:j/rjOj<GG:11jxrxqM<O4jRG1:xGq<o)GkRjjjnGq:O1^DRx{OxO:GoG^jR11Onn:lo{Gj^<{:x1:<ox^4uO1<nG:ro1^:Tx4DRo:jOx^:^n1<14r?OOqn4^R4n1r<Ox<D4OJj{:r:qq<<G^RK{OrjrGo{41R{jxxrqOO{GG4:{<x<:^oaGRRjRNx:q1o1Gx>x{Ox{:Go:G1G<{1n_rXoj^j&:fGn<xxq{^O4O1GjG:1q1^xGGrrnjr{O:<^4<1xjfnOqr<GG^11jRrxqr<OG1Roj:xxq<oOG*ROjjn<:j<1^4Rx{jxOqjoG^x4G{<n::JOGGjvG{:x1r^ox^ntO1xnG::o1^<Go1gnR:jOG^:4Z1<jxjoOO<<4G1nn1r{OxoGGf1jjnr:q<<<4xR81On^qGo441R{jxjOqOo1^4R:{:x<xooaGORj1<jGq1oRGxGG{Oxj:GOx<;p<1Ongn4oj^Gu:R/j1:xO{^OG11Gn::1O<G<4,1RnjrRO:<84<Rxj:rOq<<G<O11j{rx:G<n4jRnj:x<q<<xG*4OjRxG:4<1G{RxROxO:1o<G:g:{<jj:)oOGj4<{Rx1:Roxoj?O{jnGrxqo^<4O15{::jOG^:G8:xnxr{OOO:4G1:n1r<4:<k4R1jjRr:q)<<GxRjjOx<qGoO41R{jxxfqq<jGnR:j1x<qxoi<O4q{Gn4q1o{Gx4T{Ojjrqo:^qm<1^narxoj<<G^{1n1:xOR^OPj1Gn:rOO<<o4H1Onjr{O:O1j{1xjnrOrr<G4r11{OnoqDoG4jG4j:r1q<OxGRRO{:xG:<<1<xRx1GxxqjoRG:Gr{<xx:-O:<:cG1Ox1nqox^}iO{joP::Ox^<4:18n::jqG^jc11RnxrxOO<:4G4:j1r<qo<SGr1j1<r::}o{4xRjjOxGqG<:414<j1xv:G<jG1R:R<x<:jOnGOfr{G{^q1o<Gx4G1Gxjr!o:<OQ<{xndr:vG^G4q{11q:xOP^O41Rxn:r1O<Oo4?1OnjrGq=^1G;1x{mrOO1<GG:.4j<xoqJq<4jR1j:nkq1<xGjRO{GxGq:<1<</o{znGqjo1G:G<{<nj:4oO^rLG_nx1:<ox<G4{{jj6::q<^<ix1*j:^rOG<q%1(RnxrEOO<1G11:j1r<O1<A4O1jjGn^O1ob4x)*jOr1qGo:^nR<{ox%:<<jG1R:1Sj4qxojGO4j{Gx:q1q<ro&41Gxj:1o:o^#<RxnG:OO:^G4<{1{g:xq)^1Mj1{n:n^O<<O4(UO{^rGq<^14o1x1GrOqjoq4:Rrj<x4qYoG4jRG1Gr1: <xG4ROjjxGr:o4G<(O{>nGqjqOG:41^^xn:joO^:XGRox1r<O1^U44{jn{::Ox^<^xR4nOrqOG<oL11:nxjiO1^j4{1:{{r<qn<XG:RnjGx<O1O<4xRvjOnjqn<:GxR<{Oxer1<j<GRjj1nwqxojGO4^{Gn:r<o<^o_;R1xj:1o:G1hq{xnr:OOq^Gdx{1n<x^O4<W2j1Gn::1O<oxG^1OjOrGqG^1G<1x1FrxOj<j4:R:j<x1qYo:GcRG{^r1:^<xG%ROjjx{q:oxG<Rx{}n4qj:G^:R11Kxxx{oO<qSG1xjo:<Oq^.^o{jnG::q1xOgx1{nOrrOGo1i1ROOUrNq<^j^{1:n1r<qj1O4ORnjGjnO1<<4xRNO<rjqR<:G{R<jjxL:OoGGG;<j1x1qxo{GOGj11x::xo<^{=6R:xjr<O1G144{xnO:Ooj^GG:1on<rqO_<^hjg:n:xg:4^x411O1RrGO:^1GOzqjaxoOjO{4:11j<xj4O<OGjRGRnr1q<<x^Gg1jjn^q:qrG<Rx{;xOr:oG^oR11oxx:GoO^j0{{:nx:<::^M4^{jj<x<o1<4&x1OnO:jOGo:4o1<jqr#q^^j^:1:{ZxqOx<14O4RjGr:O1oO^^RF{orj::<:41R<{j<{qOojGGG^j1x<qxOG^nRj1^x::Go<GxX={On4:GOoG14o{xnG:OOj<r(:1xn<r:Oy<^mjR<jo:1q4^x^t1OnjrG::xr4oRqjVx^OjOq4:71{jrxq{<OGrRG1<r1:<OaGcNGjjjqq:onG<4x{GxO:roGGrR11{xxrkO<Gjc1{:no:<Oq^M.ORGnGroo1^oCx1ZnOxjOR^:4n1<jqrt:x^j^Goxn1x4Ox<{4O0rjGx:{:<<GOR#{4rjqR<:<1^^jxxjqOorGGRjj1{<nrob^GRjR4x::Ro<^jqR{Onr:Gq:G13<{x{yR:oj^R+:1nn<nGOhoOq11Gjo:1q4^x4G1OjjRjO:<x4<4Gjtx^Oj<GO:1Rj1rxqj<O4jRGj:7xqooGG/ROjjx^q:O}x^Rx{rxOx{oGG:R1R<xn:4oRGj/n{:{<:<Oj^:/O1OnGn^o1^<3xRGn{:jO{^:GO1<nxrXOOo<4GR4n1rROx<Z4O1j{nr:q<<<4xR(jOrjqGoj41Rrjxx=qO<{GG-x<{x<:voSoqRj{Gx:r1j^Gn_O{OnG:Gq1G14ORqnQ:{ojo{&:{1n<rjO{^O4<1G{>:1O<^x4}R<njr:O:<O4<1xjFrOq1<G4n11j<rxqG<OGjRqj:xwq<qjG;RrjjxGro<1GqRx{GxOqjoG<:qJ{<x{:2orGjGn{:x11qox^<vO{1nG::o1o<qj18nx:jOO^:^q1<nx^oOO<V4G1jn1r<OxO}q<1jjOr:qG<<^jRMjO<<qG<n41R:jxxGqOOjr<R:{4x<qjopo:RjRG4xq1oqGxA^{O{^:Gq:xN5<{{n}:roj^^h:11:1:xOG^O5{1Gnn:1:<<<4_1rnjr<O:qi4<Px{xrOOR<G4n111nrxrK<x4jRoj:x4q<OoGCDO{qxGqx<1^RRx{^xOrjo^G:M4{<xj:-::Gj8GR<x1::ox^G%O{jnGx:{f^<J11snx:jr<^:G1oOnxr<OO<K4GDRn1n<{j<w4x1jjOr:rq<<GxoxjOrRqGo{41R:jxxh<:<jG<R:{lx<qxotGO<x{^x:q1ooGxuJ{Ox1:Go:G1%<GonH:Ooj^G_:{1n<:xOy^jej1Gn:1:x{x:q<<n^<rGq^^14<1x>4T<jRxx:qOk4<yr{rn<r(R^j:r1q<<xGYRO4b1Gqr<1G<Rx{VxORjxoO:RR{<xx:JoOGjAGRj11:oox^YQO{jnG::o1q<}x1onO:jOGq1qx<oG4K^OO<f4G1:n11q{^nxqn1jjOr:O1<<OOooGj4VqGoG41R<jxR<{nj<rO^n^{4#1rjGorRj1Gx:q1o<OjO4^r4q1rjxr{qr<:4<jrjnr1qqoD1q:xO<^O)j1GR1R{{Gx14e1RnjrGO:rGqrOG^<1Gj{x<q{oxjorxqZ<O4jRGj:r1q<<xGoROjjxGj<xR:OoR^jxO:ioGG:R1GZ4^R^jxGjLr{:x1:<n1roOj^{GqR<{G^<441YnO:jj:xxq{o4=j{qx:^j4:1:n1r<n1xRq{o^G1R{O1<x4xR+jO{R1<x{qRO:GRx7qn<jGGR:4<4O{nn{:nR{{Gx:q1o<GxL74X1j:GOGG1+<{xR{Ro{4xoO{G^GGR1jox:m{1Gn::1O<^x4J4jRjr^O:^14<1xjCrO<j:44:R4j<rxqd:q:VoOjrr1q<<xG.ROjjj1n:<RG<Rx{,xOqj^G::n1{<xj:/oOGjoqG4x1riox^Z;OGR4q1n{Gr{qr<1RrRnj1xq:,1<n{rCOO^j:=<{^or<OR<s4O1j4OZ*{^n4qRR-jxrjqG<:O<O=Gn,qqOo*GGR:j1RG{nn{:nRj12x:q1o<q1Oo<1GP{xrrrxO{<441R^j4x!qj{1nj:xO/^O<R<^G<RxjOrnq^o4njrrO:^14<^r^ORn{1x1qrOqj<r1q_<O4j^q^O4^14<x<xROjjxG1NjGr:Ox,x{oxnjrrRqoBG4j1Rn:r:q4od{j1qjrr{^o^{GoRnj^x:^r4R4RRurROR<O4OR4jorOqU<o4nR^roOx<;4O1jjGr:xq:<4{R4jqrjqG<:41R<jxj1nO<j^:R:j1x<njn4:rOq^r4x1{jrr:O<Gx411^jOx4q<^nGG1njxro:4{Rn<:xOB^O0j1Gn:<1O<<<4m1Onj{n{Ox1:ro1_GRn{^x^:O11jxrxq <OO<O4^<0G{rnjG;Z2jjxGq:jGr^O4^q4G14n^:xOx^rxx:roOGj.GG44j1:j^r^Oqo0G4RxoR^<lx1CnO:jOGOj<11<j=rSOO^joooqGxF^{jq^4OR^jGr:O1rxqRo^^xyn1<qx4RR<jxxiqO<jGG^:X1xoqxokGORj{Gx:j<4<GxVx{Oxj:Gxnr{qr<j4^1nxRr^qOo4n<:1O-^Ovj<:G<1Rjn^x4<1OnjrGn{:Gq{oqj3r1Oj<G4:^1^^}{{rnx:oO4^Or1qx<xGURO4j>^1xn^rGO1{gn4qjoGG:oG^rGGR<x{r1O^<:411rn1^ ex{jnG::nGx{qx<onO:ROG^:*1^q4RU<OO<^4G1:n1{q{rx1:<o4GoLjO1<14xR;jO1o{Rxr:oor4O;4{:n4:1R:{qx<qxo)qxO4<x4jj4j^rOOR<:xj:xo:G1}<G14oR1{!:oq4o:4r:xOo^O}j1G-4Rnjox4qo1Oj-rGO:^1O:<R^:vxOj<q4:11j<{{{RnG:nO<jrr1q<<xG-ROjjnOn:<RG<Rx{7xOqjoG<<n1{oxx:PoOGjJG{:r1j^ox^<uO{jnGjxjqxGO11-nn:jOG^:O^G:G^R{r:^j4j1:n1r<nqxR:noRGq1<{^xor8ooq1r{qG<:41nqjxxoqO<jGGR{j1n<rqoQGnRjRox:qRo<ox4J{On4:GroG1<{{xjwrooj^qK:Gqn<:jOhoOGq1Gn1:1Oq^x<:1OjGxnO:<<4<RGjzrqOj<^4:RGrqrxq/<OG<RGjrr1q<rVG4Rjjjx^q:<1G<cx^xxO:4oG<xR1{xxxr,O<GjKq{:{^:<o1^6_ORqnG:1o1^<Zx1*nOxjq^^:4<1<j6rH:<^j^GM^n1rxOx<O4OB4jGxxq:<<G4R_{jrjqG<:41Rxjxx:qO<jGGRnj1n<:<o!G1RjRox:qRo<Gx^R{qno:Go:G1C<{x{Q:noj^nd:1qn<x:O!oOv11Gj4:1O{^xoo1O{jx:O:<q4<R^jan4Oj<GGo11j1rxq4<O4jRG1:nrq<o<G0fHjjj^q:O1^RRx{xxO:OoG<qR11Oo{:mO4Gj^o{:x1:<qx^naO1qnGr^o1<q6xRGj4:jO1^:^r1<nxryq:<<4GRon1nROx<A4OR1jqr:qj<<<oRSjOrjqGO<41RRjxx1qO<jGGR:1rx<:^o&GORj{<x::1:rGx>:{On::GO4G14OR<nf:RojqjC:{1n<xxO1^O4o1Gj4:1:<^xGGR:njrjO::O4<1xjix:OR<GG^11jnrxqi<OG1Foj:xxq<orG&ROjjn<:<<1^4RxmoxOqjoGG:xj{<n^:/O^Gjy<{:n1rxox^:?O1onGr4o1^<441;nR:jOG^:211<{xx{OO<o4GR4n1nGOxO>G11jjnr:qq<<GRR){:x4qGoG41Pxjxx0qO<jGOR:{rx<qnocGxRj?G1qq1oRGxG^{O{n:Go:O{yo1On(:Ooj^G+:R1nn:xOj^O4:1G{O:1:<<{4*RGnjr1O::^4<2xjxrOq:<GG<11{Rrxq/OW4jRRj:rRq<<xG&4O{^xG:o<1^4RxR4xOrjO:G:Sn{<nq:kqoGj4<:nx1rGoxO^0O{jnGx:On^<4:1Fj<:jqo^:G211nxrROO:G4G1:n1xOqn<aGO1jd:r:O1<<GjZTjOx{qG:141R<jxx2:q<j^NR:{Rx<qxoDGOR1{Gn<q1o<Gx7G{Onjnqo:^rS<1On}rGoj<<41{1j.:xxx^Opj1G{:rRO<<O4FRGnjnGO:o2G{1xj{rOqn<G4:11{Oxoqgo<4j^xj:r1q<ojGjRO{nxG:q<1G<Rx1GnnqjOGG:<O{<xx:AoO4OJG1<x1r<ox^G(O1jn{::Or^<<<15jG:jq<<o/1R_nx{xOO^j4GT:{qr<qO<,GG1j1Gr::uo<4xR{jO1<qG<:41mO{{xX:<<j<RR:j1x<:jO:GObn{GR%q1o<Gx4GqjxjrGo:on%<{xnl:Oux^G4<{1j<:xOG^O4j1on:rrO<<^4/RGnjrG:^^1GD1xj_rOOj<G^:ROj<xOqVoG4j4!j:n1:n<xGjRO{:xG:{<1^O4G{zn^qjOQG:R1{<xxrqoO^xUG{:x1:1oxOa<o{jj+:::4^<4x1C1OxjOG<OH14}nx{:OO<14^1:j{r<n<<(4O1j1Gx^O1o^4xRRjOnjqGox^xR<{xxN:o<jGGR:1YxnqxO4GO<G{Gx:q1OO^o%y1:xjrjo:G1p<1jn::OOR^G<R{1n<:xO5GW.jR4n:x4O<^j4!RO{OrGqO^1<11xjRrOq1<o4:R{j<1<qy<O4j4G{qr1:^<xGRRO1jxG:xO_G<ax{Y11qjoGG:46{1xxr4oO<rmG{:x1rOOr^z4:{jj4::o1^<4j:OnOrROGo</11<nxran4^{G41:{4r<Oj<QGOR:jGxOO1<{4xRRjOx1:o<:G{R<R4x!qO<j<Gtoj1n^qxoRGOZr{Gj::jo<^r=v1oxjnro:^14o{xn1:OOr^G4q{1j<xLOd<<tjGOn::RO<^xq^1OjnrGOr^14<1x1vR:Ojo44:R{j<nnq!OO^<RG{qr1:^<xO4RO{jnxq:ojG<5o{lnoqj:G^*R11GxxjGoO<:5Gc:nx:<O:^B<G{j{j::qp<jSx1RnOn^OG^:Z1D<j:ruqo^jG41:1Gr<:xnG4ORnjGxqO1<14x+=^(rj:F<:<GR<{rx/qO{:GGT<j1nGqxoGGORj1nxr:no<Gx-c{OxjxGonG144{xn{:Oqx^GG:Ron<rqO8<^ jRqn:x.qx^x411O{GrGO:^14<vGjuxoOj<G4:R<j<jxqx<OGnRG1nr1n{<x^GR:jjnGq::GG<Rx{ujO11oG^:R11<xxxBoO^1x:{:nR:<xG^7AO{jj<1Go1<OTx1RnO:jOG^:GC1<jxr}q:^j4<1:j1xOOx<R4O1RjGx:O1<<^qR}{OrjqG<:41R<1xx<qOojGG5:j1jGqxqlGnRj1Gx::1o<ORN>ROj;:GO:G14<{xjn:Ooj<Ogr1Rn<:nOw^OmjpG{<:1qo^xG41O{{rG::<o4<Rnj?xqOjO44:p?jxrx:G<O<RRGj:r1r<<1Gk :jjn<q:O4G<dj1GxO:RoGoxR1{<xxrGOOGj4O{:1&:<ox^d4:14n^r{o1OOHx16nO:jq4^:GW1<jRr&OO^j4GRRn1x<Ox<f4O11jGx:qo<<GrR!{Grj:G<:^wROjxn_qOrOGGR:j1j<rqo_^ORj1Gx:r1o<^j4n{On{:Gx*G1V<{x{AR:oj<<D:14n<nxOyojr<1Gjx:1Rn^x441O1OrGOj444<1xj;G{Oj<^4:VgOxrx:G<OoGRGj:r1qxRRGMC:jj^xq:<RG<Rn{exx<RoGG:R1Ojxx:4oO^1x:{:jX:<:q^)pO{jj<G1o1<q+x1RnO:jOG<xGO1<j1r,O{^j4G1:n1r:Oxo*4Og+jGrxO1o<GxRA{orjxj<:G1R<{jxjqOojGG<Gj1x<qxq><4Rj1Gx::1o<<xiQ1:jG:GOrG14^{xns:OO1^Rz:R-n<:ROS^OLjR<rr:1qq^x4R1OnjrGqx<44<R1jex{Oj<G4:11jxrx:&<O^YRGjxr1:<o^GS7ojjxnq:o1G<Gx1nxO:noGGxR1{nxx:goRGj4G{:x1:<ox^bGOjRnGr:o1<<YxR1nOxjOj^:411<jxr%qn^jG<R{n1xoOx<14O1jjGr:qO<<GjRAjOrjqx<:<1R{jxnGqOORGGD:j1x<qRok^rRj{Gx:q1o<<x44{OnR:GOnG1GG{x{6:xoj<o;:R4n<jROdoO4R1Gjn:1qq^xGn1OnjrnO:oG4<1njXrOOjOGG411{:rx:<<O^{RG1:nrq<o1GVCxjjj4q:O_^4Rx1oxOxRoGG:R1R<j^:_OnGj4q{:j4:<Oj{OCORGnG:1o1^<(xRGnO:jqr^:4<1<nxrbq:<R4GLcn1rxOx<g4O1jjqr::^<<^GR&jOrjqGoR41MqjxxfqO<1GGa:{qx<:jof^GRj1ox:rdooGx4^{ORO:Go:G1G<{nnmrroj<ou:R1n<rjqG^qGt1Gjq:1O<^xGGRqnjxqO::O4<1xj#x::p<GG111{^rxqJ<OG1Hnj:noq<rGGDROjjxG:o<1^qRx1qxOq1oG^:4q{<nj:)raGj4o{:jp:nox<^dOGOnG::o1o<qO1Bjr:jqo^:G11<jjrOOOoH4G^Hn1r<OxoG4r1j{qr:rn<<4xR,{:x:qGo141^jjxx}qOo1^qR:1ox<xqo+GORj{Gnrq1OqGx4q{Ox1:GO:<xX<1jnB:Roj<ou:R_o1:xq^^O^^1Gn::1:<<j4=RrnjxoO:<n4<sxjjrOqR<GGn11Rnrx:Eo44j.<j:xnq<o{GgGO1oxG:x<1O:Rx{4xOqjO<G:44{<xn:(oOGjGGRox1rqox<^UOR{nGx:qG^<4{1Cjr:jx^^:411xnxxGOO<q4GRnn1j<qR<pG:1jU<r::x<<GjORjOxRqG:441R<jxjvqq<{^oR:14x<rxoa^:4:{Gnjq1O^Gx)*{On1rjo:<^)<GbnT:Ooj^GG<{1jq:xqo^Oej1Gn:r8O<<x4t1OnjrGO:^1Gx1xjRrOOj<G4r11{O4rq2oO4jGnj:r1q<OxG4Rq{jxG::<1<<Rx1GxjqjO^G:c{{<xx:XO:^x8G1xx1jxox^)&O{jnj::O1^<4j1NnO:jOG<n(1R4nxr/OO^j4G1:jGr<qo<L4O1jj^r::Bj^4xRjjO{oqG<:414<jnx4:G<jG1R:11x<:jO4GODr{Gnqq1o<Gx4GRGxjrwo:q<C<{xna:OqG^G4<{1jG:xO=^OPj1On:rqO<^x4g1OnjrG:G^14j1xjdrOO{<GGxO{j<x^q?qR4jRGj:n11R<xGrRO{oxGr:<1^ORR{enpqjO4G:R1{<njreoO^q?G41x1:<ox^>4x{jnn::Or^<bx1_nOxOOG^1V11<nxrGOO<jGn1:j^r<:e<J4j1jjGOoO1<x4xRzjOrjqG<:qjRo{4xLqO<jGGR:{<xnqno:GOD^{Gxrq1o:Gx3N^xxj:Go:^oK<{xnC:Ojc^Ge:{1nr:xOU^OejRqn::1O<^j4X1OnjrGq{^14<1xj^rOOj<G41Rojox^q=<r4jR^j:xGq<<x:<ROjjxGqR<1G<Rx{B%xqjoGG:+^{<xx:loO<4iG{:x1::ox^D O{jjq::o1^<-j1pnO:jO:^R=R11nxrbOO^{4G1jn1r<j1<24O1jjqr:O1<<4x)ojOrjqG<{41R<jxxk{x<jGGR:{ox<qxo*GOOu{Gx:q1o{GxU7{Onj1jo:^^3<4:nNrfojoGqx{1n1:xO^^O^j1G{11GO<<<4i1jn{r^O:O:4<11r^rOOj<G411Rjorxq<4r4jRGj:xjqo<nGiRj{^x^:G<1GrRx{4xO:GoGG:4^{<xx:0ojGj7G{:x11:ox^.&O14nG::o1^<4R1pnO:jOr^:u11<nxxoOO^j4G1:n1r<Ox<tGn1jjGr:OR<<4xR/jOAIqG<:41RqjxxvqOoj:jR:{^x<:1oY^,Rj{Gunq1o1Gxu:{Oxj:Gq:xJ7<1<nerVoj<^t:{14q:xOn^O4<1Gn::1:<xj4CR4njr{O:<R4<1xOorOqq<GG^11j<rxrkx<4jR{j:xrq<rGG2ROq<xG:G<1GRRx{oxOrjR1G:_:{<xR:aOjGj+GR^x1:Rox^:iO{jnGx:O{^<4o1Cj4:jq:^:G1RonxrnOO<q4GRrn1x<qx<QG81jR{r:qr<<^x>njOxOqG<{41DxjxjP:q<jGjR:{:x<x:oS<O41{GnGq1o1Gx^R{OnG:ror^x+<1tnk:qoj^O&:{14::xO/^O4G1Gn::1O<r14M1OnjrqO:^14<1x{orOOj<G4111j<rxq6xx4jRGj:xOq<<xG3RO^4xG:G<1^+Rx{4xOqjnoG:J:{<x{:PoOGjGG<xx1:1ox^x+O>xnGx:: ^<4<1ajJ:jx4^:4<1nnnrjOO^{4G1rn1r:Ox<.qx1jjGr:q^<<4xRFjOA5qG<:41RqjxxJqO<j^qR:j1x<:&o5GORj{Gn{q1o<Gx8G{Oxj:Go:r^P<1<nTrGoj^^;:R1GO:xOx^OIR1G1::1:x:14ERKnjjGOr^R4<4<jJrx^R<G4:11R<rnq4<OG+joj:r1q<R{G4RqjjxG{n<1G1Rx{.xOqjoG<:qb{<n<:WO3GjGz{:j1:rox^xsO1OnGr{o1<O4:1zj4:jq:^:.11<nxx^OO<:4G1:n1rrOxq7G:1jj1r:r4<<<nRA{:n^qGoo41G:jxxYqOOjGrR:{nx<:qoI<ORj1<n1q1OGGx<:{Oxj:GOx::b<1rnJrooj^G(:{1nx:xO{^O4n1Gnx:1q<oG4iRGnjroO:<n4<1x{:rOqr<G4:11j<rxrv<14jRRj:xnq<O:G=4Oj{xG:o<1^4Rx4oxOrjOqG:tn{<nq:bq4Gj;G1jxRrGox^4TO{jnGx:Oq^<4:16j<:j:^^:G11{nxr1OO<x4G,qn1xOq<<7Go1jRor:O1<<^xR^jOxnqGoq41eqjxnGqj<j^GR:Rrx<qxos^:4b{Gnrq1qRGx?D{On1:qor<Ag< on?:Ooj^G(x{1j^:xqG^OFj1Gn:rqO<<q4D1Onjr<O:<14R1xjjrOq:<GGo11{Or1qdo^4j^jj:r1q<OxGjRO{rxG:o<1<<Rx1GxqqjOkG:<O{<xx:VO:OgC^1qx1n4ox^;#O11nq::O1^<4r1cnO:jq<<D?1RonxrqOO^j4G1:jqr<qq<,Gq1jj<r:q1o14xRjjO{OqGoo41AO1qx&:^<jOjR:j1x<rxooGOtr{Gnoq1q<Gx4Gx1xjrDo:^{m<{xnir:qG^G4q{1n::xO&^O41Rrn:r1O<<r4L1Onjx<q{^1Go1x{qrOOj<G4:anj<xqqToq4jR<j:x1:o<xGjRO{oxG:o<1G<.R{pn^qjoGG:R1{<jxq^oO^r G1ox1xGoxo,4k{jnR::On^<4R1Pj:r<OG<O01G<nxrlOO^jGo1:j{r<Ox<P4n1jRGr{O1o^4x4^jOjGqG<:^oR<{xxXqO<jGGR:11xxqxOMGOfj{GjOq1q<G1A61OxjrGo:q^Z<RxnO:OOj^G4:{1jR:xOI<oejR^n::RO<^x4zUOjqrGqr^1Go1x14rO:j<x4:RRj<xnqyOo4jX<1or1:O<xo^ROjjxGr:oOG<Lj{Qn:qjOoG:4cqxxxr^oOoo+G{:x1rOox^>4x{j{n::o1^<4j1rnOx4OGO4T11<nxr3qo^jG<1:{^r<Ox<_4ORqjGx:O1<<4xRGjOxjqr<:G{R<{Ox(:O<j^<RRj1n<qxrxGORj{Gj::xo<^x>z1OxjxGo:<f4O{nj4:OOn^Gy:{1jOrxOz<:3j1rn::1O<<jGn1OjRrGqq^14<1x{Gr1OjoO4:Roj<rxqV<O^oRG{:r1::<xGGRO{jxrq:o{G<^<{snOqjO<^4R11<xxjxoOGjTGR:4x:<Ox^I4O{j{G::q#<oexR4nOrnOG^:71ROj<rwq:^jGn1:n1r<qjog4ORRjGxqO1<<4xvG{<rj:O<:^qR<jxxpqOOGGG6:j1n:qxoGGO.j{xx::{o<^^}51OxjnGrqG14^{xR^:O:<^G4xo{n<rxOIOR5j1Gn:x1Oo^nGu1OjjrG::^1GOR{j&xqOjo44:11j<xjqO<OG1RGY1r1q<<xG/VpjjnGq:OdG<Rx{5xO:^oG^oR1{<xx:,oOGjv1{:nx:<ox^VNq{jj<Qqo1<4 x4rnO:jOGo:4{1ojqrYq^^j^G1:{?x^Ox<14ORnjGr:O1oOG4RS{orjn:<:41R<jxx{qOorGG/qj1x<qxo)^<Rj{jx:q1o<Gj*;{OhR:GO^G1Kx{xnE:Oqjx<d:1rn<roO7^1Wj!GGx:1qb^x4o1O{1rG::n74<Rqj.rrOjo<4:4<4:rxq{<On4R^jrr1r1<xG<jrjjxGq:1^GoRn{+xOo1oG^oR1{<xx:UoOGjjR{:nn:<on^dwO{jnG^vo1^R-x1jnOrrOGo::h1<jor0On^jG:1:{18OOx<n4ORqjGjqO1o<jnRy{Trjx{<:GrR<1xnOqOoqGGR{j1nxqxq.GrRj{{x::ro<or+WROn<:GO^G1WR{x14:Oqj<n_:1rn<roOv<1?jzGjr:1OR^x4n1ORnrGO1<o4oRqjbrxOj<^4:1Rj<rx{<<O4jRGj1r1q<<xGwjGjjx{q:onG<Rn{kjOrSoG^^R1{rxxrOoO<j4{{:nr:<Oo^6^o{j{G:xo1^R#x1nnOn{OGo:Gr1<jordq4^jo{1:{1xxOx<n4ORqjG{qO1<xG4R4{^rjq<<:4RR<jnx3qOnKGGR:j1xxqxoDGORj^qx::ro<^q&J{qxjxGqxG1BR{xno:Oq*^GG:oQn<rqO}^rhjR<n:n<1j^x4{1OOnr^Or^1^11xj<OrOj<G4:r{jornqe<x1RRGj:r1G<<nG4ROjj:<q:onG<Rx{*xOqjoGRoR114xx:4oOGjwG{:qn:<O:^_bq{jnG::o1rr/x1nnOrxOG^r!1?<{jrHqs^j4q1:Rjr<:xnG4OR:jGr{O1:{4xR!Gnrjqj<:GxR<jnx0qO41GGR{j1xOqxo-GORjGkxrq1o<Gn60{Oxj:qO3G1M<{xjx:Ooj^G=:{Rn<:xOH:1_j1on::1O<x:qoo{n{rGO:^14<1xjlqOxn<G4{11j<rxnjxqq1oq^<r1qr<xGiRO^1441{nj::Rn{6xOqjoGG:R1{<xx:=onGjMG{:E^j:j^r{^:{jn:::o1^<oG<RGGRsjqxxA11:nxr!OO:xq^ooG^roOx<54O1jjGr:rO:<4xROjOrjqGn<:qOq^1mo1<<{GGR:j1x<qxoLOu^j{Gx{q1o<Gx<O<:?{1Rn{G1YR{xnX:Ox^rqqj^G4rUG{<:rqooj4{:1On^x401O4GRqjnnG:^ojRGrOqs<G4:11Ur=:1on^4jROj:r1q<r{:rqK^4x^q:<1G<Rx{XxOx:rGG:J4{<xx:2j^:{qx{:nG:<ox^Cox<4GxRjoR^<vx1?:O4<Go^:oJ1<n1rCOO^jo<o4GjR:Ox<<4O1jjG{1{{nG:1RijxrjqG<::noo^1H:qq<jGGR:j1x<qxroOORj{jx:q1o<q{OR<n411on{:4Oo<:G^n:oj^Gv:{1:G:xOG^Omj1Gn::1q<o^4#1:njx:O:^R4<1x{OrOO1<G4:11j<rxr_<:4jR<j:x3q<oqG24O{4xGqx<1GORx{:xOrjO:G:Cm{<xj:YOjGjGG{nx1:Oox^GeO1/nGx:q^^<h{1mnq:jOn^:41RRnxrGOOoP4G1nn1r<qR<_4:1jjGr:O1<<^xOGjOr1qG<x41P4jxjAn^<jG<R:{mx<:GoD<OMO{Gxxq1oOGx4O{On1:^o:^4F<14n8:OojoGG^{1nq:xO^^O211GjxrnO<^14B1jnjrGO:oJ411xjorO:<<G4:111<nJq(<n4jRqj:n4q<oj^ORO{GxGr6<1G<RxR7j4qjo:G:F<{<xR:7oO^RwG{Rx1:oox^-(ORj{<::Oo^<441uj<:j:Gxx&11{nxr4OO<o4GRxO<r<q<<(G:1jjGr::?j^4xRnjOxjqG<:414<^jxS:4<jG{R:1ox<rxjGGOYq{Gn^q1O1Gx4Gooxj:1o:^{b<{xn}xOj1^G4<{1j2:xOG^O41::n:rnO<<R4_1OnjrGrr^1G_1xj{rOOj<G4:^4j<x4qW<O4jR<j:n11O<xGqRO{^xGqr<1<<o:{ux{qjorG:K4{<xxx^oO^G>G{xx1:Oox<_o1{{n:::O:^<4t1uj:^GOG^R61R{nxrIOO^jr11:j^r<q4< 4:1j{<^1O1<x4xROjOrjqGoxj<R<{4xf:G<jGGR:j1O^qxo^GOv^{Gxxq1O<^hiL{:xjr^o:^4p<{xn::Oo1^GSx{1n<:x:a<^-j1<n:r5O<<o4N1jjnrGOx^1<^1xj4rOO{<G4jj4j<rxqvqo4jR^j:xG<q<xGHROR{xGqr<1G<o{{cx:qjooG:R1{<xx<qoOG1#G{rx1:oox^Vo<{{nG::oR^<_x1%n::jOG^:t11RnxrcOO^R4G1:jor<Ox<CO4o4^n{n{{x:qRR6jnrjqG<:O<OsGn,q1r<jGOR:j1x<njnrr<Ot{Gx{q1o<Gxqm^rs{11j<G1t:{xnl:OxGr1Or<on<r<OT^O#joOGqRojnxOqo<q41R1j{^14j1xj3rOxRx^:<oxGORn{^n44jRqj:r1q<n{rQoq<^4)q:oGG<Rx{*4x{{jor^T4{ojx:SoOGjGG<xx1:oox^F8O{1nG::j4^<gj1%nO:jOG^:G1oOnxrGOO^14G1jn1rx44<S4q1jj:r:OR<<4jRtjxORqG<:41Rxjxx4qOoBRoR:j1x<rro2GqRj{G5nq1ooGxZ4{Oxj:Gq:xp0<{nnl:qoj^rf:m<#::xO4^O4q1Gnr:1OR^x4<nrnjrGO:<r4<1njtrx^R<G4:11{qrxq4<O4jooj:rRq<<jGcROjjjG1x<1GoRx{4xOqRoGG:O4{<xj:poOGj6G{:j1ROox^GfO{1nG:1o1^<R115nq:jO^^:4t1<1*4:OO^{4GRnn1roOx<44ORYror:O1<<G{RwjqrjqO4n41R<jxnOqO<{GGR:^4x<qnoYGrRj{Gx::<jqGne4{Oj^:GorG1V<{xn<oroj^G,:Ron<:nOM^Oox1^n::1Oo^x4T1Oj144O:^R4<1RjPrOOjo<G111jOrxqx<O4jRG1:xnq<<jG7R:jjxnq:<1^GRx{^xOqjoGG:R1R<xR:sorGjNo{:nO:<ox<:*O1FnG::o1^<5x>Znq:jOO^:4G1<n1r.OO<:4G1rn1r:Ox<44O1j47rrO1<<4nR+jOrjq^<:41R<jxx8qO<jGGRnj1x<qxotR^Rj{Gx:q1o<Gx0u{O:r:Go:G1H<{xnw:Ooj:fLr{1n<:nOM^Omj1Gn::1O<^x4n1OnjrGO:<<4<1xjz{1{nx1qjo^^Orxq<<O4jRGLx.q1Gx1GvRjjjxGq:nx:{O{<<zn1xo<G:P^{<xx:NxG:{O<^{4x:<o1^HbO{j8O1{{Ox:}x1<nO:jOG:OORo44Rr+On^j4G1:^4L<jnnq:<1jjOr:O1<<:1o4^reqqGoG41R<jx1<{RnR:oOq^j4G{Rn^rxRj{qx:q1o<q,qG^q4r1qq^G1B<{xn31roj^GF:{1n<:xOsoOq11Gn::1O<^x4^1OjG<qO:^14<1RjfrqOj<^4:RGrqrxqT<OG4RGjrr1q:4{GzROjjx{q:<RG<Rx^^xOqjoGG:R1{<xxx;j:GjmG{:x1:<o{^/GOR1nG::o1^<zx1xnO:jxw^:d11<njrDOq^j4G<nn1r<Ox<H4O1jjGj:x{<<4xRNjrrjqO<:41oqjxxpqO<{GGR:j1j<1jo_GORj{Gx::ro<<xqG{Oxj:Go:G1wo{x{!R:oj^G&:{1n<:jO!oOq11Gn::1O<^x4o1OnjRoO:^R4<1njJrOOjOG:x11jorxq4<O41RG1:4gq<<nGFRqjjxrq:o1:1Rx{gxO:GoGGrR11OGr:6oOGjSn{:x1:<qxxG;O{jnG::o1^j=x1On{:{O^^:c11<nnrZO:^j4GR{n1r<Ox<G4O1jjGr::^<<4xR-jrrjqG<:41^GjxxpqO<1GGRrj1x<j:o4GORj{^x:q1o<Gx_4{Oxj:GoxG16<{xnN:xoj^Gk:^o4oR^{<^O4r1Gn::1nOrRq1<xG4Y<nnnGqrox^>Rn{ <r4:11j<rx:<<O4jRGj:r1q<<x<JRxjjxGq:<1G<Rj{DjO:HoGG:R1{<xx:4oOGj4 {:x1:<oj^QEq{jnGr{o1^<,x1/nO:jOG^:4<1<nxrQOq^j4G1:n1rjOx<M4O1{jGr:O1<<4xR3jOrjqG<:41R<j{xWqO<jGGjoj1x<qxo4GORj{Gx:ono<Gxmi{Oxj:Go:G1oG{nn>:Oo{^GL:{1n<:xOz^O_j2<n::1O<^x4^1OnjrG{Ox^:n1xj:rOOj<Gono{^qmq{onx:oooj:x?q<<xG0<n4oxG:K<1G<Rx4^Uq1:n1:xoR^q4o:4oOGjMG{:x1:<ox^k7O14nG::o1qxqj<4G^R4O^^:_11<nxrIOO^joG1rn1r<Ox<04O1jrG{qO1<r4xR;jOdR1GxrroOGjxn4qO<jGG<4^nuo14noqxO1^^4OR4j<:nqG^n4x1o{4G1+r{xng:OrRx4q<<{GO:xO:^Ouj1G :R{{qx^:<<RGnguO:<G4<1xj)8xj{no:^11{%rxqD<OORoqGn4G{{nr:1^r^nt11qjsG<l^{LxOqjrnrOOG^{0{14jxrnq<{nx1:oox^>FO{jnG::xqq<mn1PnO:jOG^:E14jqxrFOn^j4G1:G1Rqjnxj:G1jjqr:O1<<O1o:Gngr{q<:GGR<jxxJnjn::^oRj1x:qxo5GO^1^n4O1GooGx7s{Oxj:Go:41<^{xno:Ooj^G<1<x4oR4{^^O4:1Gn::1jxx^:G<nGnuc{jx{qno4GjRnOj<o4:11j<{n{<xx4jRqj:r1q<rRO<oR^r{<q:o1G<Rx{g1:{{nor^Oo<O4rRoj<rz<o<q4xR^jjO^QO1GnG::o1qoO{<^4nRx{O^r?11<nxr!OO^j<nG:n1rnOx<h4OoG^<Aq{nrOO4^GjOxGqG<:41^q^r>j1on1ooR:{<x<qxo+O1On^1Kj1^jOGx6q{Oxj:Gxqx<Or<j4j1q{oxFp:{1n<:xx{^OdR1Gn::1O<^x^.RqnjroO:<44<EGjQrO:<<G4j11jorxqu<O^jP4j:xGq<<1G_6njjxG:x<1GqRx{<xOq{oGG:4x{<x{:%o:Gj#G{:x1:Rox^<XO{{nG::o1o<Pj1=nx:jOO^:4<1<{xrjOO<A4G1jn1noOxOLGj1jjOr:qG<<GrR_1Ow1qG<j41R:jxjGqOoGroRr{}x<:xo,GqRj{Gx::GGqGx P{Onj:GorG14O:)nU:noj^qp:{1n<rW4o^O441Gjr:1Oo^x441OjJOoO:^14<Rnj;rqOjo<n111jrrxq:<O4jRGj:Rjqoo*G7ROjjx<q:o<{rRx{4xOr4oGGrR1{oxx:<GrGjuG{:j^:<on^5axxRnG::o1<{#x14nOr1h:^:4o1<nRrdOO^j4:onnRrnOxor4O1{jGr:O1<:1{RsjOrj:n<:4RR<j1q^qO<jGG4Gj1xoqxOGjjRj{rx:roo<GxwV1O4O:Go1G1#1{xnq:OOG1q&:{Rn<x:OY^qfj1^n:rG^q^x4U1O{xrGOr^14:n{jWrOOjOr4:1Rj<xj1R<OG^RG1^r1q<<x<!nqjjxrq:ooG<Rn{hn::4oG^}R11nxx:XoO^14x{:nq:<Oj^wkO{jj<r<o1^1Vx1onO:jOG<x4x1<jorAO{^j4G1:n1roOx<q4ORqjGrxO1<x^GR8j{rjxF<:4RR<jnxNqx4RGGR:j1{Gqxo4GOT1o4x::oo<<oPh{OxjxG<{G1;n{xnq:Oo{^G4x1jn<rGOZ^nKj1Gn:x(qr^x4r1Oj^rGO:^1GO1jj;xZOj<q4:11j<xj:r<OGqRGjRr1q<<xG_4Gjjxrq:orG<Rj{znO1OoGG1R11Fxx:qoOGj<^{:n4:<OZ^zlq{jnGrqo1^qAx1GnO:jOG^:G<1<n1rYOq^j4G1:{1xGOx<<4OR jGr1O1O<GnRujxrjqO<:^RR<1xx^qOoJGGRjj1n^qxqkGnRj{Ox::Go<<jm51:oG:Go{G1TO{xnu:OOGxoXr1vn<jOO&^q_j1Gn:rG^q^x4L1OR:rGOr^1GOrTjkrjOj<q4:11j<xbGo<OGGRGHor1qo<xG4RO{=qoq:<1G<^q{/xqqjO<j1R1{xxx::oOGj-G{:Bj:oO4^sdO{jn^::O<1rXx14nOj{OG^rd11onxr<^r^j4G1:RRr<On<=4xnRjGr:O1ro4xR4jOrj{o<:GOR<j{xJqO<j<Gq:j1xjqxo:GORR{Gj:rOo<^GTB{1xj:{o:<14{{xn::OO<^GGG{1n<xsOa^R*j1On::1O<oxG{1OjorGq4^1G:1x1ZxoOj<n4:Rqj<nqqlo:4{RG{Gr1r<<xGZRO1j4<q:o:G<><{2joqjO<n:R1{Rxxr4oOGjIG1xj::<OO^64q{jnG::qT^o&x1{nOr{OG^:/11<njr qu^j4R1:n1r<Ox<G4OR<jGr:O1<O4xROjrrjqx<:q{R<jnx3qq<jGOjnj1x<qxxRGOR{{Gx:14o<^Gee{rxj:Go:<1:<{xn::OO<^GTn{1{<rOOw^1lj1xn:rrO<oxG<1Oj<rGq6^1G11xjIx4Oj<n4:RGj<rxqWOO^ORG{4r1q{<x^<RO1jnrq:oqG<_^{+n<qjO<<4R1{1xxxMoOGj-GR:xx:<O<^}4>{j{4::qJ^{Kx1nnOxxOG^:01ROjxrPqG^j^v1:n1r<qj<14ORrjGnOO1<<4xR3j1rjqj<:GnR<jxx*qOonGGgsj1x<qxoGGO/j^jx::oo<<Odc{1xj:Gn{G17q{xnq:Oo{^G%:<4n<:{Ob^n7j1Gn:x1{O^x4^1OnRrG:4^1^x^1j_rrOjxR4:1Rj<xxqs<x1RRGj:r114<xG4RO{1G4q:o4G<w{{AxOqjO<^1R1{:xx:{oOGjuGR:nn:<o1^_wx{jnn::o1<jzx1onO:{OG^:U1k<{or)On^j4q1:jGr<Oxo{4ORGjGrrO1<<4x4P1*rjq:<:G<R<1Tx#qOo:GGRnj1xxqxo4GORjG5xrq1o<GneJ{Oxj:oo:G1J<{xnq:Ooj^G#:1Gn<:xO&qnqxoqGo:1Ox^x4z1O4Xt4jRxo:t<Rj-x^Oj<G4:<^^qRR1G:R:xOG^{4Gj:j^r)onjRx^q:o^G<Rx{Z1j1:n^:Rq4{<x1:(oOGj<:<<-R1nox^j O{jnG{oj{xrq{<oR:N4{Oxjq{oG1nx:OO^j4G5:qxr<On<X4O1jjor::}o{4xRGjOr{qG<:414<{rxWq:<jG<R:{4x<rxoxGOR1{Gxxq1onGx+O1oxj:^o:<oa<{nn%::oj^O{n{1n<:xqq^O/{1Gn:R4O<^n4E1OnjrGO:O<O:1xj4rOqO<G4r11j:rxq<4r4jRGj:x:q<<nGBRxrRxGq:<1^rRx{4xOqjnoG:RR{<xn:2oOGjGGRxx1:oox^4tO{1nG::j4^<p{1Wn::jOG^:G1oOnxr^OO^R4G1{n1r<j{<v4x1jj^r:O1<<^xOGjOx=qG<j41Rxjxx*Ox<jGoR:{4x<q1ohGOlR{^xnq1oqGxJg{Oxj<Ro:^GT<{xns:Ooj^GO{{1no:xO<^OH{1GnjO4O<^x4VR{njr^O:^1qq1xj4rOOR<G4:11j<O4q;<q4jR^j:rRq<<xO1RqjjxGqr<1G<Rx{4xOqjoGG:U:{<xx:doO^G*G{:x1RIj^x^qx<4GL::O^^<Sx1kyG1{j<r{qx1<j<rYOO^joOo4^4Rq{rx1:<o4GofjO1<x4xRJjO1<14n<:Gor^jxKq{<jGGR:444^1:n1:noR<Ox:::o<Gxd(4R4xRGj{xG<O^R4q1qjx^G+j{1n<:xn<rn:<oOn:r4O<^x4_4<1xjLO:<^4<1xje{j{1x^:oo^j<r1qs<O4j^<^4Pj{:O<G>ROjjxG{n<1G<Rx{?xOqjoG<:qJ{<xx:;oOGj?^{:n<^rox^SVO14nG:ro1^oUx1<:r:jOG^:4^1<nnrTOxAR4G1:n1r{Ox<44O1jGor:O1<<4xRcjOrjrGnx41R<jxxbqO<{GG4:R?x<qxo&GORj{ox:q1rGGx)P{Ox1:GorG1}<^{n>:Ooj^^i:{1n<xxGr^OEj1Gn::1O{^x^#5^njrGO:^14<11j,nO:8<G4:11j<rxqx<O^jzrj:r1q<<xGbR:jj{Gqj<1G<Rx{qxO:<oGG:.O{<xx:QoqGj%G{:x1rnox^K#O{1nG::o1^<4r1inO:jOG^:g11<nxr^OO^{4G1nn1r<OxOu4{1jj^r:OR<<G3R?1On1qG<r41RojxxoqOoGGrRr{4x<qxo!GqRj{^x:q1OrGx#!{Ox{:Go:G1#<OOn>:qoj^o!:1_n<rxjx^O)j1Gnr:1Oo^x4#^<n{rGO:^R4<1xjirOO{<G4:11jrrxq&<O4jRxj:r1q<ro:oORG144{rjI::Rx{qxOqjoGq^O^<{1{1Rnxr4;G{nx1:<ox:^OnofnGroo1^<(x^oGrR4{<:4qjo<GRF<nxno:G<{n1r:Ox<>4O^4^_D{{noG4xR*jOxG1o<r4RR<j{x%qq<jGGR:{GqqqxoYGORR{Gxrq1o:R{Vb{Oxj:Ro:GRX<RxGG:Oo1^Gf:{1n::xqGnoBj1on:r^O<^x4}BOG1rGOn^14q1xj<rO:jn<4:R4j<r{qu<q4jR:1or1qO<xG{ROj{xGqn<1G:j{{wxOqjoRG:RR{<xx1^oOG1DG{:x1:<oxo+G:{jn<::Ow^<?{1 {OR1OG^jp11<nxrGOO^jqq1:jfr<O1<P4q1jjG1OOR<<4xR4jOrjqG<x41R<jxxu{z<jGGR:jRx<qxoeGORjoG1r^1o<G{ut{OxjRDn{xoI<1<nE:Oojqnqo^R4n1RxjrqO1<qG<:1Oj^x4L1OMjb4{nxq::o^GRh<Oj<n4:11j<{{{jxnq{O<4<mq1qn1G4ROjjxGq:<1G<RxrDxO:^oGG:R1^:tR1Onqx4O1<jx1:xox^,aO<RGORxjqxGq414nO:jOG^:g11<1:{mOO<G4G1:n11:{rxqq{o:Gqr:qO<<4xRdBx6114n::GO^<4/1qOoyGGR:j11r1:jor^Rj{rx:q1o<qxO4^x4+1njOro7<1<nl:OojqnqO<1GrR1xGrnq^<^GO:RO<^x4_1OnjrGqjq14<1jj-rOOjrqO411jjrxqJ<Oq(oq<m4Gjqn^rxonjjxrq:<1G<<{^o4xj:nnrnqG{<x1:BoOGjom^r4n1rox^<EO{jnG{j{qx<OR1Fnn:jOG^:ox<o4jRo{G^j4:1:n1r<nGxR:GoCGqdxO1oK4xR&jOR41GxjqRO:GR1:{nno:rOu<Gx<:^o)GORjGo4qRij:qrqG^x44R<o:<<l<{xnzj:n{roq^<oGORr{ox<q#^OGx1R{Gx{:_<qG1Rq{Ox4:{1xj:rOOj<Gojoq^q x{jxqroOoj:xoq<<xGZ<x^ntr{Rnx:ro1{TxrqjoGG:^R^:?1:/o{Gj;G{:4<ROjrr{o:G^R<:noR^</118nO:jx1x4qj<rnxroOO^j4G^xGqRn{Gn<4OR1jGr:O1rqq{OG^oK:{1:xqROO41;:{RxR:{OO^^4q1{oWGjRj{Gx:nRnqr1Or<j44:Go{G16<{xRrR^n{rrO{{1nx:xOb^Ooj<^GxR^{Gx14!R<njrGO:r4qqojGRHG{:xn:Ooo;x*j{4n^:4RGjjr1q<<xqo^x^o;Rq:oqG<Rx{HRx14jxrj<4<^4O1Rj:Gj4O{:x1:<x{r^q:<n41R<x0roqjGrG^1{jrr{o4o^GORR{:OR4GRGn1r<Oxr<qnO<^O{n{{nu:rOGRrrjq{<:41R<41Fo11jzqrOxGR4<1xno:xRj{jx:q1o<q{OR<n411on{:4Oo<:G^:OOO^G3:{1Rq1nj1xjO{oo?nRq{1rR4S1xnjrGO:rGqrOG^<rOqe<G4:114=RR{Onx4jR:j:r1q<:{rGonG{4O{{<1G<Rx{*xOqjoOG:R1{<4:1oj1xS(^{:x1:<ox^)vO4kRG::O^^<wx1?RrRnj1xq:81<j^r7OO^jonoOGGR{j{x4:xon^<r:q<<<4xRDMrDn{1nqrcGqjnx5qO<jGGR:j1x<nxo4GORj{Gx:q1o<<1jV{Onn:Go:G1<O<rGG1xj4x<on<qG11Rn_rR:<<qG<:1O1^x4U1ORRRx{4xxq:GnG<Rx{4xO4:RGj<rxqE:j:nOE^jr1q{<xGsROGpzqRvjGqmon^G_n1:o^G:R1{<xx:(oO<5jG{:nx:<ox^(onGoR1R4{4x:oO<4GRRn{qxjW11rnxr0OOr4oOo4GnjOOx<O4O1jjG1x{^n4:rOOGnrjqq<:41R<4k4G{qnr:qR:{Ox<qxo_qrO4^1,{14j::RO<{Onj:Go:G1<O^n4^R4j^x<qqo^GG11x^xoq:o4Gxj4O<<44p1Onj1:j{x4::or^Gj:O{<G4:11j<rxq#:xojRGjjr1q<<xOjoR^R4Oqr<1G<Rx{uxOqjrqO:RR{<xx:DoOGjMGR:11:oox^tXO{jnG::xGR</x1rnO:jOGqRq^o:-GRojRx^qxojnRr<Ox</4O1jjGr:O1<o4xRQjOrjqG<:R1^^jxxOqO<jGG<n^^4={Rn^rxRR{Gxrq1o<GxE){Oxjx1r:G1Kr{xnC:OnurxO{<n4r:xO1^Ofj1GujR^{jx1O:GqG:RnjRxj:4<RG1MxO{<G4:11j<rxqH:<ojRG{^r1q<<xO4O<GRNx1qjdq<Or^r4<RUoG^^R1{<xxjjnqxoq4<{GG{^jjr<On<1nGr<o1^<Yx^^4n1R{Ox4q{oGR{RR{Gxn:<1:{or<Ox<X::<1^xRr14nqqRO<GRW6xjqq<{G{Rj{<xrqRoqGj#4{qx{oNGxRj{Gx:{4n{x<Oo{On^:Go:G1<q<r41R<j4roqj{1nx:xO6^O:bonG:R^{^x=4Z11njrGO::4qooOGjR:j{xo:^1Rj<rxqt<O4jRGn:{{4n<nGeROjjGqq:o^G<Rx{LxjqjOG^:R1{rxxr^oOG{sG+:nd:<oR^%4x{jn{:::1<rPx1onOxqOG:oz14<jOrLOn^jo^1:11r<Ox<14ORGjGr:O1<<4x.K{rrjqq<:O^R<{sx :O<{GGR{j1R{qxo<GORjR:xr:<o<GxKu{Oxj:GOxG1gn{xn!:Ooj^GG:Ron<r4O5^{ujRGn:x1O1^x4q1Oj^rGrq^1GOR^jWr1Oj:G4:11j<rx:n<OGoRGj:r1qq<xoPX:jjxnq:O4G<No{exOnno^^GR1{<xx:7oO<j?:{:n::<O<^D4O{j{Grxo1^1-x1xnOnROGo:4<1<j<riq?^jG11:n1x4Ox<n4O1{jGr:O1O<G<R3{4rjq{<:O{R<1xnrqOoqGG0^j1R:qxOG{rRj{1x:n^o<Gx/NROnj:GO<G14Q{xj{:OO1^Oy:1nn<r^O_^OLjR<jq:1qG^x4r1OnjrGqx<14<Rrj-rROj<G4:11jrrxqj<OGnRGj:r1q<<jG#6mjjxGq:o%G<Kx>oxO:ooGOxR1{1xxrGOrGjvj{:1j:<ox^WGO{{nGrGo1^1Jx1GnOr1qq^:4r1<4<r!OO^jG<Y^n1xzOxqO4O1jjGxxq4<<GqRa4NrjqG<:^kX<jxx1qOrGGGR:j1x<G:oI^/Rj1ix::No<^xHR{Ono:Gx1G1p1{xnAr4oj^jt:{1n<:xO+oO4G1GjG:1O1^xG}1O{jxOO:<:4<R<jKjoOjo<^^11jRrxnI<O4jRGj:xoq<oOGsRqjjxOq:q1O^Rx{jxO:RoG^1R1{<1r:4O^GjtG{:x1:<qx^{2O1rnGroo1<<mxhun{:jOR^:4n1<1{rh:O<O4GRon1x4Oxoj4O1j{:r:qj<<4nRcjOrjrG<141eGjxx1qOrnGG4:1<x<::o_^<RjGOx:ripqGx_R{O14:Go:G1G<{nncrooj<45:Rnn<rjq^^O4j1Gjq:1O<^xGG1xnjx^O:<{4<1xjtx::<<GGx11{^rxq?<O4jE^j:x{q<ojG?ROjjxGqj<1^4Rx{axOq1oG^:^^{<nO:Sr:Gj6R{:j}rGox^{cO4xnG::o1o<4x1Nj^:jOR^:4(1<jjrROO<x4G^Gn1r<OxoGGG1j{4r:j:<<4xRc{:xOqGo:41^1jxx?qOo1GRR:{Rx<{<oUGORj{GrGq1O4Gx44{Ox1:GO:^g0<1OnA:xoj^RW:R_je:xO{^O<x1Gn::1:<<W4_R^njrRO:<64<RjjjrOqx<GqG11j<rx:G<x4j74j:x<q<<xGyU:1-xG::<1q1Rx{LxO:1R:G:ZR{<nX:;oOGj,G:Ox1r4ox<4kO{1nGr:Ox^<4O1tUj:jOR^:Q1R<nxr{OO^j4G1:n1n<qx<vG^1jjRr:q1<<^xR<jOxrqGoo41G^jxnG:i<j^lR:*1x<qxohGO44{Gnqq1oOGxk^{O{jj4o:^{N<1{nNrjojOGG:{1j^:xqr^OOO1GjxxoO<<x4EG<njrGO:o1Gn1x{(rOqj<G4x11{Ox<qPoq4j<jj:r1q<ojGjRO{1xGjG<1G<Rx1GnxqjOoG:<:{<xx:-O:<4-G1jx1j:ox^_FO{jO%::O1^<411_n::jqGo^l1R^nx1OOO<j4G1:{rr<qx<C4O1jjGr::1<14xWVjOxjqGo:414<1qxc:O<j^GR:R{x<:joqGOD{{G1:q1o<Gx=_{qxjr<o:GRH<{1nsnOrn^G4x{1jq:xqx^O^jMGn:xMO<o^4_<enjx<:G^1Gq1xR1rOOj<G^:SOj<x{q or4jR<j:n=q1<x^<RO4OxGq:<1^OCr{EnnqjO4G:R1{<njr^oO<GpGGGx1:<ox<G4^{jjr::xo^<;x1-nOqOOG<ni1RnnxrGOO<j4^1:{3r<O1<mGr1j{<n<O1oq4xG1jOrjqGO:^4R<{{xC:r<jG<R:1zn<qxO<GOoO{Gx:q1OO<o, 1nxj:^o:G1X<1jj{:OqG^GoG{1n<:xqG{j!jRrn:{jO<^x461OOxrGqn^1Gn1xjGrOqj<O4:lwj<R0qPor4jRG1or1:q<xG5ROjjxGr:o{G<?{{2nrqjOGG:411{xxr^oO^RSGvqx1rOqG^u4x{j1{::o1^<Bx1RnOx4OG^:#11{nxj;xo^jGq1:{4r<qR<;<OFjjGx{O1o{4x<xjOx1q:<:^<R<N:x}qO<j<GRnj1nxqxOOGOR1{Gnxr^o<<4*2G4xj:Go:<k4q{xj::OxO^Gy:{1jOrqOD<R-j^jn::1O<<jG^1O{OrGnG^14<1xjz14O{o:4:U:j<rjqmoO41RG{{r1jx<x^ORO{1xrq:O<G<sO{BxOqjqGG{R11xxxrOoOOOgGR:n4:<q*^_4j{j{{::O1<:}xRonOjOOG<1H1R<{OrXqn^j^R1:nRr<Oxx^4OLGjGrrO1<<4x4!G:rj::<:^<R<4rxerOo^GGw1j1nxqxqqGO>j{<x:r^o<o^eX1jxjnGOOG14r{xj4:Oxx^G^:R:n<rRO(O=/jlfn:x5q:^xGO1Oj:rGO:^1^<R^jQxjOjo:4:^1j<nx1G<O^GRG{1r1xG<x^8OXjjnqq:r1G<45{wxOA:oG^nR11rxx:GoOGjOo{:jG:<ox^J#O{j{G:qo1<:ZxR<nOrjOGo:Gx1<j1rkqx^j<41:{Br:Oxoo4OGqjGr:O1<<^2RB{jrjqG<:G:R<Rxn4qOOGGGYnj11oqx:c<ORj1:x:rqo<:<vY1:n4:GORG1<G{xnT:Oqj<r+:Ron<x4Om^:vjR<jO:1qj^xon1OnjrGqxo^4<I^j/1DOj<G4:/.jnrx:x<OOORGj:r1:OO<G}44jj1jq:<1G<RxnxxOr^oG<^R1{OxxrSO^Gj4:{:nG:<q4^z4:1xnGrRo1qG?x16nOxjOq^:Go1<{4reO:^jG<R{n1xjOx:n4O1jjGxxq:<<^^Rl4zrjqG<:^*SnjxnxqOxOGGR:j1nOGZo)<4Rj4jx:q1o<Gx:j{Oj^:Gq^G1ZO{xjs{:o{<:0:^<n<x4O_<:4-1GjR:1qJ^x4Y1O{jxOO:oo4<74jf{BOjOG4n11{nrx:q<O<qRG{:nnq<OsGI^Qjjnrq:q1G{Rx1OxOxroGo:R1{<jq:bO{GjT^{:x1:<qxrG-OR^nGrRo1:^Mx}dj{:jqr^:Go1<14r5qO<j4GR1n1n{Oxoq4O4j{nr::<<<GnRg4<rjxGO<41uxjxjxqOOxGGMx{xx<r4o.^GRj{Gx:r1onGx4q{Oj^:Gx:G1G<<jnAr{oj<r-:R1n<rxjx^OGG1Gy::1qn^x4H^On{xOO:o<4<1xj(rO{:<^Gx11j<rxq4<O4jq1j:x1q<ojGvR:jjxGr4<R^oRx{HxOqjoG<:?1{<nn:_OqGj4G{:j1rOox<4ZO1{nGnqo1<O4(1Uj::jOo^:b11<nxxZOO<R4G1:n1rxOxqSGx1j{or::4<<<1Rd{:xjqGoj41^qjxxeqOOjr<R:1Gx<:1o_G:Rj1<<1q1OrGxox{Oxj:GOx{<B<Rhns{)oj^Gv:{1oG:xq<^OGG1Gnx:1q<<{4NRrnj1<O:oG4<4xj4rOqR<G^41141rx:GoG4jBOj:{jq<<xGz4O{jxG:j<1^:Rx{GxO:1O:G:4^{<Z<:;oOGj4<11x1rxoxOjaO{jnGrxF<^<G41SUS:jOG^:G6Rjnxx:OO<n4G1:n1r<O{<eGx1j{xr:q0<<GxR{jOxRqG<j41m:jxnG:{<j^OR:*jx<qxof<O4q{Gnjq1O:Gx}G{On1::o:<^e<G<nH:Ooj<<4O{1jx:xrG^O+j1Gjx{%Ooo44H^,njrGO:oKGj1x{:rOr1<G4:11j<rjq7ox4jzxj:x0q<oxGrRO{RxGj1<1^:Rx#Kn^qjOoG:G4{<RR:IoO^4IG1rx1rqox^GCO{jn^::q+^<Jx1UnO:j:GGn_1ROnxxGOO<j4GP:{nr<qj<?G:1jR4r::FoG4xT^jO{jqG<:41R<{nxy:x<jGGR:{^x<xxOoGO42{Gnnq1q^Gxb-1Oxjrqo:G1s<{xnLxOo1^G4{{1jr:xqS^OGj1On:x^O<<R4*4rnjnG:<^1Gr1x{orO::<G4:R{j<nhqU<q4jRGj:n1q{<x^ORO1GxGjq<1<<Rn{+njqjO:G:oG{<njr:oO<^wG?{x1:<oxo64G{jjr::qo^<Gq1Dj:^GOGoy_11{nxr/OO<1n:1:{qr<q^<J4O1j{<^1O1o14xRrjOrjqG<:n:R<14xVra<jGGR:j1x{qxOoGORj{Gxxq1O<^{X61xxjj<o:<^;<exnG:OqE^G<v{1R1:xqG<{UjRqn:jjO<^x4#3Oj:rGq{^1Gr1xjGrOq1<q4:+<j<1<qi<O4jH<RjrR:n<xGRROjjxG:xoqG<4G{eRZqjoGG:4!1<xxrroOq{pG{:x1:<OG^84n{jjn::Ok^<4xR4nOxDOG^j_1RrnxxGqG^jGq1:Rjr<Ox<w^ON6jGx{O1or4xRGjOx14:<:^<R<G<xMqO<j^<r1j1nnqx:qGORj{GnxG<o<<Gb}GNxj:Go:<,Gr{xjr:OrG^Ga:{1n<x4Oy<nNjRnn:rlO<<xGj1O{}rGn1^1Gr1xjex{Ojo<4:LGj<rxq,<O^qRG{qr1q<<xG4RO{1G4q:o1G<Gm{+xOqjqGOGRR1<xxr-oOG1yG1xjt:<On^;ol{jnG::qN<RSxRGnOrnOG^:F11<jrrZqO^jG<1:n1r<Ox<o4ORrjGr:O1<O4xRYjxrj:)<:41R<jxx.rOO<GGZOj1nGqxODGO4j{Ox::jo<^:..poxjr<q4G14^{x{o:Ooj^G.:Rxn<rxO ^Ofj1nn:n1x^^xG!1OjRrGx{^1<<GrjLxOOjO<4:Vjj<jxxR<OGjRG14r1j1<xoL4OjjnGq::OG<<<{An:qRoG^rR14Gxx:-oO<j7<{:nR:<On^,C:{jj<:ro1<O xGxnO:jOG<x4j1<j{rwqo^j4G1:{%n4Oxo<4O^OjGr:O1oOGjR({nrjnO<:41R<jx:xqOo{GGz{j1xOqxOv^<Rj1Gx::Go<^nES1:nt:GOrG1<G{xnP:Oqj<qm:1Rn<rnOe^:/jR<j<:1qO^xOx1OnjrGqxo^4<R{jsj{Oj<G4:gej1rx:<<OqORGj:r1:OOGGbKnjj1xq:<1G<Rx{rxO:{oG^{R1{OxxrwO<Gj4G{:g<:<On^.4:1:nGrro1qG>x1FnOxjqR^:4R1<jnr,O:^jG<Rqn1xOOx:x4O1jjGxxqw<<G{R04brjqG<:^Prxjxn<qOrOGGR:j1nO{<oZ^nRj4jx:q1o<Gxbr{On{:GO{G1zO{xjAr^oj<GZ:}xn<rnOZ^O4G1Gjr:1O<^x4c1O{jr^O:<R4<Rnj5xOOjOGGG11{orx:4<O<RRG1:nqq<onGtsqjjn1q:<1^:Rn1GxOq{oGG:R1R<j^:hO:Gj4<{:R{:<qx<{JO11nGrxo1::bxRGjn:jqo^:<^1<nxr6:O<:4GRnn1xqOxo{4OR1jjr::G<<G^RYjOrj:<o141ZrjxxrqO<jGGyxGxx<r.okGRRj{Gx:q1ojGx4^{OjG:Go:G1W<1nnmrqoj^Gg:1vn<rxOO^O4j1G1;:1qo^x<_R<njxGO:oR4<RrjNrO:r<GGr11j<rxq6<O^jRxj:xRq<onGH/OjjjG:R<1^oRx14xOxnoG^xMx{<nj:zr^Gj G{:x1r^ox<^>O{jnG:xo1<ORq1,jx:jO1^:+11<{xr<OOoi4GRjn1xjOxO+^^1j{Or::G<<O{RP{OnrqGon41*jjxn<qOo1GOR:1Gx<xVo}GORjRGn1q1O:Gx4<{Ox1:GOx<r7<1Rnh{koj^G-:R_{r:xqO^O4n1Gn::1O<o44SRxnjx:O:<_4<Rx{rrOqR<GGo11{:rxqeor4jv^j:n4q<<xG,RO{rxG::<1G<Rx{4xOqjxGGr5j{<nx:toOGj7G<<xRrgox^e;O{{nGrx{{^<4q1X{j:jOG^:G11onnr{OO<r4G1xn1xO:o<}G<1jljr:O1<<GjR4jOxnqGoq41R<jxxF:G<jGRR:{{x<qxo&GO4O{GnGq1o<GxgE{Oxjrno:^q;<{xnh:qoj<<:q{1n1:x:O^OAj1G{:QrO<<<4aRdnjr<O:o=Gq1xjnrOnO<G4:11{Or{qCoG4j64j:r1q<<xGqRO{OxG:<<1G<Rx{FjGqjorG:R1{<xj:LOO<^aG{{x1j<ox^q0O1Gnr:rOo^<e{18nq:jO^^:01<:nxr8OO<44G1:n1x<{<<p4n1jTnr:qo<<GYRqjqx^qG<{41RojxxGqO<j:OR:j1x<qRo!GORj{Gn{q1o<GxfG{Oxj:GO:r:=<{Rn=r{oj^r_:1<nn:nOq^O4o1Gnr:1O:^x4XRnnjrGO:^14<1xjprO:4<G4:11jorxqt<O4joOj:r1q<<RGSROjjxG{j<1G<Rx{OxOqjoG^:O:{<xR:BqGGjwr{:n<:non^qwO1GnG:ro1^O(x1/4x:jOG^:4^1<nxrgOOxX4G1:n1rxOx<e4ORjGjr:q^<<orRlj{rjq:<R4RRnjxx4qO<{GGRrj1x<{1oFGORj{qx:q1o<^xOx{On4:Go{G1=n{xnO:{o{^rP:1On<:nOa^q j1G4j:1O<^x4o1OnjrGq:x:4<1RjFx:Oj<r4:R<jnrnqq<OGFRGjrr1qo<xG>oxjjxGq:o^G<Rx{enO1OoGG{R1G_xx:qoO^GJr{rno:<oj^*eq{jnO::o1r:bx1bnOr4OG^:&11<jRrBOO^j4o1:n1r<Oxoo4O1jjGrxO1<<4xRM{nrjqG<:GGR<jxxm:On^GGR{j1x1qxoqGORj1:x::oo<Gj!B{OxjxGOqG1Vn{xnq:Ox4^G7:1xn<rGO_^:5j1Gn:x1q:^x4:1Oj<rGx{^14<m^jUr1Oj<x4:11j<nxq4<OG<RG{Wr1j1<xGIr1jjxrq:oOG<RR{ljOG:oGGRR1{rxxj_oOGjUq{:nO:<oj^**O{j{Gx^o1^jXx1:nOjjOGo:441<jGrDO1^joq1:j1xGOx<q4O4,jGxTO1O<GORdj{rjqq<:o1R<1xxrqOo^GGRRj1nxqxqsr:Rj{rx::oo<ORd%RO41:GoRG1Kn{x1r:Oqjo<c:1on<r4OS:{Nj1:nR:RO{^x4F1On{rGOr^14<<1j?rOOj<q4:11j<rx{o<OG^RG{4r1qo<x<?O:jjxrq:o^G<^x{3jO11oGGRR1{nxx:1oO<jG<{:no:<O4^to{{jn::RoR^{Jx1qnO:{OG^xg11<41rbOO^j4q1:n1r<Oxoo4O1jjGr{O1<<4xRJGnrjqr<:GqR<jnx}::jnGGRRj1{oqxo+GORj4:xr:Oo<Gj+g{Oxj:G::G1Z{{xnr:Ooj^Gwjn4n<:xOu{U}{1^n:x1:O^x4j1Oj4rG:<^14<^ j4x<Oj<{4:11j<rx{o<OG:RG{Or1qo<xGOo1jjxrq:1oGoRn{7x:qjoORnR1{<xx4qoqG{0G1xG{:<O4^ko1{jnG::q1xO?x1:nO:ROG^R%11<{{r(O{^j4<1:jhr<rTr<4OR^jG^xOR<o4xR:jOx8<o<:41R<Ojx4qq<jGOjnj1x<qxRoGqR{{Gj:xUo<^4}y{nxjj1o:<1qO{xnr:OoR^G?R{1n<1ROe^{bj1nn::RO<^x1G1Oj4rGOx^14<1xj/1<O{<G4:1Rj<rxq_<nGORGj:r1qq<xGVROjjx1q:<1G<<R<Y6x{{jO:{<O^r4^1qn1xclG14x1:<oxq^qG^{GoRnxjroqq<onOr4OG^:K1GxGjR4{^x44r1:n1r<:xnG4O1{jGr:O1<O4x4O<1rjq^<:G<R<jnxbqr<jGOjnj1x<qxoOGOR{{Gx:14o<Gn?/{Oxj:Go:<1GO{xn4:Oo{^Gpr{1n<j:Op^qVj1<n::RO<^xo11qnjrGOr^14<1xj4rOOj<G4:R4j<rxqi<OGeRGj:r1jan^r^Oxjjx:q:<1G<<j^o4^1nj::{RR{<xx:AoOGjvGj:1{r^ox^KBO1114::oR^<v{10nO:jOG<.l11Onxr}OO^j4Gw:{Or<Oj<y4:1jj^r:O1o{4xRGjOr1qG<:41}O14xXqr<jGoR:j1x<q1oqGOR{{GnOq1ooGx!3^rxj:qo:G1X<{xn*xOq1^G/{{1nr:xOG^Omj<on:roO<^x4P1OnjnG{x^14n1xjqrOO{<G^:O2j<x4q)<{4jRoj:r1<4<xG:ROj{xGq:<1G<oR{VxnqjoxG:RR{<x1R<oqG{_G{1x1:oox^Po<{{nG::oR^<_x10nq:jOG^:;1R<nxrXOO^j4o1:n1r<{:xo:{1{jGr:O1<<4xR5jO{jqG<R41R<jxR<1on^:rO<^^%:qxo<GORj{GRn1qj1:R#c{Rxj:Go:qqqG^14r1rn{xOqqoSn<rJOQ^OAjGxGqRxj:rR:G1qnjrGO:^14<1x1<oOOj<j4:11j<{{{4n<rGo^^nR4{{j<:oRO{oxGq:<1OnoR<<1114nn:ROO<:xx:ooOGjBGG{RG1{jqOGUq{jnG::o1^<:x^ORO:jOq^:_11<_huGjqxrqq1rn1r<Ox<k4O1jnG{qO1<j4xR5jO1114njqRO:^^ZR1<<{GGR:j1x<qxo?GORj{^x:q1o<Gx;%{O:jj4r{G1H<{xns<4oj^<=:{1n<:xO&<O4q1Gnx:1Oq^x441Onjr1O:<X4<1njsrOOj<GGn11jqrxq+<O4jRG1:xoq<<{GNRrjjx1q:OCGrRx{<xO:joGG:R1{<xj:ponGjIG{:xR:<OjxR0O1GnGrGo1^<;xD=^x:jO:^:4<1<nnrcq:o:4G1Rn1x4Ox<h4OR1{<r:qO<<4jRFjOrj:<<R41R{jxxRqO<jGGR:jRx<:<o3GORj{Gx:r1OGGxkx{OnO:GO4G1X<{jn3rloj^{v:{1n<:xx^^O4G1Gn::1OO^xGV+4njrqO:<G4<R%jBrOqR<G4x11jrrxq4<O4jRrj:xTq<<nG(ROjjxG:-<1GqRx{exOqjoG<:4:{<x{:3orGjp1{:j1rnox^^7O{RnG:1o1o<G^1!nr:jOo^:4<1<{x#GOO^R4G1nn1rrOxoGnj1jjOr:q1<<4xRejORxq^<{41R<jxx4qOoG{qR:jRx<rqoMGqRj{^x::GGqGxs+{Ojr:GorG1N:x{n,:Oojo^P:{Rn<rj;O^O4G1Gj^:1O<^x4Oorn{r:O:oR4<1njMrOOj<O1n11j<rxr4<O4{RGjjq4q<<xG?4:jjx^q:OVjxRx{OxO:noGG:R11<4<:aonGj4*{:n<:<ox:x/q{1nG:{o1^o5x1Njj:jO<^:!R1<nxrtOO<K4G1nn1rOOx<74OLjj:r:q4<<4{Re{Grj:<<141R:jxn_qO<jGGR:jRx<qRoLGORj{^x:r8qgGx(O{OnO:Go:G1G<o1na:joj^:b:{Rn<rjO1^O4^1Gjo:1O<^xGGR:njrxO:<o4<1xj;x:q1<GG411{^rxq&<O4jPGj:x:q<<jGwROjjjG:o<1G1Rx{xxO:ooGG:W1{<n<:wO4Gj_G{:x1jqox^O!O{jnG:xo1<<q<1Unn:jOO^:4<1<nx1xOq^14G1{n1roOx<>4q1jj<r:OR<<4xR6jOx<qG<n41Rqjxx_qOOjG<R:{4x<q{ob^GRj1<nnq1o:Gx4,{Oxj:Go:^j3<{Rnw:Ooj^^b:RH{4:xOO^O4O1Gn::1:<n1401jnjr:O:^R4<Rj{xrOq^<GGq11j<rx:Go14jRxj:x{q<<xG(T:{1xG:4<1^^Rx{dxOqjO4G:5:{<x{:FoOGjGG1qx1:1ox^xBO1onG::OE^<4<10j4:jOG^:)1GqnxrOOO^j4G1xn1x<{<<%4n1jjxr:q<<<4xoojOr1qG<{41RojxxVj<<{GGR:jRx<qxoTG:Rj{Gx:q1o{Gxti{OxR:^o:^oZ<{xn?{xjnrrOR<x4r11O4^O.j1Gn::1O<^x4i1qnjrGO:^14<1xlo{OOj<o4:11j<Iq{rn<4jROj:r1q<nq:4Ox^<x^q:<1G<Rx{MxOnqrGG:pG{<xx:.xGroqo<jxR:<ox^spO{jnGrjr1<OYx1vnO:jjo^:tR1<nxruOO^j^Goxn1roOx<44O11jGn1RO<<4nR){<rjq^<:4RR<j1q^qO<jGGQOj1xoqxOGxoRj{^x::<o<Gx?MRO{R:^orG1(o{xno:Ooj<RP:1#n<:xON^O?j>G{o:1OO^x4G1Oj<rGO:<^4<1jjTr:Oj<G4:;w{Grxq^<OGoRGj:r1q<OGG3Rqjjxoq:o,G<4x1jxOq{oGGrR1{nxx:O&nGjL^{:n{:<on^>Hq{jnOono1^<!x1RnO:{OG<xn<1<nnrkOr^j4G1:j11jOn<44OR7jGrrO1<<1jR>jqrjq<<:41R<jx11qq<jGGRrj1x<qxo4GORj{Gx:::o<Gxy7{On4:Go:G1<x<j44R^j4^Ga{{1n<:x{XrrO{<1G<:1Oj^x4I1O =Rn{nx1:w<n^rzrOj<x4:11j<{{{4nG::o<Grs4{R<xG:ROjjxGjnn^r)oR^^4x14nOG: ^{<xx:mjrrjO^<R4j:<O#^?zO{jRxRqjxr:ORoGnOrGOG^:N1^:GrRqj{x:qq1:jGr<Ox<NOxo4^x3jO1<:4xRkjO4h{^nn:r%rjxxPqO<j:oR:{Sx<qxouGORj1G4Gq1oOGx o{Ox{:Go:r4P<{jnN:Ooj^GK:R1GO:xOG^O/11Gnr:1:<xj4Q1:njr<O:<o4<>x^GrOO1<G4x11jnrxr!n:4jR<j:xUq<<{GD4O^1xGqx<1GORx{oxO:jOjGrXL{<n^:=oqGjYG14x1:Oox^M-O{jnGx:q(^<wj1Nn::jOx^:f1R4nxr<OO^j4G1:n1r<qo<34:1jjOr:OR<<GjRrjOr1qG<x41R<jxnG:x<jGoR:{:x<qxoD<OO1{Gxnq1oqGx_O{Oxj1oo:^G+<{xnA:OojoGqx{1n::xO<^O4=1Gn:{<Oo^R451qnjrGO:^1qr1xjGrOq4<G4r11j<1:q4<O4jR^j:r1q<<jGiROjjxG::<1G<Rx{4xOqjoGG:R1{<xx:_oqGjNG{:x1:<ox<<<O{jno::o1^<q:<oG{:jOq^:m11<DR{<jRxr<<1:j:r<Ox<_or<{^IP1jRnqO{or<Py4qGo<41R<jxRo1OnS:^Oj^^1j{Rnr:{O<<Oxrq1o<GxL}{Oxj:Gr:G1}:{xnh:OxRrn:G<^n<r^O#^OvjGr4{8GxjrRqr<{G</OO:<G4<1xj)1G{ono:j11jrrxqg<OOGO<Grcn{r<xGqROjjxGjjn{:nO4^jcn1EooGrRR{<xx:VoOGj/G4^11:<Oz^eWO{jRxRqjxr:ORoGnq:jOG^:Z11<nx:>xoO}4G1:n1r<j{<.4q1jjGr:O1<<^xOGjOr{qG<r41RRjxjc1:<jG^R:jRx<:ro!<OO1{Gxrq1ooGx*x{On1+4o:^l5<{1n&:OojoGqx{1nO:xOG^OmR1Gjx^<O<^{4.1qnjrGO:olnx1xj<rOO{<G4:11{O<_qh<n4jR^j:r1q<<x:^RO{GxGq:<1G<RxRA4:qjo:G:%<{<n<:boOn1&G{1x1:xox^CKORjjR::O<^<4V1/j<:j:G<G211xnxrOOO^14G1:{/r<Oj<=4j1jj<r:q1o<4xR4jOx4qG<x41R<1GxKqq<jGGR:j1x<rxo^GOR{{Gxrq1OdGxGO1xxj:^o:o4M<{nn%r^oj^O{n{1n<:x:^^OQ{1Gn:R4O<^n4v1OnjrGO:o1:O1xj4rOO{<GG^11{O4rq7<:4jROj:r1q<Oxx<ROj1xGqx<1GqRx1Gn:qjooG:_1{<xx:kO:G{BG{jx1:nox^HFO11n^::O^^<yn1vnO:jOG<<u11xnxrtOO^j4G3:jRr<q0<U4j1jjnr:O1<j4xROjOx^qG<:41R<s{xeq:<jGGR:{Ax<:xnxGOR{{Gniq1oOGx62^rxj:^o:GR.<{xncxOq1^G!r{1no:xOO^OwjGfn::RO<^j481qnjrGnO^R4<1xj4rOOj<G4r11j<rxq>oJ4jRGj:r1qx<xG}ROGm44{RnorIoR{LxnqjoGG:<<<Odn1{nnGjQq{:x1:<j1r4O:<:4q::Oo^<3x1_RxR4{oxj:vo^^^rLOj^j4G1:^HRr{qxR:jo4jGx<O1<<4x<o^O5k{^nj:^^jGRkr{{n<rOR:{Gx<qxoYqGOo<o4jq1o:GxPQ{O4x1q{ZxG&o{xnF:Ooj^GL:{1n<:xOq^O?j1G}jR{jnx4qj<nG8j^O:^14<RjqGrOOR<GGX11j<rxq!oR4jROj:r1q<<xGY4Oj1xGqj<1G:Rx{qxOqjO^G:0^{<xR:coOGj+O{Rx1:<oxo1,O{{nG:1Do^<441Zn1:jO^^:3R1<n1O^OO^j4GRgn1roOx<<1r1jjGr:rj<<4nR;jORRqGoB41RojxxXqO<j4OR:{Ox<:Go+GjRj{:o{q1ojGxZ{{Ox{:GorG1T:x{nT:Ooj^R%:{Rn<:1^^^Owj1G1::1Oo^x^Xo:njrnO:<O4<1jj2nO:1<GG411j{rxq<<O4j^/j:xqq<<jG?Rqjjn<Rq<1G{Rx{^xOqjoG<:q*{<n^:foRGj_q{:x11qox^xXO{jnG::o1o<qj1ajm:jOj^:4o1<nx{OOq<q4G11n1r<Ox<3qn1jjnr:qr<<4nRi{:4nqGo441RqjxxUqOOjr<R:{qx<:^omGnRj{G_nq1o1GxK4{Oxj:Go:rj.o1on2:joj^GJ:{1jR:xOr^O4q1Gnr:1O<oq4D1RnjrGO:^14<Jx{^rOqo<GG411j1rxqOo{4jRnj:j,q<<nGTROjjxO<n<1G<RxRGxOq{oGG:O4{<n^:ioOGj;G{:j1xOox^rIO1onG:1o1^<<:1/nR:jO<^:!R1<nxR^OO<o4G1:n1r<OxO_::1jjnr:qq<<G4RijO<4qGo441R{jxxtqOqGxxR:{qx<xxo6GqRj{nx::GGqGx.&{O{j:GorG1Ux:RnZ::ojOG.:{Rn<:nO_^x{R1Gn::1r<^x441OnjRoO:<q4<1xjerOOjOG^x11j{rxqr<O4{RGj:Onq<ooG6ROjjxGq:<1:rRx{rxO:qoGGrR1{:q{:5oOGj^G{:xR:<Ozr:dO{RnG:{o1^ohx1GnOr0^o^:611<nRrLOq^j4G^OnRr<Ox<44O1jjGrnO1<<4xRa{4rjqG<:41%<jxxhqO:{:<On^{4V1Rj<:n<j<44n1qj:r^OR<<x{:Go:G1W<{xn*:Ooj^Gpr{1n<:xnr^qDj1Gn::1O<^x<1GOnjr:O:^14<^1GRR{{^x1q{11{4rxqV<Oq4OoG{4Sn{n:rZOn<!ROR4n1:rRx{oxOqjoGO1qW^o4q1ooO^Y,G{:x1{%j^x^qx{jn1::o1^<oq<RGnRRjqqx:^o:G1RR{<O{4G1Rn1r<Oxr<:oo^Gre<{^x:4xR<jOrjqG:{:jOr^qnjqO<jGG4::xx<qnogGORj{:x:r,o1GxkG{Onq:Go:G1G<1nnV::oj^<}:1<n<xxqG^Oh11Gnx:1O{^x4OR^njr^O:or4<1njDr:Oj<O1n11j<rx:n<O4{RGj:k4q<<nG*ROjjxGq:O1rORx{4xOq{oG^UR1{<<R:KoqGjk^{:x1:<O:^xBq{1nGr<o1^opx14nOri^o^:}11<jOr,Oq^j4Onnn1r<Oxon4O1{jGr:{4<<4nRLjqrjqG<:^1OOjxx4qO<{GGRnj1x<{{o;G:Rj{Gx:q1o<<xqG{Ox1:GoxG1Zn{x{LR:oj^<_:1in<:nO+oOq11Gnx:1OO^x4^1Onj:4O:^R4<1njkr:OjO:o<11jorx:n<O4{RGjjr1q:4{G/ROjjn{q:<RG<Rx^^xOq{oGG:R1{<xxx3^xGjz^{:xR:<oR^,MO11nG:no1^<Ax18nOxjOq^:441<n{rJqu^j4G ^n1rqOx<^4O1jjGr:q3<<4nR=jrrjq^<:41<Gjnx)qO<{GGR:j1xoqxoQGORj{ox:q1o<GxJ<{Oxj:GjOr^qj<1nV:Roj^GY:G4GK1Rj4x:o:<nGnTGO<^{4V1Onj{^jjxGGG1xjvrOOjxo4:R;j<rxqQ<O4j4G1xr1qO<xGGROj1xGq::jG<Rj{Yx:qjo^G:4=o^xx:GoOG{YG{:x1:<x.^4 r{jn^::o1^<yx4AnOrJOG^j&11<nxr<^r^j4G1:jrr<On<U4O<RjGrRO1<<4xRYjOnjr<<:GoR<{4xwqr<jGG^1jRx{qxoOGORj{Gx:1^o<^4lg{Rxj:^o:^<Oj{xnG:OO^^Gfr{1nO:xO<ir=j1Gn:roO<^n4T1ONxr^O:^14o1xjKrOO1<G4:11j<jOql<O4jRGjxr1q<<xqo^Rjjxqq:<1G<<1^:tn1rnqGrR1{<xx:5oOGj4O4:xR:<ox^twO{jnG::o1^oYx1,nO:jOG^:61x<nxr<OO^j4G^jG^lj{1<!4x1jjGr:nxx{:{O<jOxOqG<:41<q^r4o1:xR:q<nGR4G1{o8GxRj{Gx:j<j^r:q<{On4:Go:G1<x<j44R^j4^^-:{1n<:xO(^O^XxGn:r4O<^x4-o<G4erO:<x4<1xjf1n{jxOqrOGGr1G{oxR:^ox^jr1q:<xGCRO4xw^1on^G<Q^{HxOqjxO:{qO<:1{1RjGrnq<{:nq:<ox^Y<q^RGOR4{<roq1<o4x:{OG^:g11<nxrQrGqj4^1:n1r<Ox<Q4O{js4r:qG<<4xRzWnix1qnoG4Rojxx:qO<jGG<j^^4j11x^:RqO^qx::Oo<GxcD4rk{11j<rVOo^{4n:OOG^GU:{1RORR{<xxqnopn:r4O<^x4zGqG&ROO:<^4<1xja{r{nx1:qO=j<xJqi<O4j<GGr4H{rn:r<RO{^xGq:<1:xOj^R4^j1rrOxR11cxx:5oOqROq^nGG1{jrr1<r<n41Rq{b^<4F1dnO:jxoxxq^<oG1RoOq^j4G1:n1r<OxO<oO1jjqr:O1<<OR^<GRDrx<<:G<R<jxxbn1nn:1oj^^4OqxoxGORj{GRj1^jjr1<G<nGyROjqrj}<1onl:Ooj:OO{oOG:14{GrqqjoG4{RGO<<44c1Onj{o{qxj:G<RG^axOjoG4:11j<{j{4xr:qor^x;{1rn::<^r^n!11qj-oqRx{<xOqjoGq{<G^{4q:VojGj?G{:R4R^jOrRq:(RnG:jo1^<ex^^4RHOjq^r-11<nxr_OO^j<OG:nRr<Ox<u4O1jjGj1x1<<GGR_jOrjjGnqr4o{^1kr1onxGGRRj1x<qxx<roO^^r4<1^n:Gxbx{Oxj:Gxjr^qj<1R^Roj:x4qx44^o:xOY^OFj4zn:rGO<^x4.1:njxGOr^14:1xj1rOO{<GG:/:j<r1qFoj4jRoj:r1:o<xGoROjjxGq:<1<<ln{0xnqjoqG:RR{<jx:xoO^4eG{{x1x4ox<G4{{jn:::O:^<lx12nO:1OG^R(11<nxr^OO<jGo1:jor<q:<04q1jjG{qOR<j4xR!jOrjqGO:GoR<{Gx3q1<jG^R:11nOqxo:GO3<{Gj4q1q<<Em-{1xj:xo:<Ob<{xnG:OOo^GPr{1n<:x:T<OTj1nn:rqO<^j4eDO{rrGq4^14{1x{jrOq1Ro4:R:j<j3qE<O4j4G1^r1q1<xGxRO1qxG:xoZG<Vo{Uj1qjoGG:4-1^xx:joOo<PG{:x1rOq4^v4^{j{x::o1^<#xR<nOrOOG<oe11<nxr/q<^j4x1:n1r<Oj<(GOG4jGrRO1O:4xR:jOx1::<:GOR<1rx.qO<j<GQoj1xjqxo:GO%:{Gnxr8o<^^,Z1:xj:Go:<VXq{xnx:OOq^G}:{1jOxGO/<4mj1On::1O<<jGx1Oj:rGr4^14<1xjL<<Oj<x4:Rxj<rjq=oOGxRGjRr1rn<xG:ROjjnoq:oOG<Rx{YxOqjqG^<R1{jxx::oOG{&GR:jn:<OG^;_1{jjR::q-<q2x1rnOx{OG^:e11<{^rpqm^j4G1:jqr<rxqR4OROjGxOO1on4xR%tor{q{<:41R<jxxDrOonGGc^j1xRqxo4GO4j{^x::ro<^oVc1RxjxGonG1JR{xnn:Oq<^GI:R8n<rOOZ^qhj1Gn:x1qO^x4j1Oj:rGOx^1^<kojUxGOj<14:;xj<xjG^<OGrRG11r1q<<x<wRnjjxRq:onG<4o{fn:q1oG^OR1RGxx:KoO^141{:n{:<q:^/%O{jj<roo1<<PxR1nO:jOG^:4n1<jqrVqO^j4G1:n1rrOx<n4O1jjGrxO1o<<RRk{5rjrO<:GrR<{jxRqOoqGG4qj1x<qxqw^GRj{{x::ro<^O(21:j^:GO<G17:{xnL:OO1^{P:1nn<rjO3^OwjR<jo:1qG^x4<1OnjrGqx<n4<RrjNx:Oj<G4:11x1rxqn<OGnRGjxr1:<oOGZDAjjjjq:orG<Cj1nxO:qoG<qR1{<xxxKOqGjX{{:nr:<OO^,4:R4nGr<o1<Ozx1wnOr1On^:4n1<nRrTOO^jG<M<n1xGOxoG4O1jjGxx4<<<GrR!jnrjqG<:41^RjnxnqOonGGRxj1n<:doX^;RjRrx::ro<^j4q{Onq:GOnG1(<{x{-rGoj^{S:1rn<r^OvoOG41Gj^:1OR^x4:1OjjrxO:<:4<R^jlx4OjoGG^11j1rxqO<O4{RGj:v4q<ooGMRqjjxGq:O1:ORx{nxO:qoGGxR1R<jq:_O4GjH{{:n{:<Ox<n8O1OnGn<o1^RUx4Lnj:jOj^:G^1<jnrCrOo^4GRGn1nOOxo<4OR1{{r:qr<<^RRfjOrjrGo<41RRjxxnqOo:GG2xq<x<:Oo GxRj{Gx:r6RxGxK{{OxR:Go:G1H<Gxn4r4oj^RS:{1n<:xqq^O4<1Gn::1O<^x4*oGn{rrO:^14<1njbx:1n<GGU111rrxq!<O^jO4jrxOq<oGG-=Gjjn<:q<1G{Rx{<xOqjoG^xY<{<n<:morGjkG{:x1r:ox^:KO1OnG::o1^<411snn:jOG^:4)1<jxxjOO<p4GRGn1rrOx<3G<1jjqr:qf<<4xRZ1O*1qG<{41RrjxxqqO<j:oR:{<x<qjoBGORjRG4xq1oxGx*O{On^:Go:{^c<1#n=:joj^G6:R14G:xOO^O4G1Gjx:1O<1G4H1nnjr:O:^R4<1xG^rOq4<G4n11j<rxq5xr4jR:j:x4q<<xGeROq4xGq1<1GxRx{zxOrjn6G:7<{<nY:CO:GjhG:?x1:rox^O3O18nGx:r<^oYR1Enx:jOj^:=1R<nxrOOO^14G1:n1n<qx<I4j1jj:r:q:<<^xR<jOxGqG<1414<jxjb::<jG:R:{<x<:4o}^Oz{{Gx{q1O1GxPO{Oxj:xo:^^3<{jn/:OojoGG^{1nr:xOo^O^q1G{1xxO<^R4Xo{njr^O:oG4<11r^rOOj<G:R11jorxqzxr4jRqj:xAq<<xG04O11xGq{<1GrRx{{xOqjrQG:8^{<xj:moqGjGG<xx1:rox^<ZO1OnGx:{l^<VR13nn:jqr^:G1oOnxroOO<44GR:n1n<:j<a4n1jjqr:r4<<G}Rqjqx^qG<:41RojxxGqO<j:OR:j1x<q1oNGORj{Gn{q1o<Gx+G{Oxj:Go:r^J<{Rnm:{oj^^a:{1:O:xO<^O+11Gn::1O<::441Onjr^O:^14<11j4rOOj<GG_11j<rxq6<j4jRGj:R4{rnO:oor<8xGqj<1G<Rx41yq1rnqG:.^{<xx:/jO:RO^<<4x:<Ol^5lO{jGOJ4j1rrqr<OnOr<OG^:T1Gq4nRj{Gr1q^<nGrr<O1<A4O1j^ORr14xR4xRojOrjqGnn:1oo<4v1qOo<GGR:j12x1Rn1:rq!^n4q1jOqGxE/{On1M4o:G16<{1nN:Ooj^GOn{1no:xOb^Odj1G{:AJO<^n4m1qnjrqO:^1^q1xj5rOO1<G4x111xGGqt<O4jRRj:rRq<oGGLRxrRxGq:<1^4Rx{4xO:1{4G:R1{<x{:yoOGj4<oqx1:oox^O_O{jnGx:{)^<Kn12nq:jOr^:?1<qnxrGOO^j4G1:n1n<{j<u4:1jj<r:q^<<4xoojOrjqG<x41Rojxx<<r<jGGR:1?x<qnoJGOoR{Gx:q1ooGxiV{Ojjx<o:G1p<{xnp:qoj^GOn{1nO:xO5^Ouj1G{:8+O<^j461:njr<O:^1qr1xjNrOO1<G4r11j<1:q4<O4jR^j:r1q<<xGdROjjxG:O<1G<Rx{uxnqjoGG:<<<Odn1{nnGj.j{:x1:<r{r4q<oG4^Rnn4r{:<<onq:jOG^:(11<nx:zxo^j4n1:n1r<n^x1qxooGoRr1Gn^:jRAjnrjqG<:q^^:^^W{x:<{GGR:j1x<qxoS<xnj{GxRq1o<Gxo<<o4^1rj<r^O:{xn::Ooj^Gox<{G:1n{<rRqnoYn:r4O<^x4Fo<G4+rOr^14<1xj}rO1j::o:11j:rxqB<OORon<GN^q<o^G*ROjj1r{{jGOjoR^rP{1<jOGrR1{<xx:NoOGj#G{:xR:<ox^DZO{jnGO:r{Oo_x10nO:j4{^:*R1<nxrXOO^jGG34n1roOx<q4O1jjGr:q:<<4nR-jqrjqG<:41PRjxxGqO<jGGR:j1j<rooaG:Rj{<x:qRo<^jwr{OxR:GOOG1K<{xn+:joj^Oz:{1n<:nOb<::n1Gn{:1Or^x4=1O{j4OO:<^4<1RjvrROjo<Gn11jxrxq^<O4jRG{xx^q<o4G-RjjjxGq:O+^<Rx{:xO:roGG:R1{<n0:poRGjWG{:x1:<qx^1zO1onGr4o1<Fsx1,nr:jOn^:4:1<nxrWOOOq4^1{n1r<Ox<G4ORj{Rr:qG<<GoR+jnrjqGO^41Rojxx<qO<{GGR:1xx<qnoLGqRj{Gx:q1OoGxLG{Oxj:Go:G1G<1qnu::oj^<B:{Rn<xxOR^OQ11Gnx:1O:^xGG1qnjroO:<j4<1xj=rO:G<G4j11j<rxq4<OGGIxj:r1q<OqG6RqjjxGq:oGRqRx{ExOrroGGrR11Oou:QonGjzj{:x1:<O%1oYO14nGxOo1^owx14nOrw^o^:P11<{:r#Oq^jG<:1n1rrOx<{4O1jjGx:{:<<41R/j1rjqq<:41<1jnx4qOoYGGRrj1x<r^oHGqRj{^x:q1o<Gx4r{Ox1:GoxG1(<{x{cr^oj^<2:1?n<:nOB<:G_1Gnn:1qG^x4i1OnjxxO:<G4<1xjarqOjo<GR11jrrxqo<O4jRG1:GGq<<RGsRnjjxnq:O_^nRx{OxO:roGG:R11On<:#o{GjkR{:x1:<Oj^^dO1<nGroo1^<bx1 jx:jOn^:4y1<nxrT:O<r4GR4n1r{Ox<j4O1jjqr:qq<<G<RtjOrjqG:n41Rrjxx#qO<1GG):^:x<q1osG:Rj{qx:q1nrGxT4{Onp:GorG1I<G:n4:Ooj^^T:{1n<:nOk^O!j1Gnn:1O<^x4sRGnjrGO:r^:<<1G4kx{4:xq{oqGn7G1<<OGoRGj:r1nqnO:4Or^RRb{rnn:rRx{oxOqjoGO1qu^o4q1oo{Gj.G{:j1ROox^4kO{jnG:xo1oxrG1Nnq:jO:^:uR1<n{rtOx>R4G1:n1rxOx<44O1jGor:OR<<4xRMjOrjrGOx41Rojxx4qO<{GGR:ejx<qnoaG:Rj{^x:q1xGGn!e{Ox{:Go:G1Yo{xnU:Oojo1w:{1n<:xO<^OPj1G8{{Gj{xq441OnjrGO:^14<{xRRrqOj<G4:11j<rxr1:O4{RGj:r1q<<xGe.O:jxG:5<1G<RxG&4o1RnnrjOq<^4::*onGjZG{:g^j:j^r{^:{jn:::o1^<oG<RGGRQjqxxyR1<nxrJOO^j4G41R1r<OR<s4O1jYo;q{xn^:jR-jnrjqG<:OxooGj8o1G<jGoR:j1x<nnn<:xRj{nx:q1o<q1Oo<1Gljojqrxq^<jnv:joj^G+:G14oRjjox<:d1Gj6:1O<^xO<<n^<VOnnxq:1<Rj^rqOj<:4:11j<{{1Gxnq{OOG{r1q:<xG)RO44401{nnG<P4{ExOqjx::{O4<:4rRG::Gj&O{:x1:<xJrRq<oJn^::o1^<ax1!nO:jxG^r211<nxrcOO^jGOG:n1r1Ox<?4O^R^4C{1ixqqR<^Gqfx1o<:G^R<jxx3jxn<:qOo^^x<:DodGORj4o4q1xj^rj^^{On::Go:G1oq^R4^Rxjox4qOG4G^ROjRx:zj1On::1O<:{qrO,G4rGqG^14<1x4<Rn1<nOono{^s0r1Gqr4{RGj:r1q<<xGARO:jx^q:<1G<Rx{XxOqjoGG:gG{<xx:yxGroqo<jx1:{ox^TVO^}4q8M{G:(On<G4nR:OG^nE11<nxR1jnn^4G1xn1r<OxrooR1j{Gr:O1<<ojo4GrEq{rnx:{Or^:d<nrnn:1Oq<.{qqxOOGORj{G1x{RnqroOq<:4nRqjOrGo:<j44R<jRxGOroF4rR:j^xRbj1qn::1O<:8:G<qGrRqOr^14<1xj8rOOjGGoq11j:rxqM<OOxo^^o7^qo<xGQROjjxGq:qxO<Rx{qxOqjoG:1qL<^4q{Gr{O1,G{jx1:<ox:<qR<j4q::Or^<_x1zRqRxjoxNq{oO(xRRjRxx:O1:jGr<Ox<iOxo4^x%jO1<R4xRIjOR.{qjwrG<n^jm41Onj:qojo{x<qxo(GOox{^xxq1o<GxWG{Onj1jo:^=i<Cwn-:qojOG<q{1nO:x:r^O4O1Gn:R4O<^{4Q1OnjrGO:o1:O1xj^rOOR<G^r111<Cjqa<r4jRoj:x1q<ojjORO{LxGrj<1G<Rx{ah<q{oqG:R1{<x{:}OOrOzG{{x1xxox^4UO{jR4:rO<^<lx1inO:j:G<qh11xnxrOOOo{4Gf:jOr<qk<A4j1jjnr::1o:4xROjOxGqGo^41R<{1x8q{<jG^R:j1x<rxo{GOB^{GxRq1OnGxGK1Gxj:ro:^o(<R^n?r:)R^G4_{1jj:xOz^OGj1qn:rOO<<G4k_1njx<OR^14{1xj^rOOj<GGxzOj<x<q5<r4jRGj:nY:q<xGnROjRxGq:<1G<Rj{Hx1qjo{G:R1{<xxrooO^GMG{:x1:Oox<p^n{jnq:::Y^<4 1(j:r1OG^1B11xnxr!OOojG41:j<r<ql<Y^O1j{<xGO1<n4xRGjOrjqGox^<R<{GxE:x<jGGR:18n4qxorGO4r{Gx:q1OO<O&L1_xj:xo:G1D<{xo1:OOG^G4G{1nO:xqs^:_j1qn:x:O<<)4y1OjqrGO1^14<1xjlrO:j<R4:R<j<xaqiOq4j4G1Cr1qx<xGORO{jxG:xooG<(4{bjxqjoGG:R11xxx::oOGj3G{jx1n<rr^Vc1{j{:::Oo^<7x4RnqroOG^:C11<nxn;Oq^j4n1:jqr<:n<p^OR{jGx4O1<{4xRrjOnj:O<:GqR<{^xY:4<jGG%{j1x1qxo4GORj{Gj:rro<^<+01?xjrro:<14R{xnx:OOO^GG4{1jO^{Oh<4TjRxn::1O<ox4x1OjqrGq^^1^j1x{Gx1Oj<14:J^j<rxq_o:GORG{or1:r<xG*RO{1noq:ojG<kR{8xOqjoG^RR1{Rxx:1oOGj?G{:n1:<O^^>cO{jn<::O1Or0x1:nOx1OG<4?1RO{or#OR^j4:1:n1r<:x<G4ORojGx4O1O<4xtGjjrjqj<:^nR<jxxP::<{GG*^j1xOqxogGOh11jx::xo<<qJH{Oxjr<oRG144{xnG:Ooj^GX:j:n<r^OZ<^&j1<n:r1O{^x4:1Oj4rGq4^1GO0^jWrROj<:4:11j<nxq:<OGoRG{4r1r<<x^G44jjxjq:oeG<Rx{/n:rGoG^^R1RYxx:}oO^1v:{:nx:<oj^?,O{jj<G1o1<4DxRjnO:jOG^:nj1<j^rFq^^j4<1:j1x{Ox<:4OIOjGx4O1<<^<RQjRrjqG<:41R<1xx{qOooGGZ4j1joqxqv^xRj{nx::qo<^xW,1:nj:GOGG1G^{xnH:Ooj<R7:1rn<:xOT<MVj4Gq4:1OR^x^O1OjOrGqx<n4<ROjSx:Oj<G4:u1{4rxqj<OG:RG1:r1:OonGLI^jjnRq:<1G<sj{qxO:xoG<{R1{<xx:lR<GjJ1{:nj:<oj^k4O1jnGr^o1o1Yx1jnOnjOo^:4r1<{{rwO:^jG<R{n1xZOx<O4O1jjGn:q^<<GORC{GrjrG<:^KUrjxx{qOOrGGR:j1nO:ro%^<Rj1Ox:q1o<^jxO{Onn:Gq{G1W<{xjGr1oj<GC:Rnn<:xO)^O4G1Gj<:1q<^x4G1OjjxOO:<r4<1RjDxGOjo<^<11{ArxqO<O4jRG1:n:q<oOG5uGjjjGq:ObG:Rx{{xOq1oGG:R11Onn:VO<GjwO{:x1:<Oj{OdO1nnGxoo1^<*xRGoj:jqG^:^o1<nxr)OO:q4^R<n1x<Ox<G4ORjjqr:qr<<^<RD{Grj:<oo41 Hjxn4qO<jGG4:1xx<:Ooi^GRj1ox:r1ooGx7j{On::GO1G14<RGnvr4oj<o(:1xn<rxq,^O4q1G1^:1Oo^x4soRnjr1O:^R4<1xj,nOqq<GG<11{Arx:q<O^jyqj:xxq<oOGp?GjjnGqr<1GRRx1nxO::oGo:ex{<no:UO<GjGr{:{1rrox^n_O?:nGrqo1^<4:18nR:jO{^:-11<nxrOOO<<4G1:n1roOxoGro1jjnr:OR<<4xRX1Or{q^o441R{jxjHqOo1GjR:{:x<rqo}GORj1<n1q1oRGx4o{Oxj:Go:<ng<1^n=r4oj^Gw:{1jx:xOO^OAj1Gn::1O<oE4&1nnjrGO:^R4<Rj^RrOqG<G4r11j<rxr=no4{R:j:x<q<OxGm0:{xxGqR<1<4Rx{axO:1o1G:MO{<nR:CoOGjUG1nx1:xox^:HO{jnG::O4^<T{1FnO:jO<^:41RjnxrGOOOu4G1nn1r<:O<C4r1jj<r:O1<<^xOGjOrRqG<n414Gjxx({r<jGOR:{ex<qxoB<OO1{Gxjq1o:Gx41{OxjGqo:^Gk<{1nT:OojoGOO{1n::xO<^OW11Gn:^OO<^{4z1xnjr<O:o1:O1xj^rOO1<G^j111<5jq}<r4jRoj:xoq<OxrGROjRxGqn<1G1Rx1&4bqjo<G:i:{<x{:2qOr1pG{nx1:Ooxo<3O{j4o::OG^<8j1anO:j:Gxxz11:nxr<OOO;4G!:^Qr<O1<u4x1j1Tr:q1x14xR^jOxrqG<j41R<rjxSq:<jG<R:j1x<qxr1GqRj{Gxrq1o<GxSG{Oxj:Go:^j=<{xnI:Oo{^G8:{1Vj:xOq^O}j1GEjR{jnx4qj<nGirGOR^14<1x4^RR{>xqqx<R^Orxq<<O4jRG4<hq1qn1G4ROjjxGq:<1G<Rx{(xqqjoGG:R1{<xxn1rOGjE^{:x1:<n^^k4G{jnG::rRrOq{<RGG24{Or{O4<{^<RoOO<r4G1:n11r{{xo::^o^EN:1^n:O1Or^Od4qG<j41R<jx1o1<j4:RR:{1x<qxomOqo1<o4q1xjrr1OoGO4nRoj4xGO{<r41:OO4^G*:{1RxRjj4x^q41^n::1O<^x45OOR{{GO:<x4<1xj21^{nnq:no^)OdR1<nx:nOLRrjAq<<xGb4O::xGqr<1G<Rx{rxO:1oOG:gw{<n<:SoOGjGG{{x1:Oox^GEO1onGx:qq^<gj1Cn::jqB^:4<Ronxr4OOo{4G1rn1rOOx<<1r1jjGr::R<<4nR8jORRqG<r41R<jxxZqOOjr<R:jRx<qnoDGxRj{G<{q1ooGx#4{Oxj:GOOjnh<{RnQxqoj^^ :{Rn<:1^^^Omj1G{r:1Oo^x4p<rnjr^O:^R4<1xjgnO{1<G4r11jorxq^<O^jO<j:rRq<<nG%mGjjjG1x<1GoRx{4xO:<oG<:qA{<xn:_oqGjd^{:{<j}ox^4dOR{nG:ro1<4Ux1<:r:jOG^:GR1<nnr2OOrR4G1rn1rOOx<d4OQj^<r:OR<<4nRFj{rjqGxn41ROjxx+qO<jGG4:<Fx<qjo,G:Rj{1x:r1jOGxIG{Ox1:GO^G1G<<jns::oj^<C:1on<:x<R^Oa{1Gnr:1OO^x^O11njr^O:ox4<1njDrjOj<O1n11j<rx:j<O4{RGjjq4q<<xGL4qjjx^q:<1:qRx{4xOqRoGG:R1{<;{:uo:Gj!G{:x1:<qxxGtO{1nG:xo1^OWx1=jr:{O<^:4%1<nxr5OOqx4G1rn1rOOx<44O1j4;rrO1<<4nR*jOrjq^<:41R<jx1OqO<jGGR:{ox<qxoBqjO4^o4j1{jOoj)D{jxj:Go:q1Oo<j4oR<{L^Gtj{1n<:xx1rqqr<qn:rGO<^x40GnGxPq{o^1G<1xj;rOx1x^qnorGnlj{Rnn:xoOan.{1hnrrGGrjjxnq:<1G<<m^RsrR4joq<O{<q41:4oOGjKG{:x1:<^xOR=O{RnG::o1xGORoqnOrxOG^:21^qGr.o{:rRqq^n4R!G{{:G:oo:GOr:q^<<4xR84GR{{<x{:xRojxxvqO<jGGR:6jO<qxOOGORj{G1x{RnqroOq<:4nRqjOrGo:<j44R<jRxGOroA4rR:j^xR?{1Gn::1O<^x4&4<RjroOr^1Gl1xj=rOnRxqqnOGG{?r{1:r:no1^q4-q<o5GLROjj1x1qnx::oR<GxqqjoGG:R1{<xx:WoOGj3:{:x1:<r{xGOn^{GO1{o1^rmx1MnO{G{<rrqn<rnnr?OO^j4G1:n1r<Gx<p4j1jjGr:n4n^:OoR^:jRq^<:41R<jxx5qO::OGR:{rx<qxo)qxO4<x4j{ojO:nqU<O441Oo:^G/<{xnV{rjoxjO{{1n{:xOw^OOd<q^F!GxqxrqjooG1rGqG^14<1x4^&o14n<qno^4qRn{1nr4{RGj:r1q<<xUAoO:jxGqR<1G<Rx^O4:1nnRqx<o4Oxx:xoOGjHGGj4^Rjj1q^qo<:G4Rxr4^<){1(nO:jx^rjqG1onxrsOO^j4G1:{xo<Ox<G4O1jjG1{nq<<GoR-jOrjn^nO:4oj^r4GjOnn:nOO<GxoqxoJGORj{Gx:rGr<GxAk{Oxj:Go:^^)<{xnMjrjnr1qqo>no:xOy^O!j1Gn:j1x<^x4j1OnjrGjnxxqr<n^Gwo{xx::qo4^ry{q4<O4jRGj:r1q<qjO&RO{jxGq:<1OqOO^oJq11xO:{qO<:Rr11rjrnOo<{G4:<O<^p O{jRRRq{^xqORGoG<D%jqxxV11:nxr,OO:G:4oO^Gr<O1<e4O1j4q{j{qn44xROjOrjqGxGOqOGG1so11<jGrR:j1x<n{nRr<Ox^qsnRGo<G1B,{Oxj{O{4r1Or{nnz:Ooj^Gi:{1R:jxO5^RWj1Gn:1GjrnG:<^G4{R<j{xx4<11jQrOOj:1q{o<^:rxqq<O4jRG4jt^1jn1OGOo<<x^q:<1G<Rx{cxOqjrGGrR1{<xx:koOGjRG4qx1:qox^NwO41G4y)o1^j8x1KnOjRj^x<qx<O4nR^{4^j4q1:n1r<n1x:qnorGqrrO1<<4xRvjOrj:Gv:41R1jxx}qOrrr4O{<4zrjOno:qqG^qx::Go<Gx5FGx44RxjjG1.o{xnP:On2^GHj{1n<:xxrrrqno/n:rOO<^x4*^OGn(o{4nGq{orG1rqOj<G4:11j<4x{4:O4jRxj:r1q<r1:oO1<-Ro14j::rRn{_xOqjoGG:R11j1x:MO<Gj0G{:SG1r{Gx<o14{41R4joxGqq<oG<_COG^j}11<nx{jjRxR:O1:j^r<Ox<VOn^VGnKox+<<GrRZjOrjjGn<qRoqGR%:1on::Oo{<#R:{Rj:rxR{{Gx:q1o<Gx8E5G1j:GonG1y<{xI^Rnn1r{fr{1n<:xn1^q4z1Gn::1Oq^xGZoknjrOO:<44<1nj,jOxo<G4j11RGrxxo<OGjh1j:xGq<:wG0RrjjxGq1<1GrRx{)xOqjoG<:y<{<xR:LonGjGG{:j1:nox^oAO14nGrxo1<OGL1anj:jqo^:Y11<nxx{OO<^4G1:n1rqOxob: 1jjrr:q4<<4nRwjO{nq^oF41R<jxx;qOOjGjR:{Ox<:GoY<ORjRGn1q1ojGxZ:{O{B:Gq:<xB<1Gnm:1ojoFT:{1n1:xOr^O&{1Gn::1:<<n421RnjrnO:qo4<Qx{^rOqo<GG411{^rx:GRr4jRjj:n^q<<xGS4O{1xG:G<1G1Rx1jxO:1orG:Lr{<nq:CoOGj4<RGx1rWox^{HO{jnGrxoR^<4q1Fj^:jOG^:g11rnxrxOO<r4G1:n1r<qo<I411jjGr:q5<<GxGojOx^qG<{41RjjxnGq{<jGxR:44x<qxov<O4<{Gn!q1ojGxC:{On1::o:^q6<L1ny:Ooj<<4j{1n1:xr^^O}j1Gjxr{O<<o4gRqnjrGO:oaGq1xjjrOr4<G4:11j<<:qz<14jR1j:xFq<ox^^RO{^xGrw<1GjRx{zj4qjoxG:R1{<xx:PqOGRiG13x1:joxoCXORjn:::OO^<4G1>j::jq<^{)11{nxx^OO^j4G1:jRr<q<<W4q1jjOr:r1:^4xRxjOrRqGo:41R</rx4:4<jGGR:j1x<rxo^GOaq{Gn^q1q<GxG;1<xj:{o:^rT<R1nFxOOj^G4^{1nR:xq1^O0j1xn:rxO<^n4,1OnjnGq8^1G+1xjjrOx^<G^:RGj<xOq-oG4jw4j:nLGq<xG{RO14xGq:<1<<5q{ln^qjoRG:4x{<njrroO^xkGRxx1:<ox<G4x{jj4:::&^<Hx1ij:r<OG<:J1IOnxraOO^j4q1:jnr<qx<t4O1jjGrxO1<R4xRIjOr1qGo:o^R<{<xUqn<jG{R:1sx1qxonGO^R{Gx:q1q<^:f214xj:{o:^OU<1jj::OO:^G4r{1n<:xqG<jmj1Rn:jGO<^x4}R:n1rGqO^1Go1xj>rOq1o^4:R{j<j1qz<O4jRGnGr1qR<xGRROj1xG::OnG<C<{X1^qjo{G:4H1<xx:noOORTG{:x1x<OR^B44{jn{::OO^<4j1^nOr:OGOjX11<nxxGqq^j4R1:{Gr<Ox<.G:ROjGxOO1q:4xRyjOx14:<:G{R<{1x>qO<jGGxOj1xRqxoRGOR1{Gn:rGo<^<uH11xj:{o:G14n{xnn:Ooj^GT:{1{<:ROU<4Sj1{n:x1O<ox441OjqrGq^^1GO1x{GxGOj<14:41j<rxqf<O^^RG{or1q<<xGxRORj14q:onG<R{{dn.qj:G<:R114xx:joOOhwG1xjG:<O:^Y<r{jnG::q1<qWx11nOrxOG<vw1RO{4rBqo^jG^1:n1r<qj<G4ORjjGnxO1<<4x)G1Grj:^<:GoR<jxxK::o1GGyxj1j^qxosGORjnjx::jo<^j;P{:xjrGo{G144{x1{:OOx^G4xRrn<r:OMqr_j1Gn:x1q^^x411OjxrGq.^1GORqj%xoOjqO4:11j<xj:j<OGjRG1^r1q<<x^GRrjjn^q:oRG<Rx{=n:GGoG^xR14rxx:EoOGj<{{rnj:<Oj^C%:{jjG:no1<4exR:nOrxOG<x4:1<j:r}Ox^j4G1:{1rrOx<14ORxjGjGO1O<GjRh{<rj:m<:^:R<{xx{qOorGGGGj1nGqxOHG1Rj{Rx:n:o<GntD{O3R:GOOG1 o{xnN:Oqjr< :1jn<r:O?O{KjyGj1:1qG^x411O{orGq:<j4<Rqj&n^OjoI4:41{:rxq{<OonRG#{r1x<OOGaJ^jjnrq:ojG<-j1oxO:xoGGjR1{<xxxAO{Gj4u{:nj:<rn^PGO<1nGrOo1<GCx44nOrjjj^:4n1<Rnruq<^j4Gq<n1rROx<{4O11jGr::q<oGORTjOrjqG<:^1UrjxxjqOo:GG4:j1j<:{oN^GRj{1x:rPo<^j4r{Onr:GOnG1B<{xn?rGoj<=Z:{1n<ruOeOOGq1GjO:1Oq^x<G1Oj1r<O:<{4<1njprOOjOG:x11{^rxqR<OG<RG{x<<q<oxGkGxjjxGq:O2q1Rx14xO:{oGG:R1{<nR:/OoGj4^{:n,:<Ox<q8O1xnGxro1<^/x1Kj1:jq4^:Y11<nxra:O<x4GRqn1x^OxOg4O;jjqr:q{<<GrRF1xrjrGO<416^jxxRqOrGGGR:1Gxo:xoUGqRj{Gx:r1oOGx4_{Onj:G:RG1G<1^nHrOoj<G*:1{n<rjO<^O4{1Gj{:1O<^x^%Ronjx^O:<R4<iOj,x:qE<GGx111OrxqD<OG1Rjj:n4q<OjGlROjjn<q{<R^:RxRGxOqjoGG:4w{<nn:BOxGj*G{:x1r<ox^RJO{jnG:xo1<<4n1aj<:jOq^:4{1<jjroOO<n4GGnn1r<OxO.4{1j{4r:q{<<GGRy{:x:qGo:41G:jxxwqOo1oORr{Rx<:1ovGORj1<j<q1OOGx44{Oxj:GOx<q2<1{nSnroj^Gg:{1n1:xOR^O4R1Gnx:1q<<*4PR<njjRO:<{4<Rj{jrOqn<Gon11j<rxrFon4j%4j:x{q<oGG/X:{Gx^::<1^oRx{3xO:1O1G:vR{<1::#oOGj4<11x1rOoxO<UO{jnGrxO{^<4{1*11:jOG^:Z1RRnxrROO<R4G1xn1x<q2<(G<1j{xr:q{<<<xpxjOxxqGq<41Gqjxx,{r<j^4R:j1x<qxo)<O1R{Gnqq1O^GxG {Ojj:<o:^{u<1rn%r:oj<<Xn{1j<:xq^^O(j1Gn:r{O<<n4M1qnjrqO:O1G11x{4rOOR<GG:11j<xOqso:4jR^j:r1q<OxGRRO{1xG:x<1onRxRp4:qjO<G:4f{<nr:lOOO4LG1rx1:rox<GyO11jG::qt^<<{1ZnO:j:G<{J1ROnxxGOO<<4GRxjnr<q{<IGq1jjGr::koG4x,<jO{5qG<:41cO{ xm:n<j^^R:j1x<:joRGO4G{G{jq1o<GxzQjhxjr<o:<<d<{jnXrOOO^G4r{1R4:xqG^O411qn:x%O<q{4f1OnjnG:K^1GO1x{GrOq<<GGxRrj<x{qIqx4jRGj:n+:4<x^<RO1ixGq:<1^ORj{fnnqj:OG:R1{<njGOoO<GbG1jx1:<ox^_rG{jj<::q<^<(j1ZjOROOG<r71RjnxxGOOOjo41:jRr<rO<&<r1jjGn4ORoO4xRfjOrjqGO:G4R<{jxS::<j<GR:11nrqxOGGOJ1{Gnxq1OO^TJp1rxjn<o:G1%<{xj):Oqb^Gy:{1j/:xr_otXjROn:r4O<OR4=R:{GrGq{^14o1xjArO:jr{4r=^j<xRqQ<14jQ<{Jr1:x<x^4ROjjxG:xO4G<44{6x{qjoGG:R1R4xxrooO<^KG{xx1r<q^^#4x{j{^::q^^<^x1nnOx?OG<<_14:nxn?q;^jGq1:j_r<rf<B^jV^jGx{O1Sr4xR4jOxxqG<jR4R<jxx*^n<jG^R:j1:OqxOoGORj{Gx:q1o<Rqf61nxj:^o:G1W<1x1o:Oq)^G^*{1jr:xqG<<=jRqn:{4O<^x45LOj1rGq{^1Gr1xj:rOq1oG4:/<j<xnqW<O4je<{Or1:n<x^OROjjxG:xojG<4G{Mx{qjoGG:4ZR4xxrroO^{ZG{:x1:<<<^H4n{jjn::OE^<4xRqnOx!OGqo21RrnxxGO1^jGq1:E4r<Ox<k^ORJjGx{O1or4xR:jOx1:o<:^<R<R1x?qO<j^<Rxj1nnqxonGORj{GnxrOo<<G!V&xxj:Go:<Mn<{xjr:OO{^G&:{1n<rkO}<nFjRnn:rNO<<x4R1O{PrG:l^1Gr1x{GxrOjoq4:RGj<rxq;OOG:RG{{r1:r<x<xRO1jxRq:O^G<-R{FjTqjOG^:R11:xxxxoO<4+G.:jx:<O1^J<x{j1j:::1<rvxR<nOjOOGon311<{orfqn^j4^1:n1r<:xnG4Ow4jGx{O1qn4x4/^:rj:q<:^^R<1^x3:OnOGGwjj1j4qxOoGOGj44x:rGo<OreE4nxjnGrqG14:{xjq:OOx^GY:Oxn<rjOL<xCj1<n::1q{^nG^1OnjrGO:^1^<1{jhxrOjoo4:m1j<nxq^<OGRRG{nr1:O<x^G4GjjnOq:q1G<Rx{vxOr4oG^{R1{<xx:xoOoj41{:j^:<o{^J<G{jj<x4o1<xzx14nO:jOGo::!1<{5riqj^j4x1:{5^xOxoq4OR{jGr:O1oOj)RS{1rjqr<:41R<jx^1qOOGGG4hj1xOqxO_GqRj1qx:rRo<<XLC!Oj::GO{G14 {x1<:OO1<r;:R<n<j{O ^O6j*G{G:1qx^xGO1Oj<rGqx<14<-4jPxqOj<G4:UX{4rx::<OojRGj:r1:OR_G+ARjjxrq:<1G<Bj1:xOrOoG^rR1{<xx:&q4Gj4:{:j::<oj^U4ORrnGr{o1q46xROnOr1O^^:G<1<R{r3OO^j^GRnn1xxOxoO4OR<jGxx:4<<^4Rf{qrjqG<:^)Zjjxn:qOr4GGR:j1nOGvoh^RRj1^x:q1o<^jxO{OjO:Gr{G1N<{xn_4Goj<:+:R:n<:jOI<Oo11^j{:1qj^xGO1Oj1r:O:o<4<11jLrOOjOG^<11{xrx:O<O<ORG1:rRq<OYG2Qjjjxnq:o1GxRx1oxOxOoG^1R1i<nn:KOnGj^j{:1r:<ox<oUORGnG::o1^<bxTU^O:jq:^:G<1<{xrK:O^14GR1n1xxOxO<4ODjjqr::<<<^cRL1<rjqGoG41_njxx4qO<jGG4:16x<r4oN^{Rj-rx:r1o:Gx4q{Oj^:GOqG14O{jndr1oj<qD:{1n<xxoj^OG<1G{m:1:5^xGGRenjxnO:O{4<1xjux:q<<G^G11R^rxqB<OG1bGj:nrq<qrGVROjjxGqr<1^jRx1nxOqjoGG:4x{<j2:WoOGj!<{:n111ox<osORrnGr1o1O<<r1fjn:jx4^:^o1<1xjROOo44GRRn1xGOx<sOO1{{or::^<<4xRWjOb:q^or41R<jxx4qOo1x4R:15x<xooTGORjRGxrqROOGx4G{On<:GOx<og<1{nNrqoj^Gh:Rtj^:xq<^OG11Gn::1O<<j4zR:njxOO:^14<1xj4rOqn<G4:11j<rxqbO44j0Hj:r1q<<nGY#:<nxG:q<1<RRx{cxOrjo^Gr!{{<nr:do1Gj4<1:x1r<ox<4HO{jnGrxqq^<4n1/{::jOG^:Y1RqnxrROO<{4G1:n1r<:O<iGG1jjGr:O1<<4xRGjOxOqG<:41RojxnGRo<jG{R:Rrx<qxow<OR{{^n^q1oRGxU:{On1:<o:^xz<1nn=:Ooj<<4R{1j4:x:G^OMj1Gn:roO<<o4/R^njrGO:^1GG1xj:rOOj<G4:11j<rnq=<{4jRGj:rRq<ojrRRO{<xGx^<1G<RxRTG4qjoxG:,O{<nG:BO:<OiG14x1roox^gsO11jq::O:^<Gj1>nO:jOG^{t11jnxrxOO^j4G1:j4r<OR<(4O1jj<r:q1on4xR<jOxRqG<{41Rx{4x4qn<jG^R:jRx<qjoZGO44{Gx:q1oOGxTp{Oxj1Oo:G13<{1nY:Ooj^GOn{1nx:xO^^O6j1G{:BeO<<Z4k1jnj{<O:^1qq1xjqrOOR<G4:111<Yjqc<{4jRrj:1fq<<xjoRO{^xGqR<1G<RxRep<qjorG:Io{<{1:(oO{<wG{1x1:nox^<sORjG<::O<^<*11_jr:j:GxxS11xnxrOOO<j4GH:^-r<qm<M4j1jR<r::1nO4xROjOxGqGo:414<^jxvqj<jG:R:B^x<:xnxGO)s{G{{q1oxGxGu:Gxj::o:^G;<1{np:OO<^G>R{1nq:xOV^OGjR:n:roO<<44wRrnjnGqR^14n1xjqrOx1<GG:A:j<xWq?<:4jRrj:n1:O<xGORO{5xG:n<1<<RR{%xjqjo:G:l1{<jxRGoO^GhG{1x1nOoxoIq:{jn:::O<^<4x1v{OR1OG^1K11xnxnrOOoj^<1:j<r<qu<)<^1jj:rROR<j4xRGjOr{qG<r41R<G1xIqO<jGqR:j1x<qx1nGONG{GnEq1ooGxGiRCxj::o:^Gg<1{n8xOq3^G*1{1nx:xqa^OGj1on:r<O<<C4?4:njnGqo^14x1xjOrOqj<G^:Rjj<xMq0<j4jGnj:n1:o<xGORO{GxGxo<1Gxs4{4x1qjoGG:RR{<xj:coOr5IG{:x1::ox^ycO{j4O::o1^<UR18nO:jOGr{_11xnxr:OO^{4GE:^mr<qh<w4x1j{or::1nO4xROjOxGqGo:414<^jxLqj<jG:R:v6x<rxjGGOJG{Gx1q1O<GxG_<:xj::o:^<J<KRnpxOj1^Gt1{1nx:xOO^OGj_<n:r<O<< 4c4^njr:OR^R4j1xj^rOO{<G4n11j<R1q><O4jROj:r1q<<x:<ROjjxGqx<1G<Rx{=XxqjoGG:k^{<xx:soOr4+G{1x1:jox^40O{j:<::OG^<vj1%nO:jOG:O#R1<nxr4OO^j4G1jjGr<Ox<*4j1jjGr:q4<<4xR^jOrjqG:x:{OjjxxOqO<jGG<E^{4-{1nor:Rj{qx:q1o<qbqG^q4r1qo:^q)<{xnmjRjRq:qq<4GrR{jorxQj1rn::1O<:1qoo1^({<{qnOGG1xj0rOOjOj4:11j<rxq/<O4j4Gjxr1q<<xGWRO{txGr:o4G<Rx{DxOqjooG:411<xx:BoOGj)G{1x1x<o1^%%O{jnG::O4^<GxRrnO:jOG^:p11Onxniq1^j4G1:n1r<OR</4ORrjGr:O1<O4xRGjOjGqr<:41R<{qxyqq<jG^R:{GqqqxoUGO6r{Gxrq1o<:{tl{Oxj:^o:G1I<{xq{:Oo{^G):{1n<:xO_q<Fj1Gn:rVO<^n4b1O*xr^O:^14o1xjzrOOj<G4:11j<xOqS<O4jRGjjr1q<<xq^oR<OUqqr<1G<Rx{XxORjn^O:RR{<xx:CoOGjLG1:O1:oox^MtO{jnG::G1q^&x1onO:jOG:{oG<{GqjGOq^j4G1:n1r<Ox^zoo1jj:r:O1<<OGoR^G=p{qnx4RR<jxx>qO<jGGR:j1x<q{o&GORj<f.{Roo<^4QK{Oxj{On{xOq:4j4RR1oj^q;:{1n<{/{Grqqr<qnr:1O<^x4u1OnjRnx:oo4<1xj,rO:G<^4r11j<rxq+<O4jROj:xEq<<nGbROjjjG:4<1GORx{GxO:qoG<:!R{<xj:yo:Gjvr{:j1r{ox^GHO{1nGrGo1<O4n1Jnr:jOO^:g11<nxr:OO<v4G1:n1roOxoGGO1jjqr:q^<<4xRT1Ox^qG<{41RrjxxrqOo1G1R:{<x<:GoLGORj{:4nqRo<Gx4/{Ox{:Go:G1 :x{nl:Ooj<Gp:{Rn<rjeO^O4^1Gj<:1O<^x4Oorn{rrO:<14<1njdrOOj<O1n11j<rx:P<O4{RGjjq4q<<xG50qjjx^q:O)jxRx{qxOq1oGG:R11OoZ:_o1Gjl:{:x1:<OjojEq1onG:no1^<kx1-jo:jOq^:4q1<njrIqO<r4G1jn1roOx<o4O1j{^r:OR<<41R5jqrjqGo<41R<jxx4qO<jGGRrj1x<qxoBGORj{Gx::Go<GxF_{OvR:Go:G1(<{xn3:OojRRd:{Rn<:nO}^Ovj1GRO:1O<^x4G1On{rGO::j4o1xjvrqOj<G4:11j<rxqS<OG:RGj:r1q<<RGfROjj1:1xxRr4oR{6xOqjoGG:R1{qxx:PoOO1q4o+x1::ox^E;O^d4q?l{G^<QR1NnO:j{ox:ORonG:rzOj^j4G1:eO,^{Ox<qno1jGx^O1<<4xoOGR>1{qnq:jor^q4/1xjoGGR{j1x<qxjP:ro{^14<q1o:GxJ?{OGt1^jnrrVq{nn5:1oj^Gl:G44oROjjr:O{<oG^:1On^x4B1O4-Rq1&nGoOor^:nOOj<G4:11GqrxqY<O4jRGj:r1r<njGuROjjxGq:<RG<4x<GxOqjoGG:R1{xxxxij:Gj}G{:x1:<OO^kGO<1nG::o1^<>x1OnOxj{<^:t11<nxrYOr^j^Goxn1r<Ox<!4OR%jGn1RO<<4xRe{orjq^<:GwR<j1q^qO<jGG%qj1xoqxoT:rRj{Gx:qRo<Gx.tRO41:Go:G1d<{xnq:O:GnxC:{1n<r:O ^qgj1jn:rG^q^x4A1OjxrGOr^14:n{jQrOOjo44:1Rj<rxn1<q4jRGjrr1q<<xG*orjjxGq:ohG<Rx{%xO<roGGrR1{<xx:moOGj<A{:x1:<oj^k#q{jj<lqo1^<=x1:nO:jOG<x:{1<nnr(OR^j4G1:{1*OOx<44O1{jGr{O1<<q{RXj:rjqG<:41R<1x4GqO<1GGRxj1xRqxoK:rRj{ox:q1o<GxwFRO{::GonG1sq{xn4:Oqj<Ri:14n<:{O!^jijVGj{:1Oq^x4^1Oj:rG::oO4<1{jlrrOj<:4:u1jjrxq^<O4RRGjnr1r<<{GBRrjjxoq:oGG<Rx14xOqjoGGnR1{oxx:Qx<G{!G{:xR:<ox^aiO{jnG::o1^RJx1%nO:{OG^:H11<nxrBxxqj4GR<n1r<Ox:4q:oR^4Z<1^n:qR<^GR4O{q<:4RR<jxxijR<jGOR:j1x<1:nor1q6{GxRq1o<Gxo<<o4^1rj<r^O:{{n4:OO4^Gd:{1RxRjj4x^q41^n::1O<^x4>1O{t{GOx^14:1xj=rOn:xn:nOGj<x^qz<O4j^rG{4GnjxR:ro{^<4Or^<1G<Rx1G<jqjo^G:RR{<xx:}oO:RKG{xx1:<ox^J#ORjG<::Os^<kj1ynn:j:::j}11OnxrOOO^{4G11n1r:^{<)4O1jj:r:OR<<41j^jOrjqGO441RojxnGRo<jG<R:{Gx<qxoF<OO1{Gxnq1o<Gx x{OxjnGo:^GI<{1nh:Ooj^O{n{1n<:xqq^O6{1G{:>iO<<44_1jnjr{O:O<rj1xjqrOqx<G4r11j{rxq<4r4jRGj:xjq<<nGHRxrRxGq:<1^ORx{4xOrjq<G:Qo{<nZ:aO4Gj5GRnx1:nox^GQO{1nG:14^^<441Tjn:jO^^:aR1<n1O^OO^j4GR{n1roOxOy::1jjrr:q<<<G4Rf1OY1qG<R41RnjxxGqOOjr<R:{ox<:4oUGrRj{Gn:q1onGx)4{On^:Gq::jX<{nny:{oj^xc:1<4j:xOG^O4O1Gnr:1OO^x4<nrnjrGO:<:4<1njTrO^1<G4r11jOrxqd<O4j<yjrr1q<<nGBROjjx^q:<1G<RxhGxOqjoGG:QG{<xx:irnrxqq<ox1::ox^AWOGR4nvGj^^<,R1&nO:jx:xxORo44Rr6qG^j4G1:44Rrj{n<qRon^Y{n{{nF:rOGjqrjqG<:41R<jxjjnO<j^gR:j1x<j1nor1q-Gx1r1xn{r4O1<^44RHjjG1m1{xn!:Onkrq:2oGRqRrjjxoq14on:r^O<^x4_GrGnR1{qnt4<1Rj8rOOjrqojoq^4jjqZ<r4jRGj:yj{rj4G.NOjjxGq:rT:oo{^n0{11j4r{Oj^:1{1RjGrnq<>nx1:qox^)yO4{4O1jo1^:/x1&nO1&{nx:q^1<n1rLOO^jOP<rGnRrOn<u4O1jjGr:O1<<{xR^jqr{qG<:41R<jxxlx<:jGG24j1x<qxr<rno{^1R<{RnO:ROj{qxj:Go:G1*<{xj<jOoj^{N:{1n<{1jox1:T^rGx1R{<xxqo<xnjrxO:^14<^1GoC11hro:4O:Grrxq:<O4jRG4:M{1qn^r<oR^n4Nq:ooG<Rx{lSj11j4rood4n1j:goqGjWG{:j1:oox^wWO{jnG::<1q^Wn12nO:jOG^:D1R:qxrZOn^j4G1:4GRjjRx{qn1jj:r:O1<<OOo4G:g4{1qx41R{jxxkqOx}:qq;<G1q1rnjroO1{Gx1q1o<Gx<:<o4:1On{xv2<1.n#:Oojqoqq<xG^Rjr^^O441Gn::1nOx^qq<1^Xr^O:^14<1xj%rOOj<G4:Y<j<rxqm::q{oo^^6o1OnrroO<^kRO1xxRrGO{<Jlq11nqrOO4<{xn:eoOGjuG{:x1:<rx^NYj{jnG::xxroOj<oGGn{OG<4Q11<nx1<jnn<:O^<4RROjRxj4ORYjGr:O1r:qRO:^xrjqr<:41R<GgPo{rj)r4Ox_Nx<qjoTGORjGqR4q1oxGx3Q{O1RR<n{:Rq:^Rnmr4oj^G%:4RGG1{j:xoq1^GGqRq{Gx14#1xnjrGO::xqro_^<rOqG<G4:114<Rn1Gxn:xOOj:xGq<<xG#^j^n4 1j<RG<Rx{wxOqjoG#:^{{<n<:voOGjoo<qG^ROn{roor^{GWRno1^:Nx1anO{:jnxn:G1<n1r6OO^jOqGjGq#4On<!4O1jjGr:O1qxoxjGjOrjqG<1{^R<jnxkqx<jG^R:jRx<q1G^GORj{Gxjq1ooGxk3^<x{:<o:G1-<{xn*:OxG^^dr{1nO:xOh^Ozj<enrrhO<^x4/1:njnGq,^R4q1xj4rO:o<GGxRxj<r1qWo14jRGj:n1:^<xGoROj{xGrn<1G<4t{XxrqjooG:c^{<nxrOoOG1KG1Ox1:qoxO*<o{jn<::On^<4j1gnO1ROG^nQ11<nxrBOOoj:<1:j4r<O{<Y^11j1GpxO1<q4xR^jOjoqGoxj<R<j1xaqr<jGGR:j1JGqnooGORj{Gxnq1q<^G84{jxj:^o:<ql<1jnR:OO^^GG({1n<:x:s^n+j1xn::RO<o{471Oj^rGO1^14x1xj:rOqjoj4:R^j<x:qm<j4jRGcqrRqx<xG?ROjjxGr:OqG<ZP{CxjqjqxG:41{Rxx:OoO^GHG1tx1x<oj^etj{jn:::Ox^<Yx1xnOr^OG^r&11<nxnXqG^j4r1:jor<:o<e^ORxjGrRO1<n4xR<jOx1Go<:GOR<1rx3qO<j<GNxj1xjqxo:GO4^{Gnxr:o<^^&_1qxj:Go:<7uR{xnx:OO{^GE:{1jOxGO(<4JjR^n::1O<^x4O1Oj<rGq^^14<1xj6r{Oj<:4:11j<rjq+oOo4RGj{r1qR<xGORO{1x1q:o<G<3^{?xOqjqG<^R1{xxx:OoO^OcG1xnn:<O4^/4R{jnG::q7<1Ex1:nOxROG^:31RO{qrbOR^j^^1:n1r<qjo:4OROjGjxO1<<4xRyq<rjq:<:G:R<jjxE:OO^GGR{j1xOqxoOGORj{Ox::<o<GxXB{OxjxGqoG1Lx{xnO:O:<^GG:1xn<rtOB^j,j!nn:xeq^^x4q1OnRrGO:^14<1njgr1Oj<^4:RGj<jxxR<OG<RG{Or1rG<xGh^oj{xnq:<1G<Rx{VjO:joG^4R1{{xxx:oO<j4<{:nq:<O^^Hp1{j{G:{o1^{Lx1rnOr:OG^:Gx1<j<rQOq^j4G1:{1xjOx<x4OROjGn^O1O<GRRE{wrjqj<:GGR<{jo^qOoqGG4qj1x<qxqlGrRj{{x::ro<<4AV1:xR:GO<G14q{xnF:OO1<G&:1nn<r{OV^O_jR<jr:1qG^xG^1OnjrGO:^R4<RojUx<Oj<G4:111#rxqr<O4jRGjxr1:<qRGkR1jjx{q:oqG<cj1jxO:ooG^4R1{<xxx5qGGj_n{:nq:<O<^E4:R^nGrGo1ooTx1PnOr1q4^:4r1<{^rNOO^jG<R{n1xQOxO44O1jjGxx:o<<GqR2{RrjqG<:41{1jxxrqOorGGRxj1n<rOodG1Rj1:x::qo<^j4q{Ono:GO4G1D<{x{Q:roj^np:1qn<r<OV<:Gr1GjG:1q{^x4N1Oj1xqO:<r4<RrjdrOOjo<Gq11{)rx:r<O4jRG{x<<q<oqGwIojjxGq:<1{GRx{rxO:roGGxR11<nO:Ho1Gj(<{:nq:<ox<^WO1onG::o1^<Cxa(j1:jOn^:4q1<1Gr!:O<q4GR4n1r{OxOr4OR1j<r:q:<<^RRIjOrjqGo=41RRjxx)qOoqGGG::qx<:oo0^<RjROx:rCoOGxBj{O{^:Go:G1G<1{n!rGoj^1!:1:n<rjO1^O4r1G{r:1O<^xGGRjnjxEO:Oj4<1xj7rOKx<GG<11{GrxqG<OGj/:j:xrq<q<Gh6Gjj{G:o<1GRRxRGxOrooG^x4n{<nO:PoRGjeG{:j1rGox^jmO1:nGrGo1<O4j1tj^:j:^^:K11<jjxnOO<x4GRnn1r<OxoGnj1j{4r:rj<<4xR({:n<qGo:414ojxxEqO<jG{R:{xx<:xo0G:Rj1GjGq1oRGx4O{On::GOx<:-<1OnL:Roj^G):R1nO:xOj^O4:1GjG:1qO<n4+R^njj O:^14<RjjxrOqx<G^G11j<rx:GR^4jm4j:nRq<<xGW>:{nxG::<1GrRx{QxOqjoqG:Wx{<nx:So:Gj4G{1x1:Rox^GBO1:nGrxOj^<4O10nq:jOG^:G1<RnnrjOO<:4G4on1n<q<<=GG1jj1r:r{<<GxR1jOxqqGqo41F2jxjZ:x<jG1R:jRx<r^o}^O44{Gn^q1qxGxXj{OxjrYo:^xh<{nnA:OojoG4o{1j!:xOj^OGq1G{:1{Oo<O43RGnjxRO:<14n1xjnrOq^<GG<11R<rnq-o44jEqj:x^q<qxG4RO{qxG:j<1^<Rx1Gxjqjo1G:RR{<xx:5qO<rMG1<x1r3ox^OKORjj%::Ox^<4O1014:jqG<Rc11RnxrOOO<:4G1:{nr<q^<IG41jj<r:O1o{4nRxjOrjqG<:414<{xx,:z<jGjR:ROx<rxoOGOiO{GnGq1q{Gx4G{{xj:{o:o^*<{xnN:OOO^G4<{1n<:xOn^O^jRRn:rxO<<:4mcGnjx<OR^1G41x1qrOOj<G^:OPj<xqqNo^4jRjj:ne4x<xG1RO1{xGq:<1^Oxl{Hnoqj:5G:R1{<xx41oO^rXG1qx1:Oox<HvR{jn1::::^<4q1L1OrGOG<<Z1iOnxxrOO<1G41:jnr<q^<,4O1j1Gx1O1o44xR{jOxOqGox^rR<{:x+x<<jGGR:1dn^qxoRGO4{{Gx:q1OO{+&*1OxjnFo:G1z<1jj::OO{^GGr{1n<:xONoG*j1Rn:rRO<^j4-ROjorGq<^1Gx1xj{rOq1oj4:Rnj<x^qZ<O4j4G1Sr1:4<xG{RO{OxG:xojG<c:{J{<qjoGG:4*{rxx:RoO<OhG{:x1rO=q^?4O{j{^::o1^<4jR:nOr{OG^{k11<nxrfq<^j4R1:jRr<Oj<wGORjjGx<O1<O4xR{jOx1qO<:GnR<jnx!qO<j<GO^jRn4qxo{GOGr{Gj:r:o<^q}X1^xjn4o:^1(o{xnj:O:r^G4o{1{<rOOz<^mj1^n:n4O<<x4n1Oj:rG:1^1G41xjExrOj<R4:1Rj<rxqyOOG:RG{or1:4<x^nRO1j4<q:onG<Bq{0j^qjOGrGR11uxx:qoO^r(Gb:1{:<OO^M4n{jnq:::1q^Nx1jnOxFOG<:m1RO^rr0q^^j4^1:n1r<:xnG4ORrjGxoO1<x4x4e^:rjqR<:GnR<1xx5:OnOGGX<j1xxqxo{GORjGGxr::o<^OS/{Oxj:Gj<GRPj{xnA:Oo{^G4xo{n<r^OlOqLj1Gn:x1Oo^n4r1OjorGqG^1GO!OjzxLOjO^4:11j<xjq<<OGqRG{nr1q<<xG%4Wjjxnq:orG<Rx{#xO:RoGG1R1{<xx:_oOGj44{:n^:<ox^0bq{jj<eqo1^x;x44nO:jOGo:q{1ojFrpOj^j4j1:{}xoOx<q4OH{jGr:O1oOGkR-j1rj:o<:41R<jxn<qOoGGGU%j1x<qxo;^oRj{ox:q1o<Gj(l1On::GoxG1Bq{xn^:Ooj<4U:14n<:jO?^OwjkGGx:1Oq^x4^1O1jrGO:x44<11jUr:Oj<G4:u1^Orxq<<OGwRGR:r1q<1RGyRxjjxOq:<1G<4xG1xO:loGGjR11{xx:eR1Gj_o{:nG:<oj^BGO<1nG:no1^O)x1^nOxj{<^:441<n{ri:<^j^Goxn1rqOx<^4O4kjGx:<:<<4jR!1xrjqo<:^1Rxjxx^qO<1GGRnj1j<:oo}GrRj{ox:rjo<<xL<{OxR:GonG1GM{xjz:xoj^<T:Rxn<:{OWoOY11Gnn:1OO^x4^1OnjxxO:<G4<1jj#rOOjOG:x11j:rxq<<O4RRG1:4tq<<1G8Rxjj{Gq:o1:1Rx{^xOx:oGGjR1{<qj:mo:Gj><{:x1:<oxq12q{jnG:ro1^<)x1GnO:jOG^:4j1<nxrhOO<^4G1:n11:{rxqq{o:GqRjOR<<4xRNjOrjqG<:41R<jRxHqO<jqq^j^q44xjoCGxRj{Gx:{4n{x<Oo{On<:Go:G1oO<rG<1q{3rnqq<jn<rOO5^Oaj^qG:RGjox1qoG1G4RnjRxO::1xjrrOOj<GoRo^^:1G{oxR:^ox^jr1qr<xGMRO4G4<{rnn:rR{{4xqqjoGG:R1{<xxx<4OGjQn{:x1:<x^r1Ox<o4o1r{Gx^qj1=nr:jOG^:qj<r^4r4OO^j4G1:n14<nf:;4q1jjGr:O1<<4x1+Yon<qG<:41R<G{xcqq<jGGR:j1x<rxjGGOR{{Gxrq1ooGxGOo1xj:^o:<oh<{nn_:Roj^O{n{1n<:xqq^O5{1Gn:R4O<^n4C1OnjrGO:o1:O1xj4rOO{<GGM11{O4rq-<:4jRoj:r1q<Oxx<ROj1xGqx<1^URx1Gj4qjooG:ej{<xx:-O:^4hG{jx1:1ox^6sO11jj::O^^<ij17nO:jOG^nm11xnxr&OO^j4Gu:nRr<qe<m4j1jjrr:O1<j4xROjOx^qG<:41R<^^x-q:<jGGR:{ix<:xoGGOR{{Gxjq1oOGxtiRGxj:^o:G1t<{xnixOOj^GYr{1no:xO:^OGjROn::RO<^n4pR4njjGq4^14o1xjorOqr<G4:w^j<rnq=<q4jRGj:n1qn<xG4ROj{xGq1<1G<6x{Uxqqjo<G:RR{<xxj1oqGjXG{rx1:<ox^4 O{jnG::r<^<Sx1}nq:jOG^:b11<nxrcxO^{4G1:n1r<Ox<szOGnjGxGO1<<4x<^^o441<xn:^<qGn,11r<jGOR:j1x<j:n4r^O4{Gn4q1o<Gxo<^nG<ROrnr{q+<rGG:qoj^GF:{1n<:xrGROVj1On::1O<:1qoo1^Wr^O:^14<1xj;rOOj<G4r11j<rxq!<O4jG:::r1qj<xGeRO4j441nnqr:O^^R4<q{oGG:R1{<xx:Z^OOn2G16x1:<ox:<Ono<GO{njqx1OR1wj4:jOG^:<RoG4{R:{ox1OGoqGq_G{1<Q4x1jjGr:j4x{r<oojOx4qG<:41<FGnuG{nn:GGR1j1x<qxr:roO:^Ow{RJo<GR}U{Oxjjojqrxq^<jng:roj^GB:4R4:11Ob^rfj1Gn:Rjjrn44(1xnjrGO::qqqorG1rOqO<G4:11+{Eq{4x{:4^1GrsS{rnOGu0YjjxGq:xG:rqG<<1r1nn1rqq_/qxx:<oOGjWGGjGqR<nR^eAx{jnG::x^xGqR<{nOx^OG^:U1oO4j%:jqxR:o<{^GR{j1qx<o4nRnjxxGqq<RG:Rqjjxqqn41R:jxxuqOx4OOO4^nx<:4oEGORj^:4x1{j4qj<q4:xjrco:G1D<4{4j1Rjjr<qq^RGO11xjrqO1<qG<:1Ox^x471ORR&<j{rR::<Rj,r{Oj<G4:<<GrR{1<no:1G<j:xGq<<xGA<G^o4o1j<RG<Rx{gxOqjoGG:n1{oxx:ToOGjEG{:{xj<ox<O/O{jnGjxnRrqqo<qG:Rn{qxOqG^:GjR4{<xR:G<r^)Rr{:x^:R1jjqr:O1<<O^o{GqE^{q<:G)R<jxx6jnroGGs4j1x<qxx<:nq<<OR<{RnO:ROj{qxj:Go:G1Q<{xj<jOoj^:a:{1n<{xj4x:q4o=Gj:1Or^x4C1O44{O{4xn<O1njHrOOj<G4:11R<{xqUo44jRGj:RG{rjGr<<{^1J^1:n1:ro1{UxxqjoGG:<<<^4:R<oqGj2G{:x1:<oxOO<O{jn:::o1^<<{<RGGRn{<OnA11jnxrhOOqRq^o<GxROjnx^:41Rj^r:qo<<4xR5;rTn1FnO:^oq^1x4qO<jGGR:j1x<x:rXGO+O{Gx:q1r{r:q!<nG3j<n{roOo<:n#rOoj^Gw:Gd4o1{jnr{q1o4G{Rjj:q{qRoGGnI<rn^1G_1xjurOnRxqqnOGG{ir{1:r:no1^q4=q<<RGuROjj1:1xxRr4oR{bxnqjoGG:oG^juR1{nn{n3G{:x1:<n:^43r{jnG::O4^<4x<xnO:ROG^j?11onxjerR^j4o1:{or<:O<_GO1{jGrnO1qG4xRGjOrj:^<:GGR<jxxaqO<j<G4Gj1x:qxo<GOGZ{Gj::oo<G1eA{xxjrRo:<,&{{xno:Or4^Gw:{1n<roO6^jpj1Gn:r4O<<xqx1OjGrGOj^14o1xj_{oO{<r4:11j<rxqHOOGnRGjRr1qn<x<<RO1jnrq:ooG<f4{ nqqjqG<4R1{nxx:qoO^1_G{:jG:<OG^i7q{jnG::q1<oBx1:nOr<OGO1&1t<j^riO1^j4x1:RGr<qjR^4ORojGjoO1<<4x4ejnrjqn<:GqR<1ox)::ooGG Gj1{oqxoIGOm11jx::ro<onAb{Oxjr<OwG14={x14:Ooj^GD:1nn<r^Ol<Gaj1Gn::1:_^x4q1OnjrGOx^1G<4Rj_rjOjqo4:Roj<xjq:<OG^RGRfr1q<<x<2X1jjxrq:ooG<t{{7n::noG^tR1{Oxx: oO^1kn{:nq:<on^dtO{jj<roo1^1Ax1:nO:jOG<xGn1<jor}rG^j4G1:n1<GOx<q4ORqjGrxO1o<^4R_jjrj:a<:GoR<jxnnqOo^GGR:j1x<qxqp^4Rj{rx::oo<<18vROn{:GoRG1hn{xj{:OO1<qA:1On<nRO>^OAj1Gj^:1O{^x441OjUrGr:q{4<R^jXrxOjoG4:11X^rnqx<O4jRGj:r1r<<jGhvTjjxjq:qGG<4x1xxO:OoG^GR11oxxx0OqGjkj{:n::<Oj^ZKO1<nGr^o1^ohx1QnOxjq<^:4r1<jorfrj^j^GAon1rROx<n4OGyjGxxG4<<GORTR^rjqG<:^1R1jxxjqOo:GG4^j1nOqnoH^^RjR:x:q1o<^j4n{Onx:Gq1G1_<{xjG:xoj<40:p<n<:xO}^OH{1Gj<:1q^^x4=1OnjxjO:<:4<1xj-r:OjoG<{11j{rxx^<OGORG{xx{q<o<GU41jjxGq:O1^{Rx{xxO:OoG^nR11On1:!O4Gj5x{:x1:<Oj^^}O1:nG:xo1^<!xRGjo:jOR^:4O1<nxrkq:o,4GROn1rOOx<M4O1jxjr:q:<<G:R>j:rj:G<n41R{jxxxqOoOGGex{Rx<:<o&<1Rj{Gx:r1OnGxQx{OnO:GOnG14O1<n r4oj^<*:{1n<rjq^^O4:1G{::1O<^xGG1rnjrRO:<_4<1xjNx:4G<GGO111<rxq;<O4jx j:x:q<o:GVR:jjnG:<<1G{Rx{1xO:OoGG:Zq{<n<:moOGjKG{:j1xSox^xMO1OnGxjo1o<431Cj/:jOj^:Gn1<jjxjOO<q4GL{n1r<Ox<AG^1jj1r:O1<<G<R?ROooqGo<41R:jxxRqOo1^GR:{nx<r:oMGORjRGx1q1O4Gx#{{OnR:GOx^4%<1:n+:1oj^G%:RAnj:xOR^O4q1Gn::1O<{:4mR^njx4O:<84<Rx{OrOq:<GGo11{4rxxUo:4jR1j:jQq<<jGHJ:{RxG:o<1<jRx{UxOrjoRG:yn{<nq:(OrGj4<{{x1rGox^:+O{jnGrxqn^<4r1Ynq:jOG^:GC:xnxx0OO<q4G1:n1xO:G<aGq1jjxr:O1<<4xlnjOxrqGor41ROjxn}:G<jG1R:{:x<:qo-^:ko{Gnoq1qjGxL.{Ojjr^o:^ny<1qnvrroj<<-j{1jG:xOG^O8j1Gjxr<O<<r4W1RnjrGO:oYnx1x{8rOq<<G4:11{O<pqEoq4j4^j:r1q<<xOnRq{rxG:r<1GORx1_x{qjo1G:Aj{<nq:kO:^<eG1ox1rjox^ezORjno::On^<4q1*14:j:G^xJ1R4nxr{OO^R4GR:j^r<qO<d<41jjRr:q1<{4xRjjOx^qG<r41R<G{x6:^<jG^R:j1x<rxjGGO)r{Gnoq1:xGxG5<:xj:Ro:^nT<{Rn*rOjO^G4<{1jx:xO{^O^jG4n:rxO<<O4flqnjjGxq^1Gu1x1xrOrn<G4:qxj<x<qLoG4jR<j:r1{q<xGnROjjxGq:<1<<Rr{sn4qjo{G:GG{<jx:OoO^qJG1^x1x4ox<G4O{jn1::q^^<&x15nOr<OG<oF11<nxroOOOj4{1:jnr<O1<fGx1jRGn:O1o44x4GjOr1qGoxG4R<{:x(r1<jGGR:11xjqxo1GOYx{Gnnq1OO^j3k1oxj:<o:G1b<1jj :OOj^Gw1{1n<:xqG<GTjR^n:rOO<^x4dR:j:rGqx^14o1xj?rOOjGj4:Rjj<xjq.<:4juGjxr1:4<xGxRO{xxG:xO^G<k:{Kj1qjoGG:41{rxx:1oO^x*G1nx1rOOn^ 4o{jnx::o1^<4jRGnOrjOGO4z11<nxxGOn^jG^1:jOr<Ox<bG:rGjGxxO1O{4xRSjOrjR1<:GjR<{jxuq:<j^GOGj1n4qxo1GOVx{G{:n{o<^q*MRrxjrno:G1o<{nnn:OOr^GU:{1n<ROO4^RAj1Gn::RO<<j:R1OjOrG:G^14<1x1-rqO{<j4:R:j<x{qgo:GGRG{^r1qj<xG.RO{1xxq:oxG<G&{VxOqjoG<<R1{1xx:joOGjZG{:n{:<O4^/5O{jnG::o1<4,x1OnO:jOG^rs1RO^rrVO{^jGj1:n1r<:xxR4qR^jGrRO1oq4xdG{xrjqx<:GOR<jxxV::o<GGu4j1jxqxosGORj{rx::oo<^^,W{Oxj:GoRG1%:{xnM:Oo1^G4:1nn<:{O>Onwj1On::1Or^x4<1On1rGO:^1^<ojj rxOj<O4:X{j<rx{^<OG4RGjxr1q<<x<ZO:jjxqq:o^G<4r{axOG4oGG{R1{rxx:loO<jOT{:n^:<oR^YQ:{jnG^So1^:>x1onO:ROGo::?1<n1rDOr^j<q1:{1AOOx<<4ORIjGx:O1O<:jR?jxrjqO<:G{R<{xyxqO<RGGXqj1x:qxqA{GRj{Ox::4o<oRwy{On4:Go{G1eO{xng:Oqj^rk:1^n<:ROkOnMjCG{G:1Or^x4o1O{nrGq:<p4<11jan{Oj<q4:l1{:rxq<<O4RRGR{r1r<OoGfRxjjxOq::eG<4xRGxO:0oGGjR1K<xx:Oo{G{L:{:x1:<on^*Aq{jnG1jo1^<cx1^nO:jOG^:q^1<n1rPOj^j4^1:n1OOOx<^4O11jGr:O1<<O:R4jOrjq^<:41R<j{x4qO<jGGR1j1x<qxoUGxRj{Gx:j^jGrRO{{On<:Go:G1<q^n4jRGn1r^On<rn<rOOp^OvjGRGqC^{qrRoGon^bbO{qxj<o1xjorOOj<G::o4Go>O{j<OG:RGj:r11qxRr<or^:Mn1:n6r^on<GBxqjoRG:R1{<RRR^nnr1<n<O41Rrj1:<qR<j4qrxo1^<Hx/+R::jO^^:u11<jAr&q:<n4G1xn1roOx<;4O?j{Rr:qW<<4jRQjjrjrG<j41ROjxxGqO<RGGR1{Sx<qnoHG{Rj{^x::ho<G1{^{Oxj:GoRG1to{xn<oroj^Gp:1Rn<:nOc<::n1Gnr:1O:^x4/1OnjRoO:<?4<1xj5rOOjOG:x11jOrxqG<O41RGj:jGq<<nG8R:jjx<q:o<{rRx{4xO:xoGGrR1{oxx:<GrGjSG{:nj:<on^t(xxRnG::o1<oyx14nOr114^:441<nRryOO^j4GG1nRr:Ox<G4O1jjGr:xj<<4{R#j:rjq^<:41<Gjnx&qO<{GGR:j1xoqxoUGORj*4x:q1o<G{_4{On^:Go:G1<q<r41R<j4roqj{Rn<:xOd^O j1G1<j1O<<:4S1Onj{R{qn^:q<RKG+n1WnO:qojRo1R1L<q4jRGj:r1q<<xO.^Ojjxxq:<1G<<x^R4r1ojOr4O{<Gxx:<oOGjQGG{RG1{jq^_Jj{jnG::x4xOOR<4GxR4OG^jy11<nx1^jRnOqq1:jxr<Ox<pOro4Go>j{qn^::^^^o*:14nx41Rnjxx}qOnGr<Oq^nROj4rGGqRj{Gx:q1o<GxG14Ox{:Go:G1,<{xnk:O4j^G4:{1n<:xxGrqOR<{4RU3{^xRq1<xRRF4{<x{:O4{jlrnOj<G4:^<^ORn{{xn4jRjj:r1q<r1:oO1<V1<1{jGr:Or^1xO:4oGG:R14q4r1jjor1;^{:x1:<ox^7EOjjR4:ro1^<;x1ZnO:jOGq:011RnxrNOOr0qqOL^G1n{jx4:OojGqRjO1<14xR=jO1r14n{r4or4OHo{qjG:qR:{Gx<qxowqxqo<GS{qRo<Gx,M{Oxj:Go:G1m<{jn&:Ooj:qo4{1nx:xO)^Oo<o4G<RGjrxj4=1xnjrGO::<:^o:^<rOqn<G4:11cozR1<noo1Oq^j4G1^n:O^Oo^:441x<1G1Rx{FxO{Ynqx>qG4q4r1jjor1^o{:n4:<ox^*q<<4Gr:ro1^<gx1hnO:jqGR:.11:nxrFOO:xq^ooG^r<O1<04O1j4OR{1On:4xROjOrjqGr:qROOGR=11x<jGxR:j1x<n{n4rGO:^<sr14nRGx7<{Oxj:Gr{rjqr<qnc:noj^GZ:^^R:R^j{O:TjRGn::1O<:qqRonGRRqxxn^::o1GRv<r{:O:qOo^Grxq^<O4jRGEr-G{:<nG>ROjjxGq:<1^:^x{MxRqjoGG:oG^rGGR<rrrnO1<qG_:<O<^2sO{jXoRq{^xOO{<o(r1{{sxn.11:nxrgOO::qnon^Gr<OR<)4O1j4OBp{^n4qRRMj1rjqG<:qGor<G4<jrnorjo{{4x<qxoOGORj{G1xR^j:r1OR<<xj::o:G1_<4{4RRGjnx<^nron<:xOc^OOx1^nn:1O<^x4^1OjjRjO:<44<WrjXrqOjqGo411jqrx:O<O<xRG{:x<q<<{GI4:jjx<q:<1G{Rx{<xOqjoGG:R1R<nq:7oxGjbO{:jO:<qx<:%O1?nG:jo1^jTxRG{^:jOq^:4{1<nxrLOO<n4G11n1r<Ox<^4ORjGjr:q<<<^rR jqrjqG:q4RRnjxxfqO<jGG4:{Gx<:4o2G{Rj1xx:r1O4Gxfq{On^:GOrG1G<1^nc:{oj^rd:3<n<:xOo^O4<1Gnr:1O<^x^b1jnjrxO:<O4<4oj.nOqq<GG}11jjrxqx<OG1xoj:xqq<qrGXROjjjGq{<1G{Rx{rxO:qoG^xA1{<n<:HOGGjuG{:js:nox^n6O1:nG::o1<O4G1,jG:jO1^:s11<nxrROO<o4GR<n1r<Ox<M4x1jjrr:O1<<4jR_{O{4qG<141cGjxxqqOo1^1R:{ox<r1oVGORjRGnOq1onGxSq{Ojr:GOx^Ok<1Gn0r:oj^Gl:R/j4:xOr^O4R1Gn::1qO^R4_RcnjxrO:^14<RjjOrOqq<G4{11j<rxqKR<4jRrj:xrq<<jGu,O{^xGq1<1G{Rx{qxOqjOOG:do{<xx:KoOGjGG{rx1:nox^qsOR<nGx:q:^<441mn{:jOx^:G&Rxnxr:OO<n4G1:n1r<q{<34R1jjGr:qG<<<xGRjOxoqGOq41Z{jxx,no<{GjR:j1x<qxo/<O4:{GnGq1o1Gx4:{OjjrRo:^:a<1<ngrqojoG4^{1n1:xOx^O^G1Gn:x&O<<o4k1qnjrGO:o1GG1xjnrOqq<G<^111<x^q?o44jR{j:x:q<oj{^RO{:xGxq<1G<RxR_n{qjo1G:Ux{<no:pO:<^2G1ox1xnox^QIO11jR::Oj^<^412nO:jq<<:M1R^nxnqOO^j4G1:j<r<qO<uGo1jjGr:O1o14xRxjOrjqG<x41c<RRxVqR<j^/R:{:x<:joOGOgO{Gjjq1o<GxGtRIxj:jo:^:u<Rqn2r:qE^G4^{1jO:xO?^O41Rqn:rxO<<q4B1Onjx<qo^1G41x{GrOOj<GGxznj<x:q2o^4jRGj:r1o1<xGxRO{xxGqx<1^<Rn{_xRqjonG:}:{<njr{oO^OdGRjx1:<oxo#4r{jnj::O:^<Gq1Bj:x<OG<^!1Rnnxr}OO<1Gn1:jxr<qj<24O1j{<noO1o44xWqjOrjqGoxj<R<{:x&::<jGGR:j1oGqxoxGO x{Gxxq1O<^qfv{Rxj::o:^:c<{xn{:OOO^GV:{1n<:x:z<^ej1jn:r:O<oG4N>Oj{rGqG^1411xj:rOq1oj4:Rrj<xxqF<O4jRG1<r1:v<xG.RO{OxGx::{G<_O{ joqj:%G:R14^xn:{oOGjIG{:x1x<OP^C4^{jnR::qO^<GxRGnOrrOG<os1Ronxn(q1^j4R1:jnr<r5<H4ORGjGxOO1<o4xRWjOnjq1<:GjR<{:x)x4<j<GA^j1nGqxo1GOdO{Gnx^4o<^r!I/oxj:Go:<14^{xnR:OOn^G4^{1jOxdO&<Oyj11n::1O<<j4:1Oj{rGq<^14<1x{Gr1Ojo<4:Rxj<rxq#<OGxRG{qr1:O<xG-ROjjn/q:onG<Rx{;x:qjOGo{R11%xx:1oO^ryG1xjn:<Oq^PGx{jnG::q1^{Nx1{nOrrOGoos1ROj:r5q<^jGr1:n1r<qjoO4ORnjGxnO1<<4x?G14rj:G<:^oR<jxx!::onGGBrj1nqqxo#GORjnjx::no<^npd{:xjrGOGG14t{xnO:OOr^G4x11n<rqOpoxgj1Gn:x1qn^x4{1OjrrG:o^1GOR:jfx<Ojo<4:11j<xj:r<OGnRG1Or1q<<x^GRRjjnGq:O_G<Rx{Sn:GGoG^rR1RGxx:?oOGj:1{:nn:<On^Y_:{jjGRGo1<L_x1rnOrrOGO:<{1<jOrQ:4^j^R1:{Dn<On<{4OCRjGr:O1O<GoR-{^rjqR<:^:R<1xxjqOorGGCoj1j{qxO+^xRj{1x:r:o<^qp31On^:GO<G1G<{xn4:Ooj<q=:1nn<:nOi^O/jMGj::1q4^x4{1O1qrG::nc4<Rqjyx^OjOx4:R1G1rxqj<O^:RG{or1x<:rGSKGjjj1q:o4G<Gx0RxO::oG^jR1{oxxrG{oGj/R{:no:<ox^CGO{{n^roo1<4uxR{nOr1Oo^:4j1<{4rNOO^jG<ROn1x^OxOq4O1jjGr:qq<<GqR8{orjqG<:41RqjxxxqO<jGGR:j1x<rGoUGRRj{Gx:qRo<^jqR{OnO:GoRG1c<{x{Z:qo{^j2:1:n<xqOJ<:4<1Gj^:1qn^x4E1Oj1xqO:<x4<44jcrOOj<GG^11j1rxqj<O4jRGj:x:q<o4GtROjjxGq:<1GRRx{OxOqjoGGrR11OGr:vo{Gjer{:x1:<qxxndO1^nG:Ro1o4ExRGj<:jOx^:Go1<nxrwq:<w4GR4n1nnOx<C4O1j{Rr:qo<<G^RijOrjqGo{41R:jxx8qO<1GG :1Gx<q{oI^oRj{Ox::<onGn-<{OxR:GorG1vq{xn8rnoj^Gc:{1n<:xOI^Oq#1Gn::1Oq^x4e1OnjxqO:^14<1jjtrOOj<Gqn11jrrxq^<O4jRG1:46q<<RG?Rnjjjjq:<1:qRx{OxOqRoGG:R1R<4j:XojGjl:{:{::<ox{ovO1GnG:1o1^<3xae4<:jO:^:4<1<jjraOO1<4G1{n1rxOx<^4OgjO1r:q^<<4{RZ{orjqGOo41Rxjxx^qO<jGG4:1qx<:ho+GjRj14x:r1OqGxNO{OnG:G:GG14<R^nM:nojo^(:1<n<xxOn^O441Gnn:1q^^x^BR4njrqO:<^4<E^j}nO{1<G4{11jrrxr1<O^jO<j:x^q<<RG34njjjGrx<1GrRx{oxOq1oGG1Io{on4:-oOGj(^{:xR:<oxr<_O{jnG:no1^<Vx1B:G:jOq^:4o1<nnr/:Oor4G1{n1rqOx<R4O?j{xr:q^<<4RRb{RrjrG<n41RrjxxoqOqxGG4:{4x<qRo0GnRj{Ox:r1oOGxto{On4:GoxG1wx14n4:{oj^<W:{Rn<:jOs^Oqf1Gn::1Oq^x4W1OnjROO:^14<11jMrOOj<G1<11jrrxqq<O4{RG1:nrq<<RG#Rrjjn4q:O1^1Rx{oxO:4oG<4R1R<nG:#onGjmq{:{j:<qx^R/O14nG:{o1<r xc#{^:jOq^:4^1<njrUOj<^4^1Rn1roOx<44O1{jGr:{G<<4xR!jrrjqG<:41orjxxoqOo^GGRrj1x<<joMGrRj{<x:q1o<Gx<1{qxj:GorG1p<{xn^:xoj^GX:1^n<:xOd^qVj1Gn::1O<^x^:GOnjrqO:^14<^5^GRq{rxq4:R<j<rxq0::r4OO^j7{1G<xGOROjjxGjCn{rio1^o4:qjoxG:R1{<R11oj1x}oo<4G:1rO#^JBO{jnG1no1^<hx1FnO:jOGo::+1<nxraOO^j4<1:{1wOOx<K4O1jjGrjO1O<:jR(jOrjqG<:G4R<Rx{RqO<jGGR{j1xoqxoIq<R{{Gx:qRo<GxEa{Oxj:Go:G1wr{xn+:Oo{^GL:{1n<:xOJOG<j1Gn{:1O<^xoOo:4{RRj{^14x1xjhrOx1nq:jOG^^P:qJ<j4jRGj:1O1^nO:<on^1xG:}<1G<RxG<fnR<jOqnOq<1#R:OoOGj,G{:44:<ox^A8O{jnG::q1xO8x1cnO:jOG^x718<GjrcOO^j4G1:jGr<:xnG4O1jjGr:O1<q4xGC7orjqG<:G^R<jnxPqOrxG^R:j1xoqxo&GORj{Gx:q1o<^^mg{Oxj:Go1G1t<{xR:Roj:rOO{ohn<:ROh^O3jG:Gx1R{4rR441OnjrGO:^14<4O/.rOqG<G4:11#OhR1<nx:nO+j:xOq<<xGc^rG{u11<n}:oo{^nxO:4oGG:R1<q4x14j{rxHG{{x1:<oxxIOr^{41R<o1^:)x1ynOC0j^xnqr1<jGrVOO^jOO<{^OZ:n{xrrMo4{Xr:O1<<4xo^jOrjqG<:41R<jxjI1:<jGGR:j1x<qjoB<OO1{Gx:q1o<Gx,4{OjjR<o:G13<{xnE:xojOG<q{1n<:xOr^OPR1Gn:R4O<^x4(1qnjrGO:^1{n1xjvrOO{<G4r11{O4rq/<O4jRrj:r1q<ojrRROj{xG:z<1G<RxRm4:qjo^G:RR{<ng:QoO:R G{xx1:<ox^fLORjG<::O8^<aj1 nn:jOGr{_11<nxrGOO^{4G1:=jroOx<+4q1jjGr:O1<<4xR#jOr1qG<:41R<jRxTqO<jroO:GR4n1:oJGxRj{Gx:RGnor{On{1xj:Go:<Z:^{xnP:Oo1^GL:{1{<RjOT^OPj1Gn::RO<<t4q1qn{rGO:^14o1xj^rOOjoq4:11j<rxq!<O4jRG{{r1q<<xG4ROjjxGq:O^G<Rx{Jx:qjoGG:R14Gxx:LoOG1+G{rx1:<x:^4FO{jn^::o1^<6x14nO:jOGo<%11<nxrKqO^j4G1:TWRoj{xnq{o1^4E{{jx:o{oR^GKn1<qn4RR<jxx=qO<jGG{:K{xoqxosGORj{G::1{r<Gx7o{Oxj:Gx{qGO{<q1G:OO4^G):{1RxRjj4x^q41^:oox^*tO{jnGx:{4O:<o4<1xj}{x{4no:jOv^^4^qX<x4jRGj:4o{on^r<RqjjxGq:<1G<Rx1<1OqjoOG:R1{<R:14j^r4 G11x1:<oxqGOq^R4{1R{%x^qR<14x1M{<rrqjoqGxR4{:x4:!<n^qr<q4<K4O1j4:R{{4n::rOGR:rjqO<:41R<4R1<{RnrGGR1j1x<qxrGrnqL<O4q1jo<Gj& {Oxj{qx4G1zx{xn}:OrRx4q<<{GOn{Oa^jpj1Gn:{O{^xOq<<nG1rGO1^14<1xZ^_:{4x^:jo^j<x4q-<O4jo:^xh{14rjOq^:jjxxq:<1G<<x^R4r1ojOr4O{<Gxx:^oOGjMG<O4^Rnox^<TO{jnG{njqx1OR1zj4:jOG^:<RoG4{R:{ox1OGoqGq&G{1<44O1jjGr:O1<<4xRFjOxGqG<:41<x^^4^1nx{:1Rrj1x<qxoaGORjjG1qq1o:GxTh{OG71^jnrr#<1hnJ:Ooj:GOroC4rR:{<qxZj1Gn::1q{^n4s1OnjrGO:^1^<Soj%rOOj<G4:R{j<nx:<<O4jRGj:r1:O<x^GR{jjx^q:o^G<Rx{exO:<oGGxR1{<xx:OoOoj4R{:nH:<O<^?4R{jj<:1o1^q5x1jnO:jOGo::/1<n{rHOr^jGq1:{d^xOx<<4O11jGr:O1oO^GR?jnrjq<<:41R<jxn:qO<RGGR{j1xOqxOT^4Rj{<x:roo<G{8L1:nG:GonG14<{xnl:Oqj^1C:14n<:{O*<rDjR<jn:1O:^x4^1OnjrGqxo<4<1RjlrrOj<G4:AiOxrxqO<O4RRGj:r1q<1:GMRrjjx:q:oSG<Fx{qxOq1oGGrR1{qxxn6qBGjv<{:nr:<OI^V4:RqnG:no1^:Sx1dnOxjq:^:441<n{rgqn^jG<R1n1r:Ox<G4O1jjGxxqG<<4RRv{1rjqG<:^MrxjxxOqO<1GGR:j1nOrGoAG{Rj1xx:q1o<Gx_^{OxR:GoRG1WO{xjP:qoj^<u:RGn<:{Oy<:441Gnn:1O:^x4i1O{jr:O:<44<1{j*xnOjo<Gj11j:rx::<O4jRG{xnOq<<RG*31jjxGq:O5jxRx{OxOrOoGG:R11OjG:eo{Gj4x{:x1:<ox^RkO{RnG:Ro1^O#xR2jG:jO<^:G<1<n{rEq:o:4G1nn1x4Ox<34OCjjOr:q4<<4{Rc{nrj:<ox41R:jxn:qO<jGG5x1Ox<qRoTGRRj{Gx:q1oRGnS^{On4:Go:G1 <{Rnk:Ooj^G6:1-n<:xqo^Om{1Gnr:1O<^x^Dt.njr^O:^R4<1Rj0nOqr<G4r11jorx:4<O^jRRj:rRq<<nGI8<jjnG::<1G<Rx1jxOq{oGG:O4{<xn:mo:Gj}G{:x1jxon^GIO{jnG::o1<Ong1Qnr:jO<^:E11<nx11Oq<54G1:n1rOOxoGoq1{jqr:qG<<4xRE1OnqqG<{41RrjxnoqOo1^<R:{<x<r<odGORj1<x1q1onGx4:{Oxj:GOx^r/<1GnHxLoj^G>:RYjj:xOr^OG<1Gn::1O<oG4E1nnjrnO:<Y4<RxGxrOqh<GG111jrrxxF:o4jROj:xrq<O<GZRO^4xGqr<1G:Rx{4xO:1{4G:RR{<jo:}oOGjGG<xx1:oox^4sO1<nGrxf<^<0j1_n::jOG^:p1GGnxr4OO^14G1rn1n<:j<T4q1jjGr:qo<<4xG1jOr{qG<x41Rojxxsj<<{GGR:jRx<qxo+GORj{Gx:q1O^GxA!{OxjrGo:G1.<4j441rjqrrqx<{GrR:j<qrqn<1Gq3Drq^x4O1OnjrGxnx{:3or^GjrOj<<4:11j<1Rnr<O4RRGj:r1nox1:<RqjjxGq:<1G<RxR11OqjoqG:R1{<1{1RjGrnq<{:nO:<ox^)or<4411{j4x:OR<<nqGORn{4xqq{o^<rxo^{4G1:n1r<Ox<2<RGjjGx<O1<<4x<^GRJi{qxxqROOX{hR1Gnnr<R:{^x<qxosqxO<^q4o1^oqGxZy{nxj:Go:q<qO^n4{1noj^r&:{1n<RY{Gxoqr^<RR{MO<<e4E1Onj{<{{nG::orG1jrOj<G4:11Gqrxq.<O4jRGj:r1r<njGeROjjxGq:o{G<4x<GxOqjoGG:R1{nxxxO{1Gj}G{:1m:<on^m4G{jnOono1^<Fx4GnO:{OG^:q41<nxr&Oq^j4G1:n1rROx<44O1jjGr:O1O<GnRwjqrjq^<:G{R<1xxxqO<{GGRrj1n4qxq*^RRj{^x:qRo<^r+61:n<:GoxG1.j{xne:Ooj^od:14n<:xO/^qKj1GRq:RO:^x4G1OnjrG::<14<11j_rxOj<o4:K11>rxq<<OG}RGj1r1r<orGZRxjjxOq:oGG<Rx1jxO:4oGGnR1{<xxxWq^Gj}q{:n^:<Oo^6GO{RnG:{o1^r>x1xnOr14o^:4<1<njrQOO^j^GZ<n1rxOx<O4ORxjGxxq1<<G4RBjnrjqG<:^ekdjxx:qOo4GGR:j1nOrIozGRRj{qx:q1o<Gx4<{OnG:GO4G1_<{xn/r<oj^OI:{1n<:jO=<OqO1Gnn:1Oo^x4<1OnjRqO:^14<1{jFrqOj<Gqn11j<rxq4<O4jRGj:C4q<<nG0ROjjxGq:O1rORx{4xOq{oG^qR1R<4j:goqGj_^{:nn:<Oj{OeO{1nGr%o1^<wx1B4<:{Oo^:w11<nnr0OOqn4^1jn1rOOx</4OZj{xr:qG<<41R>jrrjrGo141R:jxx<qOoGGG4:1Gx<q1o#GxRj{Ox:q1O:Gx%o{OxR:Go:G1G<{nnl:noj^q/:1rn<xxO^^O441Gn{:1O1^xGGrrnjr:O:<H4<1xjknOq^<G4111jxrxq1<OG1Rrj:xoq<o^G)ROjjn<qn<1GjRx{rxOqjoG^xY1{<n^: oRGj.G{:x1:Oox^OeO1onG::o1^<G^1 nx:jOG^:4B1<jxRxOO^R4G1rn1r:Ox<Iqn1jjGr:q4<<4nRSjO1xq^<:41RojxxXqO<jGGR:j1x<:rofGORj{Gn<q1o<Gxo^^R4U1qnx:RqO4{4RRGjnx<zn{1n<:{OB^OsjG^4jRGO<<x4_1Onj{<jrx4qRo4^G#o14nCqj^4^^*O{Rn:<RR^j:r1q<<xGsRO1e1Gq:o^G<Rx{.1r1nn1rqqg{o<<4r1Rjornq4Oqj^ox^OdO{jnGjx{^x:q1<RG<:jOr^:A11<G_PG{oxrO<GRdvr<qG<N4O1j4oR{{xxrq{O<Gnw6qG<{41R<jx1O1:x{:Ro{jRx<qxofGORj{G{On1o<GRf2{Oxj{Ojer^q4^RnV::oj^G6:^^R{:xOO^Oej1GRnR{{_xr:G4r1RrGO:^14<<{jYrOOj<G4:11j<nx1G<O4jRGj:r1qj<x<aO:jjxGq:<1G<K<{5jj=<oGG:R1HOxx:4oOG1PG{j:4:<ox^.^:{jn^::o1rqXx16nO:{OG^:=11<jorFOq^j4G1:n1r<:x<<4O1{jGrrO1<j4x4}jqrjq^<:4RR<{oxgrOooGGRrj1xoqxo:GO811xx::-o<^4pM{Oxj:GqcG1fq{xnL:Oo{^GQ:4{no:1Oe^:*j1Gn:x1qr^x4<1OjKrGqO^1^<R:jprxOj<O4:R<j<nx:n<OGlRGjjr1qq<xG6Crjjxqq:o4G<Rx{ujO::oGG{R1{rxx:{oO<jlO{:n^:<oR^_Jq{jj<^no1^xux1RnO:jOGo:GO1<j=r(Oj^j4n1:{Ex^Ox<q4OR4jGr:O1oOGnRlj1rjqq<:41R<{jnjqOooGGR{j1x<qxoTGxRj{:x::qo<Gx6b{Ox1:GojG1J<{xnG:OOjrjX:14n<:1Os^x)j1G4{:1O<^x4^1On{rGO:x44<1xjHrqOj<G4:11Gqrxq4<O4jRGj:r1r<njGyRqjjx^q:oOG<4x<GxOq{oGGrR1{RxxrGRjGj0<{:no:<ox^itO^xn^:no1^<>x14nO:jx4^r4G1<njr.OO^j^GRnn1r:Ox<<4ORxjGn:q_<<41R_jxrjq:<:^1Rqjxx<qOokGGRnj1x<rqo5GnRj{ox:q1o<<x4O{On4:Go{G144{x{i:xoj^qX:1^n<:nOJ<:nR1Gn1:1q^^x4C1O{jrrO:<<4<RcjErROjo<4{11jnrxqj<O4jRG{xxOq<oGGsIGjjxGq:O=^RRx{rxO::oGG:R1{<n1: ojGj2n{:x1:<ox^<?O1WnG::o1^OdxRUG :jOo^:4G1<n1rfOOx44G1:n1rqOx<44O1j4frrO1<<4nR*jOrjqG<:41R<jxx<qO<jGGR:{Ox<qxo;qrO4^1!{14j::RO<{OnG:Go:G1<O<RG<Rxjnx)5n{1n<:1O,^O5j^oGpR{{n<<4*1OnjrGjn^14<1xjKrOOj<G^:Okj<rxqg<O4jR<j:n11O<xGtROjjxGqr<1<x<1{VxOqjo:G:RR{<x{:.oxRR&G{:x1:xox^4XO1&:o::o1^<4^1Vnq:jOGrn&11<nxr_OO^j4G>:1hr<Ox<u4O1jjOr:O1:G4xRTjOr1qG<r41R<4:x4qO<jG^R:j1x<qxo=GORj{Gn4q1o<GxKW1Oxj:Go:OROO<{4RRG{4xOO{G1G^R{jrxxqoo4GO:1q4^x4A1O44*oj{nBo{o:^.Nn1YrOr4o1Grrnq,<O4jRGj:r1x{:xGhRxjjxGq:r^rGOR^{xO::oGG:R1G44rRojrr4<<<{GGR:jrr1^q{jnr::o1^<o1<R4{R^j1r{qG1<nRraOO^jo:ox4Rv4jR<D4q1jjGr:jq<<G4RFjOrjjon4:GorGjS41:O^GGR:j1j<^OoyGqRj{Gx::Jo<^j44{Ox1:GojG1%<{x{gr4oj^<A:1=n<:jOboO4x1Gnx:1OO^x4o1OjGxOO:^R4<%AjXrqOj<<4:RGrqrxqV<O^GRGjrr1q<x{GzRqjjxGq:<1G<4x<GxOq{oGGrR1{jxx:UnrGjH<{:xR:<ox^.GO<1nG:xo1^O?x1rnOxj{<^:4D1<njrQO{^j^Goxn1rOOx<G4O1{jGn:1l<<4jRYj:rjqx<:411^jxx4qO<{GGRxj1jxnOoXGqRj1:x:qRo<G{D {xqR:Go:G14x{xn4:Oojro=:{Rn<:jOd^OFj1G4n:1OO^x441OnjrG::nN4<1jjNr:Oj<n4:M1^OrxqG<O41RGj1r1q<o{G4R:jjx<q:<1G<RxP1xOq{oGGxR1{oxx:sx<G{kG{:xR:<ox^wlq{jnG::o1r4Dx1WnO:jOo^:U11<}1RR{O^j4j1:n1r<xjx4qroqGr)x{{nr::o<jOr1qG<:41<r4^x0:u<jGGR:GGXrRGj<OrOn^14qR :qGxfG{Oxj:GxOr{0o{xnZ:Ooj^Gk:}xR<:xOo^O2j1GL{{Gj{xq<G1qnjrGO:^14<1x{j{OO{<G4:11j<rxq_r4{jR^j:r1q<<xG,RO{<1Gq:o<G<Rx{mRx1njG:xoR<Oxx:ooOGjeG^n4{R,jrxGFq{jnG::o1^<Hx#jqO:jOO^:,11<51Ro{1nu4^1:n1r<Ox<V4O1j:Gr:qG<<4xR7^xR{1on^4RR<jxxeqO<jGG<O:1x<q1ovGORjGYlr1nnrGxf<{Oxj:Gr{rjqr<qn;:{oj^GH:G<4{ROjjrRqx<rn:rOO<^x4d^xG4Bx{jr4q{O<GorqOj<G4:11j<rx:F:O4{RGj:r1q<<xGlG1:jx^q:<1G<Rx{dxOqjoGG:0^{<xx:Dxqx4Oq<{4^:<Oo^?)O{jRoRqjjxGOR<^GxRo{4xO:41<nRrCOO^jOOocG^%4jR<44O1jjGr:O1<<<1^BjqrjqG<:41R<jxrlno<j^4R:j1x<njnRr:O%^q4x{4n{x<OoGO4oRxn{rxc<1^n=:OojqrO{oGRj1Rjrr{q<oOn:rGO<^x4 ^x^ohGj{^14{1xj0rOnRxq:<o^Gq=1{rno:xR^j:r1q<<xGJRO1.1Gqr<1G<Rx{&xOqjjOO:R1{xxx:=oOO{Oo<j4qRxnR^LHR{jnG::nGrr:Go<RrRnj1xq:-1<nRr}OO^jOOo4^GFEjR<.4x1jjGr:j4x{r<oojOxxqG<:41<:GR4:1xx<O^O<^q>n1:n{:nOx<Oxrq1o<GxIh{OGj{G4:G15q{xnQ:OjxrqqR{Rn<:xOi^O)j1G1:j1O<<o4,1Onj{Oj{n4qqojGr;O1(xn:qojj<xoq7<O4j<O^qz1{OxnrG^r^nM11qjmG<RR{ xOqjjor:oR<n4::_OOGjcG{:R4R2j^xAqrGk4qRnj4rrq:<<4qRx{Oxn311Rnxr,OOrNqqO?^G1n{jx4:OojGqRjO1<14xR?jO1R14n{r+oqGRR^{qnxroR:{Ox<qxovqOOn<o44RGn{rrO1{qxj:Go:G1%<{xrYjooj^OM:{1n<R1jox1:(1Gj4:1O<^xO<<n^<dOn<rRqO<RGjrqOj<G4:11j<rxrhmO4jRoj:r1q<x^:oOrjjxOq:<1G<<O^o=jRlo^G:R1{<xx:;oOo1jG{rx1:<ox^?>O{jRqj:o1^:Vx1ynORxjqnd:G1<jor2OO^jo^oOG4Rj{rnGOOonGn3O1G<o4xRYjOrjqG<:oxn<jxxOqO<jGG<:GR4O{Rn1rxRj{qx:q1o<r1Or<x4:1qo:<<X<{xn7j:n{roq^<oGORr{ox<qU^OGx1R{Gx{:K<qG1Rq{Ox4:{1xjqrOOj<GO1o^GqN1{Rn:<1R^j:r1q<<xGHRORG1Gq:onG<Rx{*R^{{jxqOO{<:4^1OxGroq,^{G4:<Or^l#O{jR<1rj4rRq4oGGo,4{%rjo4o^GORR{:^{4G1:n1r<Ox<PoGGjjGx^O1<<4x^r^^R{{rx{O4O^^OaR1:qRG<R:R:x<qxoX:1q(<O4:n::^orqq<{G^n6jxr{OO<O4RR1:xroqq<n1^1n{^xrq4oO1qj{j{r1<{4{Roj^x4q^<j4nR^jnxo<G4j11j<rxnOno:xOOj:xOq<<xGL^rG{d11<n0:oo{^nxO:GoGG:R14{4{jGjnrRqn{:n^:<ox^/<R<r4^1Rj^^<711znO:jnqqjqqo4nxr:OO^j4G^nG^J:{1xr:<o^^orrO1<<4xR&jOrj1O*:41A8jxx>qOrxr4Oj^q6x1^n^:qq!^n4q1jo<GR.V{Oxjj:jx:Rq4^Rn^:qo{^Gs:{1n<:xOwoxjj1Gn1:1O<^xO^<nG:RqjnnG4<1RjNrOOjr*:qOGG{f+quo<4jRGj:RG{rjGr<<R>{z114norGOq^o4<R3oG^:R1{<xxjGnq:RO{^RGYR^jRr1Ox4RG4R<j{xO^{1-j4:jOG^:oqo44nRqjnq1:qoj^GE^{:<44O1jjGr:O1<<^1^PjOxGqG<:41^q^jEo{qja:qR:R:x<qxo=:1q8<O4:n::^orqq<{G^n%jxr{OO<O4RR1:xroqq<n1^1n{^xrq4oO1qj{j{r1<{4{Roj^x4q^<j4{RrjRrj<GG:11j<rxn{xqr<<?^q4G{{n2q^OxG{Co1^nqrGO4{HxRqjoGG:<q<G!11rnr:{qO<qG#x4oj^_&O{j4o::O4^<>x1/nO:j:Gxx311qnxr^OOr44Gt:^ir<O{<24r1jw{r:r<r:4xR^jOxGqG<r41<Ojxx<<r<jGGR:{<x<qnolGxjR{Gx:q1O:Gxl4{Oxj1oo:^4><{xn#:OojoGqx{1nq:xO^^OO41G{:/!O<^{4e1rnjxnO:^1qq1xj<rOOj<G4:111<6jqP<x4jROj:R^q<OxrGRO{5xGqj<1^{Rx{-<nqjoOG:VG{<xx:bqO:xWG{jx1::ox<{iO{j4%:rO^^<7j1;nO:jOGq1;R1xnxr4OO^j4G1:l<roq4<X4:1jjGr:O1G^4xRojOx^qG<r41R<qGxCqr<jGOR:{^x<qxr1GqRj{Gxrq1o<GxH>^rxj:oo:G1,<{xnJxOj1^G,n{1nq:xno^O^jG4n:r4O<:o4k^:njrGjO^R4q1xjerOOR<G<:G{j<r{qsOO4j<Gj:j1x{<xG^RO1{xGnR<1^<Rj{*xrqjrjG:d={<xx:ooO^adG{rx1:<oxolb:{jnO::OG^<>{1d{OxoOG^j211:nx1xOO<14q1:j^r<nn<Z4O1jjGx4O1<x4xR4jOx4qGq:o{R<{,xy::<jqGR:R11^qxoOGO^j{Gjoq1:<<xL-{jxjn4o::fb<1jj<:OO^^GQR{1n<:x:+<2.j1rn:roO<O<4uR:j<rGql^1Gj1xj/rOq1<O4:Rqj<R^qU<O4jF<jnr1q1<x^{ROjjxG:xojG<Vo{0jRqjoGG:R1n1xx:qoO^q.G{xx1r<on^d%j{j1<::Oo^<4jR{nOr^OG^R}11<nxn.qr^j4r1:jor<r<<lG:y4jGxSO1oj4xR/jOx1:O<:GqR<1{x5qO<j^<e;j1x1qxO:GORj{Gx:14o<^oEy{Oxj:Go:<1qO{xnn:OOq^GoO{1{<RjON<4.j1{n:{4O<oxxo1OjqrGq^^14x1x{S11O{<{4:G:j<xoqB<OjxRGjRr1qR<xGGRO{jnxq:o<G<G4{Px{qjoGGrR1{nxx:4oOGj3GR:jr:<O4^5M{{jno::q1<rux1qnOr^OGrGD1RO{<rYO1^jO^1:n1r<Oxoo4ORojGrnO1<q4xGwcorjqn<:^_R<{ox6qOxRGG5Gj1x<qxo=GO4j<<x:::o<^<_HR4xjxGjxG1v1{xnx:O:r^G4:4^n<r^O;:{0j1jn:xgq1^x4x1Oj^rGO:^1^<RrjMx0Oj<j4:4:j<xjqG<OGqRG1or1q<<x^G4Gjjx1q:OOG<Rx{.n::{oG^oR11jxx:boO^14r{:nj:<rR^dUO{jnG^Oo1^1ax11nO:1OG<:4<1<j^rf:{^j4j1:n1x^Ox<x4O1{jGr:O1O<^<R%{Srjqj<:G4R<1xxoqOoOGG/Gj1R1qxOG^ORj{{x:jRo<GxIg{Ojq:GO<G1l<{xno:O:jq4&:1xn<rjO6<xZj1G4n:1q4^x4,1OnjrG::ng4<Rqjwx^Ojo{4:l1^Orxq{<OGrRGRor1:<xjG4YGjjRrq:onG<Gx{<xO::oG<OR11jxxrGOqGj)R{:no:<ox^-GO1nnGroo1<4ExKxnOr1qx^:4j1<{Gr!OO^jG<1jn1x^Oxo:4O1jjGxx:o<<GxRlRrrjqG<:^QTjjxn4qOO<GGR:j1x<r7ou^^Rj1^x::Bo<^x4{{On::G:xG144{xjGxMoj^R-:1on<:xOVoO4n1Gjo:1q4^x^x1Oj1xqO:<j4<JqjBrOOjo<^o11{^rx::<O4jRG{x<<q<oxG+GrjjxGq:Og^nRn14xOr<oGG:R1{<n^:_O^Gj4^{:na:<Ox^{BO1:nGxRo1<4Kx1Kj<:jOj^:4x1<njrgOO<<4GR^n1roOx<(4O)jj4r:qr<<GoR6jrrjrGoo41RRjxxnqOxOGGCx1ox<:Oo#onRj{Gx:q1oqGxm{{Oxj:GO4G1^<1xn_r^oj<<}:3<n<nx:f^O4r1GR::1:4^xGG11njxiO:<o4<1xj7nOqO<GGO11{Grxrx<OG1>Rj:x{q<OGG+ROjjn<:o<1^<Rx{:xOqjoG^x4n{<nn:M:rGjwG{:j-x4ox<GvO4GnG::o1^<R<1Kj<:jq<^:4X1<jxrrOO<r4G4xn1xGOxoGG&1j{Hr:qo<<4xRz1Ox{qGoO41eGjxjxqOo1GnR:{{x<rqoJGORj1<nnq1O<Gx>r{Oxj:GOx^4l<1nn0r1oj^Gg:R}ox:xqG^O^q1Gn::1O<jO4%R<njx<O:<z4<RxGxrOqr<G^R11{Grx:Gjo4jvuj:n4q<<xGM4O^1xG:O<1^GRx4rxOrjj<G:#j{<n::y:qGj4G<Gx1r4oxqr!O1xnGx:{L^<4:1Nnq:jx4^:4<rrnxr1OOjY4G1rn1roOx<<1r1jjGr:RG<<4nR%{:<GqGoO41<<jxxBqOoj:jR:{nx<::oZ^<Rj{GPnq1OGGxU!{Oxj:Gq:x0J<1:n!r<oj<{T:R1GO:xO1^O4x1G{{:1q<x<4zR^njrOO:<j4<4xRRrOqr<GG{111Rrx:Gjo4j -j:n4q<<xGU4O^1xG:O<1^GRxR:xOrjj<G:fj{<n::L:1Gj4G<Gx1r4oxo:>O1xnG::1x^<4o1ej^:jO<^: 1R{nnrjOO^{4G1:n1n<O1<iGG1jj1r:q4<<^xR1jOx:qGo<41<1jxnGqn<jGRR:GOx<qxoMGO4G{GnOq1o<GxVq{O{j:<o:^je<1jnIn{oj<<4:{1j^:xx4^O_j1G{:_+O<<r45RonjnjO:o%nx1x{.rO:r<G4:11{O<eq)oq4j(xj:r1q<<xn1RO{nxG:r<1GORx1pnOqjO0G:^x{<nr:-:O^MXG1Ox1j<ox<{7O11j^::O{^<441pnO:j:G^jp1R^nxrROOOO4GRxjor<qx<U^^1jjGr::Poo4xI4jOn^qG<:41YOqzxU::<jooR:j1x<:jO:GOMR{GRnq1o<GxYW1:xjr4o:<4l<{jnZrOOj^G4O{11O:xOR^O411xn:r{O<<44K1OnjnGqr^1G^1xjRrOrO<GGxL<j<xxq?o14jRGj:ne:o<x^4RO1:xGq:<1^O{n{Hn:qjOxG:R1{<njr<oO^RyGR<x1:<ox^X?n{jj4::q4^<;j1,jOr^OG<O!1&nnxrROOOjGR1:jjr<nO<ao11jjGxRO1o^4xRIjOrjqGO:riR<{rxN:o<j^{R:114OqxoRGOYn{Gj{q1O<r<Q/1<xjj:o:^{a<{x^j:OO:^G4O{1nO:xO5<R&{1Rn::RO<^x4;hOjjrGqo^1G41xj^rO:j<R4:Rnj<xqquxC4j2<j{r1:G<xq:ROjjxGq:oRG<Jr{gxOqjorG:G11xxx:RoO^16G{{x1rOqo^A4O{jR^::o1^<GxoGnOrjOG<:m1!1nxxGLj^jG^1:{nr<Ox<zG:rGjGxxO1oj4xRzjOrj4Y<:G1R<{jx*q:<j^G4oj1n^qx:jGOcj{G{::<o<^rH 4OxjrRo:<clx{xjh:OO^^G_:{1{<:jON<OijRGn:n:O<<j4r1Oj{rG:o^14<1x{GxGOjo<4:R{j<rxq;o:jGRG{nr1xq<xGyRO{1nxq:OGG<<{{%xOqjoG<4R11<xxr<oOG1gG1:nG:<Or^5^:{jjG::qA<G*xRDnOr^OG^:_1K<nRrLqO^jGG1:1:r<qjoO4OR{jGn.O1<<4x}G{orj:<<:^xR<jxxe::G{GG8nj1njqxoIGO}11<x:rGo<<Ovm{Oxj:GOjG14<{xj<:Oo1^G4:1nn<rrO5o{/jRGn:n1qn^x4R1Ou:rGj^^14<1jj_xOOj<G4:11j<nx1G<OGjRG{:r1:R<x<hO:jjnGq:o1G<4R{FnO1OoG^qR14xxxr6oOGjoG{rnn:<Or^gaO{jnGR<oR^{Mx1SnO:{OG<x:{1<j<r!n^^j4G1:{1x^On<x4OROjGjGO1oOGoRK{4rj:x<:41R<{jnoqOo:GG4xj1x<qxoI^xRj{jx::xo<GxU5{Onx:GoRG1Q<{xnG:OojroI:1On<:nO(^OHj+Gxn:1Oj^x4:1OnRrG::o<4<RGj=r1Ojrj4:#S{{rxqr<OO{RGj:r1q<o4G&.>jjx^q:oGG<Gx{{xO:OoG^xR1{Oxx:EorGjT{{:x1:<ox^}GO1{nGr^o1^R_xRnnOxj{<^:4r1<jorsxx^jGG4{n1r1Oxrq4ORqjGxxq-<<GoRcj{rjqG<:^1RojxxnqOoqGGGGj1nO:xoC^GRj1xx:q1o<^jmG{Onr:Gq/G1s<{xjG:{oj<HB:ROn<:xO <:G:1Gjq:1xr^x4v1OnjqjO:<r4<RrjSr:OjoGGG11j1rxxG<OGqRG{xn_q<ooGtR{jjxGq:O1GoRx{nxO:qoGoGR11Ox1:%OGGj4R{:x1:<Oj<o;O1rnGxIo1^<TxRGn1:jq7^:Gn1<nxrMq:1G4GRqn1{4Ox<04O1jq8r:qr<<GrR/j:rj:GO<41R1jxjqqOoqGGR:{1x<:ooAGqRj{Gx:r1OjGxln{Onq:GonG1G<RGn-r4oj^{D:^:n<rjOr^O4:1G1{:1O<^x461:njrRO:^14<RojdjOxn<GGo11{Orxrj<O<j4Gj:xnq<:xGX4^jjn<qx<1^GRx{qxOqjoG<:X4{<n::(O<GjGj{:jWrjox^R=OR<nG::o1<O441sjO:jOx^:_11<jjr1OO<{4Gp(n1r<OxoG4r1j{<r:qO<<4xR8jO:OqGoO41hOjxxGqOojG:R:{nx<xjo8^<Rj1<n{q1OGGx>q{Oxj:Gq:^jt<1:nHr<ojojE:Rgnr:xOR^OGr1Gn::1qO<54YROnjrRO:^14<Rj{OrOq{<G^o11j<rx:G1j4j0<j:xnq<<xG;ROo:xG:O<1^ORx{GxO:jnjG:Yn{<{4: O<Gj4<oqx1rGox<^bO{jnGx:jr^o4:1lj<:jxn^:G1Rqnxr1OO<x4G4rn1x<O1<_G^1jlnr:qj<<^x7rjOxxqG<r41G:jxn_:T<jGRR:{jx<::oPGO44{GnOq1o<Gxhk{Ojjr1o:^jf<1:n5x4ojoGqx{1jG:xO1^O^41Gj:R:O<<q4b1xnjxJO:O1o^1xj{rO:4<G4111R<{rqpo^4jGGj:R2q<ojrRRO{xxG:n<1G<RxR)4:qjO}G:&j{<{G:CqOr1cG1Ox1rGoxO:)O1j4j::On^<^G1Aj<:jq<nq61RGnxx^OO^j4G.:^gr<q:<pG<1j4:r::1nO4xR1jOxxqG<r41.<^<x(:^<jq:R:{jx<qx{jGOeq{Gnoq1oOGx5a^rxj:1o:GRi<{xnXxO<R^G4<{1jY:xO^^OGj1On:rxO<<O4p<;njx<q^^1G41x44rOOj<G4:Rnj<x:q8<O4jROj:j1:^<xG1RO{1xG:j<1G<&U{QnoqjoGG:R1{<jx:OoO^nSG1qx1rRoxo q:{jj4::O{^<<11-jO11O^<OB1^nnxrROOOj4^1:jjr<::<8G11j{<x<O1o^4xRqjOrjqGO:G^R<{rxp:o<j<jR:1-xoqxO6GO4r{Gx:q1OOG12A1qxjrxo:G1w<1jj<:OO1^GGi{1n<:xqGon/jRon:nCO<^x4K1OjGrGqq^1Gq1xjGrOqj<j4:Rjj<j4qSoo4jRG{xr1:&<xG1ROjjxGq:oGG<g<{(xOqjo^G:4Ko^xx:noOqrPG{:x1x<on^444{jn{::::^<4j1RnOr:OGoBe11<nxxGq:^j4R1:1ur<Ox<.4OR-jGx^O1o44xR_jOrj:j<:GOR<jxx7qO<jGG4<j1xxqxo GOR{{Gx:5xo<G1!e{jxj:<o:^1O1{xn^:Ox{^Gzj{1{<RjOf^x!j1^n:rxO<O)r:1Oj?rGxj^R4o1xQqrOq=4o4:11j<{1q4<q4jROrnr1q<<xj^Rqj{xGq:n4G<R1{6xqqjoGG:41zjxn:<oO^-&G{nx1x<OG^L.x{jnO::n:^<4jRonOr4OG:re11<nxrmq1^j4:1:n1r<O{<;<O#4jGr1O1oO4x<{jOnj:4<:GoR<jnxA:G<j^GRjj1xxqxxqGOp^{GnxnRoo^4);{{xj:Go:<14j{xnq:OO^^G^G{1jOroO>^1*jRxn::1O<<jGo1OjorGq1^14<1x{GxrOj<j4:#nj<rxq-o:GoRG{^r1:j<xGMROjjx<q:ooG<_o{kx:qjOGo4R1{xxxxqoO^^UG{:j::<O4^&7q{jnG::q1<:;x1qnOr^OG^n_1;<{Gr_O{^j4r1:4:r<qjo44OR<jG1rO1<<4xRJ{^rjqn<:41R<jRx}xO<{GGN4j1nOqxO<GO4j<<x:::o<Gn_Q1GxjrGnxGRW{{x!q:OOO^G^:Ron<r^Olo<AjRxn:x-qj^x4x1Oj^rGO:^1^<R<jAxlOj<j4:4:j<xj:(<OGqRGRnr1q<<x^GPnjjx1q:OOG<Rx{!n:qRoG^oR11jxx:yoO^14x{:nj:<qG^Q=O{jnGrGo1^1#x11nO:1OG<:4G1<j^ryr:^j4j1:{mrnOx<x4OR^jGr:O1O<GqRb{(rjqj<:<:R<{jx1qOoqGGGnj1x<qxOGG1Rj{1x:rOo<Gx,21:oG:GOoG1G4{xnV:OO1oqX:1jn<xGOA^OKj1Gj^:1O1^x411On1rGq:<14<R^j&n{Oj<j4:11{<rxqq<OGoRGj:r1q<oGG/RjjjxGq:<RG<Cj<RxO:^oGqoR1{<xxx;OoG{fr{:no:<:<^)4:RrnGr7o1<jhx1?nOr1O:^:4q1<j<r&OO^j4GR{n1rnOx<r4O1jjGr::^<<41RTjOrjq<<:^1OOjxxoqO<RGG<rj1j<1jokGnRj{qx::ro<<xqG{On4:Go{G1Gx{xjGjqo{^:?:1on<:xOdoO4^1Gn1:1Ox^x^x1Oj1xrO:<o4<3GjfrOOjo<^o11jjrxnG<O4jRG{xx:q<o^GPGrjjxGq:O}^RRx{xxOnGoGG:R1{<nG:_ojGj_j{:nX:<OxrxNO14nGnxo1^xtx.)G::jOq^:441<Inru:Ox14G1{n1rrOx<n4O8j^<r:q^<<4RR?1jrj:<:r4RRxjxxqqO<jGG4:{Ox<:)o?GjRjRjx:r+OOGxtq{Ojr:Go:G14O1RnN:1oj<^(:{1n<rjO4^O4o1G{6:1O<^xGGRnnjrjO:Or4<1xj,rO:o<G4111j1rxqG<OGjojj:x^q<q4GhRjjjjG1x<1GrRx{^xOj{oG<:qF{<xR:ConGjB<{:j1ROox^o#O14nGn<o1<O<n14nj:jOr^:C11<{xrqOO<G4G11n1n1OxoGG<1jjrr::O<<4xR6{:xqqGoI41^Ojxx#qOo1GnR:{qx<rGoCGORj1<joq1o1Gx8:{Oxj:Go:^n%<1NnJr+oj^<}:1141:xOo^O^11Gn1:1:<xj4*1nnjroO::R4<-x^GrOq4<G4{11jOrxrwn:4jRqj:x^q<qOGBN:t{x^q1<1GnRx{%xOrjo^G:B<{<n :L:}Gj4<1jx1:nox<{5O{jnGrxOG^<4G1V1R:jOG^:G81{nxrrOOor4G1:n1xOq3<UG;1jjRr:O1<<4xRGjOxGqGoG41ROjxna1f<jGqR:Rox<:vo6<OO1{Gx{q1oqGxo4{Onj1jo:^G5<4:n_:noj^:5R{Rn::xOG^O6{1Gnx:1O<<R4U1Onjr<O:^14<1x{orOOj<G4:11j<rx:#n(4jRoj:n{q<<1G7Rj{^x^qj<1GqRx{4xOq1oGG:4^{<xx:aorGj3G{:x1rrox^a;O{jnG::o1<<q<1=nr:jnO^:4G1<nxR^OO<g4G1:n1r<OxO/::1jjOr:qG<<ORRM1Om1qG<j41R:jxj<qO<j:oR:{^x<qxodGORjRG4xq1orGx8o{O%4:Gq:x;N<{RnW:nojoO!:{1or:xOo^O441Gn::1:<r:401nnjrqO:on4<1xO:rOq/<G4{11jqrxq)xr4jROj:xGq<<xGZ4O^1xGqj<1G:Rx1xxOqjnZGr/^{<xx:moOGjfG:Ex1::ox^^=O14nGx:{=^<y116nr:jn^^:GAO^nxroOO<^4G1:n1n<{j<k4n1jjqr:r:<<GjrOjOxGqGOk41R<jxnG4j<jGrR:R4x<qxo.^:xG{GnSq1OjGxBU{Ojjx<o:^qS<{{n7xooj^G^r{1n{:xOx^O(j1Gn:14O<^R4)1Onjr<O:<1Gx1xj<rOr^<G4{111<xoqk<x4jRoj:1Rq<oj^nRO{4xGqR<1G<RxR!jGqjoqG:S^{<{<:3O:^uFG{1x1rjox^8vO11jj::Oo^<or1znO:jq<<js11jnxx{OO^j4G6:{Or<q^<V4r1j14r:O1O44xRrjOr1qG<x41R<G{x4qR<jGnR:j1x<rx4oGO8o{Gn4q1x{GxlUOGxj:qo:^qL<{jnVrOjO^G3j{11O:xOo^OGjo<n:rGO<^{4F^qnjrGjn^14r1xjorOOj<GG:o:j<r1q0:<4jRqj:r1{q<xG<ROjjxGq:<1<<Oj{WxxqjoOG:o^{<jxRGoO^CCG{jx1x:ox^%xn{jnO::OG^<5x1-nO1ROG^{(11<nxrmOOoj:<1:j^r<OR<0O<1j1G>xO1<r4xRojOR:qG<1yjR<jRx#o4<{G^R:{Gx<q1G^GORj{G:^qRooGx <xrxj:Go:4 Qo{nn_:OnR^Glj{1n<:xOv^OGjo<n:rGO<^14w^nnjnG{x^14:1xj<rOr=<G^:O!j<r1qP<x4j)Rj:n1rO<xG<RO{+xGjj<1G<jq{HxjqjoGG:R1{<xx1ooO^FeG{1x1:oox<G:o{jnO::rr^<!x1tnO1ROG^{i11<nxr/OOoj:<1:j^r<OR<FOn1j1GKxO1<r4xRojOj/qG<:<1R<{TxFqj<jGGR:{GqqqxowGOR:{^xrq1ox{4(;{1xjq1orGRs<{{n!:xGR^GM:{1nv:nO4^Omj<on:rqO<^{4y1OnjnG{x^1411xj:rOn{<GGxr<j<xoqtqr4jRGj:r1{G<nGjROjjxGqr<1<<Oj{Vn^qjoxG:<R{<jxRGoO^rwG1ox1nOox<G:o{jj(::Oo^<Sx1s{OR1OG<Oa1RGnxnxOO<1n:1:j{r<:G<>4O1j{<^1O1o<4xM:jOrjqGoxj<R<{nxg:1<jGGR:11jOqxOGGORR{Gjqq1o<<{}(1:xj:<o:^*k<RxI1:OO1^G4x{1!{:xO7jGhjR(n:xeO<^j4S1OxnrGqo^1G41xj1rOqjxj4:Rxj<jjqQo^4jRGG{r1q{<xGjROj{xGq1nOG<R1{p:1q{o^G:H({<x1o^oOGj+GjQxR:oox^bOr{jnO::O4^</x1w{OR1OG^{311qnx14OO<1n:1:j<r<r{<t4O1jjGROOR<n4xRUjOr{qGoxr{R<{GxZq{<jGGR:114Oqxo:GOE<{G{Gq1OO{}2>{Rxjrxo:G1H<1joO:OOO^GO4{1n<:xqG{j*j1{n:xnO<^x4PXO{1rGq<^14q1x{RrOOjOo4:Rxj<rjq/<:4jRGGnrR:H<xGjROjjxGr:n:GoJO{!nGqjxnG:R11nxx::oO^:kG{xx1r<Oj^SL{{j1<::OO^<Jx1<nOrBOG^RI11onxxGqG^j4O1:j1r<Ox<K^ORgjGrjO1<:4x41jOxGqr<rG^R<jxxFqq<jGoR:j1nrqxo?GOIH{Gx:q1o<:1 ({Oxj:oo:G1*<{xjo:Ooj^G.:{1n<:xOeq<Aj1On:rkO<^n4+R:^nrGOj^1G<1xjbrO:jn<4:RGj<r1qfq<4jR:jRrRqr<xG4ROj{xGqx<1G<o1{/xOqjo^G:R1{<xx1<oOGjDG{nx1:<ox^_<<{jnO::Oy^<Nn1>nOo1OG^nZ11Onxr,OO^jOS1rn1r<On<X4O1jjorjO1<<4x2<jOrjqG<:GrR<jxx7nrnnrHOO^^&q11nrroOx<oxrq1o<Gx_d{OxjOGrqG1T{{xnF:Or{roqj<qGx1n{<rnqZ1Gn{:1O<^xo1oo^lRnj1^14:1xj6rO1Bx^:norj<rRqT<O4jOOGrI>1_xRG RjjjxGq:jH:rOq^R4j14o^G:R1{<xx:LoOGj<G{:n<:<ox^lox<nGG1xnRxOcx1<nO:jOGxROR<{G1r+Or^j4G1:4qRr{{<Q4j1jjGr:njn^:1orGj4oqG<x41R<jx111o<jGqR:j1x<jnjo:nq4^qxrq1o<Gx.&{OxjqGrqGR><{xn/:Ooj^GK:{1n<r&OS^OZjGnGn{S{rx{:r1rnjrGOR^14<1xy^)o{xnKq{o4^:rxqo<O4jRG#14d{onq:o^wjjxGq:O7x^Rx{=xO:4oGG:R1R<4j:ioOGjCG{:n::<Oj{OyO{{nG:xo1^<yx1lR<:jOG^:4e1<nnryOOrR4G1:n1r<Ox<g4Olj^<r:O1<<4xR,jqrjqGxn41Rojxx4qO<jGGR:jGx<qxo>GORj{^x:q1nqGx74{Ox{:Go:G1G<<jnY:qoj^^m:RGn<xx{G^Oa{1Gnr:1O{^x^fo:njr^O:^R4<RojNnO{1<G4r11jorxq^<O^j4<j:rRq<<nGS0rjjx:qR<RGqRx{>xOq{oGGrR1{<nR:UoOGj}^{:x1:<ox<R%q{{nG:no1^O2xRDjR:jOG^:4r1<nnrUOO<K4G1:n1r<Ox<S4O.j{4r:O1<<4xR2jqrjqGox41Rojxx4qO<jGGR:{nx<qxoTGORj{^x:q1oxGx*4{Ox{:Go:G1G<{RnU:qoj^^V:RGn<xxOn^O2{1Gnr:1O{^x^NRRnjr^O:^R4<RqjAnO{1<G4r11jorxq^<O^j4<j:rRq<<nGh!rjjx:qR<RGqRx{4xOq{oGGrR1{<nR:VoOGj%^{:x1:<oxnjFO{{nG:no1^OzxR(GC:jOG^:4n1<nnrHOOrR4G1:n1rOOx<y4O+j^<r:O1<<4xRJjxrjxG:q41R<jxn4qOo1GGR:^4x<qxofG:Rj{Gx:r1jOGxkB{Oxj:GojG1G<<jn8:Ooj^Gy:1jn<:xmo^Odj1Gn::1O<^x41:^njxGO:qq4<1nj_rOOj<O1n11j<rxxr<O4{RGj:e4q<<xGDR:jjxGq:O1rORx{?xOqjoGGjR1R<4j:SoOGjHG{:nj:<qxxGsO{jnG::o1<^ixRG^o:jO^^:4<1<nxrK:Ox14G1rn1roOx<q4O1jGor:q3<<4jRAjOrjrGnx41ROjxxGqOo&GG4:<bx<qjoZG:Rj1Cx:rYRxGx=^{Onn:Go:G1c<^Rny:qoj^o}:{Rn<:xj^^OD{1Gnx:1O<^x^,b:njr^O:^R4<ROj3nO{1<G4n11j<rxqR<O^jO<j:xGq<<xGzR1jjxG{{<1GoRx{<xOq{oGG:<j{oxx:+oqGj6G{:x1:Oox^N&O{{nG::o1^<4+1&nO:jnor{qx<r4{z<On^j4G1:n1RqOx<d4O1jjGr:O1O<^jR?jOrjqG<:4RR<jxO{qO<1GGRrj1x<qxo(:nRj{Gx::Po<GnC0{ORx:^o:G16o{xnh:Ooj^Gf:{1n<:nOy^Osj1Gn1:1O<^xO^<nG:RqjnnG4r1xjArOOjxo4:11j<rxq.<O4j4G1xr1q<<xGbROj{xGq:4nG<Rj{WxOqjoGG:R1^rxx:}oOG1AG{rx1:<x:^4%O{jn^::o1^<(x1+nO:jOG<0I11<nxrMOj^j4G1:*1Ro{jxo:<O!j<r:qG<<4xRH^{R{{nnj4RR<jxxEqO<jGG4j)1x<qRoPGORj4:4x{Rj4:RSm{xxj:Go:xGOo<{4n:OOG^G+:{1gq1RjjrnORoOn:rOO<^x4d<x^4L<jrnGq{orG1xrOj<G4:Z&<^rxqu<OGGRGj:r1r<njG&ROjjxGq:o4G<Rx^^xOq{oGG:R1{<xxx=j:Gjf^{:xR:<OG^#Xj<Rn^:ro1^nEx14nO:jOG^j141<nxrVO{^j4^1:jGOqOx<+4OR<jGrrO1oOj7R.jqrjqO<:41R<jx{1qO<jGGRxj1xoqxob:rRj{Gx:qRo<Gxy8RO41:Go:G12<{xno:Oqjx<>:{1n<:xO3^qaj&:3j:1O<^xGG1On{rGOx^14:n{j#rOOjo<4:1Rj<rx{^<O4jRGjrr1q<<x<?4:jjxGq:<1G<w4{DxO<roGGxR1{<xx:koOGjOq{:x1:<oj^!Vq{jnG{OoR^<+x14nO:jOG^:K11<nxrbqx^j4G1:n1r1Ox<V4O^R^4={1%xqqR<^Gqex1o<:GGR<jxxYnnnxrqOoj1xnqxo;GOoG^q,nRGj^rj^G{OxR:Go:G1qG^RGq:OO:^GP:{1Ro1j{^xoq:oqGjR^nqx^:x<nnjrOO:^14<^1Go811=<^4:11j<rxqd<OO4^Gj:x^q<<xGkO:^n4q1OnGG< <{UxOqjr<:rO4^R44RGjox4qU^jx1:oox^IcO^onGr^o1^<LxG<4nRRjoxxqqo<G1Rr{oxx4G1jn1r<Ox:O:oox^Or:qO<<4xRv4r)41Onj:qOG^44^qq<jGGR:j1x<qxqjOORj{qx:q1o<qlqG^q4r1qo:^G;<{xnMR^n{xOqS{1nR:xO_^Oo^<qGj1GjrnG:<^rGoTjj{^14o1xjNrOj<<GG:11j<rxn{xqr<<d^q4G{{n3q^OxG{uo1^nqrGO4{4xOqjoGG:R1{<:xnRqGGj,G{:j1xGox^4VO{jnGrqo1o<4{1tnq:jO^^:4q1<{xx{OO^{4G1rn1rROxoG4j1jj<r:q1<<4xRQ1OnOqG<x41ROjxx:qO<j^^R:{4x<qxoEGORjRGnGq1oqGxw^{On{:Gq:^^D<{Rn3:qoj^:X:R5jR:xOO^O4x1Gn::1qOo,4J1{njr<O:^14<kx^GrOq^<G4R11{.rxr+<^4jRrj:xoq<<nGN?:1^xG:X<1GqRx{wxOrjo^G:!O{<nG:WoxGjGG1ox1:{ox^4yO14nGx:OR^<4^1WnR:jq<^:N11RnxrxOO^{4G1:n1n<:^<uGN1jjjr:qn<<^xtrjOxOqGoG41pqjxjfrG<jGjR:{:x<::o0GO4^{Gndq1o1GxNU{Oxjjoo:^4#<{xn-::ojoGqx{1nq:xO^^O4O1G{:1jO<^{4A1rnjxOO:^1^q1xjGrOO1<G4x11{<RGq4<:4jRrj:x7q<<xRGROj1xGqx<1G<Rx{AR<q{oGG:RR{<xx:5oqGjbG{:x1x4ox^*aO{{nG::o1^<-x1aGx<jOG<_B11<nx{^jqx:q1<x4RRq{o<4n+:oon^4!q{{{^GRjOx4qG<:41o:GR(j{qjoGGRjj1x<qxj<:qOR^{x::<o<GxuN4q5RROj4x<Or{xnq:Ooj^GO1ouG^RqnGq{<11Gjs:1O<^xO+ooGRRn{jxq:^o:j(rjOj<G4:OgGrYq{Rnj:4RGj{r1q<<xrkorG{_11<<RG<Rx{,xOqj4Gqx^1{<x{:QoOGjq+^{Go:<OX^+fO{j7ORqj1rOOnoGnq:jOG^:s11<rxRRxO^j4q1:n1r<n7nGqqorGqrrO1<<4xRyjOrjqG<:41RxjxxAqO:Rr4O<^{4Ox{oeGqRj{Gx:{qo<GRS!{Oxj{=jqxGO{<wndr4oj^Gw:GqG41njqrn<Ro4G<R{{OO{4)1xnjrGO:x<q{o:G<rqOj<G4:11j<rxoI:o4jRrj:r1q<:1:oOr<#4<1qjqG<mx{bxOqjr^:xq4<^4ORojxr4oG<qG41{j1rrqo<xnG:xo1^<8xG1Go:jOq^:z11<G1R4j:x:qq1:j^r<Ox<h:rojG^KR{j<<4RRujOrjjq:j:qO4Rjxuqr<jGGR:Gq6r1{r{GORj{Gx:14o<GjbX{Oxj:Go:<1qO{xn^:Ooj^G4q{1{<RjOm^rzj1on:rnO<<Q:^1qn{rGq4^14o1xjLrOqJ4o4:11j<x^qg<q4jJ<O1r1q:<x^{ROjjxGq1j4GoR1{SxRqjo^G:R1{<x1o^oOGjAG14x1:oox^<{r{jnG::O:^<In1Bj:^GOG^jB1R{nxrHOO^jFO1:j4r<O{<U4x1j{<^1O1<:4xR^jOrjqG<:qjRojRxEqO<jG^R:{<4qqno4GO4^{Gxrq1o<GxT<xrxj:Go:<oC<{nnJr:{n^Gy1{1jo:xOA^OGjoGn:r<O<<!4/1{njx<Ox^14n1xjnrOOj<GGxD4j<xGq2o<4jRGj:nV:R<xGrRO{qxGq:<1G<4o{axjqjonG:J!{<n}^ooO^GeGRox1:oox^42O1&:o::o1^<Gq1,nq:jq<nq!11xnxx4OO^j4Gf:G1r<qv<c4j1jjrr::Fo44xRqjOxxqG<:413O{<xFq1<jG{R:j1x<:jorGOho{Gn^q1o<Gx-Y1Rxj::o:^qM<{jnNrOjO^GH{{1j::xOO^O!j<qn:r%O<^R4w1qnjrGjn^14O1xj?rOOj<G^:OLj<r{qK<O4jk4j:n34x<xG<RO1GxGq:<1G<o:{4xnqjoGG:RR{<njRRoO^GXGR<x1:<oxoKq:{jn:::O<^<4O1/j:^GOG^RP1R<nxr_OO<1n:1:jOr<On<>4O1j{<^1O1<{4x =jOrjqGO:rNR<{<xvqO<j^4R:114OqxoxGOCO{Gj*q1q<rjD(1pxj:jo:<78<{x^j:OOG^G4G{1nO:xq8xPDj1qn:rOO<<b4-1OG4rGOx^14r1xj4rOq1j44:Rvj<n<q-<O4j4G^xr1qO<xGGRO14xGq:n4G<R{{zxqqjoGG:41<Oxx:^oOGReG1nx1x<jj^F+r{jno::O<^<CxGOnqriOG^:Z11<nxrPRG^j4<1:jGr<Oj<D4jx4jGrxO1qj4xR4jOr{qG<jR4R<jxx>x1<jG^R:{GqqqxowGO<G{Gxrq1OOxr!J{rxjrjo:G1=<RxG1:OoR^GNn{1n{:xOwoDQj1On::RO<^x4iwOjOrGOj^14:1x{^rO:j<O4:RGj<r1q5<j4jRG{:r1qr<xGGROjjxGq:OoG<R{{/xnqjo^G:4,{xxx:^oO^4#G{:x1x<x4^4Dr{jno::OG^<4j1rnOr2OG<1X11<nxnEqO^j4q1:n1r<qr<3^OR4jGr{O1<r4xXqjOnjqr<:G<R<jxxV:o<jGGRrj1xqqxoOGOR{{GnxR{o<G{!u1>xj:Go:<u:^{xn<:OO4^G!:{1{<RjOb^xhj1On:xrO<ox:G1Oj4rGO:^14O1xjl{jO{<:4:1Rj<rxqK<O:4RGjnr1qx<xG4ROjjR_qr<1G<Rn{uxOqjo<G:R1{<xx");local n=0;b.xtKEVtSL(function()b.YmAKOHpI()n=n+1 end)local function j(r,j)if j then return n end;n=r+n;end local r,n,h=l(0,l,j,s,b.WttJdngF);local function d()local n,r=b.WttJdngF(s,j(1,3),j(5,6)+2);j(2);return(r*256)+n;end;local k=true;local k=0 local function _()local j=n();local n=n();local e=1;local o=(r(n,1,20)*(2^32))+j;local j=r(n,21,31);local n=((-1)^r(n,32));if(j==0)then if(o==k)then return n*0;else j=1;e=0;end;elseif(j==2047)then return(o==0)and(n*(1/0))or(n*(0/0));end;return b.gtJnFVwJ(n,j-1023)*(e+(o/(2^52)));end;local c=n;local function p(n)local r;if(not n)then n=c();if(n==0)then return'';end;end;r=b.AVnzSvrr(s,j(1,3),j(5,6)+n-1);j(n)local j=""for n=(1+k),#r do j=j..b.AVnzSvrr(r,n,n)end return j;end;local c=#b.MOBkfqRC(a('\49.\48'))~=1 local j=n;local function ej(...)return{...},b.JeDusQks('#',...)end local function nj()local a={};local j={};local s={};local k={s,a,nil,j};local j=n()local l={}for o=1,j do local r=h();local n;if(r==3)then n=(h()~=#{});elseif(r==1)then local j=_();if c and b.QUvvurXA(b.MOBkfqRC(j),'.(\48+)$')then j=b._esxHZfF(j);end n=j;elseif(r==0)then n=p();end;l[o]=n;end;for a=1,n()do local j=h();if(r(j,1,1)==0)then local f=r(j,2,3);local h=r(j,4,6);local j={d(),d(),nil,nil};if(f==0)then j[e]=d();j[t]=d();elseif(f==#{1})then j[e]=n();elseif(f==u[2])then j[e]=n()-(2^16)elseif(f==u[3])then j[e]=n()-(2^16)j[t]=d();end;if(r(h,1,1)==1)then j[o]=l[j[o]]end if(r(h,2,2)==1)then j[e]=l[j[e]]end if(r(h,3,3)==1)then j[t]=l[j[t]]end s[a]=j;end end;k[3]=h();for j=1,n()do a[j-(#{1})]=nj();end;return k;end;local function rj(r,n,j)local o=n;local o=j;return a(b.QUvvurXA(b.QUvvurXA(({b.xtKEVtSL(r)})[2],n),j))end local function c(jj,h,a)local function rj(...)local d,_,m,nj,k,n,s,z,y,p,u,r;local j=0;while-1<j do if 2<j then if j>=5 then if 1<=j then for n=48,93 do if j~=5 then j=-2;break;end;r=l(7);break;end;else j=-2;end else if-1~=j then repeat if j~=3 then p=b.JeDusQks('#',...)-1;u={};break;end;z={};y={...};until true;else p=b.JeDusQks('#',...)-1;u={};end end else if 1<=j then if j~=0 then for r=37,87 do if j~=2 then m=l(6,4,3,92,jj);k=ej nj=0;break;end;n=-41;s=-1;break;end;else n=-41;s=-1;end else d=l(6,76,1,29,jj);_=l(6,24,2,30,jj);end end j=j+1;end;for j=0,p do if(j>=m)then z[j-m]=y[j+1];else r[j]=y[j+1];end;end;local jj=p-m+1 local j;local l;local function p(...)while true do end end while true do if n<-40 then n=n+42 end j=d[n];l=j[g];if 185>=l then if l<93 then if l<=45 then if 23<=l then if l<=33 then if l>=28 then if l>=31 then if l<32 then local _,z,u,c,p,l,a,m,y,b;for l=0,5 do if l<=2 then if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>1 then r(j[o],j[e]);n=n+1;j=d[n];else l=0;while l>-1 do if l>=3 then if 5<=l then if 2<=l then for j=27,68 do if l~=5 then l=-2;break;end;r(p,c);break;end;else r(p,c);end else if 4>l then c=_[u];else p=_[z];end end else if 0>=l then _=j;else if l>0 then repeat if l~=1 then u=e;break;end;z=o;until true;else u=e;end end end l=l+1 end n=n+1;j=d[n];end end else if 3>=l then a=j[o]m,y=k(r[a](f(r,a+1,j[e])))s=y+a-1 b=0;for j=a,s do b=b+1;r[j]=m[b];end;n=n+1;j=d[n];else if l>1 then for t=24,80 do if l~=5 then a=j[o]r[a]=r[a](f(r,a+1,s))n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];break;end;else r[j[o]]=h[j[e]];end end end end else if 28<l then for h=44,81 do if l>32 then local n=j[o]r[n]=r[n](f(r,n+1,j[e]))break;end;for l=0,6 do if l<=2 then if l<1 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else if l>1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end else if l<5 then if l==4 then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else if l~=3 then repeat if 6>l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end break;end;else for l=0,6 do if l<=2 then if l<1 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else if l>1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end else if l<5 then if l==4 then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else if l~=3 then repeat if 6>l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end end else if 28<l then if 30~=l then if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;else local s,f;for l=0,9 do if 5<=l then if 6<l then if l>=8 then if 9~=l then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]=a[j[e]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=3 then for a=32,76 do if 5<l then s=j[o];f=r[j[e]];r[s+1]=f;r[s]=f[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 2<=l then if l<3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>=2 then for f=17,88 do if l~=3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=-3 then repeat if 0~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else local l,b,u,h;for a=0,4 do if a>1 then if 2>=a then r(j[o],j[e]);n=n+1;j=d[n];else if a>2 then for t=21,91 do if 3<a then l=j[o]r[l]=r[l](f(r,l+1,s))break;end;l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];break;end;else l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];end end else if a>=-4 then repeat if 0~=a then r(j[o],j[e]);n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end else if l>=25 then if 25>=l then local s;for l=0,9 do if l<5 then if 2>l then if-3<=l then for t=31,58 do if l<1 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end else if 2<l then if l>2 then repeat if 4~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end else if 6<l then if 7<l then if 8~=l then r[j[o]]={};else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 3~=l then for f=36,88 do if l>5 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end else if 23<l then for s=30,68 do if 27~=l then local s,k,_,h,b,u,l;for l=0,6 do if l<=2 then if 1>l then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else if 1<l then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 5>l then if 0~=l then repeat if l~=3 then l=0;while l>-1 do if l<3 then if 1<=l then if l>=-2 then repeat if 2>l then _=o;break;end;h=e;until true;else h=e;end else k=j;end else if l>=5 then if l~=2 then for j=44,93 do if l>5 then l=-2;break;end;r(u,b);break;end;else l=-2;end else if 2<=l then for j=42,85 do if 3~=l then u=k[_];break;end;b=k[h];break;end;else b=k[h];end end end l=l+1 end n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 4<l then for t=23,95 do if 5<l then r(j[o],j[e]);break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end end end break;end;local l;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else local k,s,_,h,b,u,l;for l=0,6 do if l<=2 then if 1>l then k=j[o]r[k]=r[k](f(r,k+1,j[e]))n=n+1;j=d[n];else if 1<l then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 5>l then if 0~=l then repeat if l~=3 then l=0;while l>-1 do if l<3 then if 1<=l then if l>=-2 then repeat if 2>l then _=o;break;end;h=e;until true;else h=e;end else s=j;end else if l>=5 then if l~=2 then for j=44,93 do if l>5 then l=-2;break;end;r(u,b);break;end;else l=-2;end else if 2<=l then for j=42,85 do if 3~=l then u=s[_];break;end;b=s[h];break;end;else b=s[h];end end end l=l+1 end n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 4<l then for t=23,95 do if 5<l then r(j[o],j[e]);break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end end else if l>21 then repeat if 24>l then local j=j[o]local o,n=k(r[j](f(r,j+1,s)))s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;break;end;local h;for l=0,6 do if 3<=l then if l<=4 then if l<4 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=2 then repeat if l~=6 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);end end else if l<=0 then r(j[o],j[e]);n=n+1;j=d[n];else if l>=-3 then for s=37,84 do if 2>l then h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end end end end until true;else local l;for h=0,6 do if 3<=h then if h<=4 then if h<4 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if h>=2 then repeat if h~=6 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);end end else if h<=0 then r(j[o],j[e]);n=n+1;j=d[n];else if h>=-3 then for s=37,84 do if 2>h then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end end end end end end else if 39>=l then if 37<=l then if l>37 then if 38<l then local n=j[o]local e={r[n](r[n+1])};local o=0;for j=n,j[t]do o=o+1;r[j]=e[o];end else r[j[o]]=r[j[e]][r[j[t]]];end else local l,_,c,a,u;for h=0,4 do if h<2 then if h>=-4 then for t=18,65 do if h>0 then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end else if h<3 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if h~=-1 then repeat if 3<h then l=j[o];u=r[l];for j=l+1,s do b.dRMZmTsQ(u,r[j])end;break;end;l=j[o]_,c=k(r[l](f(r,l+1,j[e])))s=c+l-1 a=0;for j=l,s do a=a+1;r[j]=_[a];end;n=n+1;j=d[n];until true;else l=j[o];u=r[l];for j=l+1,s do b.dRMZmTsQ(u,r[j])end;end end end end end else if l<35 then local n=j[o];local o=r[j[e]];r[n+1]=o;r[n]=o[j[t]];else if l<36 then local j=j[o]r[j]=r[j](r[j+1])else local n=j[o]local e={r[n](r[n+1])};local o=0;for j=n,j[t]do o=o+1;r[j]=e[o];end end end end else if l>42 then if l>43 then if l>43 then for s=38,74 do if l<45 then local h;for l=0,6 do if 2<l then if l<5 then if l<4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 5<l then h=j[o]r[h](f(r,h+1,j[e]))else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if-3~=l then repeat if 2>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);end else if l>40 then if 37<=l then for f=22,95 do if 42>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];break;end;local f,s;for l=0,8 do if 3<l then if 6<=l then if l<7 then f=j[o];s=r[j[e]];r[f+1]=s;r[f]=s[j[t]];n=n+1;j=d[n];else if 8==l then if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;else f=j[o]r[f]=r[f](r[f+1])n=n+1;j=d[n];end end else if 1<l then for f=34,90 do if 5~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<2 then if l>=-4 then repeat if 0<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l>-1 then for f=24,93 do if l<3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end break;end;else local f,s;for l=0,8 do if 3<l then if 6<=l then if l<7 then f=j[o];s=r[j[e]];r[f+1]=s;r[f]=s[j[t]];n=n+1;j=d[n];else if 8==l then if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;else f=j[o]r[f]=r[f](r[f+1])n=n+1;j=d[n];end end else if 1<l then for f=34,90 do if 5~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<2 then if l>=-4 then repeat if 0<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l>-1 then for f=24,93 do if l<3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else local j=j[o]r[j](f(r,j+1,s))end end end end else if l<11 then if l<5 then if l>=2 then if 2<l then if l==4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else local e=j[e];local n=r[e]for j=e+1,j[t]do n=n..r[j];end;r[j[o]]=n;end else for l=0,9 do if l>4 then if 7>l then if 4~=l then for f=35,93 do if 6>l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if 7<l then if l~=9 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][r[j[t]]];end else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if l<=1 then if 0<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 3<=l then if 2~=l then repeat if l~=3 then r[j[o]]=r[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]];n=n+1;j=d[n];end else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end end else if-4<=l then repeat if l>0 then for l=0,4 do if l<=1 then if 0~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=3 then if l>3 then r[j[o]]=h[j[e]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end break;end;local l,b,u,h;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];until true;else local l,b,u,h;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end else if l>=8 then if 9<=l then if 10==l then local l,_,u,b;for h=0,6 do if 3<=h then if h<5 then if 2~=h then for l=24,58 do if 3<h then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if h~=5 then r(j[o],j[e]);else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 1>h then r(j[o],j[e]);n=n+1;j=d[n];else if 2>h then l=j[o]_,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 b=0;for j=l,s do b=b+1;r[j]=_[b];end;n=n+1;j=d[n];else l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];end end end end else local l;for h=0,6 do if h<=2 then if h>0 then if-2<h then repeat if 2~=h then r[j[o]]=r[j[e]];n=n+1;j=d[n];break;end;l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];until true;else l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if h<=4 then if h>2 then for t=21,96 do if 4~=h then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end else if h>=2 then for s=18,56 do if h~=6 then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]]/j[t];break;end;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end end end end else if(r[j[o]]<=j[t])then n=j[e];else n=n+1;end;end else if l>5 then if 7>l then for l=0,6 do if l>=3 then if l>=5 then if 6~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];end else if 0<l then repeat if l~=3 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end else if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 2~=l then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]={};n=n+1;j=d[n];end end end end else r[j[o]]();end else for l=0,6 do if l<3 then if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 2>l then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]={};n=n+1;j=d[n];end end else if l<5 then if l>0 then repeat if 4>l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if l~=1 then for f=44,82 do if 5<l then r(j[o],j[e]);break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end end end else if l>=17 then if 19>=l then if l>17 then if 19==l then for l=0,4 do if 1>=l then if l>=-4 then repeat if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 4~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;end end end end else local _,m,c,z,p,l,a,b,g,y,u;for l=0,6 do if 2<l then if 4<l then if 3~=l then for e=17,52 do if 6>l then a=j[o]g,y=k(r[a](r[a+1]))s=y+a-1 u=0;for j=a,s do u=u+1;r[j]=g[u];end;n=n+1;j=d[n];break;end;a=j[o]r[a]=r[a](f(r,a+1,s))break;end;else a=j[o]r[a]=r[a](f(r,a+1,s))end else if-1<=l then repeat if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;a=j[o];b=r[j[e]];r[a+1]=b;r[a]=b[j[t]];n=n+1;j=d[n];until true;else a=j[o];b=r[j[e]];r[a+1]=b;r[a]=b[j[t]];n=n+1;j=d[n];end end else if l<1 then l=0;while l>-1 do if 3>l then if 0<l then if-3~=l then for j=14,52 do if 2~=l then m=o;break;end;c=e;break;end;else c=e;end else _=j;end else if l<5 then if 1<=l then for j=43,83 do if 4>l then z=_[c];break;end;p=_[m];break;end;else p=_[m];end else if 6>l then r(p,z);else l=-2;end end end l=l+1 end n=n+1;j=d[n];else if-1~=l then for t=23,54 do if l~=2 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end else local l,u,_,h,c;for a=0,5 do if a<=2 then if 1<=a then if 1~=a then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if a<4 then l=j[o]u,_=k(r[l](f(r,l+1,j[e])))s=_+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];else if a>4 then l=j[o];c=r[l];for j=l+1,s do b.dRMZmTsQ(c,r[j])end;else l=j[o]u,_=k(r[l](f(r,l+1,s)))s=_+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];end end end end end else if l>=21 then if 22>l then r[j[o]]=h[j[e]];else local s;for l=0,6 do if l<3 then if 0<l then if 0~=l then for f=49,96 do if 1~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if l<5 then if 4>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if 3<l then repeat if l>5 then s=j[o]r[s](f(r,s+1,j[e]))break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else s=j[o]r[s](f(r,s+1,j[e]))end end end end end else local l,f;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];f=r[j[e]];r[l+1]=f;r[l]=f[j[t]];n=n+1;j=d[n];l=j[o]r[l](r[l+1])n=n+1;j=d[n];r[j[o]]=(j[e]~=0);n=n+1;j=d[n];h[j[e]]=r[j[o]];n=n+1;j=d[n];do return end;end end else if l<14 then if 11>=l then local f,k,s,a,b,l;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if 0<l then if l>1 then s=e;else k=o;end else f=j;end else if 5<=l then if 5==l then r(b,a);else l=-2;end else if l>3 then b=f[k];else a=f[s];end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};else if l>10 then for n=23,78 do if 12~=l then local d=j[o];local e={};for j=1,#u do local j=u[j];for n=0,#j do local n=j[n];local o=n[1];local j=n[2];if o==r and j>=d then e[j]=o[j];n[1]=e;end;end;end;break;end;r[j[o]][r[j[e]]]=j[t];break;end;else local d=j[o];local o={};for j=1,#u do local j=u[j];for n=0,#j do local j=j[n];local e=j[1];local n=j[2];if e==r and n>=d then o[n]=e[n];j[1]=o;end;end;end;end end else if l<=14 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];else if l>=12 then for d=45,54 do if 16~=l then if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]]+r[j[t]];break;end;else r[j[o]]=r[j[e]]+r[j[t]];end end end end end end else if l>68 then if 80>=l then if 74<l then if l>77 then if l<79 then local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};else if 76<l then repeat if l~=80 then local l,_,u,h,c;for a=0,4 do if 1>=a then if-2~=a then for l=16,62 do if 1>a then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end else if a<3 then r(j[o],j[e]);n=n+1;j=d[n];else if a>=-1 then repeat if a~=4 then l=j[o]_,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=_[h];end;n=n+1;j=d[n];break;end;l=j[o];c=r[l];for j=l+1,s do b.dRMZmTsQ(c,r[j])end;until true;else l=j[o]_,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=_[h];end;n=n+1;j=d[n];end end end end break;end;local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))until true;else local l,u,_,h,c;for a=0,4 do if 1>=a then if-2~=a then for l=16,62 do if 1>a then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end else if a<3 then r(j[o],j[e]);n=n+1;j=d[n];else if a>=-1 then repeat if a~=4 then l=j[o]u,_=k(r[l](f(r,l+1,j[e])))s=_+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];break;end;l=j[o];c=r[l];for j=l+1,s do b.dRMZmTsQ(c,r[j])end;until true;else l=j[o]u,_=k(r[l](f(r,l+1,j[e])))s=_+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];end end end end end end else if 76<=l then if 72<l then repeat if 76~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][r[j[e]]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;local j=j[o]r[j]=r[j](r[j+1])until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][r[j[e]]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end else r[j[o]]=(j[e]~=0);n=n+1;end end else if 72<=l then if l<=72 then local f;for l=0,9 do if 4>=l then if l>=2 then if l<3 then f=j[o]r[f]=r[f](r[f+1])n=n+1;j=d[n];else if l~=4 then r[j[o]]=r[j[e]];n=n+1;j=d[n];else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if l==0 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]];n=n+1;j=d[n];end end else if 6<l then if l>7 then if 4~=l then repeat if l~=9 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];until true;else r[j[o]]=h[j[e]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 4~=l then for f=35,89 do if 5<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else if l>=69 then repeat if l<74 then r[j[o]]=#r[j[e]];break;end;r[j[o]]=r[j[e]]*r[j[t]];until true;else r[j[o]]=#r[j[e]];end end else if l>=70 then if l>=67 then repeat if l~=71 then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;local o=j[o];local t=r[o+2];local d=r[o]+t;r[o]=d;if(t>0)then if(d<=r[o+1])then n=j[e];r[o+3]=d;end elseif(d>=r[o+1])then n=j[e];r[o+3]=d;end until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end else local f,l;f=j[o];l=r[j[e]];r[f+1]=l;r[f]=l[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end else if 86<l then if l<90 then if 87>=l then local h,s;for l=0,6 do if l<=2 then if 0>=l then h=j[o]r[h](f(r,h+1,j[e]))n=n+1;j=d[n];else if l~=-2 then for f=15,52 do if 2~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5<=l then if 6>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else h=j[o];s=r[j[e]];r[h+1]=s;r[h]=s[j[t]];end else if l==4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else if l~=85 then repeat if 89>l then if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;break;end;r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);until true;else if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;end end else if 91>l then local s;for l=0,6 do if l>2 then if l>4 then if l~=3 then repeat if l<6 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if-1<l then for f=34,89 do if 3<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 0>=l then r(j[o],j[e]);n=n+1;j=d[n];else if-1~=l then repeat if l<2 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end end end else if l~=91 then local b,c,u,_,p,l,a,z,y,m;l=0;while l>-1 do if l<=2 then if l>=1 then if-3<=l then repeat if l>1 then u=e;break;end;c=o;until true;else c=o;end else b=j;end else if l<5 then if l>1 then repeat if 3~=l then p=b[c];break;end;_=b[u];until true;else _=b[u];end else if l~=5 then l=-2;else r(p,_);end end end l=l+1 end n=n+1;j=d[n];a=j[o]z,y=k(r[a](f(r,a+1,j[e])))s=y+a-1 m=0;for j=a,s do m=m+1;r[j]=z[m];end;n=n+1;j=d[n];a=j[o]r[a]=r[a](f(r,a+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if 0>=l then b=j;else if-1<=l then repeat if 2~=l then c=o;break;end;u=e;until true;else u=e;end end else if 4<l then if l>1 then repeat if 6~=l then r(p,_);break;end;l=-2;until true;else r(p,_);end else if 3~=l then p=b[c];else _=b[u];end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};else for l=0,8 do if l<4 then if l>=2 then if 0<=l then repeat if l~=2 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if l~=-1 then repeat if l~=1 then r[j[o]]={};n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]={};n=n+1;j=d[n];end end else if 5<l then if l>6 then if 3<=l then for f=41,84 do if 7<l then r[j[o]][j[e]]=r[j[t]];break;end;r[j[o]]={};n=n+1;j=d[n];break;end;else r[j[o]]={};n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end else if l>=0 then for f=35,79 do if 4~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end end end else if l>83 then if 84>=l then if(r[j[o]]~=j[t])then n=n+1;else n=j[e];end;else if l>84 then for n=49,97 do if l~=86 then r[j[o]]=j[e]/r[j[t]];break;end;r[j[o]]=a[j[e]];break;end;else r[j[o]]=j[e]/r[j[t]];end end else if 82<=l then if 80<l then for h=30,65 do if l~=83 then local h;for l=0,6 do if l>2 then if 5<=l then if 2~=l then repeat if l~=6 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);end else if l~=-1 then repeat if 3~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<1 then r(j[o],j[e]);n=n+1;j=d[n];else if l>-2 then repeat if l>1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end end end end break;end;local h,k,_,b,u,c,l,p;for l=0,9 do if 4>=l then if 2<=l then if l>2 then if 4>l then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 1>l then h=j[o]r[h]=r[h](f(r,h+1,s))n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 6>=l then if 4<=l then repeat if 5~=l then l=0;while l>-1 do if 2>=l then if l>=1 then if l==2 then b=e;else _=o;end else k=j;end else if l>4 then if 5~=l then l=-2;else r(c,u);end else if l>=2 then for j=15,97 do if 3~=l then c=k[_];break;end;u=k[b];break;end;else u=k[b];end end end l=l+1 end n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else if 7>=l then l=0;while l>-1 do if 3<=l then if 5>l then if-1<l then repeat if 4~=l then u=k[b];break;end;c=k[_];until true;else u=k[b];end else if 5~=l then l=-2;else r(c,u);end end else if 0<l then if 1==l then _=o;else b=e;end else k=j;end end l=l+1 end n=n+1;j=d[n];else if l~=8 then h=j[o]r[h]=r[h](r[h+1])else h=j[o];p=r[j[e]];r[h+1]=p;r[h]=p[j[t]];n=n+1;j=d[n];end end end end end break;end;else local h;for l=0,6 do if l>2 then if 5<=l then if 2~=l then repeat if l~=6 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);until true;else r(j[o],j[e]);end else if l~=-1 then repeat if 3~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<1 then r(j[o],j[e]);n=n+1;j=d[n];else if l>-2 then repeat if l>1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end end end end end else for l=0,4 do if 2<=l then if l<3 then r[j[o]]={};n=n+1;j=d[n];else if l~=0 then repeat if 3~=l then r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];end end else if-4~=l then for f=13,77 do if l>0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end end end end end else if 56<l then if 63<=l then if 65<l then if l<=66 then for l=0,4 do if l<2 then if-4~=l then repeat if 0<l then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if l<3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 0<=l then for f=27,72 do if 3~=l then if(r[j[o]]~=r[j[t]])then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else if l>65 then repeat if l>67 then r[j[o]]=r[j[e]]*r[j[t]];break;end;local j=j[o]r[j]=r[j](f(r,j+1,s))until true;else r[j[o]]=r[j[e]]*r[j[t]];end end else if 63<l then if l~=63 then for s=12,57 do if l<65 then local s;for l=0,4 do if 1<l then if l>=3 then if l>=2 then for f=16,76 do if 4>l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];break;end;else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if 1>l then r(j[o],j[e]);n=n+1;j=d[n];else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end end break;end;local s;for l=0,6 do if l>2 then if l<5 then if l>0 then repeat if 3<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>3 then for f=37,64 do if l~=5 then r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 1<=l then if-2~=l then for t=22,65 do if l<2 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else s=j[o]r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end end break;end;else local s;for l=0,4 do if 1<l then if l>=3 then if l>=2 then for f=16,76 do if 4>l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];break;end;else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if 1>l then r(j[o],j[e]);n=n+1;j=d[n];else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end end end else r[j[o]][j[e]]=j[t];end end else if 59<l then if 61>l then if(r[j[o]]<=j[t])then n=n+1;else n=j[e];end;else if l>59 then for f=21,67 do if l<62 then local f,u,k,s,b,l;for l=0,9 do if 4>=l then if l>1 then if l>2 then if l==3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else l=0;while l>-1 do if 3>l then if 1>l then f=j;else if l>=-2 then repeat if l<2 then u=o;break;end;k=e;until true;else k=e;end end else if 5<=l then if 1~=l then repeat if 6~=l then r(b,s);break;end;l=-2;until true;else r(b,s);end else if 3<l then b=f[u];else s=f[k];end end end l=l+1 end n=n+1;j=d[n];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 1~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 6>=l then if 5<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 8>l then r[j[o]]=a[j[e]];n=n+1;j=d[n];else if l~=7 then for f=20,68 do if l>8 then r[j[o]]=h[j[e]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];end end end end end break;end;local j=j[o]r[j](r[j+1])break;end;else local j=j[o]r[j](r[j+1])end end else if 58>l then for l=0,6 do if 2<l then if 4<l then if l~=6 then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]={};end else if-1<l then repeat if 4>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 0<l then if-3<l then for f=25,89 do if l~=2 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end else if 55<l then for f=40,87 do if l~=58 then r[j[o]]=r[j[e]]+j[t];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end end else if 50<l then if 54>l then if l>=52 then if 51<l then repeat if 53~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];r(j[o],j[e]);break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else local n=j[o]local o,j=k(r[n]())s=j+n-1 local j=0;for n=n,s do j=j+1;r[n]=o[j];end;end else if l>=55 then if l>=52 then for s=45,64 do if l~=55 then for l=0,8 do if 3<l then if l<6 then if l>3 then repeat if 4<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>6 then if l<8 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 2>l then if-4<=l then for f=14,59 do if 1~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 1<=l then repeat if 3~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end break;end;local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);break;end;else local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else local l,f;l=j[o];f=r[j[e]];r[l+1]=f;r[l]=f[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];end end else if 47>=l then if 42<l then repeat if l~=46 then local l,s,a;for f=0,5 do if 2>=f then if f>0 then if-1<=f then for l=15,67 do if 1<f then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end else if 3<f then if f~=5 then r(j[o],j[e]);n=n+1;j=d[n];else l=j[o];s=r[l]a=r[l+2];if(a>0)then if(s>r[l+1])then n=j[e];else r[l+3]=s;end elseif(s<r[l+1])then n=j[e];else r[l+3]=s;end end else r[j[o]]=#r[j[e]];n=n+1;j=d[n];end end end break;end;local f,k,s,a,b,l;for l=0,8 do if l<4 then if l<=1 then if l>-4 then repeat if l<1 then r[j[o]]={};n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]={};n=n+1;j=d[n];end else if 1~=l then for f=23,90 do if 3~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if l<=5 then if 1<=l then for f=31,69 do if 4~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>6 then if 4<=l then for f=43,75 do if l<8 then r[j[o]]={};n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];break;end;else r[j[o]]={};n=n+1;j=d[n];end else l=0;while l>-1 do if l<=2 then if l>=1 then if l>=-1 then repeat if l>1 then s=e;break;end;k=o;until true;else s=e;end else f=j;end else if l<=4 then if l>1 then repeat if 4>l then a=f[s];break;end;b=f[k];until true;else a=f[s];end else if l==5 then r(b,a);else l=-2;end end end l=l+1 end n=n+1;j=d[n];end end end end until true;else local l,s,a;for f=0,5 do if 2>=f then if f>0 then if-1<=f then for l=15,67 do if 1<f then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end else if 3<f then if f~=5 then r(j[o],j[e]);n=n+1;j=d[n];else l=j[o];s=r[l]a=r[l+2];if(a>0)then if(s>r[l+1])then n=j[e];else r[l+3]=s;end elseif(s<r[l+1])then n=j[e];else r[l+3]=s;end end else r[j[o]]=#r[j[e]];n=n+1;j=d[n];end end end end else if l<=48 then for j=j[o],j[e]do r[j]=nil;end;else if l<50 then local j=j[o]local o,n=k(r[j](r[j+1]))s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;else for l=0,6 do if 3>l then if l<=0 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else if l~=-1 then repeat if l~=1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 5<=l then if 6>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];end else if l>0 then for f=22,91 do if 3~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end end end end end end end else if l<=138 then if 115>=l then if l<104 then if l<98 then if l>94 then if 96<=l then if l~=93 then repeat if l~=96 then r[j[o]][j[e]]=j[t];break;end;local l;for f=0,4 do if 1<f then if 3<=f then if f>=1 then for h=31,59 do if 3<f then r[j[o]][j[e]]=r[j[t]];break;end;l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];end else r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];end else if 0<f then r[j[o]]=r[j[e]]*j[t];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end until true;else local l;for f=0,4 do if 1<f then if 3<=f then if f>=1 then for h=31,59 do if 3<f then r[j[o]][j[e]]=r[j[t]];break;end;l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];end else r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];end else if 0<f then r[j[o]]=r[j[e]]*j[t];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else if l~=93 then r[j[o]]=r[j[e]]+j[t];else r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]~=j[t])then n=n+1;else n=j[e];end;end end else if 101<=l then if l<=101 then local n=j[o]r[n](f(r,n+1,j[e]))else if l>100 then for f=41,55 do if 102~=l then for l=0,6 do if l<3 then if l<1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if l<2 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5>l then if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 1<l then repeat if 6~=l then r[j[o]]=#r[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]]+j[t];until true;else r[j[o]]=#r[j[e]];n=n+1;j=d[n];end end end end break;end;r[j[o]][j[e]]=r[j[t]];break;end;else for l=0,6 do if l<3 then if l<1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if l<2 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5>l then if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 1<l then repeat if 6~=l then r[j[o]]=#r[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]]+j[t];until true;else r[j[o]]=#r[j[e]];n=n+1;j=d[n];end end end end end end else if l>=99 then if l>98 then for n=11,90 do if l<100 then r[j[o]]=h[j[e]];break;end;local d,t,f,s,h,l;local n=0;while n>-1 do if 4>n then if n<2 then if 1>n then d=j;else t=o;end else if-1<n then for j=39,89 do if 3~=n then f=e;break;end;s=r;break;end;else f=e;end end else if n<6 then if 2<n then for j=40,78 do if n>4 then l=d[t];break;end;h=s[d[f]];break;end;else l=d[t];end else if 5<n then for j=21,77 do if 7>n then r[l]=h;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end break;end;else r[j[o]]=h[j[e]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end else if 110<=l then if l<113 then if 111<=l then if 107~=l then for a=27,78 do if l>111 then local l;for h=0,4 do if h<2 then if 0<h then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if h<=2 then r(j[o],j[e]);n=n+1;j=d[n];else if 1~=h then repeat if 3~=h then l=j[o]r[l]=r[l](f(r,l+1,j[e]))break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))end end end end break;end;local l,_,u,b;for a=0,6 do if a>=3 then if a>4 then if 6==a then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2~=a then repeat if a>3 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 1>a then r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];else if a~=1 then l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];else l=j[o]_,u=k(r[l](r[l+1]))s=u+l-1 b=0;for j=l,s do b=b+1;r[j]=_[b];end;n=n+1;j=d[n];end end end end break;end;else local l,_,u,b;for a=0,6 do if a>=3 then if a>4 then if 6==a then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2~=a then repeat if a>3 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 1>a then r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];else if a~=1 then l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];else l=j[o]_,u=k(r[l](r[l+1]))s=u+l-1 b=0;for j=l,s do b=b+1;r[j]=_[b];end;n=n+1;j=d[n];end end end end end else local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else if 113<l then if 110~=l then for f=47,82 do if l~=114 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);break;end;r[j[o]]=r[j[e]][j[t]];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else local o=j[o];local d=r[o]local t=r[o+2];if(t>0)then if(d>r[o+1])then n=j[e];else r[o+3]=d;end elseif(d<r[o+1])then n=j[e];else r[o+3]=d;end end end else if l<=106 then if 104<l then if 104<l then repeat if 105~=l then r[j[o]][j[e]]=r[j[t]];break;end;local l,a;l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];a=r[j[e]];r[l+1]=a;r[l]=a[j[t]];n=n+1;j=d[n];l=j[o]r[l](r[l+1])until true;else local l,a;l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];a=r[j[e]];r[l+1]=a;r[l]=a[j[t]];n=n+1;j=d[n];l=j[o]r[l](r[l+1])end else local d=j[o];local t=j[t];local o=d+2 local d={r[d](r[d+1],r[o])};for j=1,t do r[o+j]=d[j];end;local d=d[1]if d then r[o]=d n=j[e];else n=n+1;end;end else if 108<=l then if l>107 then for s=21,74 do if 108<l then local s=_[j[e]];local f;local l={};f=b.ELmBBqJt({},{__index=function(n,j)local j=l[j];return j[1][j[2]];end,__newindex=function(r,j,n)local j=l[j]j[1][j[2]]=n;end;});for o=1,j[t]do n=n+1;local j=d[n];if j[g]==100 then l[o-1]={r,j[e]};else l[o-1]={h,j[e]};end;u[#u+1]=l;end;r[j[o]]=c(s,f,a);break;end;local h;for l=0,6 do if 2>=l then if 1<=l then if l~=-3 then repeat if l>1 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>4 then if l~=1 then repeat if l>5 then r[j[o]][j[e]]=r[j[t]];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];end else if l>1 then repeat if 3<l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end break;end;else local s=_[j[e]];local f;local l={};f=b.ELmBBqJt({},{__index=function(n,j)local j=l[j];return j[1][j[2]];end,__newindex=function(r,j,n)local j=l[j]j[1][j[2]]=n;end;});for o=1,j[t]do n=n+1;local j=d[n];if j[g]==100 then l[o-1]={r,j[e]};else l[o-1]={h,j[e]};end;u[#u+1]=l;end;r[j[o]]=c(s,f,a);end else if(r[j[o]]~=j[t])then n=n+1;else n=j[e];end;end end end end else if 126<l then if 133>l then if 129>=l then if 127>=l then r[j[o]]=a[j[e]];else if 127<l then for s=29,66 do if 129>l then for l=0,6 do if l<=2 then if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if-3<l then repeat if 2>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5>l then if l>=0 then for f=37,69 do if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2<l then repeat if 6~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];until true;else r[j[o]]=a[j[e]];end end end end break;end;local l;for h=0,4 do if 1<h then if h<=2 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else if 3<h then r(j[o],j[e]);else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if-3~=h then for s=10,53 do if h~=1 then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end end break;end;else local l;for h=0,4 do if 1<h then if h<=2 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else if 3<h then r(j[o],j[e]);else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if-3~=h then for s=10,53 do if h~=1 then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end end end end else if 131>l then local f,s,b,k,h,l;for l=0,6 do if 2<l then if 4<l then if 4<=l then for t=18,97 do if 5~=l then r(j[o],j[e]);break;end;l=0;while l>-1 do if 3>l then if l<=0 then f=j;else if-2<l then for j=49,81 do if l<2 then s=o;break;end;b=e;break;end;else b=e;end end else if l>=5 then if 4<=l then for j=39,80 do if l>5 then l=-2;break;end;r(h,k);break;end;else r(h,k);end else if 2~=l then for j=37,56 do if l~=3 then h=f[s];break;end;k=f[b];break;end;else h=f[s];end end end l=l+1 end n=n+1;j=d[n];break;end;else l=0;while l>-1 do if 3>l then if l<=0 then f=j;else if-2<l then for j=49,81 do if l<2 then s=o;break;end;b=e;break;end;else b=e;end end else if l>=5 then if 4<=l then for j=39,80 do if l>5 then l=-2;break;end;r(h,k);break;end;else r(h,k);end else if 2~=l then for j=37,56 do if l~=3 then h=f[s];break;end;k=f[b];break;end;else h=f[s];end end end l=l+1 end n=n+1;j=d[n];end else if l>2 then for f=18,61 do if 3<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end else if 0>=l then l=0;while l>-1 do if 3>l then if l>=1 then if-2~=l then repeat if 2>l then s=o;break;end;b=e;until true;else s=o;end else f=j;end else if l>4 then if l>1 then for j=40,66 do if l~=6 then r(h,k);break;end;l=-2;break;end;else l=-2;end else if l<4 then k=f[b];else h=f[s];end end end l=l+1 end n=n+1;j=d[n];else if l==2 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else r[j[o]]={};n=n+1;j=d[n];end end end end else if l~=128 then for f=29,90 do if 131~=l then local l,a,b,u,f;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];a=r[j[e]];r[l+1]=a;r[l]=a[j[t]];n=n+1;j=d[n];l=j[o]b,u=k(r[l](r[l+1]))s=u+l-1 f=0;for j=l,s do f=f+1;r[j]=b[f];end;break;end;for l=0,6 do if 3>l then if l>=1 then if-2~=l then for f=39,69 do if l<2 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l<=4 then if l>-1 then repeat if 4~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l>=1 then repeat if l>5 then r[j[o]]=a[j[e]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=a[j[e]];end end end end break;end;else local l,a,b,u,f;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];a=r[j[e]];r[l+1]=a;r[l]=a[j[t]];n=n+1;j=d[n];l=j[o]b,u=k(r[l](r[l+1]))s=u+l-1 f=0;for j=l,s do f=f+1;r[j]=b[f];end;end end end else if l>=136 then if l<=136 then if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;else if 137<l then for l=0,4 do if l<=1 then if-1~=l then for f=14,74 do if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if l>2 then if l>=2 then repeat if 4~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end else r[j[o]]=r[j[e]][j[t]];end end else if l>=134 then if 132~=l then for s=40,77 do if 135~=l then local h;for l=0,9 do if 4>=l then if 2<=l then if 3>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=-1 then for t=43,80 do if 0~=l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end else if 7<=l then if 7>=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if 9==l then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=3 then repeat if l~=6 then r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end end end end break;end;local l,s;r[j[o]]=r[j[e]]-r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]*r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]+r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]*j[t];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];r[j[o]]=r[j[e]]/j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))break;end;else local h;for l=0,9 do if 4>=l then if 2<=l then if 3>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=-1 then for t=43,80 do if 0~=l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end else if 7<=l then if 7>=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if 9==l then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=3 then repeat if l~=6 then r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end end end end end else r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];end end end else if 121<=l then if l>123 then if 124<l then if l>=124 then repeat if 125~=l then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];break;end;for l=0,6 do if 3>l then if 0>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l~=0 then repeat if 2~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]]-r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]]-r[j[t]];n=n+1;j=d[n];end end else if l>4 then if l==6 then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end until true;else for l=0,6 do if 3>l then if 0>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l~=0 then repeat if 2~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]]-r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]]-r[j[t]];n=n+1;j=d[n];end end else if l>4 then if l==6 then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l<4 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else if(r[j[o]]<r[j[t]])then n=j[e];else n=n+1;end;end else if 122<=l then if l<123 then local j=j[o]r[j](r[j+1])else local l,b,a,h;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,a=k(r[l](f(r,l+1,j[e])))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];end else local a,_,c,u,p;for l=0,7 do if l>3 then if l<6 then if l~=3 then repeat if l>4 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if l>6 then a=j[o];p=r[a];for j=a+1,s do b.dRMZmTsQ(p,r[j])end;else a=j[o]_,c=k(r[a](f(r,a+1,j[e])))s=c+a-1 u=0;for j=a,s do u=u+1;r[j]=_[u];end;n=n+1;j=d[n];end end else if 2>l then if-3<l then repeat if l<1 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if 1<=l then repeat if l~=2 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end end else if l>=118 then if 119<=l then if 116<=l then repeat if 119~=l then local b,u,c,m,_,l,h,z,y,p;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=0;while l>-1 do if l>2 then if 4>=l then if 0<=l then repeat if 3<l then _=b[u];break;end;m=b[c];until true;else _=b[u];end else if l==6 then l=-2;else r(_,m);end end else if 0<l then if l>=-3 then for j=36,59 do if l~=1 then c=e;break;end;u=o;break;end;else u=o;end else b=j;end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if 0<l then if-2~=l then for j=33,95 do if l<2 then u=o;break;end;c=e;break;end;else c=e;end else b=j;end else if 4>=l then if l<4 then m=b[c];else _=b[u];end else if 6==l then l=-2;else r(_,m);end end end l=l+1 end n=n+1;j=d[n];h=j[o]z,y=k(r[h](f(r,h+1,j[e])))s=y+h-1 p=0;for j=h,s do p=p+1;r[j]=z[p];end;n=n+1;j=d[n];h=j[o]r[h]=r[h](f(r,h+1,s))break;end;local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];do return end;until true;else local b,u,_,m,c,l,h,z,y,p;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=0;while l>-1 do if l>2 then if 4>=l then if 0<=l then repeat if 3<l then c=b[u];break;end;m=b[_];until true;else c=b[u];end else if l==6 then l=-2;else r(c,m);end end else if 0<l then if l>=-3 then for j=36,59 do if l~=1 then _=e;break;end;u=o;break;end;else u=o;end else b=j;end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if 0<l then if-2~=l then for j=33,95 do if l<2 then u=o;break;end;_=e;break;end;else _=e;end else b=j;end else if 4>=l then if l<4 then m=b[_];else c=b[u];end else if 6==l then l=-2;else r(c,m);end end end l=l+1 end n=n+1;j=d[n];h=j[o]z,y=k(r[h](f(r,h+1,j[e])))s=y+h-1 p=0;for j=h,s do p=p+1;r[j]=z[p];end;n=n+1;j=d[n];h=j[o]r[h]=r[h](f(r,h+1,s))end else local l,u,b,h;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]u,b=k(r[l](f(r,l+1,j[e])))s=b+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]]=a[j[e]];end else if l>=112 then repeat if l<117 then local b,m,p,c,_,l,h,z,y,u;for l=0,6 do if l>2 then if 4<l then if l>=3 then for t=10,71 do if 5<l then h=j[o]r[h]=r[h](f(r,h+1,s))break;end;h=j[o]z,y=k(r[h](f(r,h+1,j[e])))s=y+h-1 u=0;for j=h,s do u=u+1;r[j]=z[u];end;n=n+1;j=d[n];break;end;else h=j[o]z,y=k(r[h](f(r,h+1,j[e])))s=y+h-1 u=0;for j=h,s do u=u+1;r[j]=z[u];end;n=n+1;j=d[n];end else if 4~=l then l=0;while l>-1 do if 3<=l then if 5>l then if l~=0 then repeat if 3<l then _=b[m];break;end;c=b[p];until true;else c=b[p];end else if 1<l then repeat if 6>l then r(_,c);break;end;l=-2;until true;else r(_,c);end end else if l>0 then if 0<l then repeat if l~=2 then m=o;break;end;p=e;until true;else m=o;end else b=j;end end l=l+1 end n=n+1;j=d[n];else l=0;while l>-1 do if l<=2 then if l>0 then if l~=-1 then for j=44,84 do if l>1 then p=e;break;end;m=o;break;end;else p=e;end else b=j;end else if 4<l then if 6==l then l=-2;else r(_,c);end else if 1<l then repeat if 3~=l then _=b[m];break;end;c=b[p];until true;else _=b[m];end end end l=l+1 end n=n+1;j=d[n];end end else if l>0 then if l~=2 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end break;end;local h,b,a,s,k,l,u;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l>=5 then if 4~=l then repeat if l~=5 then l=-2;break;end;r(k,s);until true;else r(k,s);end else if 4>l then s=h[a];else k=h[b];end end else if l<1 then h=j;else if l<2 then b=o;else a=e;end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l<=4 then if-1<=l then repeat if l>3 then k=h[b];break;end;s=h[a];until true;else s=h[a];end else if 6==l then l=-2;else r(k,s);end end else if l<1 then h=j;else if 1==l then b=o;else a=e;end end end l=l+1 end n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if l>=1 then if 1==l then b=o;else a=e;end else h=j;end else if 4>=l then if 2<l then repeat if l<4 then s=h[a];break;end;k=h[b];until true;else s=h[a];end else if 1~=l then repeat if l>5 then l=-2;break;end;r(k,s);until true;else l=-2;end end end l=l+1 end n=n+1;j=d[n];u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];until true;else local h,b,a,s,k,l,u;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l>=5 then if 4~=l then repeat if l~=5 then l=-2;break;end;r(k,s);until true;else r(k,s);end else if 4>l then s=h[a];else k=h[b];end end else if l<1 then h=j;else if l<2 then b=o;else a=e;end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l<=4 then if-1<=l then repeat if l>3 then k=h[b];break;end;s=h[a];until true;else s=h[a];end else if 6==l then l=-2;else r(k,s);end end else if l<1 then h=j;else if 1==l then b=o;else a=e;end end end l=l+1 end n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if l>=1 then if 1==l then b=o;else a=e;end else h=j;end else if 4>=l then if 2<l then repeat if l<4 then s=h[a];break;end;k=h[b];until true;else s=h[a];end else if 1~=l then repeat if l>5 then l=-2;break;end;r(k,s);until true;else l=-2;end end end l=l+1 end n=n+1;j=d[n];u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];end end end end end else if 161>=l then if 149>=l then if 143>=l then if l>140 then if l>=142 then if l>138 then for n=28,55 do if l>142 then r[j[o]]=j[e]/r[j[t]];break;end;local j=j[o];s=j+jj-1;for n=j,s do local j=z[n-j];r[n]=j;end;break;end;else local j=j[o];s=j+jj-1;for n=j,s do local j=z[n-j];r[n]=j;end;end else local h,p,z,b,u,_,m,y,c,l;for l=0,6 do if 2<l then if 4<l then if 5<l then l=0;while l>-1 do if 3<=l then if 4<l then if 6>l then r(c,y);else l=-2;end else if l>0 then repeat if l~=3 then c=u[_];break;end;y=u[m];until true;else c=u[_];end end else if 0>=l then u=j;else if l>=-3 then for j=10,97 do if 1~=l then m=e;break;end;_=o;break;end;else _=o;end end end l=l+1 end else r(j[o],j[e]);n=n+1;j=d[n];end else if 0<l then for f=25,80 do if l>3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=1 then if-2<l then repeat if l~=1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;h=j[o]r[h]=r[h](f(r,h+1,s))n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else h=j[o]p,z=k(r[h](f(r,h+1,j[e])))s=z+h-1 b=0;for j=h,s do b=b+1;r[j]=p[b];end;n=n+1;j=d[n];end end end end else if 138~=l then for s=34,57 do if l~=140 then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;local n=j[o]r[n]=r[n](f(r,n+1,j[e]))break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end else if 147<=l then if l<148 then for j=j[o],j[e]do r[j]=nil;end;else if l==149 then r[j[o]]=r[j[e]]*j[t];else for l=0,6 do if 2<l then if 4>=l then if 2<=l then repeat if l~=4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]={};n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if l>2 then repeat if 6~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]={};until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if l<=0 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if 0~=l then repeat if 1<l then r[j[o]]={};n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end end end end else if l<=144 then local t,a,h,l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];t=j[o]a,h=k(r[t](f(r,t+1,j[e])))s=h+t-1 l=0;for j=t,s do l=l+1;r[j]=a[l];end;n=n+1;j=d[n];t=j[o]r[t]=r[t](f(r,t+1,s))n=n+1;j=d[n];if not r[j[o]]then n=n+1;else n=j[e];end;else if l~=143 then repeat if l>145 then local s;for l=0,7 do if 3>=l then if l<2 then if l==1 then r[j[o]]=r[j[e]]*j[t];n=n+1;j=d[n];else r[j[o]]=#r[j[e]];n=n+1;j=d[n];end else if-2<=l then for h=49,78 do if 3>l then r[j[o]]=r[j[e]]-j[t];n=n+1;j=d[n];break;end;s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];break;end;else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end else if 6<=l then if l~=5 then repeat if 7~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;until true;else if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;end else if 2<=l then repeat if 4~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end break;end;local f,a,k,b,s,l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if l>=1 then if 0<l then for j=17,77 do if 1~=l then k=e;break;end;a=o;break;end;else k=e;end else f=j;end else if 4<l then if 4<l then for j=11,97 do if l>5 then l=-2;break;end;r(s,b);break;end;else l=-2;end else if l>=2 then for j=28,79 do if l>3 then s=f[a];break;end;b=f[k];break;end;else s=f[a];end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};until true;else local f,a,k,b,s,l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if l>=1 then if 0<l then for j=17,77 do if 1~=l then k=e;break;end;a=o;break;end;else k=e;end else f=j;end else if 4<l then if 4<l then for j=11,97 do if l>5 then l=-2;break;end;r(s,b);break;end;else l=-2;end else if l>=2 then for j=28,79 do if l>3 then s=f[a];break;end;b=f[k];break;end;else s=f[a];end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};end end end end else if l<156 then if l<153 then if l<151 then local s;for l=0,9 do if l<=4 then if l<2 then if 1~=l then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else if l<=2 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else if 4>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end else if 6<l then if 8<=l then if 6<=l then repeat if 8<l then r[j[o]]={};break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r[j[o]]={};end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l==6 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end else if 148~=l then for n=10,60 do if 152>l then r[j[o]]=r[j[e]]/j[t];break;end;r[j[o]]=(not r[j[e]]);break;end;else r[j[o]]=r[j[e]]/j[t];end end else if l<=153 then local l,u,_,b;for h=0,6 do if 3<=h then if h>4 then if 1<=h then repeat if h>5 then r(j[o],j[e]);break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);end else if h>2 then repeat if h~=4 then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 0>=h then l=j[o]u,_=k(r[l](f(r,l+1,j[e])))s=_+l-1 b=0;for j=l,s do b=b+1;r[j]=u[b];end;n=n+1;j=d[n];else if h~=1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];end end end end else if 150<l then repeat if 155>l then local l,u,b,h;l=j[o]u,b=k(r[l](f(r,l+1,j[e])))s=b+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);break;end;local h,s;for l=0,6 do if 3>l then if l<=0 then h=j[o]r[h](f(r,h+1,j[e]))n=n+1;j=d[n];else if l>1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 4<l then if 6>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else h=j[o];s=r[j[e]];r[h+1]=s;r[h]=s[j[t]];end else if 1~=l then repeat if 3<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end until true;else local l,b,u,h;l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);end end end else if 158>=l then if 157<=l then if 154<=l then repeat if l<158 then if(j[o]<r[j[t]])then n=n+1;else n=j[e];end;break;end;local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);until true;else local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end else local s,f;for l=0,9 do if 5<=l then if l>=7 then if 7>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 9==l then s=j[o];f=r[j[e]];r[s+1]=f;r[s]=f[j[t]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 1<l then repeat if l~=5 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 2>l then if l>-2 then repeat if l>0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]][r[j[e]]]=r[j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=3 then if l~=2 then for f=23,86 do if l<4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end end else if 160<=l then if 158<l then repeat if 161>l then local l;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];until true;else r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];end else for l=0,6 do if 2<l then if l>4 then if l~=5 then r[j[o]]=h[j[e]];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>1 then repeat if 4>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 1>l then r[j[o]]={};n=n+1;j=d[n];else if l~=-1 then for f=38,55 do if 2>l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end end end end end else if l<=173 then if l<=167 then if l>164 then if l<=165 then r[j[o]]=#r[j[e]];else if 167>l then local t,f,d,l,h;local n=0;while n>-1 do if n<=2 then if n>=1 then if 0<n then repeat if n~=2 then f=o;break;end;d=e;until true;else d=e;end else t=j;end else if n<=4 then if n~=-1 then repeat if n~=3 then h=t[f];break;end;l=t[d];until true;else l=t[d];end else if n~=6 then r(h,l);else n=-2;end end end n=n+1 end else if(r[j[o]]~=r[j[t]])then n=n+1;else n=j[e];end;end end else if l<163 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else if l>=161 then repeat if 163~=l then local j=j[o]r[j]=r[j](f(r,j+1,s))break;end;local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];until true;else local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end else if 171<=l then if l>171 then if 170~=l then for s=19,81 do if l~=172 then local h;for l=0,4 do if l<=1 then if l>=-3 then repeat if 0<l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else if l<3 then h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];else if l>-1 then for f=48,82 do if 4>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];break;end;else r[j[o]]=a[j[e]];end end end end break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else local h;for l=0,4 do if l<=1 then if l>=-3 then repeat if 0<l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else if l<3 then h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];else if l>-1 then for f=48,82 do if 4>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];break;end;else r[j[o]]=a[j[e]];end end end end end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end else if l<=168 then r[j[o]][r[j[e]]]=r[j[t]];else if l>=165 then for f=24,88 do if 169~=l then for l=0,9 do if 5<=l then if 6>=l then if l>=1 then for f=30,57 do if 5<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l>7 then if 4<l then repeat if 9>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];until true;else r[j[o]][j[e]]=j[t];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 2<=l then if l>=3 then if l~=0 then for f=14,94 do if l~=4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l~=-4 then for f=25,60 do if 0<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end end break;end;r[j[o]]=r[j[e]]/r[j[t]];break;end;else r[j[o]]=r[j[e]]/r[j[t]];end end end end else if l>179 then if 183>l then if l<181 then local n=j[o]local o,j=k(r[n](f(r,n+1,j[e])))s=j+n-1 local j=0;for n=n,s do j=j+1;r[n]=o[j];end;else if l~=177 then repeat if l~=181 then local j=j[o];s=j+jj-1;for n=j,s do local j=z[n-j];r[n]=j;end;break;end;if not r[j[o]]then n=n+1;else n=j[e];end;until true;else if not r[j[o]]then n=n+1;else n=j[e];end;end end else if l<=183 then local h,s;for l=0,8 do if 4<=l then if l>=6 then if 6<l then if 5~=l then repeat if l~=8 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;h=j[o];s=r[j[e]];r[h+1]=s;r[h]=s[j[t]];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2~=l then for f=48,81 do if 5~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 2>l then if l==0 then h=j[o]r[h](f(r,h+1,j[e]))n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else if l~=184 then for l=0,4 do if 2>l then if-1<=l then for f=49,54 do if 1~=l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 2<l then if l~=4 then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end else r[j[o]]=(j[e]~=0);end end end else if 177>l then if 174>=l then local u,k,_,a,s,b,l;for l=0,6 do if l>2 then if 5>l then if l>3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>3 then repeat if 6~=l then l=0;while l>-1 do if l<3 then if 1<=l then if-2<l then repeat if l~=1 then a=e;break;end;_=o;until true;else a=e;end else k=j;end else if 5<=l then if l>=3 then repeat if l<6 then r(b,s);break;end;l=-2;until true;else r(b,s);end else if l>=0 then for j=17,92 do if 4~=l then s=k[a];break;end;b=k[_];break;end;else s=k[a];end end end l=l+1 end n=n+1;j=d[n];break;end;r[j[o]]={};until true;else l=0;while l>-1 do if l<3 then if 1<=l then if-2<l then repeat if l~=1 then a=e;break;end;_=o;until true;else a=e;end else k=j;end else if 5<=l then if l>=3 then repeat if l<6 then r(b,s);break;end;l=-2;until true;else r(b,s);end else if l>=0 then for j=17,92 do if 4~=l then s=k[a];break;end;b=k[_];break;end;else s=k[a];end end end l=l+1 end n=n+1;j=d[n];end end else if l<=0 then u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];else if-1~=l then repeat if l~=2 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end else if l>=172 then for s=37,88 do if 175~=l then local s;for l=0,9 do if 5>l then if 2<=l then if l>2 then if l>=2 then repeat if 4>l then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if 1~=l then r(j[o],j[e]);n=n+1;j=d[n];else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end else if l<7 then if 1<l then for f=36,73 do if 6>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if 7<l then if l<9 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end end break;end;for l=0,5 do if 3<=l then if l<=3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 3<=l then for f=10,87 do if l~=5 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][r[j[e]]]=r[j[t]];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 1>l then r[j[o]]={};n=n+1;j=d[n];else if 2>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end break;end;else for l=0,5 do if 3<=l then if l<=3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 3<=l then for f=10,87 do if l~=5 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][r[j[e]]]=r[j[t]];break;end;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end else if 1>l then r[j[o]]={};n=n+1;j=d[n];else if 2>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end end end else if l>=178 then if l<179 then for l=0,4 do if 1>=l then if l~=-1 then for t=48,79 do if 1~=l then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 3<=l then if l>=0 then for t=40,87 do if l<4 then for j=j[o],j[e]do r[j]=nil;end;n=n+1;j=d[n];break;end;n=j[e];break;end;else n=j[e];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end else local l,b,u,h;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))end else local h,f;for l=0,5 do if l<3 then if l>0 then if l~=0 then for f=23,92 do if 2>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if l>=4 then if l~=1 then repeat if l>4 then h=j[o];f=r[j[e]];r[h+1]=f;r[h]=f[j[t]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else h=j[o];f=r[j[e]];r[h+1]=f;r[h]=f[j[t]];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end end end end end end else if 279<=l then if l>325 then if l>348 then if 361>l then if 354>=l then if l<=351 then if l>349 then if 346<l then for h=31,68 do if l~=351 then r[j[o]]={};break;end;local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))end else local h;for l=0,6 do if 3<=l then if l>=5 then if l~=3 then repeat if 5~=l then r[j[o]][j[e]]=r[j[t]];break;end;h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];end else if l==4 then r(j[o],j[e]);n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end end else if 1<=l then if 0<l then repeat if 2~=l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else if 352>=l then for l=0,7 do if 3>=l then if 2>l then if-2~=l then for f=14,67 do if 1~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if-2<=l then for f=33,72 do if 3>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=6 then if 6~=l then r[j[o]][j[e]]=j[t];else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if l>=1 then repeat if 5>l then r[j[o]]={};n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end end else if 349<=l then repeat if l~=353 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);break;end;local s;for l=0,8 do if l<=3 then if 1>=l then if l~=-3 then repeat if l<1 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end else if l==2 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5<l then if 6>=l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else if 6~=l then for f=44,55 do if 7~=l then r[j[o]]=h[j[e]];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];end end else if 3<l then repeat if l~=4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end until true;else local s;for l=0,8 do if l<=3 then if 1>=l then if l~=-3 then repeat if l<1 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];until true;else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end else if l==2 then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if 5<l then if 6>=l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];else if 6~=l then for f=44,55 do if 7~=l then r[j[o]]=h[j[e]];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];end end else if 3<l then repeat if l~=4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end end end end else if l<=357 then if 356>l then r[j[o]]=-r[j[e]];else if 357==l then r[j[o]]={};n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];else r[j[o]]=j[e]-r[j[t]];end end else if 359<=l then if l~=359 then local l;r[j[o]]=r[j[e]];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]]/j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else if(r[j[o]]<=j[t])then n=n+1;else n=j[e];end;end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end else if 367<=l then if 369<l then if 370<l then if l~=368 then repeat if l~=371 then local o=j[o];local t=r[o+2];local d=r[o]+t;r[o]=d;if(t>0)then if(d<=r[o+1])then n=j[e];r[o+3]=d;end elseif(d>=r[o+1])then n=j[e];r[o+3]=d;end break;end;if r[j[o]]then n=n+1;else n=j[e];end;until true;else local o=j[o];local t=r[o+2];local d=r[o]+t;r[o]=d;if(t>0)then if(d<=r[o+1])then n=j[e];r[o+3]=d;end elseif(d>=r[o+1])then n=j[e];r[o+3]=d;end end else for l=0,6 do if 3>l then if 0>=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if 0<l then repeat if l~=2 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end else if 5>l then if l~=1 then repeat if 4>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end else if 2<=l then for t=12,98 do if l~=6 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);break;end;else r(j[o],j[e]);end end end end end else if l<368 then local b,p,c,_,m,l,a,y,z,u;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if 5<=l then if l>=2 then repeat if l>5 then l=-2;break;end;r(m,_);until true;else l=-2;end else if 1~=l then repeat if 4~=l then _=b[c];break;end;m=b[p];until true;else _=b[c];end end else if 0>=l then b=j;else if l~=1 then c=e;else p=o;end end end l=l+1 end n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];a=j[o]y,z=k(r[a](f(r,a+1,j[e])))s=z+a-1 u=0;for j=a,s do u=u+1;r[j]=y[u];end;n=n+1;j=d[n];a=j[o]r[a]=r[a](f(r,a+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];else if 367~=l then repeat if l>368 then local n=j[o];local o=r[n];for j=n+1,j[e]do b.dRMZmTsQ(o,r[j])end;break;end;local l,h;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];h=r[j[e]];r[l+1]=h;r[l]=h[j[t]];until true;else local n=j[o];local o=r[n];for j=n+1,j[e]do b.dRMZmTsQ(o,r[j])end;end end end else if 363>=l then if l>361 then if l~=361 then for s=15,52 do if 362<l then for l=0,6 do if l>=3 then if 5<=l then if 3~=l then repeat if 5<l then r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l==4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l~=1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end break;end;local l;r[j[o]]=r[j[e]]-j[t];n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else for l=0,6 do if l>=3 then if 5<=l then if 3~=l then repeat if 5<l then r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if l==4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l~=1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else local s;for l=0,9 do if 5<=l then if 7<=l then if l>=8 then if 8==l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=h[j[e]];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 3<=l then for t=12,80 do if l~=5 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end else if 2>l then if-3<=l then for f=39,94 do if l~=1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>2 then if l~=4 then r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else if 365<=l then if 363<=l then repeat if 365<l then local s;for l=0,4 do if l<2 then if 1==l then s=j[o]r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else r[j[o]]=r[j[e]];n=n+1;j=d[n];end else if 2<l then if l~=4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if r[j[o]]then n=n+1;else n=j[e];end;end else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end break;end;local l,b,a,h;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,a=k(r[l](r[l+1]))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];r(j[o],j[e]);until true;else local l,a,b,h;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]a,b=k(r[l](r[l+1]))s=b+l-1 h=0;for j=l,s do h=h+1;r[j]=a[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];r[j[o]]=r[j[e]]+j[t];n=n+1;j=d[n];r(j[o],j[e]);end else local j=j[o];local n=r[j];for j=j+1,s do b.dRMZmTsQ(n,r[j])end;end end end end else if l<=336 then if 331>l then if 327>=l then if 322~=l then repeat if 326~=l then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))break;end;local l,s,f,t,d,h;local n=0;while n>-1 do if 3<n then if 5<n then if 2<n then repeat if n~=6 then n=-2;break;end;r[h]=d;until true;else r[h]=d;end else if 2~=n then repeat if 5~=n then d=t[l[f]];break;end;h=l[s];until true;else d=t[l[f]];end end else if 2>n then if 1>n then l=j;else s=o;end else if n>=-2 then repeat if 2<n then t=r;break;end;f=e;until true;else t=r;end end end n=n+1 end until true;else local t,s,f,l,d,h;local n=0;while n>-1 do if 3<n then if 5<n then if 2<n then repeat if n~=6 then n=-2;break;end;r[h]=d;until true;else r[h]=d;end else if 2~=n then repeat if 5~=n then d=l[t[f]];break;end;h=t[s];until true;else d=l[t[f]];end end else if 2>n then if 1>n then t=j;else s=o;end else if n>=-2 then repeat if 2<n then l=r;break;end;f=e;until true;else l=r;end end end n=n+1 end end else if l>328 then if l>329 then local h,u,s,b,k,l,_;for l=0,6 do if l>=3 then if l<=4 then if 4>l then r(j[o],j[e]);n=n+1;j=d[n];else _=j[o]r[_]=r[_](f(r,_+1,j[e]))n=n+1;j=d[n];end else if 2<l then for f=49,93 do if 6~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];break;end;else r[j[o]]=a[j[e]];end end else if l>0 then if-3<l then for t=32,54 do if l~=1 then l=0;while l>-1 do if 2>=l then if l<=0 then h=j;else if 1<l then s=e;else u=o;end end else if 4>=l then if l~=4 then b=h[s];else k=h[u];end else if l~=6 then r(k,b);else l=-2;end end end l=l+1 end n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];break;end;else l=0;while l>-1 do if 2>=l then if l<=0 then h=j;else if 1<l then s=e;else u=o;end end else if 4>=l then if l~=4 then b=h[s];else k=h[u];end else if l~=6 then r(k,b);else l=-2;end end end l=l+1 end n=n+1;j=d[n];end else l=0;while l>-1 do if l<3 then if l>=1 then if 0~=l then for j=16,62 do if 2>l then u=o;break;end;s=e;break;end;else s=e;end else h=j;end else if 4>=l then if 3~=l then k=h[u];else b=h[s];end else if 1<=l then for j=33,82 do if 5~=l then l=-2;break;end;r(k,b);break;end;else r(k,b);end end end l=l+1 end n=n+1;j=d[n];end end end else for l=0,4 do if 2>l then if-4~=l then for f=11,93 do if l>0 then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if 2<l then if l>0 then for f=49,77 do if l>3 then if(r[j[o]]~=j[t])then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]][r[j[t]]];n=n+1;j=d[n];break;end;else if(r[j[o]]~=j[t])then n=n+1;else n=j[e];end;end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end else local l,u,b,a;for h=0,4 do if h>1 then if h>2 then if h>-1 then for t=42,53 do if h>3 then l=j[o]r[l]=r[l](f(r,l+1,s))break;end;l=j[o]u,b=k(r[l](f(r,l+1,j[e])))s=b+l-1 a=0;for j=l,s do a=a+1;r[j]=u[a];end;n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](f(r,l+1,s))end else r(j[o],j[e]);n=n+1;j=d[n];end else if h~=0 then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else if 333>=l then if l>331 then if 331<l then repeat if l<333 then local l,s;for h=0,4 do if h>1 then if h<3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if 0~=h then repeat if h~=4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if h~=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end end break;end;do return end;until true;else do return end;end else local h;for l=0,6 do if 2>=l then if 0<l then if-2<=l then repeat if 2>l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];end else if l>4 then if l>=2 then for f=21,62 do if l>5 then r[j[o]][j[e]]=r[j[t]];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=r[j[t]];end else if 4==l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else if 335<=l then if 333~=l then for d=37,60 do if 336~=l then if(j[o]<r[j[t]])then n=j[e];else n=n+1;end;break;end;local n=j[o]local o,j=k(r[n](f(r,n+1,j[e])))s=j+n-1 local j=0;for n=n,s do j=j+1;r[n]=o[j];end;break;end;else if(j[o]<r[j[t]])then n=j[e];else n=n+1;end;end else do return end;end end end else if 343>l then if l<=339 then if l<=337 then r(j[o],j[e]);else if 334<l then repeat if 339~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];break;end;local s;for l=0,9 do if 4<l then if l<7 then if l<6 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 7<l then if 8<l then r[j[o]]=h[j[e]];else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<2 then if l>-4 then repeat if l~=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2>=l then r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];else if l>0 then repeat if 4>l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end until true;else local s;for l=0,9 do if 4<l then if l<7 then if l<6 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 7<l then if 8<l then r[j[o]]=h[j[e]];else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<2 then if l>-4 then repeat if l~=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 2>=l then r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];else if l>0 then repeat if 4>l then r(j[o],j[e]);n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end end end end else if l>=341 then if 342~=l then for l=0,5 do if 3>l then if l<1 then r[j[o]]={};n=n+1;j=d[n];else if l>=-3 then for f=33,69 do if l~=2 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end else if l<4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if 0<l then for f=33,87 do if 5>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;if r[j[o]]then n=n+1;else n=j[e];end;break;end;else if r[j[o]]then n=n+1;else n=j[e];end;end end end end else for l=0,7 do if l>=4 then if 5>=l then if 2~=l then for f=29,60 do if l~=5 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 7~=l then r[j[o]]=a[j[e]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];end end else if 1<l then if l>=-1 then for f=15,95 do if 3>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=-2 then repeat if 1~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end end else local l,s;for h=0,9 do if h<=4 then if 1>=h then if h>=-4 then for t=12,52 do if 0<h then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end else if h>=3 then if h==3 then r(j[o],j[e]);n=n+1;j=d[n];else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end else l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];end end else if 7>h then if 1<=h then for f=18,93 do if h<6 then r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if h>7 then if 6<h then repeat if 9~=h then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];until true;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end end end end end end else if 346>l then if l<=343 then local l,f,_,a,k,u,s,h,b;local d=0;while d>-1 do if 2>=d then if 0>=d then l=r;else if 2>d then f=j;_=n;else a=f[o];k=f[t];u=e;end end else if d>4 then if 6>d then n=b;else d=-2;end else if d>=2 then for j=20,82 do if d<4 then s=l[a];h=l[k];break;end;b=s==h and f[u]or 1+_;break;end;else s=l[a];h=l[k];end end end d=d+1 end else if 341<=l then for n=27,86 do if l>344 then r[j[o]]=r[j[e]]-r[j[t]];break;end;r[j[o]]=j[e]+r[j[t]];break;end;else r[j[o]]=r[j[e]]-r[j[t]];end end else if l>346 then if l~=343 then repeat if 347~=l then local s;for l=0,6 do if l<3 then if l>=1 then if l>-3 then repeat if 1<l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 5<=l then if 1~=l then repeat if l>5 then if not r[j[o]]then n=n+1;else n=j[e];end;break;end;s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];until true;else if not r[j[o]]then n=n+1;else n=j[e];end;end else if l>3 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end end break;end;local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;until true;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;end else local l;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];end end end end end else if 301<l then if 313>=l then if l<308 then if l>304 then if 306>l then r[j[o]]=r[j[e]]%j[t];else if l~=303 then for s=10,92 do if l>306 then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=#r[j[e]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]]*j[t];break;end;local o=j[o];local d=r[o]local t=r[o+2];if(t>0)then if(d>r[o+1])then n=j[e];else r[o+3]=d;end elseif(d<r[o+1])then n=j[e];else r[o+3]=d;end break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=#r[j[e]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]]*j[t];end end else if l<=302 then local e=j[e];local n=r[e]for j=e+1,j[t]do n=n..r[j];end;r[j[o]]=n;else if l>300 then repeat if l~=303 then for l=0,5 do if l<3 then if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>-1 then repeat if l>1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>3 then if 1<=l then for f=32,71 do if l~=4 then r(j[o],j[e]);break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end break;end;local l;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];until true;else for l=0,5 do if l<3 then if l<=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>-1 then repeat if l>1 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>3 then if 1<=l then for f=32,71 do if l~=4 then r(j[o],j[e]);break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end end end end else if 310<l then if l<312 then local f;for l=0,3 do if l>1 then if 0<=l then for f=46,83 do if 3>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];break;end;else r[j[o]][j[e]]=r[j[t]];end else if l<1 then f=j[o]r[f]=r[f](r[f+1])n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end else if l~=308 then for h=10,70 do if l<313 then local f,s,k,a,h,l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if 1<=l then if l~=1 then k=e;else s=o;end else f=j;end else if 5>l then if 0<l then repeat if l>3 then h=f[s];break;end;a=f[k];until true;else h=f[s];end else if 2<l then for j=12,90 do if l~=5 then l=-2;break;end;r(h,a);break;end;else r(h,a);end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];break;end;local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;end end else if 309>l then local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else if 306<=l then for f=31,69 do if l~=309 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;break;end;local j=j[o]local o,n=k(r[j](r[j+1]))s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;break;end;else local j=j[o]local o,n=k(r[j](r[j+1]))s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;end end end end else if l>=320 then if 323<=l then if l>323 then if l>321 then for f=38,96 do if l>324 then local f,l;r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];f=j[e];l=r[f]for j=f+1,j[t]do l=l..r[j];end;r[j[o]]=l;n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]={};break;end;for l=0,4 do if 2>l then if-4<=l then for f=19,71 do if l~=0 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]={};n=n+1;j=d[n];break;end;else r[j[o]]={};n=n+1;j=d[n];end else if l>2 then if l~=4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if r[j[o]]then n=n+1;else n=j[e];end;end else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end end end break;end;else local f,l;r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];f=j[e];l=r[f]for j=f+1,j[t]do l=l..r[j];end;r[j[o]]=l;n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]={};end else local s,_,b,u,c,l,k;l=0;while l>-1 do if l<3 then if l<=0 then s=j;else if 2>l then _=o;else b=e;end end else if l>=5 then if 5<l then l=-2;else r(c,u);end else if 0~=l then repeat if 4~=l then u=s[b];break;end;c=s[_];until true;else u=s[b];end end end l=l+1 end n=n+1;j=d[n];k=j[o]r[k]=r[k](f(r,k+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];k=j[o]r[k]=r[k](f(r,k+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 3>l then if 0<l then if l>=-2 then for j=47,76 do if l<2 then _=o;break;end;b=e;break;end;else b=e;end else s=j;end else if l<5 then if 1~=l then for j=44,98 do if 3<l then c=s[_];break;end;u=s[b];break;end;else u=s[b];end else if l>5 then l=-2;else r(c,u);end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];end else if 321<=l then if 319<=l then repeat if l~=321 then local l;for s=0,6 do if s<3 then if 1>s then r(j[o],j[e]);n=n+1;j=d[n];else if-3~=s then repeat if 1~=s then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end else if 5>s then if s>1 then for l=30,77 do if 4~=s then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if s>1 then repeat if 5~=s then r[j[o]]=h[j[e]];break;end;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];end end end end break;end;local l;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))until true;else local l;for s=0,6 do if s<3 then if 1>s then r(j[o],j[e]);n=n+1;j=d[n];else if-3~=s then repeat if 1~=s then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end end else if 5>s then if s>1 then for l=30,77 do if 4~=s then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if s>1 then repeat if 5~=s then r[j[o]]=h[j[e]];break;end;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];end end end end end else local f,h;for l=0,5 do if l<=2 then if 0>=l then f=j[o];h=r[j[e]];r[f+1]=h;r[f]=h[j[t]];n=n+1;j=d[n];else if l>=-3 then for f=34,84 do if 1~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=4 then if l==4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];end else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end end end else if 316>=l then if l>314 then if l>=313 then repeat if 316~=l then local j=j[o]local o,n=k(r[j](f(r,j+1,s)))s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;break;end;local j=j[o]r[j]=r[j]()until true;else local j=j[o]r[j]=r[j]()end else local l,b,u,a;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 a=0;for j=l,s do a=a+1;r[j]=b[a];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};end else if 317>=l then local h;for l=0,4 do if l<2 then if l==0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]];n=n+1;j=d[n];end else if 2<l then if l==4 then h=j[o]r[h](f(r,h+1,j[e]))else r(j[o],j[e]);n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end end end else if l>=314 then repeat if l>318 then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]][r[j[e]]]=j[t];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end end end else if 290<=l then if 296>l then if 293>l then if l>=291 then if 292~=l then local f,l;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];f=j[o];l=r[j[e]];r[f+1]=l;r[f]=l[j[t]];else r[j[o]]=-r[j[e]];end else a[j[e]]=r[j[o]];end else if 293>=l then local s;for l=0,8 do if l<4 then if l>=2 then if l~=-2 then for f=41,69 do if l>2 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>0 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];end end else if l>=6 then if l>6 then if l~=6 then repeat if l<8 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];until true;else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else if l==4 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end else if l==295 then for l=0,5 do if l<3 then if l>=1 then if-3<=l then for f=40,64 do if l~=1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if l>=4 then if 4~=l then r[j[o]]=r[j[e]][j[t]];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else r[j[o]][r[j[e]]]=r[j[t]];n=n+1;j=d[n];end end end else r[j[o]]={};n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];end end end else if l>298 then if 300<=l then if 298~=l then for h=45,59 do if l~=301 then local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];do return end;break;end;r[j[o]]=r[j[e]]%j[t];break;end;else local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];do return end;end else local l;l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];if r[j[o]]then n=n+1;else n=j[e];end;end else if l>=297 then if l==297 then r[j[o]]=r[j[e]]*j[t];else local h,s,b,k,a,l,u;r(j[o],j[e]);n=n+1;j=d[n];l=0;while l>-1 do if l>2 then if l<=4 then if 4~=l then k=h[b];else a=h[s];end else if l>1 then for j=45,94 do if 6>l then r(a,k);break;end;l=-2;break;end;else r(a,k);end end else if l>0 then if-2<=l then repeat if 2~=l then s=o;break;end;b=e;until true;else s=o;end else h=j;end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if 4<l then if 6==l then l=-2;else r(a,k);end else if 4~=l then k=h[b];else a=h[s];end end else if l<=0 then h=j;else if 0~=l then repeat if 1~=l then b=e;break;end;s=o;until true;else s=o;end end end l=l+1 end n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];end else r[j[o]][r[j[e]]]=r[j[t]];end end end else if l>=284 then if 286<l then if 288>l then local s;for l=0,9 do if 4>=l then if 1>=l then if l~=1 then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if l>=3 then if l>2 then repeat if 3<l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if 6<l then if 7>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>5 then repeat if 8<l then r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l>=4 then repeat if 6~=l then r[j[o]]=r[j[e]][r[j[t]]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][r[j[t]]];n=n+1;j=d[n];end end end end else if 286<l then for s=37,78 do if l>288 then local s;for l=0,9 do if 4>=l then if l>1 then if 3>l then s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];else if l>2 then for f=38,94 do if 3<l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end else if l>=-3 then for f=45,88 do if l<1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if l<=6 then if l>5 then r(j[o],j[e]);n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 7<l then if 4<l then repeat if 9~=l then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];until true;else r[j[o]][j[e]]=j[t];n=n+1;j=d[n];end else r[j[o]]={};n=n+1;j=d[n];end end end end break;end;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end else if l>284 then if 281<l then for f=35,69 do if 286>l then r[j[o]]=r[j[e]]/r[j[t]];break;end;for l=0,6 do if l>2 then if l<5 then if l~=2 then for f=40,79 do if 3~=l then r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end else if 5==l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=r[j[e]][j[t]];end end else if 1>l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l>-2 then for t=18,57 do if l<2 then r(j[o],j[e]);n=n+1;j=d[n];break;end;r[j[o]]={};n=n+1;j=d[n];break;end;else r(j[o],j[e]);n=n+1;j=d[n];end end end end break;end;else r[j[o]]=r[j[e]]/r[j[t]];end else local l,h;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];h=r[j[e]];r[l+1]=h;r[l]=h[j[t]];end end else if 281<=l then if 282>l then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];else if 283>l then local l,s;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];r[j[o]]=(j[e]~=0);n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=a[j[e]];else local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);end end else if l>279 then local s,c,b,k,u,l,_;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if l<=0 then s=j;else if l==2 then b=e;else c=o;end end else if 4<l then if 5<l then l=-2;else r(u,k);end else if l>-1 then repeat if 3~=l then u=s[c];break;end;k=s[b];until true;else k=s[b];end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if 3<=l then if 4<l then if l~=4 then for j=40,83 do if 6>l then r(u,k);break;end;l=-2;break;end;else r(u,k);end else if-1<=l then for j=22,65 do if l~=4 then k=s[b];break;end;u=s[c];break;end;else k=s[b];end end else if 0<l then if l~=1 then b=e;else c=o;end else s=j;end end l=l+1 end n=n+1;j=d[n];_=j[o]r[_]=r[_](f(r,_+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];else local l;for s=0,4 do if 1>=s then if s==0 then r(j[o],j[e]);n=n+1;j=d[n];else l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];end else if 2>=s then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];else if s<4 then l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];else r[j[o]]=h[j[e]];end end end end end end end end end end else if l<=231 then if 208<l then if l<=219 then if l<214 then if l<=210 then if 207~=l then repeat if 210>l then local j=j[o]r[j]=r[j]()break;end;do return r[j[o]]end until true;else do return r[j[o]]end end else if l>=212 then if 212==l then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=j[o]r[l]=r[l](r[l+1])n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]]/j[t];else local n=j[o]r[n](f(r,n+1,j[e]))end else n=j[e];end end else if 216<l then if 218>l then local h,b,s,k,_,u,a,l;h=j[o]r[h](f(r,h+1,j[e]))n=n+1;j=d[n];h=j[o];b=r[j[e]];r[h+1]=b;r[h]=b[j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>2 then if 5>l then if 0~=l then for j=22,67 do if l<4 then u=s[_];break;end;a=s[k];break;end;else a=s[k];end else if 1<=l then for j=34,66 do if l<6 then r(a,u);break;end;l=-2;break;end;else l=-2;end end else if 0>=l then s=j;else if 1<l then _=e;else k=o;end end end l=l+1 end n=n+1;j=d[n];h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];h=j[o];b=r[j[e]];r[h+1]=b;r[h]=b[j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 3<=l then if l<=4 then if l~=0 then for j=23,66 do if l~=3 then a=s[k];break;end;u=s[_];break;end;else a=s[k];end else if 3<l then for j=27,76 do if 5<l then l=-2;break;end;r(a,u);break;end;else r(a,u);end end else if 0<l then if 1<l then _=e;else k=o;end else s=j;end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]={};else if 218<l then local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];end end else if l>214 then if 213<=l then for s=38,59 do if l>215 then local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];break;end;local f,b,a,s,k,l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 3<=l then if 5>l then if 0<l then repeat if 4~=l then s=f[a];break;end;k=f[b];until true;else s=f[a];end else if l>1 then for j=29,70 do if 6>l then r(k,s);break;end;l=-2;break;end;else r(k,s);end end else if l<1 then f=j;else if 1==l then b=o;else a=e;end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;else local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];end else local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end else if l<226 then if l>222 then if 223<l then if 220<l then for s=42,90 do if l>224 then local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];break;end;local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];break;end;else local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];end else local n=j[o];local o=r[n];for j=n+1,j[e]do b.dRMZmTsQ(o,r[j])end;end else if 220<l then if l~=220 then repeat if 221~=l then local j=j[o]r[j](f(r,j+1,s))break;end;h[j[e]]=r[j[o]];until true;else h[j[e]]=r[j[o]];end else for l=0,4 do if 1<l then if l>=3 then if l>=2 then repeat if 3<l then if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if-4<l then repeat if 0~=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];until true;else r[j[o]]=h[j[e]];n=n+1;j=d[n];end end end end end else if l<=228 then if l>226 then if l>227 then local l,s;for a=0,4 do if a>1 then if 2<a then if a<4 then r[j[o]]=(not r[j[e]]);n=n+1;j=d[n];else l=j[o]r[l](f(r,l+1,j[e]))end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if-4<a then for f=22,85 do if a~=1 then l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];break;end;else l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];end end end else local k,c,u,_,b,p,l,s;r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=4 then if 5<l then if 6<l then l=-2;else r[p]=b;end else if 0<=l then repeat if 5~=l then b=_[k[u]];break;end;p=k[c];until true;else b=_[k[u]];end end else if l>=2 then if l~=3 then u=e;else _=r;end else if l>0 then c=o;else k=j;end end end l=l+1 end n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if(r[j[o]]==j[t])then n=n+1;else n=j[e];end;end else r[j[o]]=(j[e]~=0);n=n+1;end else if l>229 then if l>230 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];else r[j[o]]=r[j[e]]+r[j[t]];end else local l,h;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];h=r[j[e]];r[l+1]=h;r[l]=h[j[t]];end end end end else if 196>=l then if 190<l then if l<=193 then if 192<=l then if l>190 then repeat if 193~=l then local s;for l=0,4 do if l>=2 then if l>=3 then if 0<l then repeat if l~=4 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];until true;else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if-4<=l then repeat if l~=1 then r(j[o],j[e]);n=n+1;j=d[n];break;end;s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end break;end;local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];if not r[j[o]]then n=n+1;else n=j[e];end;until true;else local s;for l=0,4 do if l>=2 then if l>=3 then if 0<l then repeat if l~=4 then r[j[o]][j[e]]=j[t];n=n+1;j=d[n];break;end;r[j[o]]=h[j[e]];until true;else r[j[o]]=h[j[e]];end else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end else if-4<=l then repeat if l~=1 then r(j[o],j[e]);n=n+1;j=d[n];break;end;s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end end else local s;for l=0,4 do if l>1 then if l<3 then r[j[o]]=h[j[e]];n=n+1;j=d[n];else if 1<=l then for f=19,96 do if l>3 then if not r[j[o]]then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end else if-2~=l then repeat if 0~=l then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;s=j[o]r[s]=r[s](f(r,s+1,j[e]))n=n+1;j=d[n];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];end end end end else if l<195 then h[j[e]]=r[j[o]];else if 192<=l then for h=40,88 do if l~=196 then r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if not r[j[o]]then n=n+1;else n=j[e];end;break;end;local l,b,a,h;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,a=k(r[l](f(r,l+1,j[e])))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))break;end;else r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];if not r[j[o]]then n=n+1;else n=j[e];end;end end end else if 187>=l then if l>=184 then for f=12,93 do if l~=186 then local f,s,a,k,b,l;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l>=5 then if l~=1 then repeat if l<6 then r(b,k);break;end;l=-2;until true;else l=-2;end else if 3~=l then b=f[s];else k=f[a];end end else if l>0 then if 1~=l then a=e;else s=o;end else f=j;end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};break;end;local j=j[o];local n=r[j];for j=j+1,s do b.dRMZmTsQ(n,r[j])end;break;end;else local f,b,k,s,a,l;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l>=5 then if l~=1 then repeat if l<6 then r(a,s);break;end;l=-2;until true;else l=-2;end else if 3~=l then a=f[b];else s=f[k];end end else if l>0 then if 1~=l then k=e;else b=o;end else f=j;end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};end else if l>188 then if 185<l then for a=38,87 do if l~=189 then r[j[o]]=j[e]-r[j[t]];break;end;local l,_,u,a,b;l=j[o]_,u=k(r[l](r[l+1]))s=u+l-1 a=0;for j=l,s do a=a+1;r[j]=_[a];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];b=r[j[e]];r[l+1]=b;r[l]=b[j[t]];n=n+1;j=d[n];l=j[o]r[l](r[l+1])break;end;else local l,u,_,a,b;l=j[o]u,_=k(r[l](r[l+1]))s=_+l-1 a=0;for j=l,s do a=a+1;r[j]=u[a];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];l=j[o];b=r[j[e]];r[l+1]=b;r[l]=b[j[t]];n=n+1;j=d[n];l=j[o]r[l](r[l+1])end else for l=0,4 do if l>1 then if 3<=l then if l>0 then repeat if l~=3 then if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];until true;else if(r[j[o]]==r[j[t]])then n=n+1;else n=j[e];end;end else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end else if 0==l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end end end end end end else if 203<=l then if l<=205 then if l<204 then r[j[o]][r[j[e]]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else if 200<l then repeat if 205~=l then local l,h;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];h=r[j[e]];r[l+1]=h;r[l]=h[j[t]];break;end;r[j[o]]=(j[e]~=0);until true;else r[j[o]]=(j[e]~=0);end end else if l<207 then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];else if l~=206 then repeat if 207~=l then r[j[o]]=c(_[j[e]],nil,a);break;end;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];until true;else r[j[o]]=c(_[j[e]],nil,a);end end end else if 200>l then if l<=197 then r[j[o]]=r[j[e]]-j[t];else if l>=194 then repeat if 199>l then local l,s,k,f;for h=0,4 do if 2>h then if 1==h then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r[j[o]]=a[j[e]];n=n+1;j=d[n];end else if 3<=h then if 4>h then l=j[o]k={r[l](r[l+1])};f=0;for j=l,j[t]do f=f+1;r[j]=k[f];end n=n+1;j=d[n];else n=j[e];end else l=j[o];s=r[j[e]];r[l+1]=s;r[l]=s[j[t]];n=n+1;j=d[n];end end end break;end;r[j[o]]();until true;else r[j[o]]();end end else if 200<l then if 200<l then repeat if 201~=l then local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=(j[e]~=0);n=n+1;j=d[n];h[j[e]]=r[j[o]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];until true;else local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end else if(r[j[o]]<=j[t])then n=j[e];else n=n+1;end;end end end end end else if l<255 then if l<243 then if 236<l then if l<240 then if l<238 then r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);else if l>=234 then for d=20,86 do if 239~=l then if(r[j[o]]<r[j[t]])then n=j[e];else n=n+1;end;break;end;r[j[o]]=r[j[e]]-r[j[t]];break;end;else r[j[o]]=r[j[e]]-r[j[t]];end end else if 240<l then if l>241 then local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];else local l;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];end else local s,b,k,a,u,l,h;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if 1>l then s=j;else if 2>l then b=o;else k=e;end end else if 5<=l then if 1~=l then for j=10,83 do if l~=5 then l=-2;break;end;r(u,a);break;end;else l=-2;end else if l>-1 then for j=28,62 do if l<4 then a=s[k];break;end;u=s[b];break;end;else a=s[k];end end end l=l+1 end n=n+1;j=d[n];h=j[o]r[h]=r[h](f(r,h+1,j[e]))n=n+1;j=d[n];r[j[o]]=j[e]-r[j[t]];n=n+1;j=d[n];h=j[o]r[h](f(r,h+1,j[e]))end end else if 233<l then if 235>l then local l;l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);else if l>=234 then for f=15,93 do if l>235 then r[j[o]]=r[j[e]]-j[t];break;end;local l,f,s;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=r[j[e]];n=n+1;j=d[n];l=j[e];f=r[l]for j=l+1,j[t]do f=f..r[j];end;r[j[o]]=f;n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];s=j[o];l=r[j[e]];r[s+1]=l;r[s]=l[j[t]];n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=r[j[e]];break;end;else r[j[o]]=r[j[e]]-j[t];end end else if 229<=l then repeat if 233~=l then do return r[j[o]]end break;end;r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};until true;else r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};end end end else if l>=249 then if 252<=l then if 252>=l then local l,b,a,h;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,a=k(r[l](f(r,l+1,j[e])))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))else if 252<l then repeat if 254>l then local l,u,_,b;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]*j[t];n=n+1;j=d[n];l=j[o]u,_=k(r[l](f(r,l+1,j[e])))s=_+l-1 b=0;for j=l,s do b=b+1;r[j]=u[b];end;break;end;r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];until true;else r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];end end else if 250<=l then if 248~=l then repeat if 251~=l then local h,b,k,u,s,l,_;l=0;while l>-1 do if l>=3 then if 4<l then if 4<=l then for j=14,56 do if l<6 then r(s,u);break;end;l=-2;break;end;else l=-2;end else if l>3 then s=h[b];else u=h[k];end end else if 1>l then h=j;else if l~=-2 then for j=32,57 do if l<2 then b=o;break;end;k=e;break;end;else k=e;end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if l<=4 then if l==3 then u=h[k];else s=h[b];end else if 1<l then for j=29,90 do if 6>l then r(s,u);break;end;l=-2;break;end;else l=-2;end end else if l<=0 then h=j;else if 2~=l then b=o;else k=e;end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l<=2 then if l>=1 then if-1~=l then repeat if l~=2 then b=o;break;end;k=e;until true;else k=e;end else h=j;end else if 4>=l then if l~=3 then s=h[b];else u=h[k];end else if l~=1 then for j=24,68 do if 6>l then r(s,u);break;end;l=-2;break;end;else l=-2;end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>2 then if l>=5 then if 4~=l then for j=17,83 do if 6>l then r(s,u);break;end;l=-2;break;end;else r(s,u);end else if 0<=l then for j=44,52 do if l>3 then s=h[b];break;end;u=h[k];break;end;else s=h[b];end end else if l<1 then h=j;else if l~=2 then b=o;else k=e;end end end l=l+1 end n=n+1;j=d[n];_=j[o]r[_]=r[_](f(r,_+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];break;end;if(j[o]<r[j[t]])then n=n+1;else n=j[e];end;until true;else if(j[o]<r[j[t]])then n=n+1;else n=j[e];end;end else a[j[e]]=r[j[o]];end end else if 245>=l then if 243>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];else if l~=241 then for h=11,94 do if l~=244 then local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))break;end;r[j[o]]=r[j[e]][r[j[t]]];break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))end end else if 246<l then if l>243 then for s=47,85 do if l~=248 then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]][j[e]]=j[t];n=n+1;j=d[n];r[j[o]]=a[j[e]];break;end;local h,s,k,b,u,l,_;for l=0,4 do if l<=1 then if-2~=l then repeat if l>0 then l=0;while l>-1 do if 2>=l then if 1>l then h=j;else if 2==l then k=e;else s=o;end end else if 5<=l then if 5<l then l=-2;else r(u,b);end else if 3==l then b=h[k];else u=h[s];end end end l=l+1 end n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else l=0;while l>-1 do if 2>=l then if 1>l then h=j;else if 2==l then k=e;else s=o;end end else if 5<=l then if 5<l then l=-2;else r(u,b);end else if 3==l then b=h[k];else u=h[s];end end end l=l+1 end n=n+1;j=d[n];end else if 3<=l then if l~=-1 then repeat if l<4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];until true;else r[j[o]]=a[j[e]];end else _=j[o]r[_]=r[_](f(r,_+1,j[e]))n=n+1;j=d[n];end end end break;end;else local h,u,s,k,b,l,_;for l=0,4 do if l<=1 then if-2~=l then repeat if l>0 then l=0;while l>-1 do if 2>=l then if 1>l then h=j;else if 2==l then s=e;else u=o;end end else if 5<=l then if 5<l then l=-2;else r(b,k);end else if 3==l then k=h[s];else b=h[u];end end end l=l+1 end n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else l=0;while l>-1 do if 2>=l then if 1>l then h=j;else if 2==l then s=e;else u=o;end end else if 5<=l then if 5<l then l=-2;else r(b,k);end else if 3==l then k=h[s];else b=h[u];end end end l=l+1 end n=n+1;j=d[n];end else if 3<=l then if l~=-1 then repeat if l<4 then r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];break;end;r[j[o]]=a[j[e]];until true;else r[j[o]]=a[j[e]];end else _=j[o]r[_]=r[_](f(r,_+1,j[e]))n=n+1;j=d[n];end end end end else local l,h;l=j[o]r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=j[o];h=r[j[e]];r[l+1]=h;r[l]=h[j[t]];end end end end else if 266>=l then if l>260 then if 264>l then if 261<l then if l~=259 then repeat if l~=263 then local h,s,b,k,a,l,u;l=0;while l>-1 do if l<=2 then if l>0 then if 1<l then b=e;else s=o;end else h=j;end else if l>4 then if l>2 then for j=30,86 do if 6>l then r(a,k);break;end;l=-2;break;end;else l=-2;end else if 1<l then repeat if l~=4 then k=h[b];break;end;a=h[s];until true;else a=h[s];end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if l>0 then if 0<=l then for j=37,61 do if l>1 then b=e;break;end;s=o;break;end;else s=o;end else h=j;end else if l<=4 then if l>2 then for j=25,93 do if 3<l then a=h[s];break;end;k=h[b];break;end;else k=h[b];end else if l>4 then repeat if 5<l then l=-2;break;end;r(a,k);until true;else r(a,k);end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if 1<=l then if l>-3 then for j=14,91 do if 1<l then b=e;break;end;s=o;break;end;else s=o;end else h=j;end else if l>4 then if l~=3 then for j=14,56 do if 5<l then l=-2;break;end;r(a,k);break;end;else l=-2;end else if l>=0 then for j=31,53 do if l>3 then a=h[s];break;end;k=h[b];break;end;else a=h[s];end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if 4>=l then if l~=1 then for j=35,94 do if 3~=l then a=h[s];break;end;k=h[b];break;end;else k=h[b];end else if l>5 then l=-2;else r(a,k);end end else if l<=0 then h=j;else if-3<l then repeat if l>1 then b=e;break;end;s=o;until true;else s=o;end end end l=l+1 end n=n+1;j=d[n];u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];break;end;local s=_[j[e]];local f;local l={};f=b.ELmBBqJt({},{__index=function(n,j)local j=l[j];return j[1][j[2]];end,__newindex=function(r,j,n)local j=l[j]j[1][j[2]]=n;end;});for o=1,j[t]do n=n+1;local j=d[n];if j[g]==100 then l[o-1]={r,j[e]};else l[o-1]={h,j[e]};end;u[#u+1]=l;end;r[j[o]]=c(s,f,a);until true;else local h,s,b,k,a,l,u;l=0;while l>-1 do if l<=2 then if l>0 then if 1<l then b=e;else s=o;end else h=j;end else if l>4 then if l>2 then for j=30,86 do if 6>l then r(a,k);break;end;l=-2;break;end;else l=-2;end else if 1<l then repeat if l~=4 then k=h[b];break;end;a=h[s];until true;else a=h[s];end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if l>0 then if 0<=l then for j=37,61 do if l>1 then b=e;break;end;s=o;break;end;else s=o;end else h=j;end else if l<=4 then if l>2 then for j=25,93 do if 3<l then a=h[s];break;end;k=h[b];break;end;else k=h[b];end else if l>4 then repeat if 5<l then l=-2;break;end;r(a,k);until true;else r(a,k);end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if 2>=l then if 1<=l then if l>-3 then for j=14,91 do if 1<l then b=e;break;end;s=o;break;end;else s=o;end else h=j;end else if l>4 then if l~=3 then for j=14,56 do if 5<l then l=-2;break;end;r(a,k);break;end;else l=-2;end else if l>=0 then for j=31,53 do if l>3 then a=h[s];break;end;k=h[b];break;end;else a=h[s];end end end l=l+1 end n=n+1;j=d[n];l=0;while l>-1 do if l>=3 then if 4>=l then if l~=1 then for j=35,94 do if 3~=l then a=h[s];break;end;k=h[b];break;end;else k=h[b];end else if l>5 then l=-2;else r(a,k);end end else if l<=0 then h=j;else if-3<l then repeat if l>1 then b=e;break;end;s=o;until true;else s=o;end end end l=l+1 end n=n+1;j=d[n];u=j[o]r[u]=r[u](f(r,u+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=j[t];end else local l,b,u,h;r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);end else if 264>=l then local h,f;for l=0,4 do if l<=1 then if 0==l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else r(j[o],j[e]);n=n+1;j=d[n];end else if 2>=l then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];else if l~=-1 then for s=41,57 do if 4>l then h=j[e];f=r[h]for j=h+1,j[t]do f=f..r[j];end;r[j[o]]=f;n=n+1;j=d[n];break;end;r[j[o]][j[e]]=r[j[t]];break;end;else r[j[o]][j[e]]=r[j[t]];end end end end else if 261<l then repeat if 266>l then r[j[o]]=c(_[j[e]],nil,a);break;end;if(j[o]<r[j[t]])then n=j[e];else n=n+1;end;until true;else if(j[o]<r[j[t]])then n=j[e];else n=n+1;end;end end end else if l>257 then if 259<=l then if 257~=l then repeat if l~=260 then local l,u,b,h;r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]u,b=k(r[l](f(r,l+1,j[e])))s=b+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;break;end;local j=j[o]local o,n=k(r[j]())s=n+j-1 local n=0;for j=j,s do n=n+1;r[j]=o[n];end;until true;else local l,b,u,h;r(j[o],j[e]);n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;end else local l,a,u,h,_;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]a,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=a[h];end;n=n+1;j=d[n];l=j[o]a,u=k(r[l](f(r,l+1,s)))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=a[h];end;n=n+1;j=d[n];l=j[o];_=r[l];for j=l+1,s do b.dRMZmTsQ(_,r[j])end;end else if l<256 then for l=0,4 do if l>=2 then if l>2 then if l==4 then r[j[o]][j[e]]=j[t];else r[j[o]]={};n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end else if-3~=l then for f=24,68 do if l~=0 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;else r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];end end end else if 253<=l then repeat if l>256 then local l,u,a,h,_;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]u,a=k(r[l](f(r,l+1,j[e])))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];l=j[o]u,a=k(r[l](f(r,l+1,s)))s=a+l-1 h=0;for j=l,s do h=h+1;r[j]=u[h];end;n=n+1;j=d[n];l=j[o];_=r[l];for j=l+1,s do b.dRMZmTsQ(_,r[j])end;break;end;local o=j[o];local n=r[j[e]];r[o+1]=n;r[o]=n[j[t]];until true;else local o=j[o];local n=r[j[e]];r[o+1]=n;r[o]=n[j[t]];end end end end else if l<273 then if 269>=l then if 268<=l then if l~=264 then for s=34,76 do if l~=268 then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];break;end;local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];break;end;else local l;r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]]/r[j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];end else local l,u,b,a;l=j[o]u,b=k(r[l](f(r,l+1,j[e])))s=b+l-1 a=0;for j=l,s do a=a+1;r[j]=u[a];end;n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,s))n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];end else if 270<l then if l~=267 then repeat if 271<l then if not r[j[o]]then n=n+1;else n=j[e];end;break;end;local l,b,u,h;for a=0,4 do if 2<=a then if a>2 then if 2<a then repeat if a~=3 then l=j[o]r[l]=r[l](f(r,l+1,s))break;end;l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];until true;else l=j[o]b,u=k(r[l](f(r,l+1,j[e])))s=u+l-1 h=0;for j=l,s do h=h+1;r[j]=b[h];end;n=n+1;j=d[n];end else r(j[o],j[e]);n=n+1;j=d[n];end else if a>-2 then repeat if a~=1 then r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];break;end;r(j[o],j[e]);n=n+1;j=d[n];until true;else r(j[o],j[e]);n=n+1;j=d[n];end end end until true;else if not r[j[o]]then n=n+1;else n=j[e];end;end else local d=j[o];local o={};for j=1,#u do local j=u[j];for n=0,#j do local n=j[n];local e=n[1];local j=n[2];if e==r and j>=d then o[j]=e[j];n[1]=o;end;end;end;end end else if l>275 then if 277>l then r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);else if l>277 then local f,s,u,k,b,l;r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 3>l then if 1<=l then if-3<=l then for j=34,65 do if 1~=l then u=e;break;end;s=o;break;end;else s=o;end else f=j;end else if l<=4 then if 0<=l then for j=29,91 do if 4~=l then k=f[u];break;end;b=f[s];break;end;else b=f[s];end else if l>=2 then for j=44,73 do if 6>l then r(b,k);break;end;l=-2;break;end;else r(b,k);end end end l=l+1 end n=n+1;j=d[n];r[j[o]]={};n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];l=0;while l>-1 do if 3<=l then if l>4 then if l~=4 then for j=24,69 do if 5~=l then l=-2;break;end;r(b,k);break;end;else r(b,k);end else if-1<=l then repeat if l>3 then b=f[s];break;end;k=f[u];until true;else k=f[u];end end else if 1<=l then if 0<=l then for j=14,66 do if l~=2 then s=o;break;end;u=e;break;end;else s=o;end else f=j;end end l=l+1 end else n=j[e];end end else if 273<l then if 275==l then r[j[o]]=(not r[j[e]]);else local l;r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];r(j[o],j[e]);n=n+1;j=d[n];l=j[o]r[l]=r[l](f(r,l+1,j[e]))n=n+1;j=d[n];r[j[o]][j[e]]=r[j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];end else r[j[o]]=h[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];n=n+1;j=d[n];r[j[o]]=a[j[e]];n=n+1;j=d[n];r[j[o]]=r[j[e]][j[t]];end end end end end end end end n=1+n;end;end;return rj end;local o=0xff;local h={};local t=(1);local e='';(function(n)local r=n local d=0x00 local j=0x00 r={(function(t)if d>0x30 then return t end d=d+1 j=(j+0x116e-t)%0xd return(j%0x03==0x2 and(function(r)if not n[r]then j=j+0x01 n[r]=(0xb4);end return true end)'rVzVk'and r[0x3](0x214+t))or(j%0x03==0x0 and(function(r)if not n[r]then j=j+0x01 n[r]=(0xb7);end return true end)'BnvfD'and r[0x1](t+0x1e3))or(j%0x03==0x1 and(function(r)if not n[r]then j=j+0x01 n[r]=(0xb6);e='\37';o={function()o()end};e=e..'\100\43';end return true end)'wvaco'and r[0x2](t+0x2cd))or t end),(function(l)if d>0x2f then return l end d=d+1 j=(j+0x7a2-l)%0x2d return(j%0x03==0x1 and(function(r)if not n[r]then j=j+0x01 n[r]=(0x23);end return true end)'MCsYV'and r[0x1](0x31c+l))or(j%0x03==0x2 and(function(r)if not n[r]then j=j+0x01 n[r]=(0x79);e={e..'\58 a',e};h[t]=nj();t=t+((not b.ZFxlyFWi)and 1 or 0);e[1]='\58'..e[1];o[2]=0xff;end return true end)'tUHGS'and r[0x2](l+0x23b))or(j%0x03==0x0 and(function(r)if not n[r]then j=j+0x01 n[r]=(0x86);o[2]=(o[2]*(rj(function()h()end,f(e))-rj(o[1],f(e))))+1;h[t]={};o=o[2];t=t+o;end return true end)'aOUnp'and r[0x3](l+0x21d))or l end),(function(e)if d>0x26 then return e end d=d+1 j=(j+0x10f0-e)%0x2e return(j%0x03==0x1 and(function(r)if not n[r]then j=j+0x01 n[r]=(0xb1);end return true end)'PeTwZ'and r[0x3](0x1fe+e))or(j%0x03==0x0 and(function(r)if not n[r]then j=j+0x01 n[r]=(0x56);end return true end)'zItUO'and r[0x2](e+0x1c4))or(j%0x03==0x2 and(function(r)if not n[r]then j=j+0x01 n[r]=(0x49);h[t]=oj();t=t+o;end return true end)'bAAid'and r[0x1](e+0x145))or e end)}r[0x1](0xaf)end){};local j=c(f(h));return j(...);end return rj((function()local n={}local j=0x01;local r;if b.ZFxlyFWi then r=b.ZFxlyFWi(rj)else r=''end if b.QUvvurXA(r,b.xzOPrYyB)then j=j+0;else j=j+1;end n[j]=0x02;n[n[j]+0x01]=0x03;return n;end)(),...)end)((function(n,j,r,o,e,d)local d;if n>3 then if 6<=n then if n<=6 then do return e[r]end;else if n~=6 then for j=31,92 do if 7<n then do return r(n,nil,r);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(j,o,r,e,n)if n then return j[n]elseif e then return j else j[o]=r end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(j,o,e,r,n)if n then return j[n]elseif r then return j else j[o]=e end end})end end end else if 4==n then local n=o;local l,d,t=e(2);do return function()local e,o,r,j=j(r,n(n,n),n(n,n)+3);n(4);return(j*l)+(r*d)+(o*t)+e;end;end;else local n=o;do return function()local j=j(r,n(n,n),n(n,n));n(1);return j;end;end;end end else if n<2 then if n<1 then do return j(1),j(4,e,o,r,j),j(5,e,o,r)end;else do return function(r,j,n)if n then local j=(r/2^(j-1))%2^((n-1)-(j-1)+1);return j-j%1;else local j=2^(j-1);return(r%(j+j)>=j)and 1 or 0;end;end;end;end else if 0~=n then for d=11,53 do if n<3 then do return 16777216,65536,256 end;break;end;do return j(1),j(4,e,o,r,j),j(5,e,o,r)end;break;end;else do return j(1),j(4,e,o,r,j),j(5,e,o,r)end;end end end end),...)
+-- Library
+
+local Library = {
+	Theme = {
+		Accent = Color3.fromRGB(0, 255, 0),
+		TopbarColor = Color3.fromRGB(20, 20, 20),
+		SidebarColor = Color3.fromRGB(15, 15, 15),
+		BackgroundColor = Color3.fromRGB(10, 10, 10),
+		SectionColor = Color3.fromRGB(20, 20, 20),
+		TextColor = Color3.fromRGB(255, 255, 255),
+	},
+	Notif = {
+		Active = {},
+		Queue = {},
+		IsBusy = false,
+	},
+	Settings = {
+		ConfigPath = nil,
+		MaxNotifLines = 5,
+		MaxNotifStacking = 5,
+	},
+}
+
+-- Services
+
+local Players = game:GetService("Players")
+local UIS = game:GetService("UserInputService")
+local RS = game:GetService("RunService")
+local TS = game:GetService("TweenService")
+local TXS = game:GetService("TextService")
+local HS = game:GetService("HttpService")
+local CG = game:GetService("CoreGui")
+
+-- Variables
+
+local Player = Players.LocalPlayer
+local Mouse = Player:GetMouse()
+
+local SelfModules = {
+	UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/UI.lua"))(),
+	Directory = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Directory.lua"))(),
+}
+local Storage = { Connections = {}, Tween = { Cosmetic = {} } }
+
+local ListenForInput = false
+
+-- Directory
+
+local Directory = SelfModules.Directory.Create({
+	["Vynixius UI Library"] = {
+		"Configs",
+	},
+})
+
+Library.Settings.ConfigPath = Directory.Configs
+
+-- Misc Functions
+
+local function tween(...)
+	local args = {...}
+
+	if typeof(args[2]) ~= "string" then
+		table.insert(args, 2, "")
+	end
+
+	local tween = TS:Create(args[1], TweenInfo.new(args[3], Enum.EasingStyle.Quint), args[4])
+
+	if args[2] == "Cosmetic" then
+		Storage.Tween.Cosmetic[args[1]] = tween
+
+		task.spawn(function()
+			task.wait(args[3])
+
+			if Storage.Tween.Cosmetic[tween] then
+				Storage.Tween.Cosmetic[tween] = nil
+			end
+		end)
+	end
+
+	tween:Play()
+end
+
+-- Functions
+
+local ScreenGui = SelfModules.UI.Create("ScreenGui", {
+	Name = "Vynixius UI Library",
+	ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
+})
+
+function Library:Destroy()
+	if ScreenGui.Parent then
+		ScreenGui:Destroy()
+	end
+end
+
+function Library:Notify(options, callback)
+	if Library.Notif.IsBusy == true then
+		Library.Notif.Queue[#Library.Notif.Queue + 1] = { options, callback }
+		return
+	end	
+
+	Library.Notif.IsBusy = true
+
+	local Notification = {
+		Type = "Notification",
+		Selection = nil,
+		Callback = callback,
+	}
+
+	Notification.Frame = SelfModules.UI.Create("Frame", {
+		Name = "Notification",
+		BackgroundTransparency = 1,
+		ClipsDescendants = true,
+		Position = UDim2.new(0, 10, 1, -66),
+		Size = UDim2.new(0, 320, 0, 42 + Library.Settings.MaxNotifLines * 14),
+
+		SelfModules.UI.Create("Frame", {
+			Name = "Topbar",
+			BackgroundColor3 = Library.Theme.TopbarColor,
+			Size = UDim2.new(1, 0, 0, 28),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.TopbarColor,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 0, 0.5, 0),
+				Size = UDim2.new(1, 0, 0.5, 0),
+			}),
+
+			SelfModules.UI.Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 7, 0.5, -8),
+				Size = UDim2.new(1, -54, 0, 16),
+				Font = Enum.Font.SourceSans,
+				Text = options.title or "Notification",
+				TextColor3 = Library.Theme.TextColor,
+				TextSize = 16,
+				TextXAlignment = Enum.TextXAlignment.Left,
+			}),
+
+			SelfModules.UI.Create("ImageButton", {
+				Name = "Yes",
+				AnchorPoint = Vector2.new(1, 0),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -24, 0.5, -10),
+				Size = UDim2.new(0, 20, 0, 20),
+				Image = "http://www.roblox.com/asset/?id=7919581359",
+				ImageColor3 = Library.Theme.TextColor,
+			}),
+
+			SelfModules.UI.Create("ImageButton", {
+				Name = "No",
+				AnchorPoint = Vector2.new(1, 0),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -2, 0.5, -10),
+				Size = UDim2.new(0, 20, 0, 20),
+				Image = "http://www.roblox.com/asset/?id=7919583990",
+				ImageColor3 = Library.Theme.TextColor,
+			}),
+		}, UDim.new(0,5)),
+
+		SelfModules.UI.Create("Frame", {
+			Name = "Background",
+			BackgroundColor3 = Library.Theme.BackgroundColor,
+			Position = UDim2.new(0, 0, 0, 28),
+			Size = UDim2.new(1, 0, 1, -28),
+
+			SelfModules.UI.Create("TextLabel", {
+				Name = "Description",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 7, 0, 7),
+				Size = UDim2.new(1, -14, 1, -14),
+				Font = Enum.Font.SourceSans,
+				Text = options.text,
+				TextColor3 = Library.Theme.TextColor,
+				TextSize = 14,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				TextYAlignment = Enum.TextYAlignment.Top,
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.BackgroundColor,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 5),
+			}),
+		}, UDim.new(0, 5)),
+	})
+
+	if options.color ~= nil then
+		local indicator = SelfModules.UI.Create("Frame", {
+			Name = "Indicator",
+			BackgroundColor3 = options.color,
+			Size = UDim2.new(0, 4, 1, 0),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = options.color,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0.5, 0, 0, 0),
+				Size = UDim2.new(0.5, 0, 1, 0),
+			}),
+		}, UDim.new(0, 3))
+
+		Notification.Frame.Topbar.Title.Position = UDim2.new(0, 11, 0.5, -8)
+		Notification.Frame.Topbar.Title.Size = UDim2.new(1, -60, 0, 16)
+		Notification.Frame.Background.Description.Position = UDim2.new(0, 11, 0, 7)
+		Notification.Frame.Background.Description.Size = UDim2.new(1, -18, 1, -14)
+		indicator.Parent = Notification.Frame
+	end
+
+	-- Functions
+
+	function Notification:GetHeight()
+		local desc = self.Frame.Background.Description
+
+		return 42 + math.round(TXS:GetTextSize(desc.Text, 14, Enum.Font.SourceSans, Vector2.new(desc.AbsoluteSize.X, Library.Settings.MaxNotifStacking * 14)).Y + 0.5)
+	end
+
+	function Notification:Select(bool)
+		tween(self.Frame.Topbar[bool and "Yes" or "No"], 0.1, { ImageColor3 = bool and Color3.fromRGB(75, 255, 75) or Color3.fromRGB(255, 75, 75) })
+		tween(self.Frame, 0.5, { Position = UDim2.new(0, -320, 0, self.Frame.AbsolutePosition.Y) })
+
+		local notifIdx = table.find(Library.Notif.Active, self)
+
+		if notifIdx then
+			table.remove(Library.Notif.Active, notifIdx)
+			task.delay(0.5, self.Frame.Destroy, self.Frame)
+		end
+		
+		pcall(task.spawn, self.Callback, bool)
+	end
+
+	-- Scripts
+
+	Library.Notif.Active[#Library.Notif.Active + 1] = Notification
+	Storage.Connections[Notification] = {}
+	Notification.Frame.Size = UDim2.new(0, 320, 0, Notification:GetHeight())
+	Notification.Frame.Position = UDim2.new(0, -320, 1, -Notification:GetHeight() - 10)
+	Notification.Frame.Parent = ScreenGui
+
+	if #Library.Notif.Active > Library.Settings.MaxNotifStacking then
+		Library.Notif.Active[1]:Select(false)
+	end
+
+	for i, v in next, Library.Notif.Active do
+		if v ~= Notification then
+			tween(v.Frame, 0.5, { Position = v.Frame.Position - UDim2.new(0, 0, 0, Notification:GetHeight() + 10) })
+		end
+	end
+
+	tween(Notification.Frame, 0.5, { Position = UDim2.new(0, 10, 1, -Notification:GetHeight() - 10) })
+
+	task.spawn(function()
+		task.wait(0.5)
+
+		Storage.Connections[Notification].Yes = Notification.Frame.Topbar.Yes.Activated:Connect(function()
+			Notification:Select(true)
+		end)
+
+		Storage.Connections[Notification].No = Notification.Frame.Topbar.No.Activated:Connect(function()
+			Notification:Select(false)
+		end)
+
+		Library.Notif.IsBusy = false
+
+		if #Library.Notif.Queue > 0 then
+			local notif = Library.Notif.Queue[1]
+			table.remove(Library.Notif.Queue, 1)
+
+			Library:Notify(notif[1], notif[2])
+		end
+	end)
+
+	task.spawn(function()
+		task.wait(options.duration or 10)
+
+		if Notification.Frame.Parent ~= nil then
+			Notification:Select(false)
+		end
+	end)
+
+	return Notification
+end
+
+function Library:AddWindow(options)
+	assert(options, "No options data assigned to Window")
+
+	local Window = {
+		Name = options.title[1].. " ".. options.title[2],
+		Type = "Window",
+		Tabs = {},
+		Sidebar = { List = {}, Toggled = false },
+		Key = options.key or Enum.KeyCode.RightControl,
+		Toggled = options.default ~= false,
+	}
+
+	-- Custom theme setup
+
+	if options.theme ~= nil then
+		for i, v in next, options.theme do
+			for i2, _ in next, Library.Theme do
+				if string.lower(i) == string.lower(i2) and typeof(v) == "Color3" then
+					Library.Theme[i2] = v
+				end
+			end
+		end
+	end
+
+	-- Window construction
+
+	Window.Frame = SelfModules.UI.Create("Frame", {
+		Name = "Window",
+		BackgroundTransparency = 1,
+		Size = UDim2.new(0, 460, 0, 497),
+		Position = UDim2.new(1, -490, 1, -527),
+		Visible = options.default ~= false,
+
+		SelfModules.UI.Create("Frame", {
+			Name = "Topbar",
+			BackgroundColor3 = Library.Theme.TopbarColor,
+			Size = UDim2.new(1, 0, 0, 40),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.TopbarColor,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 0, 0.5, 0),
+				Size = UDim2.new(1, 0, 0.5, 0),
+			}),
+
+			SelfModules.UI.Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0.5, 0, 0.5, 0),
+				Size = UDim2.new(1, -20, 0, 22),
+				Font = Enum.Font.SourceSans,
+				Text = string.format("%s - <font color='%s'>%s</font>", options.title[1], SelfModules.UI.Color.ToFormat(Library.Theme.Accent), options.title[2]),
+				RichText = true,
+				TextColor3 = Library.Theme.TextColor,
+				TextSize = 22,
+				TextWrapped = true,
+			}),
+		}, UDim.new(0, 5)),
+
+		SelfModules.UI.Create("Frame", {
+			Name = "Background",
+			BackgroundColor3 = Library.Theme.BackgroundColor,
+			Position = UDim2.new(0, 30, 0, 40),
+			Size = UDim2.new(1, -30, 1, -40),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.BackgroundColor,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 5),
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.BackgroundColor,
+				BorderSizePixel = 0,
+				Size = UDim2.new(0, 5, 1, 0),
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Tabs",
+				BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.BackgroundColor, Color3.fromRGB(15, 15, 15)),
+				Position = UDim2.new(0, 3, 0, 3),
+				Size = UDim2.new(1, -6, 1, -6),
+
+				SelfModules.UI.Create("Frame", {
+					Name = "Holder",
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.BackgroundColor, Color3.fromRGB(5, 5, 5)),
+					Position = UDim2.new(0, 1, 0, 1),
+					Size = UDim2.new(1, -2, 1, -2),
+				}, UDim.new(0, 5)),
+			}, UDim.new(0, 5)),
+		}, UDim.new(0, 5)),
+
+		SelfModules.UI.Create("Frame", {
+			Name = "Sidebar",
+			BackgroundColor3 = Library.Theme.SidebarColor,
+			Position = UDim2.new(0, 0, 0, 40),
+			Size = UDim2.new(0, 30, 1, -40),
+			ZIndex = 2,
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.SidebarColor,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 5),
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Filling",
+				BackgroundColor3 = Library.Theme.SidebarColor,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -5, 0, 0),
+				Size = UDim2.new(0, 5, 1, 0),
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Border",
+				BackgroundColor3 = Library.Theme.BackgroundColor,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, 0, 0, 0),
+				Selectable = true,
+				Size = UDim2.new(0, 5, 1, 0),
+				ZIndex = 2,
+			}),
+
+			SelfModules.UI.Create("Frame", {
+				Name = "Line",
+				BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(10, 10, 10)),
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 5, 0, 29),
+				Size = UDim2.new(1, -10, 0, 2),
+			}),
+
+			SelfModules.UI.Create("ScrollingFrame", {
+				Name = "List",
+				Active = true,
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				ClipsDescendants = true,
+				Position = UDim2.new(0, 5, 0, 35),
+				Size = UDim2.new(1, -10, 1, -40),
+				CanvasSize = UDim2.new(0, 0, 0, 0),
+				ScrollBarThickness = 5,
+
+				SelfModules.UI.Create("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 5),
+				}),
+			}),
+
+			SelfModules.UI.Create("TextLabel", {
+				Name = "Indicator",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -30, 0, 0),
+				Size = UDim2.new(0, 30, 0, 30),
+				Font = Enum.Font.SourceSansBold,
+				Text = "+",
+				TextColor3 = Library.Theme.TextColor,
+				TextSize = 20,
+			}),
+		}, UDim.new(0, 5))
+	})
+
+	-- Functions
+
+	local function saveConfig(filePath)
+		pcall(function()
+			local config = { Flags = {}, Binds = {}, Sliders = {}, Pickers = {} }
+	
+			for _, tab in next, Window.Tabs do
+				for flag, value in next, tab.Flags do
+					config.Flags[flag] = value
+				end
+		
+				for _, section in next, tab.Sections do
+					for _, item in next, section.List do
+						local flag = item.Flag or item.Name
+		
+						if item.Type == "Bind" then
+							config.Binds[flag] = item.Bind.Name
+		
+						elseif item.Type == "Slider" then
+							config.Sliders[flag] = item.Value
+		
+						elseif item.Type == "Picker" then
+							config.Pickers[flag] = { Color = item.Color, Rainbow = item.Rainbow }
+		
+						elseif item.Type == "SubSection" then
+							for _, item2 in next, item.List do
+								local flag2 = item2.Flag or item2.Name
+		
+								if item2.Type == "Bind" then
+									config.Binds[flag2] = item2.Bind.Name
+		
+								elseif item2.Type == "Slider" then
+									config.Sliders[flag2] = item2.Value
+		
+								elseif item2.Type == "Picker" then
+									config.Pickers[flag2] = { Color = item2.Color, Rainbow = item2.Rainbow }
+								end
+							end
+						end
+					end
+				end
+			end
+		
+			writefile(filePath, HS:JSONEncode(config))
+		end)
+	end
+	
+	local function loadConfig(filePath)
+		pcall(function()
+			local config = HS:JSONDecode(readfile(filePath))
+		
+			if config then
+				for _, tab in next, Window.Tabs do
+					for _, section in next, tab.Sections do
+						for _, item in next, section.List do
+							local flag = item.Flag or item.Name
+		
+							if config.Flags[flag] ~= nil then
+								item[item.Type == "Toggle" and "Set" or "Toggle"](item, config.Flags[flag])
+							end
+		
+							if item.Type == "Bind" then
+								item:Set(Enum.KeyCode[config.Binds[flag]])
+		
+							elseif item.Type == "Slider" then
+								item:Set(config.Sliders[flag])
+		
+							elseif item.Type == "Picker" then
+								local picker = config.Pickers[flag]
+		
+								item:Set(picker.Color.R, picker.Color.G, picker.Color.B)
+								item:ToggleRainbow(picker.Rainbow)
+		
+							elseif item.Type == "SubSection" then
+								for _, item2 in next, item.List do
+									local flag2 = item2.Flag or item2.Name
+		
+									if config.Flags[flag2] ~= nil then
+										item2[item2.Type == "Toggle" and "Set" or "Toggle"](item2, config.Flags[flag2])
+									end
+		
+									if item2.Type == "Bind" then
+										item2:Set(Enum.KeyCode[config.Binds[flag2]])
+		
+									elseif item2.Type == "Slider" then
+										item2:Set(config.Sliders[flag2])
+		
+									elseif item2.Type == "Picker" then
+										local picker = config.Pickers[flag2]
+		
+										item2:Set(picker.Color.R, picker.Color.G, picker.Color.B)
+										item2:ToggleRainbow(picker.Rainbow)
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end)
+	end
+
+	function Window:Toggle(bool)
+		self.Toggled = bool
+		self.Frame.Visible = bool
+	end
+
+	function Window:SetKey(keycode)
+		self.Key = keycode
+	end
+
+	local function setAccent(accent)
+		Library.Theme.Accent = accent
+		Window.Frame.Topbar.Title.Text = string.format("%s - <font color='%s'>%s</font>", options.title[1], SelfModules.UI.Color.ToFormat(accent), options.title[2])
+
+		for _, tab in next, Window.Tabs do
+			for _, section in next, tab.Sections do
+				for _, item in next, section.List do
+					local flag = item.Flag or item.Name
+
+					if tab.Flags[flag] == true or item.Rainbow == true then
+						local overlay = nil
+
+						for _, v in next, item.Frame:GetDescendants() do
+							if v.Name == "Overlay" then
+								overlay = v; break
+							end
+						end
+							
+						if overlay then
+							local tween = Storage.Tween.Cosmetic[overlay]
+
+							if tween then
+								tween:Cancel(); tween = nil
+							end
+
+							overlay.BackgroundColor3 = SelfModules.UI.Color.Add(accent, Color3.fromRGB(50, 50, 50))
+						end
+					end
+
+					if item.Type == "Slider" then
+						item.Frame.Holder.Slider.Bar.Fill.BackgroundColor3 = SelfModules.UI.Color.Sub(accent, Color3.fromRGB(50, 50, 50))
+						item.Frame.Holder.Slider.Point.BackgroundColor3 = accent
+
+					elseif item.Type == "SubSection" then
+						for _, item2 in next, item.List do
+							local flag2 = item2.Flag or item2.Name
+		
+							if tab.Flags[flag2] == true or item2.Rainbow == true then
+								local overlay = nil
+		
+								for _, v in next, item2.Frame:GetDescendants() do
+									if v.Name == "Overlay" then
+										overlay = v; break
+									end
+								end
+									
+								if overlay then
+									local tween = Storage.Tween.Cosmetic[overlay]
+		
+									if tween then
+										tween:Cancel(); tween = nil
+									end
+		
+									overlay.BackgroundColor3 = SelfModules.UI.Color.Add(accent, Color3.fromRGB(50, 50, 50))
+								end
+							end
+		
+							if item2.Type == "Slider" then
+								item2.Frame.Holder.Slider.Bar.Fill.BackgroundColor3 = SelfModules.UI.Color.Sub(accent, Color3.fromRGB(50, 50, 50))
+								item2.Frame.Holder.Slider.Point.BackgroundColor3 = accent
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	function Window:SetAccent(accent)
+		if Storage.Connections.WindowRainbow ~= nil then
+			Storage.Connections.WindowRainbow:Disconnect()
+		end
+
+		if typeof(accent) == "string" and string.lower(accent) == "rainbow" then
+			Storage.Connections.WindowRainbow = RS.Heartbeat:Connect(function()
+				setAccent(Color3.fromHSV(tick() % 5 / 5, 1, 1))
+			end)
+
+		elseif typeof(accent) == "Color3" then
+			setAccent(accent)
+		end
+	end
+
+	local function toggleSidebar(bool)
+		Window.Sidebar.Toggled = bool
+
+		task.spawn(function()
+			task.wait(bool and 0 or 0.5)
+			Window.Sidebar.Frame.Border.Visible = bool
+		end)
+
+		tween(Window.Sidebar.Frame, 0.5, { Size = UDim2.new(0, bool and 130 or 30, 1, -40) })
+		tween(Window.Sidebar.Frame.Indicator, 0.5, { Rotation = bool and 45 or 0 })
+
+		for i, v in next, Window.Sidebar.List do
+			tween(v.Frame.Button, 0.5, { BackgroundTransparency = bool and 0 or 1 })
+			tween(v.Frame, 0.5, { BackgroundTransparency = bool and 0 or 1 })
+		end
+	end
+
+	-- Scripts
+
+	Window.Key = options.key or Window.Key
+	Storage.Connections[Window] = {}
+	SelfModules.UI.MakeDraggable(Window.Frame, Window.Frame.Topbar, 0.1)
+	Window.Sidebar.Frame = Window.Frame.Sidebar
+	Window.Frame.Parent = ScreenGui
+
+	UIS.InputBegan:Connect(function(input, gameProcessed)
+		if not gameProcessed and input.KeyCode == Window.Key and not ListenForInput then
+			Window:Toggle(not Window.Toggled)
+		end
+	end)
+
+	Window.Sidebar.Frame.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 and Mouse.Y - Window.Sidebar.Frame.AbsolutePosition.Y <= 25 then
+			toggleSidebar(not Window.Sidebar.Toggled)
+		end
+	end)
+
+	-- Tab
+
+	function Window:AddTab(name, options)
+		options = options or {}
+		
+		local Tab = {
+			Name = name,
+			Type = "Tab",
+			Sections = {},
+			Flags = {},
+			Button = {
+				Name = name,
+				Selected = false,
+			},
+		}
+
+		Tab.Frame = SelfModules.UI.Create("ScrollingFrame", {
+			Name = "Tab",
+			Active = true,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Position = UDim2.new(0, 5, 0, 5),
+			Size = UDim2.new(1, -10, 1, -10),
+			ScrollBarImageColor3 = SelfModules.UI.Color.Add(Library.Theme.BackgroundColor, Color3.fromRGB(15, 15, 15)),
+			ScrollBarThickness = 5,
+			Visible = false,
+
+			SelfModules.UI.Create("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				Padding = UDim.new(0, 5),
+			}),
+		})
+
+		Tab.Button.Frame = SelfModules.UI.Create("Frame", {
+			Name = name,
+			BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(15, 15, 15)),
+			BackgroundTransparency = 1,
+			Size = UDim2.new(0, 120, 0, 32),
+
+			SelfModules.UI.Create("TextButton", {
+				Name = "Button",
+				AutoButtonColor = false,
+				BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(5, 5, 5)),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 1, 0, 1),
+				Size = UDim2.new(1, -2, 1, -2),
+				Font = Enum.Font.SourceSans,
+				Text = name,
+				TextColor3 = Library.Theme.TextColor,
+				TextSize = 14,
+				TextWrapped = true,
+			}, UDim.new(0, 5)),
+		}, UDim.new(0, 5))
+
+		-- Functions
+
+		function Tab:Show()
+			for i, v in next, Window.Tabs do
+				local bool = v == self
+
+				v.Frame.Visible = bool
+				v.Button.Selected = bool
+
+				tween(v.Button.Frame.Button, 0.1, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(35, 35, 35)) or SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(5, 5, 5)) })
+				tween(v.Button.Frame, 0.1, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(45, 45, 45)) or SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(15, 15, 15)) })
+			end
+
+			toggleSidebar(false)
+		end
+
+		function Tab:Hide()
+			self.Frame.Visible = false
+		end
+
+		function Tab:GetHeight()
+			local height = 0
+
+			for i, v in next, self.Sections do
+				height = height + v:GetHeight() + (i < #self.Sections and 5 or 0)
+			end
+
+			return height
+		end
+
+		function Tab:UpdateHeight()
+			Tab.Frame.CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight())
+		end
+
+		-- Scripts
+
+		Window.Tabs[#Window.Tabs + 1] = Tab
+		Window.Sidebar.List[#Window.Sidebar.List + 1] = Tab.Button
+		Tab.Frame.Parent = Window.Frame.Background.Tabs.Holder
+		Tab.Frame.CanvasSize = UDim2.new(0, 0, 0, Tab.Frame.AbsoluteSize.Y + 1)
+		Tab.Button.Frame.Parent = Window.Frame.Sidebar.List
+
+		Tab.Frame.ChildAdded:Connect(function(c)
+			if c.ClassName == "Frame" then
+				Tab:UpdateHeight()
+			end
+		end)
+
+		Tab.Frame.ChildRemoved:Connect(function(c)
+			if c.ClassName == "Frame" then
+				Tab:UpdateHeight()
+			end
+		end)
+
+		Tab.Button.Frame.Button.MouseEnter:Connect(function()
+			if Tab.Button.Selected == false then
+				tween(Tab.Button.Frame.Button, 0.1, { BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(15, 15, 15)) })
+				tween(Tab.Button.Frame, 0.1, { BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(25, 25, 25)) })
+			end
+		end)
+
+		Tab.Button.Frame.Button.MouseLeave:Connect(function()
+			if Tab.Button.Selected == false then
+				tween(Tab.Button.Frame.Button, 0.1, { BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(5, 5, 5)) })
+				tween(Tab.Button.Frame, 0.1, { BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SidebarColor, Color3.fromRGB(15, 15, 15)) })
+			end
+		end)
+
+		Tab.Button.Frame.Button.Activated:Connect(function()
+			if Tab.Button.Selected == false then
+				Tab:Show()
+			end
+		end)
+
+		if options.default == true then
+			Tab:Show()
+		end
+
+		-- Section
+
+		function Tab:AddSection(name, options)
+			options = options or {}
+			
+			local Section = {
+				Name = name,
+				Type = "Section",
+				Toggled = options.default == true,
+				List = {},
+			}
+
+			Section.Frame = SelfModules.UI.Create("Frame", {
+				Name = "Section",
+				BackgroundColor3 = Library.Theme.SectionColor,
+				ClipsDescendants = true,
+				Size = UDim2.new(1, -10, 0, 40),
+
+				SelfModules.UI.Create("Frame", {
+					Name = "Line",
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+					BorderSizePixel = 0,
+					Position = UDim2.new(0, 5, 0, 30),
+					Size = UDim2.new(1, -10, 0, 2),
+				}),
+
+				SelfModules.UI.Create("TextLabel", {
+					Name = "Header",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 5, 0, 8),
+					Size = UDim2.new(1, -40, 0, 14),
+					Font = Enum.Font.SourceSans,
+					Text = name,
+					TextColor3 = Library.Theme.TextColor,
+					TextSize = 14,
+					TextWrapped = true,
+					TextXAlignment = Enum.TextXAlignment.Left,
+				}),
+
+				SelfModules.UI.Create("Frame", {
+					Name = "List",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Position = UDim2.new(0, 5, 0, 40),
+					Size = UDim2.new(1, -10, 1, -40),
+
+					SelfModules.UI.Create("UIListLayout", {
+						SortOrder = Enum.SortOrder.LayoutOrder,
+						HorizontalAlignment = Enum.HorizontalAlignment.Center,
+						Padding = UDim.new(0, 5),
+					}),
+
+					SelfModules.UI.Create("UIPadding", {
+						PaddingBottom = UDim.new(0, 1),
+						PaddingLeft = UDim.new(0, 1),
+						PaddingRight = UDim.new(0, 1),
+						PaddingTop = UDim.new(0, 1),
+					}),
+				}),
+
+				SelfModules.UI.Create("TextLabel", {
+					Name = "Indicator",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(1, -30, 0, 0),
+					Size = UDim2.new(0, 30, 0, 30),
+					Font = Enum.Font.SourceSansBold,
+					Text = "+",
+					TextColor3 = Library.Theme.TextColor,
+					TextSize = 20,
+				})
+			}, UDim.new(0, 5))
+
+			-- Functions
+
+			local function toggleSection(bool)
+				Section.Toggled = bool
+
+				tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+				tween(Section.Frame.Indicator, 0.5, { Rotation = bool and 45 or 0 })
+
+				tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+			end
+
+			function Section:GetHeight()
+				local height = 40
+
+				if Section.Toggled == true then
+					for i, v in next, self.List do
+						height = height + (v.GetHeight ~= nil and v:GetHeight() or v.Frame.AbsoluteSize.Y) + 5
+					end
+				end
+
+				return height
+			end
+
+			function Section:UpdateHeight()
+				if Section.Toggled == true then
+					Section.Frame.Size = UDim2.new(1, -10, 0, Section:GetHeight())
+					Section.Frame.Indicator.Rotation = 45
+
+					Tab:UpdateHeight()
+				end
+			end
+
+			-- Scripts
+
+			Tab.Sections[#Tab.Sections + 1] = Section
+			Section.Frame.Parent = Tab.Frame
+
+			Section.Frame.List.ChildAdded:Connect(function(c)
+				if c.ClassName == "Frame" then
+					Section:UpdateHeight()
+				end
+			end)
+
+			Section.Frame.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 and #Section.List > 0 and Window.Sidebar.Frame.AbsoluteSize.X <= 35 and Mouse.Y - Section.Frame.AbsolutePosition.Y <= 30 then
+					toggleSection(not Section.Toggled)
+				end
+			end)
+
+			-- Button
+
+			function Section:AddButton(name, callback)
+				local Button = {
+					Name = name,
+					Type = "Button",
+					Callback = callback,
+				}
+
+				Button.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 32),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Size = UDim2.new(1, -2, 1, -2),
+						Position = UDim2.new(0, 1, 0, 1),
+
+						SelfModules.UI.Create("TextButton", {
+							Name = "Button",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+							Position = UDim2.new(0, 2, 0, 2),
+							Size = UDim2.new(1, -4, 1, -4),
+							AutoButtonColor = false,
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Functions
+
+				local function buttonVisual()
+					task.spawn(function()
+						local Visual = SelfModules.UI.Create("Frame", {
+							Name = "Visual",
+							AnchorPoint = Vector2.new(0.5, 0.5),
+							BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+							BackgroundTransparency = 0.9,
+							Position = UDim2.new(0.5, 0, 0.5, 0),
+							Size = UDim2.new(0, 0, 1, 0),
+						}, UDim.new(0, 5))
+
+						Visual.Parent = Button.Frame.Holder.Button
+						tween(Visual, 0.5, { Size = UDim2.new(1, 0, 1, 0), BackgroundTransparency = 1 })
+						task.wait(0.5)
+						Visual:Destroy()
+					end)
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Button
+				Button.Frame.Parent = Section.Frame.List
+
+				Button.Frame.Holder.Button.MouseButton1Down:Connect(function()
+					Button.Frame.Holder.Button.TextSize = 12
+				end)
+
+				Button.Frame.Holder.Button.MouseButton1Up:Connect(function()
+					Button.Frame.Holder.Button.TextSize = 14
+					buttonVisual()
+
+					pcall(task.spawn, Button.Callback)
+				end)
+
+				Button.Frame.Holder.Button.MouseLeave:Connect(function()
+					Button.Frame.Holder.Button.TextSize = 14
+				end)
+
+				return Button
+			end
+
+			-- Toggle
+
+			function Section:AddToggle(name, options, callback)
+				local Toggle = {
+					Name = name,
+					Type = "Toggle",
+					Flag = options.flag or name,
+					Callback = callback,
+				}
+
+				Toggle.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 32),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0.5, -7),
+							Size = UDim2.new(1, -50, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Indicator",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+							Position = UDim2.new(1, -42, 0, 2),
+							Size = UDim2.new(0, 40, 0, 26),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Overlay",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+								Position = UDim2.new(0, 2, 0, 2),
+								Size = UDim2.new(0, 22, 0, 22),
+								Image = "http://www.roblox.com/asset/?id=7827504335",
+								ImageTransparency = 1,
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5))
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Functions
+
+				function Toggle:Set(bool, instant)
+					Tab.Flags[Toggle.Flag] = bool
+
+					tween(Toggle.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+					tween(Toggle.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+				
+					pcall(task.spawn, Toggle.Callback, bool)
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Toggle
+				Tab.Flags[Toggle.Flag] = options.default == true
+				Toggle.Frame.Parent = Section.Frame.List
+
+				Toggle.Frame.Holder.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						Toggle:Set(not Tab.Flags[Toggle.Flag], false)
+					end
+				end)
+
+				Toggle:Set(options.default == true, true)
+
+				return Toggle
+			end
+
+			-- Label
+
+			function Section:AddLabel(name)
+				local Label = {
+					Name = name,
+					Type = "Label",
+				}
+
+				Label.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 22),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							AnchorPoint = Vector2.new(0, 0.5),
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 2, 0.5, 0),
+							Size = UDim2.new(1, -4, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+						}),
+					}, UDim.new(0, 5))
+				}, UDim.new(0, 5))
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Label
+				Label.Label = Label.Frame.Holder.Label
+				Label.Frame.Parent = Section.Frame.List
+
+				return Label
+			end
+
+			-- DualLabel
+
+			function Section:AddDualLabel(options)
+				options = options or {}
+				
+				local DualLabel = {
+					Name = options[1].. " ".. options[2],
+					Type = "DualLabel",
+				}
+
+				DualLabel.Frame = SelfModules.UI.Create("Frame", {
+					Name = options[1].. " ".. options[2],
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 22),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label1",
+							AnchorPoint = Vector2.new(0, 0.5),
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0.5, 0),
+							Size = UDim2.new(0.5, -5, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = options[1],
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label2",
+							AnchorPoint = Vector2.new(0, 0.5),
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.5, 0, 0.5, 0),
+							Size = UDim2.new(0.5, -5, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = options[2],
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Right,
+						}),
+					}, UDim.new(0, 5))
+				}, UDim.new(0, 5))
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = DualLabel
+				DualLabel.Label1 = DualLabel.Frame.Holder.Label1
+				DualLabel.Label2 = DualLabel.Frame.Holder.Label2
+				DualLabel.Frame.Parent = Section.Frame.List
+
+				return DualLabel
+			end
+
+			-- ClipboardLabel
+
+			function Section:AddClipboardLabel(name, callback)
+				local ClipboardLabel = {
+					Name = name,
+					Type = "ClipboardLabel",
+					Callback = callback,
+				}
+
+				ClipboardLabel.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 22),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							AnchorPoint = Vector2.new(0, 0.5),
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 2, 0.5, 0),
+							Size = UDim2.new(1, -22, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+						}),
+
+						SelfModules.UI.Create("ImageLabel", {
+							Name = "Icon",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(1, -18, 0, 2),
+							Size = UDim2.new(0, 16, 0, 16),
+							Image = "rbxassetid://9243581053",
+						}),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = ClipboardLabel
+				ClipboardLabel.Label = ClipboardLabel.Frame.Holder.Label
+				ClipboardLabel.Frame.Parent = Section.Frame.List
+
+				ClipboardLabel.Frame.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						local s, result = pcall(ClipboardLabel.Callback)
+
+						if s then
+							setclipboard(result)
+						end
+					end
+				end)
+
+				return ClipboardLabel
+			end
+
+			-- Box
+
+			function Section:AddBox(name, options, callback)
+				local Box = {
+					Name = name,
+					Type = "Box",
+					Callback = callback,
+				}
+
+				Box.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 32),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0.5, -7),
+							Size = UDim2.new(1, -135, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "TextBox",
+							AnchorPoint = Vector2.new(1, 0),
+							BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+							Position = UDim2.new(1, -2, 0, 2),
+							Size = UDim2.new(0, 140, 1, -4),
+							ZIndex = 2,
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Holder",
+								BackgroundColor3 = Library.Theme.SectionColor,
+								Position = UDim2.new(0, 1, 0, 1),
+								Size = UDim2.new(1, -2, 1, -2),
+								ZIndex = 2,
+
+								SelfModules.UI.Create("TextBox", {
+									Name = "Box",
+									AnchorPoint = Vector2.new(0, 0.5),
+									BackgroundTransparency = 1,
+									ClearTextOnFocus = options.clearonfocus ~= true,
+									Position = UDim2.new(0, 28, 0.5, 0),
+									Size = UDim2.new(1, -30, 1, 0),
+									Font = Enum.Font.SourceSans,
+									PlaceholderText = "Text",
+									Text = "",
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+									TextWrapped = true,
+								}),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Icon",
+									AnchorPoint = Vector2.new(0, 0.5),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 6, 0.5, 0),
+									Size = UDim2.new(0, 14, 0, 14),
+									Font = Enum.Font.SourceSansBold,
+									Text = "T",
+									TextColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(40, 40, 40)),
+									TextSize = 18,
+									TextWrapped = true,
+								}),
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5))
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Functions
+
+				local function extendBox(bool)
+					tween(Box.Frame.Holder.TextBox, 0.25, { Size = UDim2.new(0, bool and 200 or 140, 1, -4) })
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Box
+				Box.Box = Box.Frame.Holder.TextBox.Holder.Box
+				Box.Frame.Parent = Section.Frame.List
+
+				Box.Frame.Holder.TextBox.Holder.MouseEnter:Connect(function()
+					extendBox(true)
+				end)
+
+				Box.Frame.Holder.TextBox.Holder.MouseLeave:Connect(function()
+					if Box.Frame.Holder.TextBox.Holder.Box:IsFocused() == false then
+						extendBox(false)
+					end
+				end)
+
+				Box.Frame.Holder.TextBox.Holder.Box.FocusLost:Connect(function()
+					if Box.Frame.Holder.TextBox.Holder.Box.Text == "" and options.fireonempty ~= true then
+						return
+					end
+
+					extendBox(false)
+					pcall(task.spawn, Box.Callback, Box.Frame.Holder.TextBox.Holder.Box.Text)
+				end)
+
+				return Box
+			end
+
+			-- Bind
+
+			function Section:AddBind(name, bind, options, callback)
+				local Bind = {
+					Name = name,
+					Type = "Bind",
+					Bind = bind,
+					Flag = options.flag or name,
+					Callback = callback,
+				}
+
+				Bind.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 32),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0.5, -7),
+							Size = UDim2.new(1, -135, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Bind",
+							AnchorPoint = Vector2.new(1, 0),
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+							Position = UDim2.new(1, options.toggleable == true and -44 or -2, 0, 2),
+							Size = UDim2.new(0, 78, 0, 26),
+							ZIndex = 2,
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+								Position = UDim2.new(0, 1, 0, 1),
+								Size = UDim2.new(1, -2, 1, -2),
+								Font = Enum.Font.SourceSans,
+								Text = "",
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Variables
+
+				local indicatorEntered = false
+				local connections = {}
+
+				-- Functions
+
+				local function listenForInput()
+					if connections.listen then
+						connections.listen:Disconnect()
+					end
+
+					Bind.Frame.Holder.Bind.Label.Text = "..."
+					ListenForInput = true
+
+					connections.listen = UIS.InputBegan:Connect(function(input, gameProcessed)
+						if not gameProcessed and input.UserInputType == Enum.UserInputType.Keyboard then
+							Bind:Set(input.KeyCode)
+						end
+					end)
+				end
+
+				local function cancelListen()
+					if connections.listen then
+						connections.listen:Disconnect(); connections.listen = nil
+					end
+
+					Bind.Frame.Holder.Bind.Label.Text = Bind.Bind.Name
+					task.spawn(function() RS.RenderStepped:Wait(); ListenForInput = false end)
+				end
+
+				function Bind:Set(bind)
+					Bind.Bind = bind
+					Bind.Frame.Holder.Bind.Label.Text = bind.Name
+					Bind.Frame.Holder.Bind.Size = UDim2.new(0, math.max(12 + math.round(TXS:GetTextSize(bind.Name, 14, Enum.Font.SourceSans, Vector2.new(9e9)).X + 0.5), 42), 0, 26)
+					
+					if connections.listen then
+						cancelListen()
+					end
+				end
+
+				if options.toggleable == true then
+					function Bind:Toggle(bool, instant)
+						Tab.Flags[Bind.Flag] = bool
+
+						tween(Bind.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+						tween(Bind.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+
+						if options.fireontoggle ~= false then
+							pcall(task.spawn, Bind.Callback, Bind.Bind)
+						end
+					end
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Bind
+				Bind.Frame.Parent = Section.Frame.List
+
+				Bind.Frame.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if indicatorEntered == true then
+							Bind:Toggle(not Tab.Flags[Bind.Flag], false)
+						else
+							listenForInput()
+						end
+					end
+				end)
+
+				UIS.InputBegan:Connect(function(input)
+					if input.KeyCode == Bind.Bind then
+						if (options.toggleable == true and Tab.Flags[Bind.Flag] == false) or ListenForInput then
+							return
+						end
+
+						pcall(task.spawn, Bind.Callback, Bind.Bind)
+					end
+				end)
+
+				if options.toggleable == true then
+					local indicator = SelfModules.UI.Create("Frame", {
+						Name = "Indicator",
+						AnchorPoint = Vector2.new(1, 0),
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+						Position = UDim2.new(1, -2, 0, 2),
+						Size = UDim2.new(0, 40, 0, 26),
+
+						SelfModules.UI.Create("ImageLabel", {
+							Name = "Overlay",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+							Position = UDim2.new(0, 2, 0, 2),
+							Size = UDim2.new(0, 22, 0, 22),
+							Image = "http://www.roblox.com/asset/?id=7827504335",
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					Tab.Flags[Bind.Flag] = options.default == true
+					indicator.Parent = Bind.Frame.Holder
+
+					Bind.Frame.Holder.Indicator.MouseEnter:Connect(function()
+						indicatorEntered = true
+					end)
+
+					Bind.Frame.Holder.Indicator.MouseLeave:Connect(function()
+						indicatorEntered = false
+					end)
+
+					Bind:Toggle(options.default == true, true)
+				end
+
+				Bind:Set(Bind.Bind)
+
+				return Bind
+			end
+
+			-- Slider
+
+			function Section:AddSlider(name, min, max, default, options, callback)
+				local Slider = {
+					Name = name,
+					Type = "Slider",
+					Value = default,
+					Flag = options.flag or name,
+					Callback = callback,
+				}
+
+				Slider.Frame = SelfModules.UI.Create("Frame", {
+					Name = name,
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 41),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Label",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0, 5),
+							Size = UDim2.new(1, -75, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Slider",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 1, -15),
+							Size = UDim2.new(1, -10, 0, 10),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Bar",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+								ClipsDescendants = true,
+								Size = UDim2.new(1, 0, 1, 0),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Fill",
+									BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)),
+									Size = UDim2.new(0.5, 0, 1, 0),
+								}, UDim.new(0, 5)),
+							}, UDim.new(0, 5)),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Point",
+								AnchorPoint = Vector2.new(0.5, 0.5),
+								BackgroundColor3 = Library.Theme.Accent,
+								Position = UDim2.new(0.5, 0, 0.5, 0),
+								Size = UDim2.new(0, 12, 0, 12),
+							}, UDim.new(0, 5)),
+						}),
+
+						SelfModules.UI.Create("TextBox", {
+							Name = "Input",
+							AnchorPoint = Vector2.new(1, 0),
+							BackgroundTransparency = 1,
+							PlaceholderText = "...",
+							Position = UDim2.new(1, -5, 0, 5),
+							Size = UDim2.new(0, 60, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = "",
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Right,
+						}),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Variables
+
+				local connections = {}
+
+				-- Functions
+
+				local function getSliderValue(val)
+					val = math.clamp(val, min, max)
+
+					if options.rounded == true then
+						val = math.floor(val)
+					end
+
+					return val
+				end
+
+				local function sliderVisual(val)
+					val = getSliderValue(val)
+
+					Slider.Frame.Holder.Input.Text = val
+
+					local valuePercent = 1 - ((max - val) / (max - min))
+					local pointPadding = 1 / Slider.Frame.Holder.Slider.AbsoluteSize.X * 5
+					tween(Slider.Frame.Holder.Slider.Bar.Fill, 0.25, { Size = UDim2.new(valuePercent, 0, 1, 0) })
+					tween(Slider.Frame.Holder.Slider.Point, 0.25, { Position = UDim2.fromScale(math.clamp(valuePercent, pointPadding, 1 - pointPadding), 0.5) })
+				end
+
+				function Slider:Set(val)
+					val = getSliderValue(val)
+					Slider.Value = val
+					sliderVisual(val)
+
+					if options.toggleable == true and Tab.Flags[Slider.Flag] == false then
+						return
+					end
+
+					pcall(task.spawn, Slider.Callback, val, Tab.Flags[Slider.Flag] or nil)
+				end
+
+				if options.toggleable == true then
+					function Slider:Toggle(bool, instant)
+						Tab.Flags[Slider.Flag] = bool
+
+						tween(Slider.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+						tween(Slider.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+
+						if options.fireontoggle ~= false then
+							pcall(task.spawn, Slider.Callback, Slider.Value, bool)
+						end
+					end
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Slider
+				Slider.Frame.Parent = Section.Frame.List
+
+				Slider.Frame.Holder.Slider.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+
+						connections.move = Mouse.Move:Connect(function()
+							local sliderPercent = math.clamp((Mouse.X - Slider.Frame.Holder.Slider.AbsolutePosition.X) / Slider.Frame.Holder.Slider.AbsoluteSize.X, 0, 1)
+							local sliderValue = math.floor((min + sliderPercent * (max - min)) * 10) / 10
+
+							if options.fireondrag ~= false then
+								Slider:Set(sliderValue)
+							else
+								sliderVisual(sliderValue)
+							end
+						end)
+
+					end
+				end)
+
+				Slider.Frame.Holder.Slider.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						connections.move:Disconnect()
+						connections.move = nil
+
+						if options.fireondrag ~= true then
+							local sliderPercent = math.clamp((Mouse.X - Slider.Frame.Holder.Slider.AbsolutePosition.X) / Slider.Frame.Holder.Slider.AbsoluteSize.X, 0, 1)
+							local sliderValue = math.floor((min + sliderPercent * (max - min)) * 10) / 10
+
+							Slider:Set(sliderValue)
+						end
+					end
+				end)
+
+				Slider.Frame.Holder.Input.FocusLost:Connect(function()
+					Slider.Frame.Holder.Input.Text = string.sub(Slider.Frame.Holder.Input.Text, 1, 10)
+
+					if tonumber(Slider.Frame.Holder.Input.Text) then
+						Slider:Set(Slider.Frame.Holder.Input.Text)
+					end
+				end)
+
+				if options.toggleable == true then
+					local indicator = SelfModules.UI.Create("Frame", {
+						Name = "Indicator",
+						AnchorPoint = Vector2.new(1, 1),
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+						Position = UDim2.new(1, -2, 1, -2),
+						Size = UDim2.new(0, 40, 0, 26),
+
+						SelfModules.UI.Create("ImageLabel", {
+							Name = "Overlay",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+							Position = UDim2.new(0, 2, 0, 2),
+							Size = UDim2.new(0, 22, 0, 22),
+							Image = "http://www.roblox.com/asset/?id=7827504335",
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					Tab.Flags[Slider.Flag] = options.default == true
+					Slider.Frame.Size = UDim2.new(1, 2, 0, 54)
+					Slider.Frame.Holder.Slider.Size = UDim2.new(1, -50, 0, 10)
+					indicator.Parent = Slider.Frame.Holder
+
+					Slider.Frame.Holder.Indicator.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							Slider:Toggle(not Tab.Flags[Slider.Flag], false)
+						end
+					end)
+
+					Slider:Toggle(options.default == true, true)
+				end
+
+				Slider:Set(Slider.Value)
+
+				return Slider
+			end
+
+			-- Dropdown
+
+			function Section:AddDropdown(name, list, options, callback)
+				local Dropdown = {
+					Name = name,
+					Type = "Dropdown",
+					Toggled = false,
+					Selected = "",
+					List = {},
+					Callback = callback,
+				}
+
+				local ListObjects = {}
+
+				Dropdown.Frame = SelfModules.UI.Create("Frame", {
+					Name = "Dropdown",
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 42),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(1, 0, 0, 40),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Displays",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0, 8),
+								Size = UDim2.new(1, -35, 0, 14),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Label",
+									BackgroundTransparency = 1,
+									Size = UDim2.new(0.5, 0, 1, 0),
+									Font = Enum.Font.SourceSans,
+									Text = name,
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+									TextWrapped = true,
+									TextXAlignment = Enum.TextXAlignment.Left,
+								}),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Selected",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0.5, 0, 0, 0),
+									Size = UDim2.new(0.5, 0, 1, 0),
+									Font = Enum.Font.SourceSans,
+									Text = "",
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+									TextWrapped = true,
+									TextXAlignment = Enum.TextXAlignment.Right,
+								}),
+							}),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Indicator",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(1, -5, 0, 5),
+								Size = UDim2.new(0, 20, 0, 20),
+								Image = "rbxassetid://9243354333",
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Line",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 5, 0, 30),
+								Size = UDim2.new(1, -10, 0, 2),
+							}),
+						}, UDim.new(0, 5)),
+
+						SelfModules.UI.Create("ScrollingFrame", {
+							Name = "List",
+							Active = true,
+							BackgroundTransparency = 1,
+							BorderSizePixel = 0,
+							Position = UDim2.new(0, 5, 0, 40),
+							Size = UDim2.new(1, -10, 1, -40),
+							CanvasSize = UDim2.new(0, 0, 0, 0),
+							ScrollBarImageColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+							ScrollBarThickness = 5,
+
+							SelfModules.UI.Create("UIListLayout", {
+								SortOrder = Enum.SortOrder.LayoutOrder,
+								Padding = UDim.new(0, 5),
+							}),
+						}),
+					}, UDim.new(0,5)),
+				}, UDim.new(0, 5))
+
+				-- Functions
+
+				function Dropdown:GetHeight()
+					return 42 + (Dropdown.Toggled == true and math.min(#Dropdown.List, 5) * 27 or 0)
+				end
+
+				function Dropdown:UpdateHeight()
+					Dropdown.Frame.Holder.List.CanvasSize = UDim2.new(0, 0, 0, #Dropdown.List * 27 - 5)
+
+					if Dropdown.Toggled == true then
+						Dropdown.Frame.Size = UDim2.new(1, 2, 0, Dropdown:GetHeight())
+						Section:UpdateHeight()
+					end
+				end
+
+				function Dropdown:Add(name, options, callback)
+					local Item = {
+						Name = name,
+						Callback = callback,
+					}
+
+					Item.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, -10, 0, 22),
+
+						SelfModules.UI.Create("TextButton", {
+							Name = "Button",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					Dropdown.List[#Dropdown.List + 1] = name
+					ListObjects[#ListObjects + 1] = Item
+					Item.Frame.Parent = Dropdown.Frame.Holder.List
+
+					if Dropdown.Toggled == true then
+						Dropdown:UpdateHeight()
+					end
+
+					Item.Frame.Button.Activated:Connect(function()
+						if typeof(Item.Callback) == "function" then
+							pcall(task.spawn, Item.Callback)
+						else
+							Dropdown:Select(Item.Name)
+						end
+					end)
+
+					return Item
+				end
+
+				function Dropdown:Remove(name, ignoreToggle)
+					for i, v in next, Dropdown.List do
+						if v == name then
+							local item = ListObjects[i]
+
+							if item then
+								item.Frame:Destroy()
+								table.remove(Dropdown.List, i)
+								table.remove(ListObjects, i)
+
+								if Dropdown.Toggled then
+									Dropdown:UpdateHeight()
+								end
+								
+								if #Dropdown.List == 0 and not ignoreToggle then
+									Dropdown:Toggle(false)
+								end
+							end
+
+							break
+						end
+					end
+				end
+
+				function Dropdown:ClearList()
+					for _ = 1, #Dropdown.List, 1 do
+						Dropdown:Remove(Dropdown.List[1], true)
+					end
+				end
+
+				function Dropdown:SetList(list)
+					Dropdown:ClearList()
+
+					for _, v in next, list do
+						Dropdown:Add(v)
+					end
+				end
+
+				function Dropdown:Select(itemName)
+					Dropdown.Selected = itemName
+					Dropdown.Frame.Holder.Holder.Displays.Selected.Text = itemName
+					Dropdown:Toggle(false)
+
+					pcall(task.spawn, Dropdown.Callback, itemName)
+				end
+
+				function Dropdown:Toggle(bool)
+					Dropdown.Toggled = bool
+
+					tween(Dropdown.Frame, 0.5, { Size = UDim2.new(1, 2, 0, Dropdown:GetHeight()) })
+					tween(Dropdown.Frame.Holder.Holder.Indicator, 0.5, { Rotation = bool and 90 or 0 })
+					tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+					tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Dropdown
+				Dropdown.Frame.Parent = Section.Frame.List
+				
+				Dropdown.Frame.Holder.List.ChildAdded:Connect(function(c)
+					if c.ClassName == "Frame" then
+						Dropdown:UpdateHeight()
+					end
+				end)
+				
+				Dropdown.Frame.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 and #Dropdown.List > 0 and Mouse.Y - Dropdown.Frame.AbsolutePosition.Y <= 30 then
+						Dropdown:Toggle(not Dropdown.Toggled)
+					end
+				end)
+
+				for i, v in next, list do
+					Dropdown:Add(v)
+				end
+
+				if typeof(options.default) == "string" then
+					Dropdown:Select(options.default)
+				end
+
+				return Dropdown
+			end
+
+			-- Picker
+
+			function Section:AddPicker(name, options, callback)
+				local Picker = {
+					Name = name,
+					Type = "Picker",
+					Toggled = false,
+					Rainbow = false,
+					Callback = callback,
+				}
+
+				local h, s, v = (options.color or Library.Theme.Accent):ToHSV()
+				Picker.Color = { R = h, G = s, B = v }
+
+				Picker.Frame = SelfModules.UI.Create("Frame", {
+					Name = "ColorPicker",
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					ClipsDescendants = true,
+					Size = UDim2.new(1, 2, 0, 42),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						ClipsDescendants = true,
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Top",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(1, 0, 0, 40),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0, 8),
+								Size = UDim2.new(0.5, -15, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Selected",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+								Position = UDim2.new(1, -29, 0, 2),
+								Size = UDim2.new(0, 100, 0, 26),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Preview",
+									BackgroundColor3 = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B),
+									Position = UDim2.new(0, 1, 0, 1),
+									Size = UDim2.new(1, -2, 1, -2),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Display",
+									AnchorPoint = Vector2.new(0, 0.5),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 0, 0.5, 0),
+									Size = UDim2.new(1, 0, 0, 16),
+									Font = Enum.Font.SourceSans,
+									Text = "",
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 16,
+									TextStrokeColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+									TextStrokeTransparency = 0.5,
+								}),
+							}, UDim.new(0, 5)),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Indicator",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(1, -5, 0, 5),
+								Size = UDim2.new(0, 20, 0, 20),
+								Image = "rbxassetid://9243354333",
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Line",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 5, 0, 30),
+								Size = UDim2.new(1, -10, 0, 2),
+							}),
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							Active = true,
+							BackgroundTransparency = 1,
+							BorderSizePixel = 0,
+							Position = UDim2.new(0, 0, 0, 40),
+							Size = UDim2.new(1, 0, 1, -40),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Palette",
+								BackgroundTransparency = 1,
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 5, 0, 5),
+								Size = UDim2.new(1, -196, 0, 110),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Point",
+									AnchorPoint = Vector2.new(0.5, 0.5),
+									BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+									Position = UDim2.new(1, 0, 0, 0),
+									Size = UDim2.new(0, 7, 0, 7),
+									ZIndex = 2,
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Inner",
+										BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+										Position = UDim2.new(0, 1, 0, 1),
+										Size = UDim2.new(1, -2, 1, -2),
+										ZIndex = 2,
+									}, UDim.new(1, 0)),
+								}, UDim.new(1, 0)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Hue",
+									BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+									BorderSizePixel = 0,
+									Size = UDim2.new(1, 0, 1, 0),
+
+									SelfModules.UI.Create("UIGradient", {
+										Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B))},
+									}),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "SatVal",
+									BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+									BorderSizePixel = 0,
+									Size = UDim2.new(1, 0, 1, 0),
+									ZIndex = 2,
+
+									SelfModules.UI.Create("UIGradient", {
+										Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))},
+										Rotation = 90,
+										Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(1.00, 0.00)},
+									}),
+								}, UDim.new(0, 5)),
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "HueSlider",
+								BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 5, 0, 125),
+								Size = UDim2.new(1, -10, 0, 20),
+
+								SelfModules.UI.Create("UIGradient", {
+									Color = ColorSequence.new{
+										ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+										ColorSequenceKeypoint.new(0.16666, Color3.fromRGB(255, 255, 0)),
+										ColorSequenceKeypoint.new(0.33333, Color3.fromRGB(0, 255, 0)),
+										ColorSequenceKeypoint.new(0.5, Color3.fromRGB(0, 255, 255)),
+										ColorSequenceKeypoint.new(0.66667, Color3.fromRGB(0, 0, 255)),
+										ColorSequenceKeypoint.new(0.83333, Color3.fromRGB(255, 0, 255)),
+										ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 0, 0))
+									},
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Bar",
+									AnchorPoint = Vector2.new(0.5, 0.5),
+									BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+									Position = UDim2.new(0.5, 0, 0, 0),
+									Size = UDim2.new(0, 6, 1, 6),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Inner",
+										BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+										Position = UDim2.new(0, 1, 0, 1),
+										Size = UDim2.new(1, -2, 1, -2),
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+							}, UDim.new(0, 5)),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "RGB",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(1, -180, 0, 5),
+								Size = UDim2.new(0, 75, 0, 110),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Red",
+									BackgroundTransparency = 1,
+									Size = UDim2.new(1, 0, 0, 30),
+
+									SelfModules.UI.Create("TextBox", {
+										Name = "Box",
+										BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+										Size = UDim2.new(1, 0, 1, 0),
+										Font = Enum.Font.SourceSans,
+										PlaceholderText = "R",
+										Text = 255,
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 16,
+										TextWrapped = true,
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Green",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 0, 0, 40),
+									Size = UDim2.new(1, 0, 0, 30),
+
+									SelfModules.UI.Create("TextBox", {
+										Name = "Box",
+										BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+										Size = UDim2.new(1, 0, 1, 0),
+										Font = Enum.Font.SourceSans,
+										PlaceholderText = "G",
+										Text = 0,
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 16,
+										TextWrapped = true,
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Blue",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 0, 0, 80),
+									Size = UDim2.new(1, 0, 0, 30),
+
+									SelfModules.UI.Create("TextBox", {
+										Name = "Box",
+										BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+										Size = UDim2.new(1, 0, 1, 0),
+										Font = Enum.Font.SourceSans,
+										PlaceholderText = "B",
+										Text = 0,
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 16,
+										TextWrapped = true,
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Rainbow",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(1, -5, 0, 87),
+								Size = UDim2.new(0, 90, 0, 26),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Label",
+									AnchorPoint = Vector2.new(0, 0.5),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 47, 0.5, 0),
+									Size = UDim2.new(1, -47, 0, 14),
+									Font = Enum.Font.SourceSans,
+									Text = "Rainbow",
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+									TextWrapped = true,
+									TextXAlignment = Enum.TextXAlignment.Left,
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Indicator",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+									Size = UDim2.new(0, 40, 0, 26),
+
+									SelfModules.UI.Create("ImageLabel", {
+										Name = "Overlay",
+										BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+										Position = UDim2.new(0, 2, 0, 2),
+										Size = UDim2.new(0, 22, 0, 22),
+										Image = "http://www.roblox.com/asset/?id=7827504335",
+										ImageTransparency = 1,
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+							})
+						}),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Variables
+
+				local hueDragging, satDragging = false, false
+
+				-- Functions
+
+				function Picker:GetHeight()
+					return Picker.Toggled == true and 192 or 42
+				end
+
+				function Picker:Toggle(bool)
+					Picker.Toggled = bool
+
+					tween(Picker.Frame, 0.5, { Size = UDim2.new(1, 2, 0, Picker:GetHeight()) })
+					tween(Picker.Frame.Holder.Top.Indicator, 0.5, { Rotation = bool and 90 or 0 })
+					tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+					tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+				end
+
+				function Picker:ToggleRainbow(bool)
+					Picker.Rainbow = bool
+
+					tween(Picker.Frame.Holder.Holder.Rainbow.Indicator.Overlay, 0.25, {ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+					tween(Picker.Frame.Holder.Holder.Rainbow.Indicator.Overlay, "Cosmetic", 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+
+					if bool then
+						if not Storage.Connections[Picker] then
+							Storage.Connections[Picker] = {}
+						end
+
+						Storage.Connections[Picker].Rainbow = RS.Heartbeat:Connect(function()
+							Picker:Set(tick() % 5 / 5, Picker.Color.G, Picker.Color.B)
+						end)
+
+					elseif Storage.Connections[Picker] then
+						Storage.Connections[Picker].Rainbow:Disconnect()
+						Storage.Connections[Picker].Rainbow = nil
+					end
+				end
+
+				function Picker:Set(h, s, v)
+					Picker.Color.R, Picker.Color.G, Picker.Color.B = h, s, v
+
+					local color = Color3.fromHSV(h, s, v)
+					Picker.Frame.Holder.Holder.Palette.Hue.UIGradient.Color = ColorSequence.new(Color3.new(1, 1, 1), Color3.fromHSV(h, 1, 1))
+					Picker.Frame.Holder.Top.Selected.Preview.BackgroundColor3 = color
+					Picker.Frame.Holder.Top.Selected.Display.Text = string.format("%d, %d, %d", math.floor(color.R * 255 + 0.5), math.floor(color.G * 255 + 0.5), math.floor(color.B * 255 + 0.5))
+					Picker.Frame.Holder.Top.Selected.Size = UDim2.new(0, math.round(TXS:GetTextSize(Picker.Frame.Holder.Top.Selected.Display.Text, 16, Enum.Font.SourceSans, Vector2.new(9e9)).X + 0.5) + 20, 0, 26)
+
+					Picker.Frame.Holder.Holder.RGB.Red.Box.Text = math.floor(color.R * 255 + 0.5)
+					Picker.Frame.Holder.Holder.RGB.Green.Box.Text = math.floor(color.G * 255 + 0.5)
+					Picker.Frame.Holder.Holder.RGB.Blue.Box.Text = math.floor(color.B * 255 + 0.5)
+
+					tween(Picker.Frame.Holder.Holder.HueSlider.Bar, 0.1, { Position = UDim2.new(h, 0, 0.5, 0) })
+					tween(Picker.Frame.Holder.Holder.Palette.Point, 0.1, { Position = UDim2.new(s, 0, 1 - v, 0) })
+
+					pcall(task.spawn, Picker.Callback, color)
+				end
+
+				-- Scripts
+
+				Section.List[#Section.List + 1] = Picker
+				Picker.Frame.Parent = Section.Frame.List
+
+				Picker.Frame.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 and Mouse.Y - Picker.Frame.AbsolutePosition.Y <= 30 then
+						Picker:Toggle(not Picker.Toggled)
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.HueSlider.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						hueDragging = true
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.HueSlider.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						hueDragging = false
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.Palette.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						satDragging = true
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.Palette.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						satDragging = false
+					end
+				end)
+
+				Mouse.Move:Connect(function()
+					if hueDragging and not Picker.Rainbow then
+						Picker:Set(math.clamp((Mouse.X - Picker.Frame.Holder.Holder.HueSlider.AbsolutePosition.X) / Picker.Frame.Holder.Holder.HueSlider.AbsoluteSize.X, 0, 1), Picker.Color.G, Picker.Color.B)
+
+					elseif satDragging then
+						Picker:Set(Picker.Color.R, math.clamp((Mouse.X - Picker.Frame.Holder.Holder.Palette.AbsolutePosition.X) / Picker.Frame.Holder.Holder.Palette.AbsoluteSize.X, 0, 1), 1 - math.clamp((Mouse.Y - Picker.Frame.Holder.Holder.Palette.AbsolutePosition.Y) / Picker.Frame.Holder.Holder.Palette.AbsoluteSize.Y, 0, 1))
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.RGB.Red.Box.FocusLost:Connect(function()
+					local num = tonumber(Picker.Frame.Holder.Holder.RGB.Red.Box.Text)
+					local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+					if num then
+						Picker:Set(Color3.new(math.clamp(math.floor(num), 0, 255) / 255, color.G, color.B):ToHSV())
+					else
+						Picker.Frame.Holder.Holder.RGB.Red.Box.Text = math.floor(color.R * 255 + 0.5)
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.RGB.Green.Box.FocusLost:Connect(function()
+					local num = tonumber(Picker.Frame.Holder.Holder.RGB.Green.Box.Text)
+					local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+					if num then
+						Picker:Set(Color3.new(color.R, math.clamp(math.floor(num), 0, 255) / 255, color.B):ToHSV() )
+					else
+						Picker.Frame.Holder.Holder.RGB.Green.Box.Text = math.floor(color.B * 255 + 0.5)
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.RGB.Blue.Box.FocusLost:Connect(function()
+					local num = tonumber(Picker.Frame.Holder.Holder.RGB.Blue.Box.Text)
+					local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+					if num then
+						Picker:Set(Color3.new(color.R, color.G, math.clamp(math.floor(num), 0, 255) / 255):ToHSV())
+					else
+						Picker.Frame.Holder.Holder.RGB.Blue.Box.Text = math.floor(color.B * 255 + 0.5)
+					end
+				end)
+
+				Picker.Frame.Holder.Holder.Rainbow.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						Picker:ToggleRainbow(not Picker.Rainbow)
+					end
+				end)
+
+				Picker:Set(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+				return Picker
+			end
+
+			-- SubSection
+
+			function Section:AddSubSection(name, options)
+				options = options or {}
+				
+				local SubSection = {
+					Name = name,
+					Type = "SubSection",
+					Toggled = options.default or false,
+					List = {},
+				}
+
+				SubSection.Frame = SelfModules.UI.Create("Frame", {
+					Name = "SubSection",
+					BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+					Size = UDim2.new(1, 2, 0, 42),
+
+					SelfModules.UI.Create("Frame", {
+						Name = "Holder",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+						Position = UDim2.new(0, 1, 0, 1),
+						Size = UDim2.new(1, -2, 1, -2),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Header",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0, 5, 0, 8),
+							Size = UDim2.new(1, -40, 0, 14),
+							Font = Enum.Font.SourceSans,
+							Text = name,
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 14,
+							TextWrapped = true,
+							TextXAlignment = Enum.TextXAlignment.Left,
+						}),
+
+						SelfModules.UI.Create("TextLabel", {
+							Name = "Indicator",
+							AnchorPoint = Vector2.new(1, 0),
+							BackgroundTransparency = 1,
+							Position = UDim2.new(1, -5, 0, 5),
+							Size = UDim2.new(0, 20, 0, 20),
+							Font = Enum.Font.SourceSansBold,
+							Text = "+",
+							TextColor3 = Library.Theme.TextColor,
+							TextSize = 20,
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Line",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+							BorderSizePixel = 0,
+							Position = UDim2.new(0, 5, 0, 30),
+							Size = UDim2.new(1, -10, 0, 2),
+						}),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "List",
+							BackgroundTransparency = 1,
+							ClipsDescendants = true,
+							Position = UDim2.new(0, 5, 0, 40),
+							Size = UDim2.new(1, -10, 1, -40),
+
+							SelfModules.UI.Create("UIListLayout", {
+								HorizontalAlignment = Enum.HorizontalAlignment.Center,
+								SortOrder = Enum.SortOrder.LayoutOrder,
+								Padding = UDim.new(0, 5),
+							}),
+
+							SelfModules.UI.Create("UIPadding", {
+								PaddingBottom = UDim.new(0, 1),
+								PaddingLeft = UDim.new(0, 1),
+								PaddingRight = UDim.new(0, 1),
+								PaddingTop = UDim.new(0, 1),
+							}),
+						}),
+					}, UDim.new(0, 5)),
+				}, UDim.new(0, 5))
+
+				-- Functions
+
+				local function toggleSubSection(bool)
+					SubSection.Toggled = bool
+
+					tween(SubSection.Frame, 0.5, { Size = UDim2.new(1, 2, 0, SubSection:GetHeight()) })
+					tween(SubSection.Frame.Holder.Indicator, 0.5, { Rotation = bool and 45 or 0 })
+
+					tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+					tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+				end
+
+				function SubSection:GetHeight()
+					local height = 42
+
+					if SubSection.Toggled == true then
+						for i, v in next, self.List do
+							height = height + (v.GetHeight ~= nil and v:GetHeight() or v.Frame.AbsoluteSize.Y) + 5
+						end
+					end
+
+					return height
+				end
+
+				function SubSection:UpdateHeight()
+					if SubSection.Toggled == true then
+						SubSection.Frame.Size = UDim2.new(1, 2, 0, SubSection:GetHeight())
+						SubSection.Frame.Holder.Indicator.Rotation = 45
+
+						Section:UpdateHeight()
+					end
+				end
+
+				-- Button
+
+				function SubSection:AddButton(name, callback)
+					local Button = {
+						Name = name,
+						Type = "Button",
+						Callback = callback,
+					}
+
+					Button.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 32),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+							Size = UDim2.new(1, -2, 1, -2),
+							Position = UDim2.new(0, 1, 0, 1),
+
+							SelfModules.UI.Create("TextButton", {
+								Name = "Button",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+								Position = UDim2.new(0, 2, 0, 2),
+								Size = UDim2.new(1, -4, 1, -4),
+								AutoButtonColor = false,
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Functions
+
+					local function buttonVisual()
+						task.spawn(function()
+							local Visual = SelfModules.UI.Create("Frame", {
+								Name = "Visual",
+								AnchorPoint = Vector2.new(0.5, 0.5),
+								BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+								BackgroundTransparency = 0.9,
+								Position = UDim2.new(0.5, 0, 0.5, 0),
+								Size = UDim2.new(0, 0, 1, 0),
+							}, UDim.new(0, 5))
+
+							Visual.Parent = Button.Frame.Holder.Button
+							tween(Visual, 0.5, { Size = UDim2.new(1, 0, 1, 0), BackgroundTransparency = 1 })
+							task.wait(0.5)
+							Visual:Destroy()
+						end)
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Button
+					Button.Frame.Parent = SubSection.Frame.Holder.List
+
+					Button.Frame.Holder.Button.MouseButton1Down:Connect(function()
+						Button.Frame.Holder.Button.TextSize = 12
+					end)
+
+					Button.Frame.Holder.Button.MouseButton1Up:Connect(function()
+						Button.Frame.Holder.Button.TextSize = 14
+						buttonVisual()
+
+						pcall(task.spawn, Button.Callback)
+					end)
+
+					Button.Frame.Holder.Button.MouseLeave:Connect(function()
+						Button.Frame.Holder.Button.TextSize = 14
+					end)
+
+					return Button
+				end
+
+				-- Toggle
+
+				function SubSection:AddToggle(name, options, callback)
+					local Toggle = {
+						Name = name,
+						Type = "Toggle",
+						Flag = options and options.flag or name,
+						Callback = callback,
+					}
+
+					Toggle.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 32),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0.5, -7),
+								Size = UDim2.new(1, -50, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Indicator",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+								Position = UDim2.new(1, -42, 0, 2),
+								Size = UDim2.new(0, 40, 0, 26),
+
+								SelfModules.UI.Create("ImageLabel", {
+									Name = "Overlay",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+									Position = UDim2.new(0, 2, 0, 2),
+									Size = UDim2.new(0, 22, 0, 22),
+									Image = "http://www.roblox.com/asset/?id=7827504335",
+									ImageTransparency = 1,
+								}, UDim.new(0, 5)),
+							}, UDim.new(0, 5))
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Functions
+
+					function Toggle:Set(bool, instant)
+						Tab.Flags[Toggle.Flag] = bool
+
+						tween(Toggle.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+						tween(Toggle.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+					
+						pcall(task.spawn, Toggle.Callback, bool)
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Toggle
+					Tab.Flags[Toggle.Flag] = options.default == true
+					Toggle.Frame.Parent = SubSection.Frame.Holder.List
+
+					Toggle.Frame.Holder.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							Toggle:Set(not Tab.Flags[Toggle.Flag], false)
+						end
+					end)
+
+					Toggle:Set(options.default == true, true)
+
+					return Toggle
+				end
+
+				-- Label
+
+				function SubSection:AddLabel(name)
+					local Label = {
+						Name = name,
+						Type = "Label",
+					}
+
+					Label.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 22),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								AnchorPoint = Vector2.new(0, 0.5),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 2, 0.5, 0),
+								Size = UDim2.new(1, -4, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+							}),
+						}, UDim.new(0, 5))
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Label
+					Label.Label = Label.Frame.Holder.Label
+					Label.Frame.Parent = SubSection.Frame.Holder.List
+
+					return Label
+				end
+
+				-- DualLabel
+
+				function SubSection:AddDualLabel(options)
+					options = options or {}
+					
+					local DualLabel = {
+						Name = options[1].. " ".. options[2],
+						Type = "DualLabel",
+					}
+
+					DualLabel.Frame = SelfModules.UI.Create("Frame", {
+						Name = options[1].. " ".. options[2],
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 22),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label1",
+								AnchorPoint = Vector2.new(0, 0.5),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0.5, 0),
+								Size = UDim2.new(0.5, -5, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = options[1],
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label2",
+								AnchorPoint = Vector2.new(0, 0.5),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0.5, 0, 0.5, 0),
+								Size = UDim2.new(0.5, -5, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = options[2],
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Right,
+							}),
+						}, UDim.new(0, 5))
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = DualLabel
+					DualLabel.Label1 = DualLabel.Frame.Holder.Label1
+					DualLabel.Label2 = DualLabel.Frame.Holder.Label2
+					DualLabel.Frame.Parent = SubSection.Frame.Holder.List
+
+					return DualLabel
+				end
+
+				-- ClipboardLabel
+
+				function SubSection:AddClipboardLabel(name, callback)
+					local ClipboardLabel = {
+						Name = name,
+						Type = "ClipboardLabel",
+						Callback = callback,
+					}
+
+					ClipboardLabel.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 22),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								AnchorPoint = Vector2.new(0, 0.5),
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 2, 0.5, 0),
+								Size = UDim2.new(1, -22, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+							}),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Icon",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(1, -18, 0, 2),
+								Size = UDim2.new(0, 16, 0, 16),
+								Image = "rbxassetid://9243581053",
+							}),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = ClipboardLabel
+					ClipboardLabel.Label = ClipboardLabel.Frame.Holder.Label
+					ClipboardLabel.Frame.Parent = SubSection.Frame.Holder.List
+
+					ClipboardLabel.Frame.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							local s, result = pcall(ClipboardLabel.Callback)
+
+							if s then
+								setclipboard(result)
+							end
+						end
+					end)
+
+					return ClipboardLabel
+				end
+
+				-- Box
+
+				function SubSection:AddBox(name, options, callback)
+					local Box = {
+						Name = name,
+						Type = "Box",
+						Callback = callback,
+					}
+
+					Box.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 32),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0.5, -7),
+								Size = UDim2.new(1, -135, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "TextBox",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundColor3 = Library.Theme.SectionColor,
+								Position = UDim2.new(1, -2, 0, 2),
+								Size = UDim2.new(0, 140, 1, -4),
+								ZIndex = 2,
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Holder",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(5, 5, 5)),
+									Position = UDim2.new(0, 1, 0, 1),
+									Size = UDim2.new(1, -2, 1, -2),
+									ZIndex = 2,
+
+									SelfModules.UI.Create("TextBox", {
+										Name = "Box",
+										AnchorPoint = Vector2.new(0, 0.5),
+										BackgroundTransparency = 1,
+										ClearTextOnFocus = options.clearonfocus ~= true,
+										Position = UDim2.new(0, 28, 0.5, 0),
+										Size = UDim2.new(1, -30, 1, 0),
+										Font = Enum.Font.SourceSans,
+										PlaceholderText = "Text",
+										Text = "",
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 14,
+										TextWrapped = true,
+									}),
+
+									SelfModules.UI.Create("TextLabel", {
+										Name = "Icon",
+										AnchorPoint = Vector2.new(0, 0.5),
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0, 6, 0.5, 0),
+										Size = UDim2.new(0, 14, 0, 14),
+										Font = Enum.Font.SourceSansBold,
+										Text = "T",
+										TextColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(40, 40, 40)),
+										TextSize = 18,
+										TextWrapped = true,
+									}),
+								}, UDim.new(0, 5)),
+							}, UDim.new(0, 5))
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Functions
+
+					local function extendBox(bool)
+						tween(Box.Frame.Holder.TextBox, 0.25, { Size = UDim2.new(0, bool and 200 or 140, 1, -4) })
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Box
+					Box.Box = Box.Frame.Holder.TextBox.Holder.Box
+					Box.Frame.Parent = SubSection.Frame.Holder.List
+
+					Box.Frame.Holder.TextBox.Holder.MouseEnter:Connect(function()
+						extendBox(true)
+					end)
+
+					Box.Frame.Holder.TextBox.Holder.MouseLeave:Connect(function()
+						if Box.Frame.Holder.TextBox.Holder.Box:IsFocused() == false then
+							extendBox(false)
+						end
+					end)
+
+					Box.Frame.Holder.TextBox.Holder.Box.FocusLost:Connect(function()
+						if Box.Frame.Holder.TextBox.Holder.Box.Text == "" and options.fireonempty ~= true then
+							return
+						end
+
+						extendBox(false)
+						pcall(task.spawn, Box.Callback, Box.Frame.Holder.TextBox.Holder.Box.Text)
+					end)
+
+					return Box
+				end
+
+				-- Bind
+
+				function SubSection:AddBind(name, bind, options, callback)
+					local Bind = {
+						Name = name,
+						Type = "Bind",
+						Bind = bind,
+						Flag = options.flag or name,
+						Callback = callback,
+					}
+
+					Bind.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 32),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0.5, -7),
+								Size = UDim2.new(1, -135, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Bind",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+								Position = UDim2.new(1, options.toggleable == true and -44 or -2, 0, 2),
+								Size = UDim2.new(0, 78, 0, 26),
+								ZIndex = 2,
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Label",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+									Position = UDim2.new(0, 1, 0, 1),
+									Size = UDim2.new(1, -2, 1, -2),
+									Font = Enum.Font.SourceSans,
+									Text = "",
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+								}, UDim.new(0, 5)),
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Variables
+
+					local indicatorEntered = false
+					local connections = {}
+
+					-- Functions
+
+					local function listenForInput()
+						if connections.listen then
+							connections.listen:Disconnect()
+						end
+
+						Bind.Frame.Holder.Bind.Label.Text = "..."
+						ListenForInput = true
+
+						connections.listen = UIS.InputBegan:Connect(function(input, gameProcessed)
+							if not gameProcessed and input.UserInputType == Enum.UserInputType.Keyboard then
+								Bind:Set(input.KeyCode)
+							end
+						end)
+					end
+
+					local function cancelListen()
+						if connections.listen then
+							connections.listen:Disconnect(); connections.listen = nil
+						end
+
+						Bind.Frame.Holder.Bind.Label.Text = Bind.Bind.Name
+						task.spawn(function() RS.RenderStepped:Wait(); ListenForInput = false end)
+					end
+
+					function Bind:Set(bind)
+						Bind.Bind = bind
+						Bind.Frame.Holder.Bind.Label.Text = bind.Name
+						Bind.Frame.Holder.Bind.Size = UDim2.new(0, math.max(12 + math.round(TXS:GetTextSize(bind.Name, 14, Enum.Font.SourceSans, Vector2.new(9e9)).X + 0.5), 42), 0, 26)
+						
+						if connections.listen then
+							cancelListen()
+						end
+					end
+
+					if options.toggleable == true then
+						function Bind:Toggle(bool, instant)
+							Tab.Flags[Bind.Flag] = bool
+
+							tween(Bind.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+							tween(Bind.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+
+							if options.fireontoggle ~= false then
+								pcall(task.spawn, Bind.Callback, Bind.Bind)
+							end
+						end
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Bind
+					Bind.Frame.Parent = SubSection.Frame.Holder.List
+
+					Bind.Frame.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							if indicatorEntered == true then
+								Bind:Toggle(not Tab.Flags[Bind.Flag], false)
+							else
+								listenForInput()
+							end
+						end
+					end)
+
+					UIS.InputBegan:Connect(function(input)
+						if input.KeyCode == Bind.Bind then
+							if options.toggleable == true and Tab.Flags[Bind.Flag] == false then
+								return
+							end
+
+							pcall(task.spawn, Bind.Callback, Bind.Bind)
+						end
+					end)
+
+					if options.toggleable == true then
+						local indicator = SelfModules.UI.Create("Frame", {
+							Name = "Indicator",
+							AnchorPoint = Vector2.new(1, 0),
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+							Position = UDim2.new(1, -2, 0, 2),
+							Size = UDim2.new(0, 40, 0, 26),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Overlay",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+								Position = UDim2.new(0, 2, 0, 2),
+								Size = UDim2.new(0, 22, 0, 22),
+								Image = "http://www.roblox.com/asset/?id=7827504335",
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5))
+
+						-- Scripts
+
+						Tab.Flags[Bind.Flag] = options.default == true
+						indicator.Parent = Bind.Frame.Holder
+
+						Bind.Frame.Holder.Indicator.MouseEnter:Connect(function()
+							indicatorEntered = true
+						end)
+
+						Bind.Frame.Holder.Indicator.MouseLeave:Connect(function()
+							indicatorEntered = false
+						end)
+
+						Bind:Toggle(options.default == true, true)
+					end
+
+					Bind:Set(Bind.Bind)
+
+					return Bind
+				end
+
+				-- Slider
+
+				function SubSection:AddSlider(name, min, max, default, options, callback)
+					local Slider = {
+						Name = name,
+						Type = "Slider",
+						Value = default,
+						Flag = options.flag or name,
+						Callback = callback,
+					}
+					
+					Slider.Frame = SelfModules.UI.Create("Frame", {
+						Name = name,
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 41),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("TextLabel", {
+								Name = "Label",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 0, 5),
+								Size = UDim2.new(1, -75, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Left,
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Slider",
+								BackgroundTransparency = 1,
+								Position = UDim2.new(0, 5, 1, -15),
+								Size = UDim2.new(1, -10, 0, 10),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Bar",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+									ClipsDescendants = true,
+									Size = UDim2.new(1, 0, 1, 0),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Fill",
+										BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)),
+										Size = UDim2.new(0.5, 0, 1, 0),
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Point",
+									AnchorPoint = Vector2.new(0.5, 0.5),
+									BackgroundColor3 = Library.Theme.Accent,
+									Position = UDim2.new(0.5, 0, 0.5, 0),
+									Size = UDim2.new(0, 12, 0, 12),
+								}, UDim.new(0, 5)),
+							}),
+
+							SelfModules.UI.Create("TextBox", {
+								Name = "Input",
+								AnchorPoint = Vector2.new(1, 0),
+								BackgroundTransparency = 1,
+								PlaceholderText = "...",
+								Position = UDim2.new(1, -5, 0, 5),
+								Size = UDim2.new(0, 60, 0, 14),
+								Font = Enum.Font.SourceSans,
+								Text = "",
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+								TextXAlignment = Enum.TextXAlignment.Right,
+							}),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Variables
+
+					local connections = {}
+
+					-- Functions
+
+					local function getSliderValue(val)
+						val = math.clamp(val, min, max)
+
+						if options.rounded == true then
+							val = math.floor(val)
+						end
+
+						return val
+					end
+
+					local function sliderVisual(val)
+						val = getSliderValue(val)
+
+						Slider.Frame.Holder.Input.Text = val
+
+						local valuePercent = 1 - ((max - val) / (max - min))
+						local pointPadding = 1 / Slider.Frame.Holder.Slider.AbsoluteSize.X * 5
+						tween(Slider.Frame.Holder.Slider.Bar.Fill, 0.25, { Size = UDim2.new(valuePercent, 0, 1, 0) })
+						tween(Slider.Frame.Holder.Slider.Point, 0.25, { Position = UDim2.fromScale(math.clamp(valuePercent, pointPadding, 1 - pointPadding), 0.5) })
+					end
+
+					function Slider:Set(val)
+						val = getSliderValue(val)
+						Slider.Value = val
+						sliderVisual(val)
+
+						if options.toggleable == true and Tab.Flags[Slider.Flag] == false then
+							return
+						end
+	
+						pcall(task.spawn, Slider.Callback, val, Tab.Flags[Slider.Flag] or nil)
+					end
+
+					if options.toggleable == true then
+						function Slider:Toggle(bool, instant)
+							Tab.Flags[Slider.Flag] = bool
+
+							tween(Slider.Frame.Holder.Indicator.Overlay, instant and 0 or 0.25, { ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+							tween(Slider.Frame.Holder.Indicator.Overlay, "Cosmetic", instant and 0 or 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+						
+							if options.fireontoggle ~= false then
+								pcall(task.spawn, Slider.Callback, Slider.Value, bool)
+							end
+						end
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Slider
+					Slider.Frame.Parent = SubSection.Frame.Holder.List
+
+					Slider.Frame.Holder.Slider.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+
+							connections.move = Mouse.Move:Connect(function()
+								local sliderPercent = math.clamp((Mouse.X - Slider.Frame.Holder.Slider.AbsolutePosition.X) / Slider.Frame.Holder.Slider.AbsoluteSize.X, 0, 1)
+								local sliderValue = math.floor((min + sliderPercent * (max - min)) * 10) / 10
+
+								if options.fireondrag ~= false then
+									Slider:Set(sliderValue)
+								else
+									sliderVisual(sliderValue)
+								end
+							end)
+
+						end
+					end)
+
+					Slider.Frame.Holder.Slider.InputEnded:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							connections.move:Disconnect()
+							connections.move = nil
+
+							if options.fireondrag ~= true then
+								local sliderPercent = math.clamp((Mouse.X - Slider.Frame.Holder.Slider.AbsolutePosition.X) / Slider.Frame.Holder.Slider.AbsoluteSize.X, 0, 1)
+								local sliderValue = math.floor((min + sliderPercent * (max - min)) * 10) / 10
+
+								Slider:Set(sliderValue)
+							end
+						end
+					end)
+
+					Slider.Frame.Holder.Input.FocusLost:Connect(function()
+						Slider.Frame.Holder.Input.Text = string.sub(Slider.Frame.Holder.Input.Text, 1, 10)
+
+						if tonumber(Slider.Frame.Holder.Input.Text) then
+							Slider:Set(Slider.Frame.Holder.Input.Text)
+						end
+					end)
+
+					if options.toggleable == true then
+						local indicator = SelfModules.UI.Create("Frame", {
+							Name = "Indicator",
+							AnchorPoint = Vector2.new(1, 1),
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+							Position = UDim2.new(1, -2, 1, -2),
+							Size = UDim2.new(0, 40, 0, 26),
+
+							SelfModules.UI.Create("ImageLabel", {
+								Name = "Overlay",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+								Position = UDim2.new(0, 2, 0, 2),
+								Size = UDim2.new(0, 22, 0, 22),
+								Image = "http://www.roblox.com/asset/?id=7827504335",
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5))
+
+						-- Scripts
+
+						Tab.Flags[Slider.Flag] = options.default == true
+						Slider.Frame.Size = UDim2.new(1, 2, 0, 54)
+						Slider.Frame.Holder.Slider.Size = UDim2.new(1, -50, 0, 10)
+						indicator.Parent = Slider.Frame.Holder
+
+						Slider.Frame.Holder.Indicator.InputBegan:Connect(function(input)
+							if input.UserInputType == Enum.UserInputType.MouseButton1 then
+								Slider:Toggle(not Tab.Flags[Slider.Flag], false)
+							end
+						end)
+
+						Slider:Toggle(options.default == true, true)
+					end
+
+					Slider:Set(Slider.Value)
+
+					return Slider
+				end
+
+				-- Dropdown
+
+				function SubSection:AddDropdown(name, list, options, callback)
+					local Dropdown = {
+						Name = name,
+						Type = "Dropdown",
+						Toggled = false,
+						Selected = "",
+						List = {},
+						Callback = callback,
+					}
+
+					local ListObjects = {}
+
+					Dropdown.Frame = SelfModules.UI.Create("Frame", {
+						Name = "Dropdown",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						Size = UDim2.new(1, 2, 0, 42),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Holder",
+								BackgroundTransparency = 1,
+								Size = UDim2.new(1, 0, 0, 40),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Displays",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 5, 0, 8),
+									Size = UDim2.new(1, -35, 0, 14),
+
+									SelfModules.UI.Create("TextLabel", {
+										Name = "Label",
+										BackgroundTransparency = 1,
+										Size = UDim2.new(0.5, 0, 1, 0),
+										Font = Enum.Font.SourceSans,
+										Text = name,
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 14,
+										TextWrapped = true,
+										TextXAlignment = Enum.TextXAlignment.Left,
+									}),
+
+									SelfModules.UI.Create("TextLabel", {
+										Name = "Selected",
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0.5, 0, 0, 0),
+										Size = UDim2.new(0.5, 0, 1, 0),
+										Font = Enum.Font.SourceSans,
+										Text = "",
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 14,
+										TextWrapped = true,
+										TextXAlignment = Enum.TextXAlignment.Right,
+									}),
+								}),
+
+								SelfModules.UI.Create("ImageLabel", {
+									Name = "Indicator",
+									AnchorPoint = Vector2.new(1, 0),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(1, -5, 0, 5),
+									Size = UDim2.new(0, 20, 0, 20),
+									Image = "rbxassetid://9243354333",
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Line",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+									BorderSizePixel = 0,
+									Position = UDim2.new(0, 5, 0, 30),
+									Size = UDim2.new(1, -10, 0, 2),
+								}),
+							}, UDim.new(0, 5)),
+
+							SelfModules.UI.Create("ScrollingFrame", {
+								Name = "List",
+								Active = true,
+								BackgroundTransparency = 1,
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 5, 0, 40),
+								Size = UDim2.new(1, -10, 1, -40),
+								CanvasSize = UDim2.new(0, 0, 0, 0),
+								ScrollBarImageColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+								ScrollBarThickness = 5,
+
+								SelfModules.UI.Create("UIListLayout", {
+									SortOrder = Enum.SortOrder.LayoutOrder,
+									Padding = UDim.new(0, 5),
+								}),
+							}),
+						}, UDim.new(0,5)),
+					}, UDim.new(0, 5))
+
+					-- Functions
+
+					function Dropdown:GetHeight()
+						return 42 + (Dropdown.Toggled == true and math.min(#Dropdown.List, 5) * 27 or 0)
+					end
+
+					function Dropdown:UpdateHeight()
+						Dropdown.Frame.Holder.List.CanvasSize = UDim2.new(0, 0, 0, #Dropdown.List * 27 - 5)
+						
+						if Dropdown.Toggled == true then
+							Dropdown.Frame.Size = UDim2.new(1, 2, 0, Dropdown:GetHeight())
+							SubSection:UpdateHeight()
+						end
+					end
+
+					function Dropdown:Add(name, options, callback)
+						local Item = {
+							Name = name,
+							Callback = callback,
+						}
+	
+						Item.Frame = SelfModules.UI.Create("Frame", {
+							Name = name,
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+							Size = UDim2.new(1, -10, 0, 22),
+	
+							SelfModules.UI.Create("TextButton", {
+								Name = "Button",
+								BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+								Position = UDim2.new(0, 1, 0, 1),
+								Size = UDim2.new(1, -2, 1, -2),
+								Font = Enum.Font.SourceSans,
+								Text = name,
+								TextColor3 = Library.Theme.TextColor,
+								TextSize = 14,
+								TextWrapped = true,
+							}, UDim.new(0, 5)),
+						}, UDim.new(0, 5))
+	
+						-- Scripts
+	
+						Dropdown.List[#Dropdown.List + 1] = name
+						ListObjects[#ListObjects + 1] = Item
+						Item.Frame.Parent = Dropdown.Frame.Holder.List
+	
+						if Dropdown.Toggled == true then
+							Dropdown:UpdateHeight()
+						end
+	
+						Item.Frame.Button.Activated:Connect(function()
+							if typeof(Item.Callback) == "function" then
+								pcall(task.spawn, Item.Callback)
+							else
+								Dropdown:Select(Item.Name)
+							end
+						end)
+	
+						return Item
+					end
+	
+					function Dropdown:Remove(name, ignoreToggle)
+						for i, v in next, Dropdown.List do
+							if v == name then
+								local item = ListObjects[i]
+	
+								if item then
+									item.Frame:Destroy()
+									table.remove(Dropdown.List, i)
+									table.remove(ListObjects, i)
+	
+									if Dropdown.Toggled then
+										Dropdown:UpdateHeight()
+									end
+									
+									if #Dropdown.List == 0 and not ignoreToggle then
+										Dropdown:Toggle(false)
+									end
+								end
+	
+								break
+							end
+						end
+					end
+	
+					function Dropdown:ClearList()
+						for _ = 1, #Dropdown.List, 1 do
+							Dropdown:Remove(Dropdown.List[1], true)
+						end
+					end
+
+					function Dropdown:SetList(list)
+						Dropdown:ClearList()
+	
+						for _, v in next, list do
+							Dropdown:Add(v)
+						end
+					end
+
+					function Dropdown:Select(itemName)
+						Dropdown.Selected = itemName
+						Dropdown.Frame.Holder.Holder.Displays.Selected.Text = itemName
+						Dropdown:Toggle(false)
+
+						pcall(task.spawn, Dropdown.Callback, itemName)
+					end
+
+					function Dropdown:Toggle(bool)
+						Dropdown.Toggled = bool
+
+						tween(Dropdown.Frame, 0.5, { Size = UDim2.new(1, 2, 0, Dropdown:GetHeight()) })
+						tween(Dropdown.Frame.Holder.Holder.Indicator, 0.5, { Rotation = bool and 90 or 0 })
+						tween(SubSection.Frame, 0.5, { Size = UDim2.new(1, 2, 0, SubSection:GetHeight()) })
+						tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+						tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Dropdown
+					Dropdown.Frame.Parent = SubSection.Frame.Holder.List
+					
+					Dropdown.Frame.Holder.List.ChildAdded:Connect(function(c)
+						if c.ClassName == "Frame" then
+							Dropdown:UpdateHeight()
+						end
+					end)
+					
+					Dropdown.Frame.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 and #Dropdown.List > 0 and Mouse.Y - Dropdown.Frame.AbsolutePosition.Y <= 30 then
+							Dropdown:Toggle(not Dropdown.Toggled)
+						end
+					end)
+
+					for i, v in next, list do
+						Dropdown:Add(v)
+					end
+
+					if typeof(options.default) == "string" then
+						Dropdown:Select(options.default)
+					end
+
+					return Dropdown
+				end
+
+				-- Picker
+
+				function SubSection:AddPicker(name, options, callback)
+					local Picker = {
+						Name = name,
+						Type = "Picker",
+						Toggled = false,
+						Rainbow = false,
+						Callback = callback,
+					}
+
+					local h, s, v = (options.color or Library.Theme.Accent):ToHSV()
+					Picker.Color = { R = h, G = s, B = v }
+
+					Picker.Frame = SelfModules.UI.Create("Frame", {
+						Name = "ColorPicker",
+						BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+						ClipsDescendants = true,
+						Size = UDim2.new(1, 2, 0, 42),
+
+						SelfModules.UI.Create("Frame", {
+							Name = "Holder",
+							BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+							ClipsDescendants = true,
+							Position = UDim2.new(0, 1, 0, 1),
+							Size = UDim2.new(1, -2, 1, -2),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Top",
+								BackgroundTransparency = 1,
+								Size = UDim2.new(1, 0, 0, 40),
+
+								SelfModules.UI.Create("TextLabel", {
+									Name = "Label",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(0, 5, 0, 8),
+									Size = UDim2.new(0.5, -15, 0, 14),
+									Font = Enum.Font.SourceSans,
+									Text = name,
+									TextColor3 = Library.Theme.TextColor,
+									TextSize = 14,
+									TextWrapped = true,
+									TextXAlignment = Enum.TextXAlignment.Left,
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Selected",
+									AnchorPoint = Vector2.new(1, 0),
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+									Position = UDim2.new(1, -29, 0, 2),
+									Size = UDim2.new(0, 100, 0, 26),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Preview",
+										BackgroundColor3 = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B),
+										Position = UDim2.new(0, 1, 0, 1),
+										Size = UDim2.new(1, -2, 1, -2),
+									}, UDim.new(0, 5)),
+
+									SelfModules.UI.Create("TextLabel", {
+										Name = "Display",
+										AnchorPoint = Vector2.new(0, 0.5),
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0, 0, 0.5, 0),
+										Size = UDim2.new(1, 0, 0, 16),
+										Font = Enum.Font.SourceSans,
+										Text = "",
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 16,
+										TextStrokeColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+										TextStrokeTransparency = 0.5,
+									}),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("ImageLabel", {
+									Name = "Indicator",
+									AnchorPoint = Vector2.new(1, 0),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(1, -5, 0, 5),
+									Size = UDim2.new(0, 20, 0, 20),
+									Image = "rbxassetid://9243354333",
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Line",
+									BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+									BorderSizePixel = 0,
+									Position = UDim2.new(0, 5, 0, 30),
+									Size = UDim2.new(1, -10, 0, 2),
+								}),
+							}),
+
+							SelfModules.UI.Create("Frame", {
+								Name = "Holder",
+								Active = true,
+								BackgroundTransparency = 1,
+								BorderSizePixel = 0,
+								Position = UDim2.new(0, 0, 0, 40),
+								Size = UDim2.new(1, 0, 1, -40),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Palette",
+									BackgroundTransparency = 1,
+									BorderSizePixel = 0,
+									Position = UDim2.new(0, 5, 0, 5),
+									Size = UDim2.new(1, -196, 0, 110),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Point",
+										AnchorPoint = Vector2.new(0.5, 0.5),
+										BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+										Position = UDim2.new(1, 0, 0, 0),
+										Size = UDim2.new(0, 7, 0, 7),
+										ZIndex = 2,
+
+										SelfModules.UI.Create("Frame", {
+											Name = "Inner",
+											BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+											Position = UDim2.new(0, 1, 0, 1),
+											Size = UDim2.new(1, -2, 1, -2),
+											ZIndex = 2,
+										}, UDim.new(1, 0)),
+									}, UDim.new(1, 0)),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Hue",
+										BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+										BorderSizePixel = 0,
+										Size = UDim2.new(1, 0, 1, 0),
+
+										SelfModules.UI.Create("UIGradient", {
+											Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B))},
+										}),
+									}, UDim.new(0, 5)),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "SatVal",
+										BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+										BorderSizePixel = 0,
+										Size = UDim2.new(1, 0, 1, 0),
+										ZIndex = 2,
+
+										SelfModules.UI.Create("UIGradient", {
+											Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))},
+											Rotation = 90,
+											Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(1.00, 0.00)},
+										}),
+									}, UDim.new(0, 5)),
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "HueSlider",
+									BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+									BorderSizePixel = 0,
+									Position = UDim2.new(0, 5, 0, 125),
+									Size = UDim2.new(1, -10, 0, 20),
+
+									SelfModules.UI.Create("UIGradient", {
+										Color = ColorSequence.new{
+											ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+											ColorSequenceKeypoint.new(0.16666, Color3.fromRGB(255, 255, 0)),
+											ColorSequenceKeypoint.new(0.33333, Color3.fromRGB(0, 255, 0)),
+											ColorSequenceKeypoint.new(0.5, Color3.fromRGB(0, 255, 255)),
+											ColorSequenceKeypoint.new(0.66667, Color3.fromRGB(0, 0, 255)),
+											ColorSequenceKeypoint.new(0.83333, Color3.fromRGB(255, 0, 255)),
+											ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 0, 0))
+										},
+									}),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Bar",
+										AnchorPoint = Vector2.new(0.5, 0.5),
+										BackgroundColor3 = SelfModules.UI.Color.Sub(Library.Theme.SectionColor, Color3.fromRGB(10, 10, 10)),
+										Position = UDim2.new(0.5, 0, 0, 0),
+										Size = UDim2.new(0, 6, 1, 6),
+
+										SelfModules.UI.Create("Frame", {
+											Name = "Inner",
+											BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+											Position = UDim2.new(0, 1, 0, 1),
+											Size = UDim2.new(1, -2, 1, -2),
+										}, UDim.new(0, 5)),
+									}, UDim.new(0, 5)),
+								}, UDim.new(0, 5)),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "RGB",
+									BackgroundTransparency = 1,
+									Position = UDim2.new(1, -180, 0, 5),
+									Size = UDim2.new(0, 75, 0, 110),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Red",
+										BackgroundTransparency = 1,
+										Size = UDim2.new(1, 0, 0, 30),
+
+										SelfModules.UI.Create("TextBox", {
+											Name = "Box",
+											BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+											Size = UDim2.new(1, 0, 1, 0),
+											Font = Enum.Font.SourceSans,
+											PlaceholderText = "R",
+											Text = 255,
+											TextColor3 = Library.Theme.TextColor,
+											TextSize = 16,
+											TextWrapped = true,
+										}, UDim.new(0, 5)),
+									}, UDim.new(0, 5)),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Green",
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0, 0, 0, 40),
+										Size = UDim2.new(1, 0, 0, 30),
+
+										SelfModules.UI.Create("TextBox", {
+											Name = "Box",
+											BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+											Size = UDim2.new(1, 0, 1, 0),
+											Font = Enum.Font.SourceSans,
+											PlaceholderText = "G",
+											Text = 0,
+											TextColor3 = Library.Theme.TextColor,
+											TextSize = 16,
+											TextWrapped = true,
+										}, UDim.new(0, 5)),
+									}, UDim.new(0, 5)),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Blue",
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0, 0, 0, 80),
+										Size = UDim2.new(1, 0, 0, 30),
+
+										SelfModules.UI.Create("TextBox", {
+											Name = "Box",
+											BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(15, 15, 15)),
+											Size = UDim2.new(1, 0, 1, 0),
+											Font = Enum.Font.SourceSans,
+											PlaceholderText = "B",
+											Text = 0,
+											TextColor3 = Library.Theme.TextColor,
+											TextSize = 16,
+											TextWrapped = true,
+										}, UDim.new(0, 5)),
+									}, UDim.new(0, 5)),
+								}),
+
+								SelfModules.UI.Create("Frame", {
+									Name = "Rainbow",
+									AnchorPoint = Vector2.new(1, 0),
+									BackgroundTransparency = 1,
+									Position = UDim2.new(1, -5, 0, 87),
+									Size = UDim2.new(0, 90, 0, 26),
+
+									SelfModules.UI.Create("TextLabel", {
+										Name = "Label",
+										AnchorPoint = Vector2.new(0, 0.5),
+										BackgroundTransparency = 1,
+										Position = UDim2.new(0, 47, 0.5, 0),
+										Size = UDim2.new(1, -47, 0, 14),
+										Font = Enum.Font.SourceSans,
+										Text = "Rainbow",
+										TextColor3 = Library.Theme.TextColor,
+										TextSize = 14,
+										TextWrapped = true,
+										TextXAlignment = Enum.TextXAlignment.Left,
+									}),
+
+									SelfModules.UI.Create("Frame", {
+										Name = "Indicator",
+										BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(20, 20, 20)),
+										Size = UDim2.new(0, 40, 0, 26),
+
+										SelfModules.UI.Create("ImageLabel", {
+											Name = "Overlay",
+											BackgroundColor3 = SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)),
+											Position = UDim2.new(0, 2, 0, 2),
+											Size = UDim2.new(0, 22, 0, 22),
+											Image = "http://www.roblox.com/asset/?id=7827504335",
+											ImageTransparency = 1,
+										}, UDim.new(0, 5)),
+									}, UDim.new(0, 5)),
+								})
+							}),
+						}, UDim.new(0, 5)),
+					}, UDim.new(0, 5))
+
+					-- Variables
+
+					local hueDragging, satDragging = false, false
+
+					-- Functions
+
+					function Picker:GetHeight()
+						return Picker.Toggled == true and 192 or 42
+					end
+
+					function Picker:Toggle(bool)
+						Picker.Toggled = bool
+
+						tween(Picker.Frame, 0.5, { Size = UDim2.new(1, 2, 0, Picker:GetHeight()) })
+						tween(Picker.Frame.Holder.Top.Indicator, 0.5, { Rotation = bool and 90 or 0 })
+
+						tween(SubSection.Frame, 0.5, { Size = UDim2.new(1, 2, 0, SubSection:GetHeight()) })
+						tween(Section.Frame, 0.5, { Size = UDim2.new(1, -10, 0, Section:GetHeight()) })
+						tween(Tab.Frame, 0.5, { CanvasSize = UDim2.new(0, 0, 0, Tab:GetHeight()) })
+					end
+
+					function Picker:ToggleRainbow(bool)
+						Picker.Rainbow = bool
+
+						tween(Picker.Frame.Holder.Holder.Rainbow.Indicator.Overlay, 0.25, {ImageTransparency = bool and 0 or 1, Position = bool and UDim2.new(1, -24, 0, 2) or UDim2.new(0, 2, 0, 2) })
+						tween(Picker.Frame.Holder.Holder.Rainbow.Indicator.Overlay, "Cosmetic", 0.25, { BackgroundColor3 = bool and SelfModules.UI.Color.Add(Library.Theme.Accent, Color3.fromRGB(50, 50, 50)) or SelfModules.UI.Color.Add(Library.Theme.SectionColor, Color3.fromRGB(25, 25, 25)) })
+
+						if bool then
+							if not Storage.Connections[Picker] then
+								Storage.Connections[Picker] = {}
+							end
+
+							Storage.Connections[Picker].Rainbow = RS.Heartbeat:Connect(function()
+								Picker:Set(tick() % 5 / 5, Picker.Color.G, Picker.Color.B)
+							end)
+
+						elseif Storage.Connections[Picker] then
+							Storage.Connections[Picker].Rainbow:Disconnect()
+							Storage.Connections[Picker].Rainbow = nil
+						end
+					end
+
+					function Picker:Set(h, s, v)
+						Picker.Color.R, Picker.Color.G, Picker.Color.B = h, s, v
+
+						local color = Color3.fromHSV(h, s, v)
+						Picker.Frame.Holder.Holder.Palette.Hue.UIGradient.Color = ColorSequence.new(Color3.new(1, 1, 1), Color3.fromHSV(h, 1, 1))
+						Picker.Frame.Holder.Top.Selected.Preview.BackgroundColor3 = color
+						Picker.Frame.Holder.Top.Selected.Display.Text = string.format("%d, %d, %d", math.floor(color.R * 255 + 0.5), math.floor(color.G * 255 + 0.5), math.floor(color.B * 255 + 0.5))
+						Picker.Frame.Holder.Top.Selected.Size = UDim2.new(0, math.round(TXS:GetTextSize(Picker.Frame.Holder.Top.Selected.Display.Text, 16, Enum.Font.SourceSans, Vector2.new(9e9)).X + 0.5) + 20, 0, 26)
+
+						Picker.Frame.Holder.Holder.RGB.Red.Box.Text = math.floor(color.R * 255 + 0.5)
+						Picker.Frame.Holder.Holder.RGB.Green.Box.Text = math.floor(color.G * 255 + 0.5)
+						Picker.Frame.Holder.Holder.RGB.Blue.Box.Text = math.floor(color.B * 255 + 0.5)
+
+						tween(Picker.Frame.Holder.Holder.HueSlider.Bar, 0.1, { Position = UDim2.new(h, 0, 0.5, 0) })
+						tween(Picker.Frame.Holder.Holder.Palette.Point, 0.1, { Position = UDim2.new(s, 0, 1 - v, 0) })
+
+						pcall(task.spawn, Picker.Callback, color)
+					end
+
+					-- Scripts
+
+					SubSection.List[#SubSection.List + 1] = Picker
+					Picker.Frame.Parent = SubSection.Frame.Holder.List
+
+					Picker.Frame.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 and Mouse.Y - Picker.Frame.AbsolutePosition.Y <= 30 then
+							Picker:Toggle(not Picker.Toggled)
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.HueSlider.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							hueDragging = true
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.HueSlider.InputEnded:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							hueDragging = false
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.Palette.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							satDragging = true
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.Palette.InputEnded:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							satDragging = false
+						end
+					end)
+
+					Mouse.Move:Connect(function()
+						if hueDragging and not Picker.Rainbow then
+							Picker:Set(math.clamp((Mouse.X - Picker.Frame.Holder.Holder.HueSlider.AbsolutePosition.X) / Picker.Frame.Holder.Holder.HueSlider.AbsoluteSize.X, 0, 1), Picker.Color.G, Picker.Color.B)
+
+						elseif satDragging then
+							Picker:Set(Picker.Color.R, math.clamp((Mouse.X - Picker.Frame.Holder.Holder.Palette.AbsolutePosition.X) / Picker.Frame.Holder.Holder.Palette.AbsoluteSize.X, 0, 1), 1 - math.clamp((Mouse.Y - Picker.Frame.Holder.Holder.Palette.AbsolutePosition.Y) / Picker.Frame.Holder.Holder.Palette.AbsoluteSize.Y, 0, 1))
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.RGB.Red.Box.FocusLost:Connect(function()
+						local num = tonumber(Picker.Frame.Holder.Holder.RGB.Red.Box.Text)
+						local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+						if num then
+							Picker:Set(Color3.new(math.clamp(math.floor(num), 0, 255) / 255, color.G, color.B):ToHSV())
+						else
+							Picker.Frame.Holder.Holder.RGB.Red.Box.Text = math.floor(color.R * 255 + 0.5)
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.RGB.Green.Box.FocusLost:Connect(function()
+						local num = tonumber(Picker.Frame.Holder.Holder.RGB.Green.Box.Text)
+						local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+						if num then
+							Picker:Set(Color3.new(color.R, math.clamp(math.floor(num), 0, 255) / 255, color.B):ToHSV() )
+						else
+							Picker.Frame.Holder.Holder.RGB.Green.Box.Text = math.floor(color.B * 255 + 0.5)
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.RGB.Blue.Box.FocusLost:Connect(function()
+						local num = tonumber(Picker.Frame.Holder.Holder.RGB.Blue.Box.Text)
+						local color = Color3.fromHSV(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+						if num then
+							Picker:Set(Color3.new(color.R, color.G, math.clamp(math.floor(num), 0, 255) / 255):ToHSV())
+						else
+							Picker.Frame.Holder.Holder.RGB.Blue.Box.Text = math.floor(color.B * 255 + 0.5)
+						end
+					end)
+
+					Picker.Frame.Holder.Holder.Rainbow.InputBegan:Connect(function(input)
+						if input.UserInputType == Enum.UserInputType.MouseButton1 then
+							Picker:ToggleRainbow(not Picker.Rainbow)
+						end
+					end)
+
+					Picker:Set(Picker.Color.R, Picker.Color.G, Picker.Color.B)
+
+					return Picker
+				end
+
+				-- Scripts
+
+				SubSection.Frame.Holder.List.ChildAdded:Connect(function(c)
+					if c.ClassName == "Frame" then
+						SubSection:UpdateHeight()
+					end
+				end)
+
+				SubSection.Frame.Holder.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 and #SubSection.List > 0 and Window.Sidebar.Frame.AbsoluteSize.X <= 35 and Mouse.Y - SubSection.Frame.AbsolutePosition.Y <= 30 then
+						toggleSubSection(not SubSection.Toggled)
+					end
+				end)
+
+				Section.List[#Section.List + 1] = SubSection
+				SubSection.Frame.Parent = Section.Frame.List
+
+				return SubSection
+			end
+
+			return Section
+		end
+
+		-- Configs
+
+		function Tab:AddConfigs()
+			-- Save
+
+			local Section = self:AddSection("Configs")
+
+			local SaveSection = Section:AddSubSection("Save")
+
+			local SaveName = SaveSection:AddBox("Config Name", {}, function() end)
+
+			SaveSection:AddButton("Save Config", function()
+				if SaveName.Box.Text ~= "" then
+					local fileName = SaveName.Box.Text.. (string.sub(SaveName.Box.Text, #SaveName.Box.Text - 4, #SaveName.Box.Text) ~= ".json" and ".json" or "")
+					local filePath = Library.Settings.ConfigPath.. "/".. fileName
+
+					if isfile(filePath) then
+						Library:Notify({ text = "You already have a config named '".. fileName.. "', do you wish to overwrite it?" }, function(bool)
+							if bool then
+								saveConfig(filePath)
+							end
+						end)
+						
+						return
+					end
+
+					saveConfig(filePath)
+				end
+			end)
+
+			-- Load
+
+			local LoadSection = Section:AddSubSection("Load")
+
+			local LoadName = LoadSection:AddDropdown("Select Config", {}, {}, function() end)
+
+			local RefreshList = LoadSection:AddButton("Refresh List", function()
+				LoadName:ClearList()
+
+				local configs = {}
+
+				for _, v in next, listfiles(Library.Settings.ConfigPath) do
+					if string.find(v, ".json") then
+						local fileName = SelfModules.Directory.GetNameFromDirectory(v)
+
+						configs[#configs + 1] = fileName
+						LoadName:Add(fileName)
+					end
+				end
+
+				return configs
+			end)
+			LoadName:SetList(RefreshList.Callback())
+
+			LoadSection:AddButton("Delete Config", function()
+				local fileName = LoadName.Selected
+
+				if fileName ~= "" then
+					local filePath = Library.Settings.ConfigPath.. "/".. fileName
+
+					Library:Notify({ text = "Are you sure you wish to delete '".. fileName.. "'?" }, function(bool)
+						if bool then
+							delfile(filePath)
+						end
+					end)
+				end
+			end)
+
+			LoadSection:AddButton("Load Config", function()
+				loadConfig(Library.Settings.ConfigPath.. "/".. LoadName.Selected)
+			end)
+
+			task.spawn(function()
+				while true do
+					RefreshList.Callback()
+					
+					task.wait(0.25)
+				end
+			end)
+		end
+
+		return Tab
+	end
+
+	return Window
+end
+
+ScreenGui.Parent = CG
+
+return Library
