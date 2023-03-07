@@ -1,3 +1,16 @@
+print("0%")
+wait(1)
+print("25%")
+wait(1)
+print("50%")
+wait(1)
+print("75%")
+wait(1)
+print("100%")
+wait(1)
+
+
+
 local s = Instance.new("Sound")
 s.Name = "Sound"
 s.SoundId = "http://www.roblox.com/asset/?id=4520789398"
