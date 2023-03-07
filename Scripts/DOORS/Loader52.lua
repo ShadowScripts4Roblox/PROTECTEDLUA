@@ -22,6 +22,5 @@ s.Parent = game.Workspace
 
 wait(0.1)
 s:play()
-wait(0.2)
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/5.2.lua'))()
