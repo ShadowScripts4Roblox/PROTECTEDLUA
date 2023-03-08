@@ -61,6 +61,7 @@ Duration = 2.8; -- how long the notification should in secounds
 })
 
 print("100%")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/5.2.lua'))()
 wait(3)
 
 
@@ -74,7 +75,7 @@ s.archivable = false
 
 s.Parent = game.Workspace
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/5.2.lua'))()
+
 wait(0.1)
 s:play()
 
