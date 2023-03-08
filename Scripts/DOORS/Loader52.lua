@@ -5,7 +5,8 @@ ss.Volume = 100
 ss.Looped = false
 ss.archivable = false
 
-
+wait(0.1)
+ss:play()
 
 
 
