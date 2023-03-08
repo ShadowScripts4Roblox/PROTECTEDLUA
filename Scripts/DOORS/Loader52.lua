@@ -4,6 +4,7 @@ ss.SoundId = "http://www.roblox.com/asset/?id=3320590485"
 ss.Volume = 100
 ss.Looped = false
 ss.archivable = false
+ss.Parent = game.Workspace
 
 wait(0.1)
 ss:play()
