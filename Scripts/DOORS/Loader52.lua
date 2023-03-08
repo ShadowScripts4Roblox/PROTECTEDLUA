@@ -12,26 +12,26 @@ ss:play()
 
 
 print("0%")
-wait(0.1)
+wait(1)
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
 Text = "0%";
 Icon = "rbxassetid://6646175695"; -- the image if u want. 
-Duration = 0.2; -- how long the notification should in secounds
+Duration = 1; -- how long the notification should in secounds
 })
 
-wait(0.2)
+wait(1)
 print("25%")
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
 Text = "25%";
 Icon = "rbxassetid://6646175695"; -- the image if u want. 
-Duration = 0.4; -- how long the notification should in secounds
+Duration = 1; -- how long the notification should in secounds
 })
 
-wait(0.4)
+wait(1)
 print("50%")
 
 game.StarterGui:SetCore("SendNotification", {
@@ -48,10 +48,10 @@ game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
 Text = "75%";
 Icon = "rbxassetid://6646175695"; -- the image if u want. 
-Duration = 0.2; -- how long the notification should in secounds
+Duration = 1; -- how long the notification should in secounds
 })
 
-wait(0.2)
+wait(1)
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
@@ -61,7 +61,7 @@ Duration = 1; -- how long the notification should in secounds
 })
 
 print("100%")
-wait(0.1)
+wait(1)
 
 
 
