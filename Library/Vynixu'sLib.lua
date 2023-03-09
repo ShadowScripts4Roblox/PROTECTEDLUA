@@ -49,7 +49,7 @@ local ListenForInput = false
 local Directory = SelfModules.Directory.Create({
 	["Shadow Scripts"] = {
 		"Configs",
-			"PIGGY",
+		"PIGGY",
 	},
 })
 
