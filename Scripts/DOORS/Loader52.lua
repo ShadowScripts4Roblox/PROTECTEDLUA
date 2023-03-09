@@ -18,20 +18,20 @@ game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
 Text = "0%";
 Icon = "rbxassetid://6646175695"; -- the image if u want. 
-Duration = 2.8; -- how long the notification should in secounds
+Duration = 1; -- how long the notification should in secounds
 })
 
-wait(3)
+
 print("25%")
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
 Text = "25%";
 Icon = "rbxassetid://6646175695"; -- the image if u want. 
-Duration = 2.8; -- how long the notification should in secounds
+Duration = 2; -- how long the notification should in secounds
 })
 
-wait(3)
+wait(1)
 print("50%")
 
 game.StarterGui:SetCore("SendNotification", {
@@ -41,7 +41,7 @@ Icon = "rbxassetid://6646175695"; -- the image if u want.
 Duration = 2.8; -- how long the notification should in secounds
 })
 
-wait(3)
+wait(0.3)
 print("75%")
 
 game.StarterGui:SetCore("SendNotification", {
@@ -51,7 +51,7 @@ Icon = "rbxassetid://6646175695"; -- the image if u want.
 Duration = 2.8; -- how long the notification should in secounds
 })
 
-wait(3)
+wait(0.4)
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Shadow Scripts - DOORS";
@@ -61,7 +61,7 @@ Duration = 2.8; -- how long the notification should in secounds
 })
 
 print("100%")
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/5.2.lua'))()
+
 wait(3)
 
 
@@ -79,4 +79,4 @@ s.Parent = game.Workspace
 wait(0.1)
 s:play()
 
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/5.2.lua'))()
