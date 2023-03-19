@@ -51,6 +51,7 @@ local Directory = SelfModules.Directory.Create({
 		"Configs",
 		"PIGGY",
 		"APEIROPHOBIA",
+		"FNAFCOOP",
 	},
 })
 
