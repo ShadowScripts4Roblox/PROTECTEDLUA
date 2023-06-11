@@ -1,8 +1,6 @@
-local KeysTable = {
+local KeysTable = "DxTE5H6X86Ma"
 
-     RainbowFriendsKey = "DxTE5H6X86Ma"
 
-}
 
 return KeysTable
-return RainbowFriendsKey
+
