@@ -5,3 +5,4 @@ local KeysTable = {
 }
 
 return KeysTable
+return RainbowFriendsKey
