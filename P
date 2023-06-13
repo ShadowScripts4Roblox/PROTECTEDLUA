@@ -1,0 +1,2 @@
+local PremiumUsers = {1239123, 12498124, 12083723}
+return PremiumUsers
